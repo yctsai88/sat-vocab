@@ -1,5 +1,6 @@
-// Offline cache: use the network when online (and refresh the cache), fall back to the cache offline.
-const CACHE = 'satvocab-f12a8af1e5';
+// Offline cache: serve from the versioned cache; build.py changes CACHE on every build,
+// so a new sw.js installs fresh copies and old caches are deleted on activate.
+const CACHE = 'satvocab-ff59afe8b8';
 const ASSETS = ['./', 'index.html', 'style.css', 'app.js', 'words.json', 'manifest.webmanifest',
   'icon-192.png', 'icon-512.png', 'apple-touch-icon.png'];
 
@@ -16,10 +17,11 @@ self.addEventListener('activate', e => {
 self.addEventListener('fetch', e => {
   const req = e.request;
   if (req.method !== 'GET' || new URL(req.url).origin !== location.origin) return;
-  e.respondWith(caches.open(CACHE).then(cache =>
-    fetch(req, { cache: 'no-cache' }).then(res => {
-      if (res.ok) cache.put(req, res.clone());
-      return res;
-    }).catch(() => cache.match(req, { ignoreSearch: true }))
-  ));
+  e.respondWith(caches.open(CACHE).then(async cache => {
+    const hit = await cache.match(req, { ignoreSearch: true });
+    if (hit) return hit;
+    const res = await fetch(req);
+    if (res.ok) cache.put(req, res.clone());
+    return res;
+  }));
 });
