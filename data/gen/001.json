@@ -1,0 +1,4151 @@
+[
+{
+"w": "abase",
+"kk": "[əˋbes]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to lower someone in rank, dignity, or respect",
+"zh": "降低（地位、尊嚴）；貶低"
+}
+],
+"ex": [
+{
+"en": "He refused to abase himself by begging for his old job back.",
+"zh": "他不願意低聲下氣地求回原本的工作。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "bas",
+"m": "low 低"
+}
+],
+"note": "使變低 → 貶低"
+},
+"syn": [
+"humble",
+"degrade",
+"demean"
+],
+"ant": [
+"exalt",
+"elevate"
+]
+},
+{
+"w": "abbey",
+"kk": "[ˋæbɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a building where monks or nuns live and worship",
+"zh": "修道院；大教堂"
+}
+],
+"ex": [
+{
+"en": "Tourists crowded into the ancient abbey to admire its stained glass.",
+"zh": "遊客擠進古老的修道院欣賞彩繪玻璃。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "abb",
+"m": "father 父親（abbot 院長）"
+},
+{
+"p": "-ey",
+"m": "場所"
+}
+],
+"note": "院長管理的地方 → 修道院"
+},
+"syn": [
+"monastery",
+"convent",
+"priory"
+],
+"ant": []
+},
+{
+"w": "abbot",
+"kk": "[ˋæbət]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the man who is head of a monastery",
+"zh": "修道院院長（男）"
+}
+],
+"ex": [
+{
+"en": "The abbot rang the bell to call the monks to prayer.",
+"zh": "修道院院長敲鐘召集修士們禱告。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "abb",
+"m": "father 父親（亞蘭語 abba）"
+},
+{
+"p": "-ot",
+"m": "字尾"
+}
+],
+"note": "修士們的「父親」→ 院長"
+},
+"syn": [
+"prior"
+],
+"ant": [
+"abbess"
+]
+},
+{
+"w": "abdicate",
+"kk": "[ˋæbdəˏket]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to give up a throne or high office",
+"zh": "退位；辭職"
+},
+{
+"pos": "v.",
+"en": "to fail to carry out a duty or responsibility",
+"zh": "放棄（責任）"
+}
+],
+"ex": [
+{
+"en": "Parents cannot simply abdicate responsibility for their children's education.",
+"zh": "父母不能就這樣放棄教育孩子的責任。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "dic",
+"m": "say, declare 宣告"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "宣告離開（王位）→ 退位"
+},
+"syn": [
+"renounce",
+"relinquish",
+"resign"
+],
+"ant": [
+"assume",
+"claim"
+]
+},
+{
+"w": "abdomen",
+"kk": "[ˋæbdəmən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the part of the body containing the stomach and intestines; the belly",
+"zh": "腹部"
+}
+],
+"ex": [
+{
+"en": "The patient complained of a sharp pain in his abdomen.",
+"zh": "病人抱怨腹部劇烈疼痛。"
+}
+],
+"syn": [
+"belly",
+"stomach"
+],
+"ant": []
+},
+{
+"w": "abdominal",
+"kk": "[æbˋdɑmənḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to the abdomen",
+"zh": "腹部的"
+}
+],
+"ex": [
+{
+"en": "Sit-ups strengthen the abdominal muscles.",
+"zh": "仰臥起坐可以鍛鍊腹部肌肉。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "abdomin",
+"m": "belly 腹部"
+},
+{
+"p": "-al",
+"m": "形容詞字尾"
+}
+],
+"note": "腹部的"
+},
+"syn": [
+"ventral",
+"visceral"
+],
+"ant": []
+},
+{
+"w": "abduction",
+"kk": "[æbˋdʌkʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the act of taking someone away illegally by force",
+"zh": "綁架；誘拐"
+}
+],
+"ex": [
+{
+"en": "Police are investigating the abduction of a local businessman.",
+"zh": "警方正在調查一名當地商人遭綁架的案件。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "duct",
+"m": "lead 引導、帶"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "把人帶走 → 綁架"
+},
+"syn": [
+"kidnapping",
+"seizure"
+],
+"ant": [
+"release",
+"rescue"
+]
+},
+{
+"w": "abed",
+"kk": "[əˋbɛd]",
+"tier": 3,
+"senses": [
+{
+"pos": "adv.",
+"en": "in bed",
+"zh": "在床上"
+}
+],
+"ex": [
+{
+"en": "The old man lay abed until noon on cold winter days.",
+"zh": "寒冷的冬日，那位老人總是在床上躺到中午。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "on, in 在…上"
+},
+{
+"p": "bed",
+"m": "床"
+}
+],
+"note": "在床上（古語）"
+},
+"syn": [
+"in bed"
+],
+"ant": [
+"up",
+"awake"
+]
+},
+{
+"w": "abet",
+"kk": "[əˋbɛt]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to encourage or help someone do something wrong",
+"zh": "教唆；幫助（做壞事）"
+}
+],
+"ex": [
+{
+"en": "The driver was charged with helping to abet the robbery.",
+"zh": "那名司機被控協助搶劫。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "bet",
+"m": "bait 引誘（古法文 beter）"
+}
+],
+"note": "唆使（狗去咬）→ 教唆"
+},
+"syn": [
+"assist",
+"incite",
+"aid"
+],
+"ant": [
+"hinder",
+"thwart"
+],
+"mn": "常見片語 aid and abet（協助犯罪）。"
+},
+{
+"w": "abeyance",
+"kk": "[əˋbeəns]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a state of temporary disuse or suspension",
+"zh": "擱置；暫停"
+}
+],
+"ex": [
+{
+"en": "The building project is in abeyance until funding is found.",
+"zh": "在找到資金之前，建案暫時擱置。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向"
+},
+{
+"p": "bey",
+"m": "gape 張口等待（古法文 baer）"
+},
+{
+"p": "-ance",
+"m": "名詞字尾"
+}
+],
+"note": "張著嘴等待 → 懸而未決"
+},
+"syn": [
+"suspension",
+"dormancy",
+"hiatus"
+],
+"ant": [
+"continuation",
+"activity"
+],
+"mn": "常用片語 in abeyance（擱置中）。"
+},
+{
+"w": "abhorrence",
+"kk": "[əbˋhɔrəns]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a feeling of intense hatred or disgust",
+"zh": "憎惡；厭惡"
+}
+],
+"ex": [
+{
+"en": "She expressed her abhorrence of violence in any form.",
+"zh": "她表示痛恨任何形式的暴力。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "horr",
+"m": "shudder 發抖"
+},
+{
+"p": "-ence",
+"m": "名詞字尾"
+}
+],
+"note": "嚇得發抖而退開 → 憎惡"
+},
+"syn": [
+"loathing",
+"disgust",
+"detestation"
+],
+"ant": [
+"admiration",
+"love"
+]
+},
+{
+"w": "abhorrent",
+"kk": "[əbˋhɔrənt]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "causing hatred or disgust; morally unacceptable",
+"zh": "令人憎惡的"
+}
+],
+"ex": [
+{
+"en": "Most people find cruelty to animals abhorrent.",
+"zh": "大多數人都覺得虐待動物令人憎惡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "horr",
+"m": "shudder 發抖"
+},
+{
+"p": "-ent",
+"m": "形容詞字尾"
+}
+],
+"note": "讓人嚇得發抖退開的 → 可憎的（horror 同源）"
+},
+"syn": [
+"detestable",
+"repugnant",
+"odious"
+],
+"ant": [
+"admirable",
+"appealing"
+]
+},
+{
+"w": "abidance",
+"kk": "[əˋbaɪdṇs]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the act of obeying or following a rule; also, staying",
+"zh": "遵守；居住、停留"
+}
+],
+"ex": [
+{
+"en": "Strict abidance by the rules is expected of every member.",
+"zh": "每位成員都必須嚴格遵守規則。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "abide",
+"m": "遵守；停留"
+},
+{
+"p": "-ance",
+"m": "名詞字尾"
+}
+],
+"note": "abide 的名詞"
+},
+"syn": [
+"compliance",
+"observance",
+"adherence"
+],
+"ant": [
+"violation",
+"disobedience"
+]
+},
+{
+"w": "abject",
+"kk": "[ˋæbdʒɛkt]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "(of a bad situation) extremely severe or hopeless",
+"zh": "悲慘的；絕望的"
+},
+{
+"pos": "adj.",
+"en": "without pride or dignity",
+"zh": "卑躬屈膝的"
+}
+],
+"ex": [
+{
+"en": "Many families in the region live in abject poverty.",
+"zh": "這個地區有許多家庭生活極度貧困。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "ject",
+"m": "throw 丟"
+}
+],
+"note": "被丟到一旁的 → 悲慘的、卑賤的"
+},
+"syn": [
+"wretched",
+"miserable",
+"servile"
+],
+"ant": [
+"proud",
+"dignified"
+]
+},
+{
+"w": "abjure",
+"kk": "[əbˋdʒʊr]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to formally reject or give up a belief or claim",
+"zh": "公開放棄（信仰、主張）；發誓斷絕"
+}
+],
+"ex": [
+{
+"en": "The prisoner was forced to abjure his political beliefs.",
+"zh": "那名囚犯被迫公開放棄自己的政治信念。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "jur",
+"m": "swear 發誓"
+}
+],
+"note": "發誓遠離 → 公開放棄"
+},
+"syn": [
+"renounce",
+"repudiate",
+"forswear"
+],
+"ant": [
+"embrace",
+"affirm"
+]
+},
+{
+"w": "able-bodied",
+"kk": "[ˋebḷˋbɑdɪd]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "physically strong and healthy",
+"zh": "身強體壯的"
+}
+],
+"ex": [
+{
+"en": "Every able-bodied villager helped rebuild the bridge after the flood.",
+"zh": "洪水過後，每個身強體壯的村民都幫忙重建橋梁。"
+}
+],
+"syn": [
+"fit",
+"strong",
+"sturdy"
+],
+"ant": [
+"disabled",
+"frail"
+]
+},
+{
+"w": "ablution",
+"kk": "[æbˋluʃən]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the act of washing oneself, often as a religious ritual",
+"zh": "沐浴；（宗教）洗禮、淨身"
+}
+],
+"ex": [
+{
+"en": "The pilgrims performed a ritual ablution before entering the temple.",
+"zh": "朝聖者進入神廟前先進行淨身儀式。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "lu",
+"m": "wash 洗"
+},
+{
+"p": "-tion",
+"m": "名詞字尾"
+}
+],
+"note": "把髒東西洗掉 → 淨身"
+},
+"syn": [
+"washing",
+"cleansing",
+"bathing"
+],
+"ant": []
+},
+{
+"w": "abnegate",
+"kk": "[ˋæbnɪˏget]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to give up or deny oneself something",
+"zh": "放棄；克制（慾望）"
+}
+],
+"ex": [
+{
+"en": "Monks abnegate worldly pleasures to focus on spiritual life.",
+"zh": "修士捨棄世俗享樂，專注於靈性生活。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "neg",
+"m": "deny 否定"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "否定並推開 → 放棄"
+},
+"syn": [
+"renounce",
+"forgo",
+"relinquish"
+],
+"ant": [
+"indulge",
+"claim"
+]
+},
+{
+"w": "abnormal",
+"kk": "[æbˋnɔrmḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "different from what is usual or expected, often in a worrying way",
+"zh": "不正常的；異常的"
+}
+],
+"ex": [
+{
+"en": "The scan showed an abnormal growth in her lung.",
+"zh": "掃描顯示她的肺部有異常的腫塊。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "norm",
+"m": "rule 標準"
+},
+{
+"p": "-al",
+"m": "形容詞字尾"
+}
+],
+"note": "偏離標準的 → 異常的"
+},
+"syn": [
+"unusual",
+"irregular",
+"atypical"
+],
+"ant": [
+"normal",
+"typical"
+]
+},
+{
+"w": "abominable",
+"kk": "[əˋbɑmənəbḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "causing disgust or hatred; very bad",
+"zh": "可憎的；糟透的"
+}
+],
+"ex": [
+{
+"en": "The prisoners were kept in abominable conditions.",
+"zh": "囚犯被關在惡劣至極的環境裡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "omin",
+"m": "omen 凶兆"
+},
+{
+"p": "-able",
+"m": "形容詞字尾"
+}
+],
+"note": "被視為凶兆而避開的 → 可憎的"
+},
+"syn": [
+"loathsome",
+"detestable",
+"atrocious"
+],
+"ant": [
+"admirable",
+"delightful"
+],
+"mn": "雪怪的英文就是 the Abominable Snowman（可怕的雪人）。"
+},
+{
+"w": "abominate",
+"kk": "[əˋbɑməˏnet]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to detest or hate intensely",
+"zh": "痛恨；憎惡"
+}
+],
+"ex": [
+{
+"en": "I abominate hypocrisy.",
+"zh": "我痛恨虛偽。"
+},
+{
+"en": "She has always abominated cruelty, especially toward children.",
+"zh": "她一向痛恨殘忍的行為，尤其是對孩子的殘忍。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "omin",
+"m": "omen 凶兆"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "視為凶兆而躲開 → 痛恨"
+},
+"syn": [
+"loathe",
+"detest",
+"abhor"
+],
+"ant": [
+"love",
+"adore"
+]
+},
+{
+"w": "abomination",
+"kk": "[əˏbɑməˋneʃən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "something that causes disgust or hatred",
+"zh": "令人憎惡的事物"
+}
+],
+"ex": [
+{
+"en": "The critic called the new glass tower an abomination.",
+"zh": "那位評論家說這座新的玻璃大樓簡直是醜陋的怪物。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "omin",
+"m": "omen 凶兆"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "可憎之物"
+},
+"syn": [
+"atrocity",
+"disgrace",
+"monstrosity"
+],
+"ant": [
+"delight",
+"treasure"
+]
+},
+{
+"w": "aboriginal",
+"kk": "[ˏæbəˋrɪdʒənḷ]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "existing in a land from the earliest times; native",
+"zh": "原住民的；土生土長的"
+}
+],
+"ex": [
+{
+"en": "The museum displays aboriginal art from across the continent.",
+"zh": "博物館展出來自整片大陸的原住民藝術。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "from 從"
+},
+{
+"p": "origin",
+"m": "beginning 起源"
+},
+{
+"p": "-al",
+"m": "形容詞字尾"
+}
+],
+"note": "從一開始就在的 → 原住民的"
+},
+"syn": [
+"indigenous",
+"native",
+"original"
+],
+"ant": [
+"foreign",
+"immigrant"
+]
+},
+{
+"w": "aborigines",
+"kk": "[ˏæbəˋrɪdʒəˏniz]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the earliest known inhabitants of a region",
+"zh": "原住民（複數）"
+}
+],
+"ex": [
+{
+"en": "The aborigines of the island had lived there for thousands of years.",
+"zh": "這座島的原住民已在那裡生活了數千年。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "from 從"
+},
+{
+"p": "origin",
+"m": "beginning 起源"
+}
+],
+"note": "從最初就居住在此的人"
+},
+"syn": [
+"natives",
+"indigenous peoples"
+],
+"ant": [
+"settlers",
+"colonists"
+]
+},
+{
+"w": "aboveboard",
+"kk": "[əˋbʌvˏbord]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "honest and open; without secrecy",
+"zh": "光明正大的；公開的"
+}
+],
+"ex": [
+{
+"en": "The whole deal was completely aboveboard, with every document made public.",
+"zh": "整筆交易完全光明正大，每份文件都有公開。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "above",
+"m": "在…之上"
+},
+{
+"p": "board",
+"m": "table 桌子"
+}
+],
+"note": "手放在桌面上（打牌不作弊）→ 光明正大"
+},
+"syn": [
+"honest",
+"legitimate",
+"open"
+],
+"ant": [
+"underhanded",
+"secret"
+]
+},
+{
+"w": "abrade",
+"kk": "[əˋbred]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to scrape or wear away by rubbing",
+"zh": "磨損；擦傷"
+}
+],
+"ex": [
+{
+"en": "Years of wind and sand had begun to abrade the stone statue.",
+"zh": "多年的風沙已開始磨損那座石像。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "rad",
+"m": "scrape 刮"
+}
+],
+"note": "刮掉 → 磨損"
+},
+"syn": [
+"erode",
+"scrape",
+"wear"
+],
+"ant": [
+"smooth",
+"polish"
+]
+},
+{
+"w": "abrasion",
+"kk": "[əˋbreʒən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a scraped area of skin; the process of wearing away by rubbing",
+"zh": "擦傷；磨損"
+}
+],
+"ex": [
+{
+"en": "She fell off her bike and got a painful abrasion on her knee.",
+"zh": "她從腳踏車上摔下來，膝蓋擦傷了，很痛。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "ras",
+"m": "scrape 刮"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "刮掉 → 擦傷"
+},
+"syn": [
+"scrape",
+"graze",
+"erosion"
+],
+"ant": []
+},
+{
+"w": "abridge",
+"kk": "[əˋbrɪdʒ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to shorten a book or text without losing its meaning",
+"zh": "刪節；縮短"
+},
+{
+"pos": "v.",
+"en": "to limit or reduce a right",
+"zh": "削減（權利）"
+}
+],
+"ex": [
+{
+"en": "The publisher decided to abridge the novel for younger readers.",
+"zh": "出版社決定為年輕讀者出版這本小說的刪節版。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "加強語氣"
+},
+{
+"p": "bridge",
+"m": "short 短（拉丁文 brevis）"
+}
+],
+"note": "使變短 → 刪節（brief 同源）"
+},
+"syn": [
+"shorten",
+"condense",
+"abbreviate"
+],
+"ant": [
+"expand",
+"lengthen"
+]
+},
+{
+"w": "abridgment",
+"kk": "[əˋbrɪdʒmənt]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a shortened version of a book or text",
+"zh": "刪節本；節錄"
+}
+],
+"ex": [
+{
+"en": "I read an abridgment of the novel because the original is over a thousand pages.",
+"zh": "我讀的是那本小說的刪節版，因為原著超過一千頁。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "abridge",
+"m": "刪節"
+},
+{
+"p": "-ment",
+"m": "名詞字尾"
+}
+],
+"note": "abridge 的名詞"
+},
+"syn": [
+"summary",
+"condensation",
+"digest"
+],
+"ant": [
+"expansion"
+]
+},
+{
+"w": "abrogate",
+"kk": "[ˋæbrəˏget]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to formally cancel or repeal a law or agreement",
+"zh": "廢除（法律、協議）"
+}
+],
+"ex": [
+{
+"en": "The new government moved quickly to abrogate the unpopular treaty.",
+"zh": "新政府迅速廢除了那項不受歡迎的條約。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "rog",
+"m": "ask, propose 提議（法案）"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "把提過的法案拿掉 → 廢除"
+},
+"syn": [
+"repeal",
+"revoke",
+"annul"
+],
+"ant": [
+"enact",
+"establish"
+]
+},
+{
+"w": "abrupt",
+"kk": "[əˋbrʌpt]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "sudden and unexpected",
+"zh": "突然的"
+},
+{
+"pos": "adj.",
+"en": "brief to the point of rudeness",
+"zh": "（態度）唐突的、生硬的"
+}
+],
+"ex": [
+{
+"en": "The meeting came to an abrupt end when the fire alarm went off.",
+"zh": "火災警報一響，會議就突然結束了。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "rupt",
+"m": "break 斷裂"
+}
+],
+"note": "突然斷開 → 突然的"
+},
+"syn": [
+"sudden",
+"unexpected",
+"curt"
+],
+"ant": [
+"gradual",
+"gentle"
+]
+},
+{
+"w": "abscess",
+"kk": "[ˋæbˏsɛs]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a swollen area in body tissue containing pus",
+"zh": "膿腫"
+}
+],
+"ex": [
+{
+"en": "The dentist drained the abscess under his tooth.",
+"zh": "牙醫把他牙齒下方的膿腫引流出來。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "abs-",
+"m": "away 離開"
+},
+{
+"p": "cess",
+"m": "go 走"
+}
+],
+"note": "（體液）離開正常位置聚集 → 膿腫"
+},
+"syn": [
+"boil",
+"ulcer"
+],
+"ant": []
+},
+{
+"w": "abscission",
+"kk": "[æbˋsɪʒən]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the natural shedding of leaves or fruit from a plant; the act of cutting off",
+"zh": "（葉、果）脫落；切除"
+}
+],
+"ex": [
+{
+"en": "Shorter days trigger leaf abscission in autumn.",
+"zh": "秋天白晝變短會引發葉子脫落。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "sciss",
+"m": "cut 切"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "切離 → 脫落（scissors 剪刀同源）"
+},
+"syn": [
+"shedding",
+"severance"
+],
+"ant": []
+},
+{
+"w": "abscond",
+"kk": "[æbˋskɑnd]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to leave secretly, often to avoid arrest or with stolen money",
+"zh": "潛逃；捲款逃走"
+}
+],
+"ex": [
+{
+"en": "The treasurer tried to abscond with the club's funds.",
+"zh": "財務長企圖捲走社團的經費潛逃。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "abs-",
+"m": "away 離開"
+},
+{
+"p": "cond",
+"m": "hide, put 藏"
+}
+],
+"note": "偷偷藏起來離開 → 潛逃"
+},
+"syn": [
+"flee",
+"bolt",
+"decamp"
+],
+"ant": [
+"stay",
+"remain"
+]
+},
+{
+"w": "absence",
+"kk": "[ˋæbsṇs]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the state of being away; the lack of something",
+"zh": "缺席；不在；缺乏"
+}
+],
+"ex": [
+{
+"en": "In the absence of evidence, the judge dismissed the case.",
+"zh": "由於缺乏證據，法官駁回了這個案子。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "s",
+"m": "be 存在（拉丁文 esse）"
+},
+{
+"p": "-ence",
+"m": "名詞字尾"
+}
+],
+"note": "不在場 → 缺席"
+},
+"syn": [
+"nonattendance",
+"lack",
+"deficiency"
+],
+"ant": [
+"presence",
+"attendance"
+]
+},
+{
+"w": "absent-minded",
+"kk": "[ˋæbsṇtˋmaɪndɪd]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "forgetful or not paying attention",
+"zh": "心不在焉的；健忘的"
+}
+],
+"ex": [
+{
+"en": "The absent-minded professor left his umbrella on the bus again.",
+"zh": "那位心不在焉的教授又把雨傘忘在公車上了。"
+}
+],
+"syn": [
+"forgetful",
+"distracted",
+"scatterbrained"
+],
+"ant": [
+"attentive",
+"alert"
+]
+},
+{
+"w": "absolution",
+"kk": "[ˏæbsəˋluʃən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "formal release from guilt, blame, or punishment",
+"zh": "赦免；免罪"
+}
+],
+"ex": [
+{
+"en": "He confessed his mistake and asked for absolution.",
+"zh": "他承認錯誤並請求原諒。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "solu",
+"m": "loosen 鬆開"
+},
+{
+"p": "-tion",
+"m": "名詞字尾"
+}
+],
+"note": "把罪鬆開 → 赦免"
+},
+"syn": [
+"forgiveness",
+"pardon",
+"exoneration"
+],
+"ant": [
+"condemnation",
+"blame"
+]
+},
+{
+"w": "absolve",
+"kk": "[əbˋsɑlv]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to declare someone free from guilt, blame, or responsibility",
+"zh": "免除（罪責、責任）；赦免"
+}
+],
+"ex": [
+{
+"en": "The report did not absolve the company of responsibility for the spill.",
+"zh": "報告並沒有免除公司對漏油事件的責任。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "solv",
+"m": "loosen 鬆開"
+}
+],
+"note": "鬆開罪責 → 赦免（solve、dissolve 同源）"
+},
+"syn": [
+"exonerate",
+"acquit",
+"pardon"
+],
+"ant": [
+"condemn",
+"blame"
+]
+},
+{
+"w": "absorb",
+"kk": "[əbˋsɔrb]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to take in liquid, energy, or information",
+"zh": "吸收"
+},
+{
+"pos": "v.",
+"en": "to hold someone's full attention",
+"zh": "使全神貫注"
+}
+],
+"ex": [
+{
+"en": "Plants absorb water through their roots.",
+"zh": "植物透過根部吸收水分。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away, from 從"
+},
+{
+"p": "sorb",
+"m": "suck in 吸入"
+}
+],
+"note": "吸進去 → 吸收"
+},
+"syn": [
+"soak up",
+"take in",
+"engross"
+],
+"ant": [
+"emit",
+"release"
+]
+},
+{
+"w": "absorption",
+"kk": "[əbˋsɔrpʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the process of taking something in; complete attention",
+"zh": "吸收；專注"
+}
+],
+"ex": [
+{
+"en": "Vitamin D helps the body's absorption of calcium.",
+"zh": "維生素 D 有助於身體吸收鈣質。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "from 從"
+},
+{
+"p": "sorp",
+"m": "suck in 吸入"
+},
+{
+"p": "-tion",
+"m": "名詞字尾"
+}
+],
+"note": "absorb 的名詞"
+},
+"syn": [
+"uptake",
+"assimilation",
+"engrossment"
+],
+"ant": [
+"emission"
+]
+},
+{
+"w": "abstain",
+"kk": "[əbˋsten]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to choose not to do something, especially something enjoyable",
+"zh": "戒除；節制"
+},
+{
+"pos": "v.",
+"en": "to choose not to vote",
+"zh": "棄權（不投票）"
+}
+],
+"ex": [
+{
+"en": "Athletes must abstain from alcohol during training season.",
+"zh": "運動員在訓練期間必須戒酒。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "abs-",
+"m": "away 離開"
+},
+{
+"p": "tain",
+"m": "hold 抓住"
+}
+],
+"note": "把自己抓住、遠離 → 戒除"
+},
+"syn": [
+"refrain",
+"forgo",
+"decline"
+],
+"ant": [
+"indulge",
+"partake"
+]
+},
+{
+"w": "abstinence",
+"kk": "[ˋæbstənəns]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the practice of not doing or having something, especially alcohol",
+"zh": "節制；禁慾；戒酒"
+}
+],
+"ex": [
+{
+"en": "After years of heavy drinking, he chose total abstinence.",
+"zh": "酗酒多年後，他選擇完全戒酒。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "abs-",
+"m": "away 離開"
+},
+{
+"p": "tin",
+"m": "hold 抓住（= tain）"
+},
+{
+"p": "-ence",
+"m": "名詞字尾"
+}
+],
+"note": "abstain 的名詞"
+},
+"syn": [
+"self-denial",
+"temperance",
+"restraint"
+],
+"ant": [
+"indulgence",
+"excess"
+]
+},
+{
+"w": "abstruse",
+"kk": "[æbˋstrus]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "difficult to understand; obscure",
+"zh": "深奧難懂的"
+}
+],
+"ex": [
+{
+"en": "The lecture on quantum theory was too abstruse for most of the audience.",
+"zh": "那場量子理論講座對大多數聽眾來說太深奧了。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "abs-",
+"m": "away 離開"
+},
+{
+"p": "trus",
+"m": "push 推"
+}
+],
+"note": "被推到遠處藏起來 → 深奧難懂"
+},
+"syn": [
+"obscure",
+"esoteric",
+"recondite"
+],
+"ant": [
+"simple",
+"clear",
+"accessible"
+]
+},
+{
+"w": "absurd",
+"kk": "[əbˋsɝd]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "wildly unreasonable or ridiculous",
+"zh": "荒謬的；可笑的"
+}
+],
+"ex": [
+{
+"en": "It is absurd to expect students to read five novels in one week.",
+"zh": "期待學生一週讀完五本小說實在很荒謬。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "加強語氣"
+},
+{
+"p": "surd",
+"m": "deaf, dull 聾、刺耳"
+}
+],
+"note": "刺耳不和諧 → 荒謬"
+},
+"syn": [
+"ridiculous",
+"preposterous",
+"ludicrous"
+],
+"ant": [
+"reasonable",
+"sensible"
+]
+},
+{
+"w": "abundant",
+"kk": "[əˋbʌndənt]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "existing in large quantities; more than enough",
+"zh": "豐富的；充足的"
+}
+],
+"ex": [
+{
+"en": "Fish are abundant in the cold waters off the coast.",
+"zh": "沿岸的冷水海域魚類豐富。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 離開"
+},
+{
+"p": "und",
+"m": "wave 波浪"
+},
+{
+"p": "-ant",
+"m": "形容詞字尾"
+}
+],
+"note": "像波浪一樣滿溢出來 → 豐富的"
+},
+"syn": [
+"plentiful",
+"ample",
+"copious"
+],
+"ant": [
+"scarce",
+"sparse"
+]
+},
+{
+"w": "abusive",
+"kk": "[əˋbjusɪv]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "extremely offensive and insulting; involving cruelty",
+"zh": "辱罵的；虐待的"
+}
+],
+"ex": [
+{
+"en": "The fan was removed from the stadium for shouting abusive language.",
+"zh": "那名球迷因為大聲辱罵而被請出球場。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ab-",
+"m": "away 偏離"
+},
+{
+"p": "us",
+"m": "use 使用"
+},
+{
+"p": "-ive",
+"m": "形容詞字尾"
+}
+],
+"note": "不當使用 → 濫用、虐待的"
+},
+"syn": [
+"insulting",
+"offensive",
+"cruel"
+],
+"ant": [
+"kind",
+"respectful"
+]
+},
+{
+"w": "abut",
+"kk": "[əˋbʌt]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "(of land or a building) to be next to or touch",
+"zh": "毗鄰；緊靠"
+}
+],
+"ex": [
+{
+"en": "Their backyard gardens abut each other, separated only by a low fence.",
+"zh": "兩家的後院緊鄰，中間只隔著一道矮籬笆。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向"
+},
+{
+"p": "but",
+"m": "end 盡頭"
+}
+],
+"note": "盡頭碰在一起 → 毗鄰"
+},
+"syn": [
+"adjoin",
+"border",
+"touch"
+],
+"ant": []
+},
+{
+"w": "abyss",
+"kk": "[əˋbɪs]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a very deep hole; a disastrous situation",
+"zh": "深淵；絕境"
+}
+],
+"ex": [
+{
+"en": "The country was on the edge of an economic abyss.",
+"zh": "那個國家正處於經濟崩潰的邊緣。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "without 沒有"
+},
+{
+"p": "byss",
+"m": "bottom 底（希臘文 byssos）"
+}
+],
+"note": "沒有底的 → 深淵"
+},
+"syn": [
+"chasm",
+"gulf",
+"void"
+],
+"ant": [
+"summit",
+"peak"
+]
+},
+{
+"w": "academic",
+"kk": "[ˏækəˋdɛmɪk]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to education and scholarship",
+"zh": "學術的；學業的"
+},
+{
+"pos": "adj.",
+"en": "not of practical relevance; theoretical",
+"zh": "純理論的；無實際意義的"
+}
+],
+"ex": [
+{
+"en": "Her academic performance improved after she joined the study group.",
+"zh": "她加入讀書會後，學業表現進步了。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "academ",
+"m": "Akademia 柏拉圖講學的園林"
+},
+{
+"p": "-ic",
+"m": "形容詞字尾"
+}
+],
+"note": "源自柏拉圖的學院 → 學術的"
+},
+"syn": [
+"scholarly",
+"educational",
+"theoretical"
+],
+"ant": [
+"practical",
+"vocational"
+]
+},
+{
+"w": "academician",
+"kk": "[əˏkædəˋmɪʃən]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a member of an academy, especially one for arts or sciences",
+"zh": "學會會員；院士"
+}
+],
+"ex": [
+{
+"en": "She was elected an academician for her research in physics.",
+"zh": "她因物理學研究而獲選為院士。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "academ",
+"m": "學院"
+},
+{
+"p": "-ician",
+"m": "專業人士"
+}
+],
+"note": "學院的成員 → 院士"
+},
+"syn": [
+"scholar",
+"fellow"
+],
+"ant": []
+},
+{
+"w": "academy",
+"kk": "[əˋkædəmɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a school for special training; a society of scholars or artists",
+"zh": "專科學校；學會、研究院"
+}
+],
+"ex": [
+{
+"en": "He trained at a military academy before joining the army.",
+"zh": "他從軍前在軍事學院受訓。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "academ",
+"m": "Akademia 柏拉圖講學的園林"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "柏拉圖講學之處 → 學院"
+},
+"syn": [
+"school",
+"institute",
+"college"
+],
+"ant": []
+},
+{
+"w": "accede",
+"kk": "[ækˋsid]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to agree to a request or demand",
+"zh": "同意；應允"
+},
+{
+"pos": "v.",
+"en": "to take up an office or position, such as a throne",
+"zh": "就任；登基"
+}
+],
+"ex": [
+{
+"en": "The principal refused to accede to the students' demands.",
+"zh": "校長拒絕答應學生的要求。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "ced",
+"m": "go 走"
+}
+],
+"note": "走向（對方的立場）→ 同意"
+},
+"syn": [
+"consent",
+"agree",
+"assent"
+],
+"ant": [
+"refuse",
+"reject"
+],
+"mn": "別和 exceed（超過）搞混：accede 是「同意」。"
+},
+{
+"w": "accelerate",
+"kk": "[ækˋsɛləˏret]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to increase speed; to make something happen sooner",
+"zh": "加速；促進"
+}
+],
+"ex": [
+{
+"en": "New technology will accelerate the pace of change.",
+"zh": "新科技將加速改變的步調。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "加強語氣"
+},
+{
+"p": "celer",
+"m": "swift 快速"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "使更快 → 加速"
+},
+"syn": [
+"speed up",
+"hasten",
+"expedite"
+],
+"ant": [
+"decelerate",
+"slow"
+]
+},
+{
+"w": "accept",
+"kk": "[əkˋsɛpt]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to agree to take something offered; to believe or come to terms with",
+"zh": "接受；認可"
+}
+],
+"ex": [
+{
+"en": "She was thrilled to accept the scholarship offer.",
+"zh": "她很高興地接受了獎學金。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "cept",
+"m": "take 拿"
+}
+],
+"note": "拿過來 → 接受"
+},
+"syn": [
+"receive",
+"take",
+"acknowledge"
+],
+"ant": [
+"reject",
+"refuse"
+],
+"mn": "別和 except（除了…之外）搞混。"
+},
+{
+"w": "access",
+"kk": "[ˋæksɛs]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the means or right to enter or use something",
+"zh": "進入；使用的權利、管道"
+},
+{
+"pos": "v.",
+"en": "to reach or obtain, especially data",
+"zh": "存取；取得"
+}
+],
+"ex": [
+{
+"en": "Every student has access to the library's online database.",
+"zh": "每個學生都能使用圖書館的線上資料庫。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "cess",
+"m": "go 走"
+}
+],
+"note": "走進去 → 進入、管道"
+},
+"syn": [
+"entry",
+"admission",
+"approach"
+],
+"ant": [
+"exclusion"
+]
+},
+{
+"w": "accessible",
+"kk": "[ækˋsɛsəbḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "able to be reached, entered, or used",
+"zh": "可進入的；可取得的"
+},
+{
+"pos": "adj.",
+"en": "easy to understand",
+"zh": "容易理解的"
+}
+],
+"ex": [
+{
+"en": "The author writes about science in a style that is accessible to everyone.",
+"zh": "這位作者用人人都讀得懂的方式寫科學。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "cess",
+"m": "go 走"
+},
+{
+"p": "-ible",
+"m": "可…的"
+}
+],
+"note": "可以走進去的 → 可進入、易懂的"
+},
+"syn": [
+"reachable",
+"available",
+"understandable"
+],
+"ant": [
+"inaccessible",
+"obscure"
+]
+},
+{
+"w": "accession",
+"kk": "[ækˋsɛʃən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the act of reaching a position of power, such as a throne",
+"zh": "就任；登基"
+},
+{
+"pos": "n.",
+"en": "a new item added to a collection",
+"zh": "新增的收藏品"
+}
+],
+"ex": [
+{
+"en": "The queen's accession to the throne was celebrated across the country.",
+"zh": "女王登基受到全國慶祝。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "cess",
+"m": "go 走"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "走上（王位）→ 就任"
+},
+"syn": [
+"succession",
+"assumption",
+"addition"
+],
+"ant": [
+"abdication"
+]
+},
+{
+"w": "accessory",
+"kk": "[ækˋsɛsərɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "an extra item that adds to something; a fashion item",
+"zh": "配件；飾品"
+},
+{
+"pos": "n.",
+"en": "a person who helps someone commit a crime",
+"zh": "從犯；共犯"
+}
+],
+"ex": [
+{
+"en": "A scarf can be a stylish accessory in winter.",
+"zh": "圍巾在冬天可以是很有型的配件。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "cess",
+"m": "go 走"
+},
+{
+"p": "-ory",
+"m": "名詞字尾"
+}
+],
+"note": "跟著走的東西 → 附屬品、從犯"
+},
+"syn": [
+"attachment",
+"add-on",
+"accomplice"
+],
+"ant": []
+},
+{
+"w": "acclaim",
+"kk": "[əˋklem]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "enthusiastic public praise",
+"zh": "讚揚；喝采"
+},
+{
+"pos": "v.",
+"en": "to praise enthusiastically and publicly",
+"zh": "稱讚；歡呼"
+}
+],
+"ex": [
+{
+"en": "Her first novel won wide acclaim from critics.",
+"zh": "她的第一本小說廣受評論家讚揚。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "claim",
+"m": "shout 喊叫"
+}
+],
+"note": "對著人大喊（喝采）→ 讚揚"
+},
+"syn": [
+"praise",
+"applause",
+"acclamation"
+],
+"ant": [
+"criticism",
+"condemnation"
+]
+},
+{
+"w": "accommodate",
+"kk": "[əˋkɑməˏdet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to provide lodging or space for",
+"zh": "容納；提供住宿"
+},
+{
+"pos": "v.",
+"en": "to adapt to or fit in with someone's needs",
+"zh": "遷就；配合"
+}
+],
+"ex": [
+{
+"en": "The hotel can accommodate up to three hundred guests.",
+"zh": "這家飯店最多可以容納三百位客人。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "com-",
+"m": "together"
+},
+{
+"p": "mod",
+"m": "measure 尺寸"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "使尺寸剛好合適 → 容納、配合"
+},
+"syn": [
+"house",
+"hold",
+"adapt"
+],
+"ant": [
+"refuse",
+"exclude"
+],
+"mn": "拼字注意：兩個 c、兩個 m。"
+},
+{
+"w": "accompaniment",
+"kk": "[əˋkʌmpənɪmənt]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "music played to support a singer or instrument",
+"zh": "伴奏"
+},
+{
+"pos": "n.",
+"en": "something that goes along with something else",
+"zh": "伴隨物；搭配"
+}
+],
+"ex": [
+{
+"en": "She sang with a simple piano accompaniment.",
+"zh": "她在簡單的鋼琴伴奏下演唱。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "company",
+"m": "同伴"
+},
+{
+"p": "-ment",
+"m": "名詞字尾"
+}
+],
+"note": "陪伴 → 伴奏、伴隨物"
+},
+"syn": [
+"backing",
+"complement",
+"addition"
+],
+"ant": []
+},
+{
+"w": "accompanist",
+"kk": "[əˋkʌmpənɪst]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who plays music to support a singer or soloist",
+"zh": "伴奏者"
+}
+],
+"ex": [
+{
+"en": "The choir's accompanist has played the piano for them for twenty years.",
+"zh": "合唱團的伴奏者已經為他們彈了二十年的鋼琴。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "accompany",
+"m": "陪伴"
+},
+{
+"p": "-ist",
+"m": "人"
+}
+],
+"note": "伴奏的人"
+},
+"syn": [
+"pianist",
+"musician"
+],
+"ant": [
+"soloist"
+]
+},
+{
+"w": "accompany",
+"kk": "[əˋkʌmpənɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to go somewhere with someone",
+"zh": "陪同"
+},
+{
+"pos": "v.",
+"en": "to happen or exist together with",
+"zh": "伴隨"
+}
+],
+"ex": [
+{
+"en": "A parent must accompany each child on the field trip.",
+"zh": "校外教學時，每個孩子都要有一位家長陪同。"
+},
+{
+"en": "Children under twelve must be accompanied by an adult.",
+"zh": "十二歲以下的兒童必須由大人陪同。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "company",
+"m": "同伴"
+}
+],
+"note": "成為同伴 → 陪同"
+},
+"syn": [
+"escort",
+"attend",
+"go with"
+],
+"ant": [
+"abandon",
+"leave"
+]
+},
+{
+"w": "accomplice",
+"kk": "[əˋkɑmplɪs]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who helps another commit a crime",
+"zh": "共犯；幫兇"
+}
+],
+"ex": [
+{
+"en": "The thief's accomplice waited in the getaway car.",
+"zh": "小偷的共犯在逃跑用的車裡等著。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "加強語氣"
+},
+{
+"p": "com-",
+"m": "together 一起"
+},
+{
+"p": "plic",
+"m": "fold 摺疊、牽連"
+}
+],
+"note": "被摺在一起、牽連在內的人 → 共犯"
+},
+"syn": [
+"partner in crime",
+"collaborator",
+"accessory"
+],
+"ant": []
+},
+{
+"w": "accomplish",
+"kk": "[əˋkɑmplɪʃ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to succeed in doing or completing something",
+"zh": "完成；達成"
+}
+],
+"ex": [
+{
+"en": "We can accomplish a lot more if we work together.",
+"zh": "如果我們合作，能完成的事會多很多。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "com-",
+"m": "加強語氣"
+},
+{
+"p": "pl",
+"m": "fill 填滿"
+},
+{
+"p": "-ish",
+"m": "動詞字尾"
+}
+],
+"note": "填滿 → 完成（complete 同源）"
+},
+"syn": [
+"achieve",
+"complete",
+"attain"
+],
+"ant": [
+"fail",
+"abandon"
+]
+},
+{
+"w": "accordion",
+"kk": "[əˋkɔrdɪən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a musical instrument with bellows and keys, played by squeezing",
+"zh": "手風琴"
+}
+],
+"ex": [
+{
+"en": "An old man played the accordion on the street corner.",
+"zh": "一位老人在街角拉手風琴。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "accord",
+"m": "harmony 和諧"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "發出和諧聲音的樂器"
+},
+"syn": [
+"squeezebox"
+],
+"ant": []
+},
+{
+"w": "accost",
+"kk": "[əˋkɔst]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to approach and speak to someone boldly or aggressively",
+"zh": "（冒昧地）上前搭話；攔住糾纏"
+}
+],
+"ex": [
+{
+"en": "Reporters rushed to accost the senator as he left the building.",
+"zh": "參議員一走出大樓，記者就衝上前攔住他。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "cost",
+"m": "rib, side 肋骨、側邊"
+}
+],
+"note": "走到身旁 → 上前搭話"
+},
+"syn": [
+"confront",
+"approach",
+"waylay"
+],
+"ant": [
+"avoid",
+"ignore"
+]
+},
+{
+"w": "account",
+"kk": "[əˋkaʊnt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a report or description of an event",
+"zh": "敘述；說明"
+},
+{
+"pos": "n.",
+"en": "an arrangement to keep money with a bank",
+"zh": "帳戶；帳目"
+},
+{
+"pos": "v.",
+"en": "to give an explanation (account for)",
+"zh": "解釋；說明原因"
+}
+],
+"ex": [
+{
+"en": "Her account of the accident differed from the driver's.",
+"zh": "她對事故的描述跟司機的說法不同。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "count",
+"m": "計算"
+}
+],
+"note": "計算清楚 → 帳目、交代"
+},
+"syn": [
+"report",
+"description",
+"explanation"
+],
+"ant": []
+},
+{
+"w": "accouter",
+"kk": "[əˋkutɚ]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to dress or equip, especially for military service",
+"zh": "裝備；（給軍人）配備服裝"
+}
+],
+"ex": [
+{
+"en": "The knights would accouter themselves in armor before the tournament.",
+"zh": "騎士們在比武大會前會穿上盔甲。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "couter",
+"m": "sew, dress 縫製、穿著（古法文）"
+}
+],
+"note": "給人穿戴上 → 裝備"
+},
+"syn": [
+"equip",
+"outfit",
+"array"
+],
+"ant": [
+"strip"
+]
+},
+{
+"w": "accredit",
+"kk": "[əˋkrɛdɪt]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to officially recognize as meeting a standard",
+"zh": "正式認可；授權"
+},
+{
+"pos": "v.",
+"en": "to give credit to someone for something",
+"zh": "歸功於"
+}
+],
+"ex": [
+{
+"en": "An independent board will accredit the new medical school.",
+"zh": "將由一個獨立委員會認證這所新醫學院。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "cred",
+"m": "believe 相信"
+},
+{
+"p": "-it",
+"m": "字尾"
+}
+],
+"note": "給予信任 → 認可"
+},
+"syn": [
+"certify",
+"authorize",
+"credit"
+],
+"ant": [
+"discredit",
+"reject"
+]
+},
+{
+"w": "accumulate",
+"kk": "[əˋkjumjəˏlet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to gather or increase gradually over time",
+"zh": "累積；積聚"
+}
+],
+"ex": [
+{
+"en": "Dust will accumulate quickly if you don't clean the shelves.",
+"zh": "如果不清理架子，灰塵很快就會堆積。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "cumul",
+"m": "heap 堆"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "堆起來 → 累積"
+},
+"syn": [
+"gather",
+"amass",
+"collect"
+],
+"ant": [
+"disperse",
+"dissipate"
+]
+},
+{
+"w": "accuracy",
+"kk": "[ˋækjərəsɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the quality of being correct and precise",
+"zh": "準確；精確度"
+}
+],
+"ex": [
+{
+"en": "Please check the accuracy of your calculations.",
+"zh": "請檢查你計算的準確度。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "cur",
+"m": "care 小心"
+},
+{
+"p": "-acy",
+"m": "名詞字尾"
+}
+],
+"note": "小心仔細 → 準確"
+},
+"syn": [
+"precision",
+"correctness",
+"exactness"
+],
+"ant": [
+"inaccuracy",
+"error"
+]
+},
+{
+"w": "accurate",
+"kk": "[ˋækjərɪt]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "correct in all details; exact",
+"zh": "準確的；精確的"
+}
+],
+"ex": [
+{
+"en": "The witness gave an accurate description of the suspect.",
+"zh": "目擊者準確地描述了嫌犯的樣貌。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "cur",
+"m": "care 小心"
+},
+{
+"p": "-ate",
+"m": "形容詞字尾"
+}
+],
+"note": "小心做成的 → 準確的"
+},
+"syn": [
+"correct",
+"precise",
+"exact"
+],
+"ant": [
+"inaccurate",
+"wrong"
+]
+},
+{
+"w": "accursed",
+"kk": "[əˋkɝsɪd]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "under a curse; hateful or very annoying",
+"zh": "被詛咒的；可恨的"
+}
+],
+"ex": [
+{
+"en": "The sailors believed the ship was accursed after so many storms.",
+"zh": "遇上那麼多暴風雨後，水手們相信這艘船被詛咒了。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "加強語氣"
+},
+{
+"p": "curse",
+"m": "詛咒"
+},
+{
+"p": "-ed",
+"m": "被…的"
+}
+],
+"note": "被詛咒的"
+},
+"syn": [
+"cursed",
+"damned",
+"hateful"
+],
+"ant": [
+"blessed"
+]
+},
+{
+"w": "accusation",
+"kk": "[ˏækjəˋzeʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a claim that someone has done something wrong",
+"zh": "指控；控告"
+}
+],
+"ex": [
+{
+"en": "He strongly denied the accusation of cheating.",
+"zh": "他強烈否認作弊的指控。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "cus",
+"m": "cause, lawsuit 訴訟"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "對人提起訴訟 → 指控"
+},
+"syn": [
+"charge",
+"allegation",
+"indictment"
+],
+"ant": [
+"defense",
+"vindication"
+]
+},
+{
+"w": "accusatory",
+"kk": "[əˋkjuzəˏtorɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "suggesting that someone has done something wrong",
+"zh": "指責的；控訴的"
+}
+],
+"ex": [
+{
+"en": "She gave him an accusatory look when the vase was found broken.",
+"zh": "發現花瓶破了的時候，她用責怪的眼神看著他。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "accuse",
+"m": "指控"
+},
+{
+"p": "-atory",
+"m": "形容詞字尾"
+}
+],
+"note": "帶有指控意味的"
+},
+"syn": [
+"accusing",
+"reproachful",
+"critical"
+],
+"ant": [
+"approving",
+"complimentary"
+]
+},
+{
+"w": "accuse",
+"kk": "[əˋkjuz]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to say that someone has done something wrong or illegal",
+"zh": "指控；控告"
+}
+],
+"ex": [
+{
+"en": "It is unfair to accuse someone without any proof.",
+"zh": "沒有任何證據就指控別人是不公平的。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "cus",
+"m": "cause, lawsuit 訴訟"
+}
+],
+"note": "對人提出訴訟 → 指控"
+},
+"syn": [
+"charge",
+"blame",
+"indict"
+],
+"ant": [
+"defend",
+"exonerate"
+]
+},
+{
+"w": "accustom",
+"kk": "[əˋkʌstəm]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to make someone used to something",
+"zh": "使習慣於"
+}
+],
+"ex": [
+{
+"en": "It took weeks to accustom ourselves to the cold climate.",
+"zh": "我們花了好幾週才習慣寒冷的氣候。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "custom",
+"m": "習慣"
+}
+],
+"note": "使成為習慣"
+},
+"syn": [
+"adapt",
+"adjust",
+"acclimate"
+],
+"ant": [
+"estrange"
+]
+},
+{
+"w": "acerbity",
+"kk": "[əˋsɝbətɪ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "sharpness or bitterness of taste or manner",
+"zh": "（味道）酸澀；（言語）尖刻"
+}
+],
+"ex": [
+{
+"en": "The critic was known for the acerbity of his reviews.",
+"zh": "那位評論家以尖刻的評論聞名。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "acerb",
+"m": "harsh, bitter 苦澀"
+},
+{
+"p": "-ity",
+"m": "名詞字尾"
+}
+],
+"note": "苦澀 → 尖刻"
+},
+"syn": [
+"harshness",
+"acrimony",
+"sharpness"
+],
+"ant": [
+"sweetness",
+"mildness"
+]
+},
+{
+"w": "acetate",
+"kk": "[ˋæsəˏtet]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a salt or ester of acetic acid; a type of plastic film",
+"zh": "醋酸鹽；醋酸纖維"
+}
+],
+"ex": [
+{
+"en": "The teacher wrote notes on a sheet of clear acetate for the projector.",
+"zh": "老師在透明投影片上寫筆記給投影機使用。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "acet",
+"m": "vinegar 醋"
+},
+{
+"p": "-ate",
+"m": "化學名詞字尾（鹽類）"
+}
+],
+"note": "醋酸形成的鹽"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "acetic",
+"kk": "[əˋsitɪk]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to vinegar or acetic acid",
+"zh": "醋的；醋酸的"
+}
+],
+"ex": [
+{
+"en": "Vinegar gets its sour taste from acetic acid.",
+"zh": "醋的酸味來自醋酸。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "acet",
+"m": "vinegar 醋"
+},
+{
+"p": "-ic",
+"m": "形容詞字尾"
+}
+],
+"note": "醋的"
+},
+"syn": [
+"sour",
+"vinegary"
+],
+"ant": []
+},
+{
+"w": "ache",
+"kk": "[ek]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a continuous dull pain",
+"zh": "疼痛"
+},
+{
+"pos": "v.",
+"en": "to suffer continuous dull pain; to long for",
+"zh": "疼痛；渴望"
+}
+],
+"ex": [
+{
+"en": "After the long hike, I had an ache in my knees.",
+"zh": "長途健行後，我的膝蓋隱隱作痛。"
+}
+],
+"syn": [
+"pain",
+"soreness",
+"throb"
+],
+"ant": [
+"comfort",
+"relief"
+]
+},
+{
+"w": "Achillean",
+"kk": "[ˏækɪˋliən]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "like Achilles; invulnerable or heroic, yet with one weak spot",
+"zh": "像阿基里斯般的；英勇無敵的"
+}
+],
+"ex": [
+{
+"en": "The general showed Achillean courage in battle.",
+"zh": "將軍在戰場上展現阿基里斯般的勇氣。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Achilles",
+"m": "阿基里斯（希臘英雄）"
+},
+{
+"p": "-an",
+"m": "形容詞字尾"
+}
+],
+"note": "希臘神話英雄，全身刀槍不入，唯獨腳跟是弱點（Achilles' heel）"
+},
+"syn": [
+"heroic",
+"invincible"
+],
+"ant": []
+},
+{
+"w": "achromatic",
+"kk": "[ˏækrəˋmætɪk]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "without color; (of a lens) not splitting light into colors",
+"zh": "無色的；消色差的"
+}
+],
+"ex": [
+{
+"en": "The artist painted the room in achromatic shades of black, white, and gray.",
+"zh": "這位藝術家把房間漆成黑、白、灰等無彩色的色調。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "without 沒有"
+},
+{
+"p": "chrom",
+"m": "color 顏色"
+},
+{
+"p": "-atic",
+"m": "形容詞字尾"
+}
+],
+"note": "沒有顏色的"
+},
+"syn": [
+"colorless",
+"neutral",
+"monochrome"
+],
+"ant": [
+"chromatic",
+"colorful"
+]
+},
+{
+"w": "acid",
+"kk": "[ˋæsɪd]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a chemical substance with a sour taste that can burn or dissolve things",
+"zh": "酸；酸性物質"
+},
+{
+"pos": "adj.",
+"en": "sour; (of remarks) sharp and hurtful",
+"zh": "酸的；（言語）尖酸的"
+}
+],
+"ex": [
+{
+"en": "Lemon juice contains citric acid.",
+"zh": "檸檬汁含有檸檬酸。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "acid",
+"m": "sour 酸（拉丁文 acidus）"
+}
+],
+"note": "酸的"
+},
+"syn": [
+"sour",
+"tart",
+"caustic"
+],
+"ant": [
+"alkali",
+"base",
+"sweet"
+]
+},
+{
+"w": "acidify",
+"kk": "[əˋsɪdəˏfaɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to make or become acidic",
+"zh": "使酸化"
+}
+],
+"ex": [
+{
+"en": "Rising carbon dioxide levels acidify the oceans.",
+"zh": "二氧化碳濃度上升使海洋酸化。"
+},
+{
+"en": "Pollution can acidify lakes and kill the fish in them.",
+"zh": "污染會使湖泊酸化，讓湖裡的魚死亡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "acid",
+"m": "sour 酸"
+},
+{
+"p": "-ify",
+"m": "使…化"
+}
+],
+"note": "使變酸"
+},
+"syn": [
+"sour"
+],
+"ant": [
+"neutralize",
+"alkalize"
+]
+},
+{
+"w": "acknowledge",
+"kk": "[əkˋnɑlɪdʒ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to admit that something is true",
+"zh": "承認"
+},
+{
+"pos": "v.",
+"en": "to show that you have noticed or received something",
+"zh": "致意；告知收到"
+}
+],
+"ex": [
+{
+"en": "The company refused to acknowledge any wrongdoing.",
+"zh": "公司拒絕承認有任何不當行為。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "knowledge",
+"m": "知道"
+}
+],
+"note": "表示知道 → 承認"
+},
+"syn": [
+"admit",
+"recognize",
+"concede"
+],
+"ant": [
+"deny",
+"ignore"
+]
+},
+{
+"w": "acknowledgment",
+"kk": "[əkˋnɑlɪdʒmənt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "acceptance of the truth of something; an expression of thanks",
+"zh": "承認；致謝"
+}
+],
+"ex": [
+{
+"en": "The author listed her teachers in the acknowledgment at the front of the book.",
+"zh": "作者在書前的致謝辭裡列出了她的老師們。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "acknowledge",
+"m": "承認"
+},
+{
+"p": "-ment",
+"m": "名詞字尾"
+}
+],
+"note": "acknowledge 的名詞"
+},
+"syn": [
+"admission",
+"recognition",
+"thanks"
+],
+"ant": [
+"denial"
+]
+},
+{
+"w": "acme",
+"kk": "[ˋækmɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the highest point of achievement or excellence",
+"zh": "頂點；巔峰"
+}
+],
+"ex": [
+{
+"en": "Winning the gold medal was the acme of her career.",
+"zh": "贏得金牌是她職業生涯的巔峰。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "acme",
+"m": "point, peak 尖端（希臘文 akmē）"
+}
+],
+"note": "尖端 → 巔峰"
+},
+"syn": [
+"peak",
+"pinnacle",
+"zenith"
+],
+"ant": [
+"nadir",
+"bottom"
+]
+},
+{
+"w": "acoustic",
+"kk": "[əˋkustɪk]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to sound or hearing",
+"zh": "聲音的；聽覺的"
+},
+{
+"pos": "adj.",
+"en": "(of an instrument) not electrically amplified",
+"zh": "（樂器）原聲的、不插電的"
+}
+],
+"ex": [
+{
+"en": "He played an acoustic guitar at the small café.",
+"zh": "他在那間小咖啡館彈木吉他。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "acous",
+"m": "hear 聽（希臘文 akouein）"
+},
+{
+"p": "-tic",
+"m": "形容詞字尾"
+}
+],
+"note": "聽覺的"
+},
+"syn": [
+"auditory",
+"aural",
+"unplugged"
+],
+"ant": [
+"electric"
+]
+},
+{
+"w": "acquaint",
+"kk": "[əˋkwent]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to make someone aware of or familiar with something",
+"zh": "使熟悉；使認識"
+}
+],
+"ex": [
+{
+"en": "New employees need time to acquaint themselves with the software.",
+"zh": "新進員工需要時間熟悉這套軟體。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "quaint",
+"m": "know 知道（拉丁文 cognitus）"
+}
+],
+"note": "使知道 → 使熟悉"
+},
+"syn": [
+"familiarize",
+"inform",
+"introduce"
+],
+"ant": [
+"estrange"
+]
+},
+{
+"w": "acquiescence",
+"kk": "[ˏækwɪˋɛsṇs]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "reluctant acceptance without protest",
+"zh": "默許；勉強同意"
+}
+],
+"ex": [
+{
+"en": "His silence was taken as acquiescence to the plan.",
+"zh": "他的沉默被視為默許這個計畫。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "quies",
+"m": "rest, quiet 安靜"
+},
+{
+"p": "-cence",
+"m": "名詞字尾"
+}
+],
+"note": "acquiesce 的名詞"
+},
+"syn": [
+"consent",
+"compliance",
+"submission"
+],
+"ant": [
+"resistance",
+"protest"
+]
+},
+{
+"w": "acquire",
+"kk": "[əˋkwaɪr]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to get or obtain something, often through effort",
+"zh": "獲得；習得"
+}
+],
+"ex": [
+{
+"en": "It takes years to acquire fluency in a foreign language.",
+"zh": "要花好幾年才能流利地說一種外語。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "quir",
+"m": "seek 尋求"
+}
+],
+"note": "尋求而得到 → 獲得（inquire、require 同源）"
+},
+"syn": [
+"obtain",
+"gain",
+"attain"
+],
+"ant": [
+"lose",
+"forfeit"
+]
+},
+{
+"w": "acquisition",
+"kk": "[ˏækwəˋzɪʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "something obtained; the act of obtaining",
+"zh": "獲得物；收購；習得"
+}
+],
+"ex": [
+{
+"en": "The museum's latest acquisition is a rare Chinese scroll.",
+"zh": "博物館最新的收藏是一幅罕見的中國卷軸。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "quisit",
+"m": "seek 尋求"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "acquire 的名詞"
+},
+"syn": [
+"purchase",
+"gain",
+"procurement"
+],
+"ant": [
+"loss",
+"disposal"
+]
+},
+{
+"w": "acquit",
+"kk": "[əˋkwɪt]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to declare someone not guilty of a crime",
+"zh": "宣告無罪"
+},
+{
+"pos": "v.",
+"en": "to behave or perform in a certain way (acquit oneself)",
+"zh": "表現"
+}
+],
+"ex": [
+{
+"en": "The jury voted to acquit the defendant of all charges.",
+"zh": "陪審團投票宣判被告所有罪名均不成立。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ac-",
+"m": "to 朝向"
+},
+{
+"p": "quit",
+"m": "free 自由、免除"
+}
+],
+"note": "使（罪名）免除 → 宣告無罪"
+},
+"syn": [
+"clear",
+"exonerate",
+"absolve"
+],
+"ant": [
+"convict",
+"condemn"
+]
+},
+{
+"w": "acquittal",
+"kk": "[əˋkwɪtḷ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a judgment that a person is not guilty",
+"zh": "無罪判決"
+}
+],
+"ex": [
+{
+"en": "The acquittal surprised everyone who had followed the trial.",
+"zh": "無罪判決讓所有關注這場審判的人都很驚訝。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "acquit",
+"m": "宣告無罪"
+},
+{
+"p": "-al",
+"m": "名詞字尾"
+}
+],
+"note": "acquit 的名詞"
+},
+"syn": [
+"exoneration",
+"discharge",
+"clearance"
+],
+"ant": [
+"conviction"
+]
+},
+{
+"w": "acquittance",
+"kk": "[əˋkwɪtṇs]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "release from a debt; a written receipt for payment",
+"zh": "（債務）清償；收據"
+}
+],
+"ex": [
+{
+"en": "The merchant gave him a signed acquittance once the debt was paid.",
+"zh": "債務還清後，商人給了他一張簽名的收據。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "acquit",
+"m": "免除"
+},
+{
+"p": "-ance",
+"m": "名詞字尾"
+}
+],
+"note": "免除債務的證明"
+},
+"syn": [
+"receipt",
+"discharge",
+"release"
+],
+"ant": []
+},
+{
+"w": "acreage",
+"kk": "[ˋekərɪdʒ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "an area of land measured in acres",
+"zh": "英畝數；土地面積"
+}
+],
+"ex": [
+{
+"en": "The farm's total acreage has doubled in ten years.",
+"zh": "這座農場的總面積十年來增加了一倍。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "acre",
+"m": "英畝"
+},
+{
+"p": "-age",
+"m": "名詞字尾（量）"
+}
+],
+"note": "英畝的總量"
+},
+"syn": [
+"area",
+"land"
+],
+"ant": []
+},
+{
+"w": "acrid",
+"kk": "[ˋækrɪd]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "having a bitter, unpleasantly sharp smell or taste",
+"zh": "（氣味、味道）刺鼻的、辛辣的"
+},
+{
+"pos": "adj.",
+"en": "angry and bitter",
+"zh": "尖刻的"
+}
+],
+"ex": [
+{
+"en": "Acrid smoke from the burning tires filled the air.",
+"zh": "燃燒輪胎冒出的刺鼻濃煙瀰漫空中。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "acr",
+"m": "sharp 尖銳"
+},
+{
+"p": "-id",
+"m": "形容詞字尾"
+}
+],
+"note": "尖銳刺激的 → 刺鼻的（acrimony 同源）"
+},
+"syn": [
+"pungent",
+"harsh",
+"bitter"
+],
+"ant": [
+"mild",
+"sweet"
+]
+},
+{
+"w": "acrimonious",
+"kk": "[ˏækrəˋmonɪəs]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "angry and bitter (of speech or a discussion)",
+"zh": "（言語、爭論）尖刻的、激烈的"
+}
+],
+"ex": [
+{
+"en": "The two candidates held an acrimonious debate on television.",
+"zh": "兩位候選人在電視上進行了一場火藥味十足的辯論。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "acri",
+"m": "sharp, bitter 尖銳、苦"
+},
+{
+"p": "-monious",
+"m": "形容詞字尾"
+}
+],
+"note": "acrimony 的形容詞"
+},
+"syn": [
+"bitter",
+"hostile",
+"rancorous"
+],
+"ant": [
+"friendly",
+"amicable"
+]
+}
+]

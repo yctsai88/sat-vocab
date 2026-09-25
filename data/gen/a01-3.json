@@ -1,0 +1,3963 @@
+[
+{
+"w": "assimilate",
+"kk": "[əˋsɪmḷˏet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to take in and fully understand information or ideas",
+"zh": "吸收；理解"
+},
+{
+"pos": "v.",
+"en": "to become part of a group or culture; to absorb into a larger group",
+"zh": "同化；融入"
+}
+],
+"ex": [
+{
+"en": "It took the immigrants years to assimilate into their new culture.",
+"zh": "這些移民花了好幾年才融入新的文化。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "as-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "simil",
+"m": "like, same 相似"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "變得和…相似 → 同化"
+},
+"syn": [
+"absorb",
+"integrate",
+"digest"
+],
+"ant": [
+"reject",
+"segregate"
+]
+},
+{
+"w": "assonance",
+"kk": "[ˋæsənəns]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "repetition of similar vowel sounds in nearby words",
+"zh": "（詩歌）母音韻；諧音"
+}
+],
+"ex": [
+{
+"en": "\"Hear the mellow wedding bells\" uses assonance with its repeated \"e\" sounds.",
+"zh": "Hear the mellow wedding bells 這句用了重複的 e 音，形成母音韻。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "as-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "son",
+"m": "sound 聲音"
+},
+{
+"p": "-ance",
+"m": "名詞字尾"
+}
+],
+"note": "聲音彼此呼應 → 母音韻"
+},
+"syn": [
+"rhyme",
+"vowel rhyme"
+],
+"ant": [
+"dissonance"
+]
+},
+{
+"w": "assonant",
+"kk": "[ˋæsənənt]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "having repeated or similar vowel sounds",
+"zh": "母音押韻的；諧音的"
+}
+],
+"ex": [
+{
+"en": "The poet chose assonant words like \"lake\" and \"fade\" to create a soft rhythm.",
+"zh": "詩人挑選 lake 和 fade 這類母音押韻的字，營造柔和的節奏。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "as-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "son",
+"m": "sound 聲音"
+},
+{
+"p": "-ant",
+"m": "形容詞字尾"
+}
+],
+"note": "聲音相呼應的 → 母音押韻的"
+},
+"syn": [
+"rhyming"
+],
+"ant": [
+"dissonant"
+]
+},
+{
+"w": "assonate",
+"kk": "[ˋæsəˏnet]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to correspond in vowel sound; to rhyme by vowel sounds",
+"zh": "母音押韻；諧音"
+}
+],
+"ex": [
+{
+"en": "In this line, \"time\" and \"light\" assonate but do not fully rhyme.",
+"zh": "在這行詩裡，time 和 light 母音押韻，但不算完全押韻。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "as-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "son",
+"m": "sound 聲音"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "聲音相呼應 → 母音押韻"
+},
+"syn": [
+"rhyme",
+"echo"
+],
+"ant": []
+},
+{
+"w": "assuage",
+"kk": "[əˋswedʒ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to make an unpleasant feeling less intense",
+"zh": "緩和；減輕（痛苦、不安）"
+},
+{
+"pos": "v.",
+"en": "to satisfy a need such as hunger or thirst",
+"zh": "滿足（食慾等）"
+}
+],
+"ex": [
+{
+"en": "The mayor tried to assuage fears that the water was unsafe.",
+"zh": "市長試圖緩解民眾對水質不安全的恐懼。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "as-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "suage",
+"m": "sweet 甜（拉丁文 suavis）"
+}
+],
+"note": "使變甜 → 緩和"
+},
+"syn": [
+"alleviate",
+"soothe",
+"relieve"
+],
+"ant": [
+"aggravate",
+"intensify"
+]
+},
+{
+"w": "astringent",
+"kk": "[əˋstrɪndʒənt]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "causing skin or body tissue to tighten",
+"zh": "收斂的；緊膚的"
+},
+{
+"pos": "adj.",
+"en": "sharp or severe in manner or style",
+"zh": "尖刻的；嚴厲的"
+},
+{
+"pos": "n.",
+"en": "a substance that tightens skin or tissue",
+"zh": "收斂劑"
+}
+],
+"ex": [
+{
+"en": "The critic's astringent review hurt the young author's feelings.",
+"zh": "評論家尖刻的書評傷了那位年輕作者的心。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "string",
+"m": "bind tight 綁緊"
+},
+{
+"p": "-ent",
+"m": "形容詞字尾"
+}
+],
+"note": "使綁緊的 → 收斂的；嚴厲的"
+},
+"syn": [
+"harsh",
+"severe",
+"caustic"
+],
+"ant": [
+"mild",
+"gentle"
+]
+},
+{
+"w": "astute",
+"kk": "[əˋstjut]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "able to judge situations accurately and use them to one's advantage",
+"zh": "精明的；敏銳的"
+}
+],
+"ex": [
+{
+"en": "An astute investor noticed the trend before anyone else.",
+"zh": "一位精明的投資人比其他人更早察覺這個趨勢。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "astut",
+"m": "cunning 狡猾（拉丁文 astus）"
+}
+],
+"note": "機靈 → 精明的"
+},
+"syn": [
+"shrewd",
+"perceptive",
+"sharp"
+],
+"ant": [
+"naive",
+"foolish"
+]
+},
+{
+"w": "atheism",
+"kk": "[ˋeθɪˏɪzəm]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the belief that God or gods do not exist",
+"zh": "無神論"
+}
+],
+"ex": [
+{
+"en": "The book explores the history of atheism in Western thought.",
+"zh": "這本書探討西方思想中無神論的歷史。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "without 沒有"
+},
+{
+"p": "the",
+"m": "god 神"
+},
+{
+"p": "-ism",
+"m": "名詞字尾（主義）"
+}
+],
+"note": "沒有神的主義 → 無神論"
+},
+"syn": [
+"disbelief",
+"nonbelief"
+],
+"ant": [
+"theism",
+"faith"
+]
+},
+{
+"w": "athirst",
+"kk": "[əˋθɝst]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "(literary) eager or longing for something; thirsty",
+"zh": "（文）渴望的；口渴的"
+}
+],
+"ex": [
+{
+"en": "The young scholar was athirst for knowledge of ancient languages.",
+"zh": "那位年輕學者渴望學習古代語言的知識。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "加強語氣"
+},
+{
+"p": "thirst",
+"m": "口渴"
+}
+],
+"note": "非常口渴 → 渴望的"
+},
+"syn": [
+"eager",
+"thirsty",
+"avid"
+],
+"ant": [
+"indifferent"
+]
+},
+{
+"w": "athwart",
+"kk": "[əˋθwɔrt]",
+"tier": 2,
+"senses": [
+{
+"pos": "prep.",
+"en": "across from side to side; across the path of",
+"zh": "橫越；橫過"
+},
+{
+"pos": "adv.",
+"en": "in opposition to; contrary to what is expected",
+"zh": "相反地；不順地"
+}
+],
+"ex": [
+{
+"en": "A fallen tree lay athwart the road after the storm.",
+"zh": "暴風雨過後，一棵倒下的樹橫在路上。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "on 在"
+},
+{
+"p": "thwart",
+"m": "across 橫過"
+}
+],
+"note": "橫在上面 → 橫越"
+},
+"syn": [
+"across",
+"crosswise"
+],
+"ant": [
+"along"
+]
+},
+{
+"w": "atomizer",
+"kk": "[ˋætəmˏaɪzɚ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a device that turns liquid into a fine spray",
+"zh": "噴霧器"
+}
+],
+"ex": [
+{
+"en": "She sprayed perfume from a glass atomizer.",
+"zh": "她用玻璃噴霧瓶噴香水。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "atom",
+"m": "原子；微粒"
+},
+{
+"p": "-ize",
+"m": "動詞字尾"
+},
+{
+"p": "-er",
+"m": "名詞字尾（器具）"
+}
+],
+"note": "把液體變成微粒的器具 → 噴霧器"
+},
+"syn": [
+"sprayer",
+"spray bottle",
+"nebulizer"
+],
+"ant": []
+},
+{
+"w": "atone",
+"kk": "[əˋton]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to do something to make up for a wrong or sin",
+"zh": "贖罪；彌補"
+}
+],
+"ex": [
+{
+"en": "He volunteered every weekend to atone for his past mistakes.",
+"zh": "他每個週末都去當志工，彌補過去犯的錯。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "at",
+"m": "at 在"
+},
+{
+"p": "one",
+"m": "一體"
+}
+],
+"note": "at one（重歸於好）→ 彌補、贖罪"
+},
+"syn": [
+"make amends",
+"compensate",
+"redeem"
+],
+"ant": [],
+"mn": "拆成 at-one：做了補償，雙方才能重新「合而為一」。"
+},
+{
+"w": "atonement",
+"kk": "[əˋtonmənt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the act of making up for a wrong or sin",
+"zh": "贖罪；補償"
+}
+],
+"ex": [
+{
+"en": "She offered to repaint the fence as atonement for the damage.",
+"zh": "她提議重新油漆籬笆，作為損壞的補償。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "atone",
+"m": "贖罪"
+},
+{
+"p": "-ment",
+"m": "名詞字尾"
+}
+],
+"note": "贖罪的行為"
+},
+"syn": [
+"amends",
+"reparation",
+"redemption"
+],
+"ant": []
+},
+{
+"w": "atrocious",
+"kk": "[əˋtroʃəs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "extremely bad or unpleasant",
+"zh": "極糟的；惡劣的"
+},
+{
+"pos": "adj.",
+"en": "extremely cruel or wicked",
+"zh": "殘暴的；兇惡的"
+}
+],
+"ex": [
+{
+"en": "The service at the restaurant was atrocious, so we left early.",
+"zh": "那家餐廳的服務糟透了，所以我們提早離開。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "atroc",
+"m": "cruel, fierce 殘忍"
+},
+{
+"p": "-ious",
+"m": "形容詞字尾"
+}
+],
+"note": "殘忍的 → 極糟的"
+},
+"syn": [
+"appalling",
+"terrible",
+"horrific"
+],
+"ant": [
+"excellent",
+"admirable"
+]
+},
+{
+"w": "atrocity",
+"kk": "[əˋtrɑsətɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "an extremely cruel or violent act, especially in war",
+"zh": "暴行；殘暴行為"
+}
+],
+"ex": [
+{
+"en": "The museum documents every atrocity committed during the war.",
+"zh": "這間博物館記錄了戰爭期間的每一樁暴行。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "atroc",
+"m": "cruel, fierce 殘忍"
+},
+{
+"p": "-ity",
+"m": "名詞字尾"
+}
+],
+"note": "殘忍的行為 → 暴行"
+},
+"syn": [
+"outrage",
+"crime",
+"barbarity"
+],
+"ant": [
+"kindness"
+]
+},
+{
+"w": "attest",
+"kk": "[əˋtɛst]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to provide or serve as clear evidence of",
+"zh": "證明；證實"
+},
+{
+"pos": "v.",
+"en": "to declare that something is true, especially formally",
+"zh": "作證；證明（屬實）"
+}
+],
+"ex": [
+{
+"en": "Thousands of fans can attest to the band's amazing live shows.",
+"zh": "成千上萬的歌迷都能證明這個樂團的現場演出有多精彩。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "at-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "test",
+"m": "witness 證人"
+}
+],
+"note": "去當證人 → 證明"
+},
+"syn": [
+"confirm",
+"testify",
+"verify"
+],
+"ant": [
+"deny",
+"refute"
+]
+},
+{
+"w": "attorney-general",
+"kk": "[əˋtɝnɪˋdʒɛnərəl]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the chief legal officer of a country or state",
+"zh": "（美國）司法部長；檢察總長"
+}
+],
+"ex": [
+{
+"en": "The attorney-general announced a new investigation into the company.",
+"zh": "司法部長宣布對那家公司展開新的調查。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "attorney",
+"m": "律師"
+},
+{
+"p": "general",
+"m": "總的、首席的"
+}
+],
+"note": "首席律師 → 司法部長"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "auburn",
+"kk": "[ˋɔbɚn]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "(of hair) reddish-brown",
+"zh": "（頭髮）赤褐色的"
+}
+],
+"ex": [
+{
+"en": "The girl with auburn hair won first prize in the spelling bee.",
+"zh": "那個赤褐色頭髮的女孩贏得拼字比賽冠軍。"
+}
+],
+"syn": [
+"reddish-brown",
+"chestnut",
+"russet"
+],
+"ant": []
+},
+{
+"w": "audacious",
+"kk": "[ɔˋdeʃəs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "showing a willingness to take bold risks",
+"zh": "大膽的；有魄力的"
+},
+{
+"pos": "adj.",
+"en": "showing a rude lack of respect",
+"zh": "厚顏無恥的；放肆的"
+}
+],
+"ex": [
+{
+"en": "The team made an audacious attempt to climb the mountain in winter.",
+"zh": "這支隊伍大膽嘗試在冬天攀登這座山。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aud",
+"m": "dare 敢"
+},
+{
+"p": "-acious",
+"m": "形容詞字尾（傾向…的）"
+}
+],
+"note": "很敢的 → 大膽的"
+},
+"syn": [
+"bold",
+"daring",
+"brazen"
+],
+"ant": [
+"timid",
+"cautious"
+]
+},
+{
+"w": "audible",
+"kk": "[ˋɔdəbḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "able to be heard",
+"zh": "聽得見的"
+}
+],
+"ex": [
+{
+"en": "Her voice was barely audible over the noise of the crowd.",
+"zh": "在人群的喧鬧聲中，她的聲音幾乎聽不見。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aud",
+"m": "hear 聽"
+},
+{
+"p": "-ible",
+"m": "形容詞字尾（可…的）"
+}
+],
+"note": "可以聽見的"
+},
+"syn": [
+"hearable",
+"perceptible",
+"detectable"
+],
+"ant": [
+"inaudible",
+"silent"
+]
+},
+{
+"w": "audition",
+"kk": "[ɔˋdɪʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a short performance to test whether a performer is suitable for a role",
+"zh": "試鏡；試演"
+},
+{
+"pos": "v.",
+"en": "to perform in or hold an audition",
+"zh": "參加試鏡；為…舉行試鏡"
+}
+],
+"ex": [
+{
+"en": "She practiced the song all week for her audition.",
+"zh": "她整個星期都在練這首歌，準備試鏡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aud",
+"m": "hear 聽"
+},
+{
+"p": "-ition",
+"m": "名詞字尾"
+}
+],
+"note": "讓人聽聽看 → 試演"
+},
+"syn": [
+"tryout",
+"screen test"
+],
+"ant": []
+},
+{
+"w": "auditory",
+"kk": "[ˋɔdəˏtorɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to the sense of hearing",
+"zh": "聽覺的"
+}
+],
+"ex": [
+{
+"en": "Some students are auditory learners who remember best by listening.",
+"zh": "有些學生是聽覺型學習者，靠聽最容易記住。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aud",
+"m": "hear 聽"
+},
+{
+"p": "-itory",
+"m": "形容詞字尾"
+}
+],
+"note": "與聽有關的 → 聽覺的"
+},
+"syn": [
+"aural",
+"acoustic"
+],
+"ant": [
+"visual"
+]
+},
+{
+"w": "augment",
+"kk": "[ɔgˋmɛnt]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to make something greater by adding to it",
+"zh": "增加；擴大"
+}
+],
+"ex": [
+{
+"en": "He took a weekend job to augment his income.",
+"zh": "他找了份週末工作來增加收入。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aug",
+"m": "increase 增加"
+},
+{
+"p": "-ment",
+"m": "字尾"
+}
+],
+"note": "增加"
+},
+"syn": [
+"increase",
+"enlarge",
+"supplement"
+],
+"ant": [
+"reduce",
+"diminish"
+]
+},
+{
+"w": "augur",
+"kk": "[ˋɔgɚ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to be a sign of a likely future outcome",
+"zh": "預示；主（吉凶）"
+},
+{
+"pos": "n.",
+"en": "a fortune-teller in ancient Rome who read signs from birds",
+"zh": "（古羅馬）占卜官"
+}
+],
+"ex": [
+{
+"en": "The strong sales numbers augur well for the new company.",
+"zh": "亮眼的銷售數字對這家新公司來說是個好兆頭。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aug",
+"m": "increase 增加（一說源自 avis 鳥）"
+},
+{
+"p": "-ur",
+"m": "名詞字尾"
+}
+],
+"note": "古羅馬占卜官觀察飛鳥預測吉凶 → 預示"
+},
+"syn": [
+"foreshadow",
+"portend",
+"bode"
+],
+"ant": [],
+"mn": "常用 augur well / augur ill，表示「是好兆頭／壞兆頭」。"
+},
+{
+"w": "Augustinian",
+"kk": "[ˏɔgəsˋtɪnɪən]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to St. Augustine or his teachings",
+"zh": "聖奧古斯丁（學說）的"
+},
+{
+"pos": "n.",
+"en": "a member of a religious order following the rule of St. Augustine",
+"zh": "奧古斯丁會修士"
+}
+],
+"ex": [
+{
+"en": "The scholar studied the Augustinian idea of original sin.",
+"zh": "那位學者研究聖奧古斯丁的原罪觀。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Augustine",
+"m": "聖奧古斯丁"
+},
+{
+"p": "-ian",
+"m": "形容詞字尾"
+}
+],
+"note": "聖奧古斯丁的"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "aura",
+"kk": "[ˋɔrə]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a distinctive feeling or quality that seems to surround a person or place",
+"zh": "氣氛；氣質；光環"
+}
+],
+"ex": [
+{
+"en": "The old library had an aura of mystery.",
+"zh": "那座老圖書館散發著一股神祕的氣息。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aura",
+"m": "breeze, breath 微風（希臘文）"
+}
+],
+"note": "周圍的一陣氣息 → 氣氛"
+},
+"syn": [
+"atmosphere",
+"air",
+"ambience"
+],
+"ant": []
+},
+{
+"w": "aural",
+"kk": "[ˋɔrəl]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to the ear or to hearing",
+"zh": "耳的；聽覺的"
+}
+],
+"ex": [
+{
+"en": "The music exam includes an aural test of rhythm and pitch.",
+"zh": "音樂考試包含節奏和音高的聽力測驗。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aur",
+"m": "ear 耳"
+},
+{
+"p": "-al",
+"m": "形容詞字尾"
+}
+],
+"note": "耳朵的 → 聽覺的"
+},
+"syn": [
+"auditory",
+"acoustic"
+],
+"ant": [
+"visual",
+"oral"
+],
+"mn": "aural（聽覺的）和 oral（口頭的）發音幾乎一樣，要看拼字分辨。"
+},
+{
+"w": "auricle",
+"kk": "[ˋɔrɪkḷ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the outer part of the ear",
+"zh": "外耳；耳廓"
+},
+{
+"pos": "n.",
+"en": "an upper chamber of the heart (atrium)",
+"zh": "心耳；心房"
+}
+],
+"ex": [
+{
+"en": "The doctor examined the auricle for signs of infection.",
+"zh": "醫生檢查外耳有沒有感染的跡象。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aur",
+"m": "ear 耳"
+},
+{
+"p": "-icle",
+"m": "small 小（指小字尾）"
+}
+],
+"note": "小耳朵 → 外耳"
+},
+"syn": [
+"pinna",
+"atrium"
+],
+"ant": []
+},
+{
+"w": "auricular",
+"kk": "[ɔˋrɪkjəlɚ]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to the ear or hearing",
+"zh": "耳的；聽覺的"
+},
+{
+"pos": "adj.",
+"en": "told privately into someone's ear",
+"zh": "耳語的；私下告知的"
+}
+],
+"ex": [
+{
+"en": "Catholic confession is sometimes called auricular confession because it is spoken privately.",
+"zh": "天主教的告解有時被稱作「耳語告解」，因為是私下說的。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aur",
+"m": "ear 耳"
+},
+{
+"p": "-icul",
+"m": "指小字尾"
+},
+{
+"p": "-ar",
+"m": "形容詞字尾"
+}
+],
+"note": "耳朵的"
+},
+"syn": [
+"aural",
+"auditory"
+],
+"ant": []
+},
+{
+"w": "auriferous",
+"kk": "[ɔˋrɪfərəs]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "containing gold",
+"zh": "含金的；產金的"
+}
+],
+"ex": [
+{
+"en": "Miners flocked to the auriferous hills of California.",
+"zh": "礦工們蜂擁至加州產金的山區。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aur",
+"m": "gold 金（拉丁文 aurum）"
+},
+{
+"p": "fer",
+"m": "carry, bear 帶有"
+},
+{
+"p": "-ous",
+"m": "形容詞字尾"
+}
+],
+"note": "帶有黃金的 → 含金的"
+},
+"syn": [
+"gold-bearing"
+],
+"ant": []
+},
+{
+"w": "aurora",
+"kk": "[ɔˋrorə]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "natural bands of colored light in the sky near the poles",
+"zh": "極光"
+},
+{
+"pos": "n.",
+"en": "(literary) the dawn",
+"zh": "（文）曙光；黎明"
+}
+],
+"ex": [
+{
+"en": "We stayed up all night to watch the aurora over Iceland.",
+"zh": "我們整晚不睡，只為了看冰島上空的極光。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aurora",
+"m": "dawn 黎明（羅馬黎明女神）"
+}
+],
+"note": "黎明女神 → 曙光、極光"
+},
+"syn": [
+"northern lights",
+"dawn"
+],
+"ant": [
+"dusk"
+]
+},
+{
+"w": "auspice",
+"kk": "[ˋɔspɪs]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "(usually auspices) support or sponsorship",
+"zh": "贊助；主辦"
+},
+{
+"pos": "n.",
+"en": "a sign of what will happen; an omen",
+"zh": "預兆；吉兆"
+}
+],
+"ex": [
+{
+"en": "The ancient priest read the flight of birds as a favorable auspice.",
+"zh": "古代祭司把鳥群的飛行視為吉兆。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "au",
+"m": "bird 鳥（拉丁文 avis）"
+},
+{
+"p": "spic",
+"m": "look 看"
+},
+{
+"p": "-e",
+"m": "字尾"
+}
+],
+"note": "觀察鳥來占卜 → 預兆"
+},
+"syn": [
+"omen",
+"sponsorship",
+"patronage"
+],
+"ant": [],
+"mn": "常用片語 under the auspices of，意為「在…的贊助／主辦下」。"
+},
+{
+"w": "austere",
+"kk": "[ɔˋstɪr]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "severe or strict in manner or attitude",
+"zh": "嚴峻的；嚴肅的"
+},
+{
+"pos": "adj.",
+"en": "plain and without decoration or comfort",
+"zh": "樸素的；簡陋的"
+}
+],
+"ex": [
+{
+"en": "The monks lived in austere rooms with only a bed and a desk.",
+"zh": "僧侶們住在只有一張床和一張桌子的簡樸房間裡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "auster",
+"m": "harsh, dry 嚴酷、乾澀（希臘文）"
+}
+],
+"note": "嚴酷乾澀 → 嚴峻、樸素"
+},
+"syn": [
+"stern",
+"severe",
+"spartan"
+],
+"ant": [
+"lavish",
+"ornate",
+"lenient"
+]
+},
+{
+"w": "autarchy",
+"kk": "[ˋɔtɑrkɪ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "absolute rule by one person; autocracy",
+"zh": "獨裁；專制"
+},
+{
+"pos": "n.",
+"en": "economic self-sufficiency (also spelled autarky)",
+"zh": "經濟自給自足"
+}
+],
+"ex": [
+{
+"en": "Under the emperor's autarchy, no one dared to question his orders.",
+"zh": "在皇帝的專制統治下，沒人敢質疑他的命令。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aut-",
+"m": "self 自己"
+},
+{
+"p": "arch",
+"m": "rule 統治"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "一個人自己統治 → 獨裁"
+},
+"syn": [
+"autocracy",
+"dictatorship",
+"absolutism"
+],
+"ant": [
+"democracy"
+]
+},
+{
+"w": "authentic",
+"kk": "[ɔˋθɛntɪk]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "real or genuine; not fake",
+"zh": "真正的；真品的"
+},
+{
+"pos": "adj.",
+"en": "accurate and reliable; true to the original",
+"zh": "道地的；可信的"
+}
+],
+"ex": [
+{
+"en": "This small restaurant serves authentic Thai food.",
+"zh": "這家小餐館供應道地的泰國菜。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aut-",
+"m": "self 自己"
+},
+{
+"p": "hent",
+"m": "doer 做的人（希臘文）"
+},
+{
+"p": "-ic",
+"m": "形容詞字尾"
+}
+],
+"note": "自己親手做的 → 真正的"
+},
+"syn": [
+"genuine",
+"real",
+"legitimate"
+],
+"ant": [
+"fake",
+"counterfeit",
+"spurious"
+]
+},
+{
+"w": "authenticity",
+"kk": "[ˏɔθənˋtɪsətɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the quality of being real, genuine, or true",
+"zh": "真實性；可信度"
+}
+],
+"ex": [
+{
+"en": "Experts questioned the authenticity of the old letter.",
+"zh": "專家質疑這封舊信的真實性。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "authentic",
+"m": "真正的"
+},
+{
+"p": "-ity",
+"m": "名詞字尾"
+}
+],
+"note": "真正的性質 → 真實性"
+},
+"syn": [
+"genuineness",
+"legitimacy",
+"validity"
+],
+"ant": [
+"falseness",
+"fraudulence"
+]
+},
+{
+"w": "autobiography",
+"kk": "[ˏɔtəbaɪˋɑgrəfɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "an account of a person's life written by that person",
+"zh": "自傳"
+}
+],
+"ex": [
+{
+"en": "In her autobiography, the scientist describes growing up on a farm.",
+"zh": "這位科學家在自傳中描述了她在農場長大的經歷。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "auto-",
+"m": "self 自己"
+},
+{
+"p": "bio",
+"m": "life 生命"
+},
+{
+"p": "graph",
+"m": "write 寫"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "自己寫自己的生平 → 自傳"
+},
+"syn": [
+"memoir",
+"life story"
+],
+"ant": [
+"biography"
+]
+},
+{
+"w": "autocracy",
+"kk": "[ɔˋtɑkrəsɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a system of government in which one person has absolute power",
+"zh": "獨裁政治；專制統治"
+}
+],
+"ex": [
+{
+"en": "The country slowly moved from autocracy toward democracy.",
+"zh": "這個國家慢慢從獨裁走向民主。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "auto-",
+"m": "self 自己"
+},
+{
+"p": "crac",
+"m": "rule, power 統治"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "一個人自己統治 → 獨裁政治"
+},
+"syn": [
+"dictatorship",
+"tyranny",
+"despotism"
+],
+"ant": [
+"democracy"
+]
+},
+{
+"w": "autocrat",
+"kk": "[ˋɔtəˏkræt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a ruler with absolute power; a person who insists on complete obedience",
+"zh": "獨裁者；專橫的人"
+}
+],
+"ex": [
+{
+"en": "The boss ran the office like an autocrat, ignoring everyone's suggestions.",
+"zh": "老闆像獨裁者一樣管理辦公室，對大家的建議一概不理。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "auto-",
+"m": "self 自己"
+},
+{
+"p": "crat",
+"m": "ruler 統治者"
+}
+],
+"note": "自己一人說了算的統治者 → 獨裁者"
+},
+"syn": [
+"dictator",
+"tyrant",
+"despot"
+],
+"ant": [
+"democrat"
+]
+},
+{
+"w": "automaton",
+"kk": "[ɔˋtɑməˏtɑn]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a moving mechanical figure or robot",
+"zh": "自動機械；機器人"
+},
+{
+"pos": "n.",
+"en": "a person who acts mechanically without thinking",
+"zh": "機械般行事的人"
+}
+],
+"ex": [
+{
+"en": "After the night shift, he moved like an automaton.",
+"zh": "值完夜班後，他整個人像機器人一樣機械地動作。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "auto-",
+"m": "self 自己"
+},
+{
+"p": "mat",
+"m": "thinking, moving 動"
+},
+{
+"p": "-on",
+"m": "名詞字尾"
+}
+],
+"note": "自己會動的東西 → 自動機械"
+},
+"syn": [
+"robot",
+"machine",
+"android"
+],
+"ant": []
+},
+{
+"w": "autonomous",
+"kk": "[ɔˋtɑnəməs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "having self-government; independent",
+"zh": "自治的；自主的"
+},
+{
+"pos": "adj.",
+"en": "able to operate without human control",
+"zh": "自動的；自駕的"
+}
+],
+"ex": [
+{
+"en": "The company is testing an autonomous car on city streets.",
+"zh": "那家公司正在市區街道測試自動駕駛汽車。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "auto-",
+"m": "self 自己"
+},
+{
+"p": "nom",
+"m": "law 法則"
+},
+{
+"p": "-ous",
+"m": "形容詞字尾"
+}
+],
+"note": "自己訂法則的 → 自治的"
+},
+"syn": [
+"independent",
+"self-governing",
+"sovereign"
+],
+"ant": [
+"dependent",
+"subordinate"
+]
+},
+{
+"w": "autonomy",
+"kk": "[ɔˋtɑnəmɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the right or condition of self-government",
+"zh": "自治權"
+},
+{
+"pos": "n.",
+"en": "freedom to make one's own decisions",
+"zh": "自主權；自主性"
+}
+],
+"ex": [
+{
+"en": "Teenagers often want more autonomy over their own schedules.",
+"zh": "青少年常希望對自己的時間安排有更多自主權。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "auto-",
+"m": "self 自己"
+},
+{
+"p": "nom",
+"m": "law 法則"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "自己訂法則 → 自治"
+},
+"syn": [
+"independence",
+"self-rule",
+"freedom"
+],
+"ant": [
+"dependence",
+"subjection"
+]
+},
+{
+"w": "autopsy",
+"kk": "[ˋɔtɑpsɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "an examination of a dead body to find the cause of death",
+"zh": "驗屍；屍體解剖"
+}
+],
+"ex": [
+{
+"en": "An autopsy showed that the man had died of a heart attack.",
+"zh": "驗屍結果顯示，那名男子死於心臟病發作。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aut-",
+"m": "self 自己"
+},
+{
+"p": "ops",
+"m": "see 看"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "親眼看 → 驗屍"
+},
+"syn": [
+"postmortem",
+"necropsy"
+],
+"ant": []
+},
+{
+"w": "autumnal",
+"kk": "[ɔˋtʌmnḷ]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to or typical of autumn",
+"zh": "秋天的；秋季的"
+},
+{
+"pos": "adj.",
+"en": "past the prime of life",
+"zh": "中年以後的；遲暮的"
+}
+],
+"ex": [
+{
+"en": "The hills glowed with autumnal shades of red and gold.",
+"zh": "山丘閃耀著紅色和金色的秋日色彩。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "autumn",
+"m": "秋天"
+},
+{
+"p": "-al",
+"m": "形容詞字尾"
+}
+],
+"note": "秋天的"
+},
+"syn": [
+"fall",
+"seasonal"
+],
+"ant": [
+"vernal"
+]
+},
+{
+"w": "auxiliary",
+"kk": "[ɔgˋzɪljərɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "providing extra help or support",
+"zh": "輔助的；備用的"
+},
+{
+"pos": "n.",
+"en": "a helper or extra worker; (grammar) a helping verb",
+"zh": "輔助人員；助動詞"
+}
+],
+"ex": [
+{
+"en": "The hospital has an auxiliary generator in case the power fails.",
+"zh": "醫院有一台備用發電機，以防停電。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aux",
+"m": "help, increase 幫助、增加"
+},
+{
+"p": "-iliary",
+"m": "形容詞字尾"
+}
+],
+"note": "提供幫助的 → 輔助的"
+},
+"syn": [
+"supplementary",
+"backup",
+"additional"
+],
+"ant": [
+"main",
+"primary"
+]
+},
+{
+"w": "avalanche",
+"kk": "[ˋævḷˏæntʃ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a large mass of snow and ice falling rapidly down a mountain",
+"zh": "雪崩"
+},
+{
+"pos": "n.",
+"en": "a sudden, overwhelming amount of something",
+"zh": "大量湧來的事物"
+}
+],
+"ex": [
+{
+"en": "The singer received an avalanche of messages after her performance.",
+"zh": "演出之後，那位歌手收到如雪片般湧來的訊息。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向"
+},
+{
+"p": "val",
+"m": "valley 山谷"
+}
+],
+"note": "往山谷落下 → 雪崩"
+},
+"syn": [
+"landslide",
+"flood",
+"deluge"
+],
+"ant": [
+"trickle"
+]
+},
+{
+"w": "avarice",
+"kk": "[ˋævərɪs]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "extreme greed for wealth or material gain",
+"zh": "貪婪；貪財"
+}
+],
+"ex": [
+{
+"en": "His avarice drove him to cheat his own business partners.",
+"zh": "貪婪驅使他去欺騙自己的生意夥伴。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "av",
+"m": "desire, crave 渴望"
+},
+{
+"p": "-arice",
+"m": "名詞字尾"
+}
+],
+"note": "極度渴望（錢財）→ 貪婪"
+},
+"syn": [
+"greed",
+"cupidity",
+"covetousness"
+],
+"ant": [
+"generosity",
+"largesse"
+]
+},
+{
+"w": "aver",
+"kk": "[əˋvɝ]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to state firmly that something is true",
+"zh": "斷言；堅稱"
+}
+],
+"ex": [
+{
+"en": "The witness continued to aver that she had seen the suspect.",
+"zh": "證人仍然堅稱她看到了那名嫌犯。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "ver",
+"m": "true 真實"
+}
+],
+"note": "聲明為真 → 斷言"
+},
+"syn": [
+"assert",
+"declare",
+"maintain"
+],
+"ant": [
+"deny"
+]
+},
+{
+"w": "averse",
+"kk": "[əˋvɝs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "strongly opposed to or disliking something",
+"zh": "反對的；厭惡的"
+}
+],
+"ex": [
+{
+"en": "She is not averse to hard work if the pay is fair.",
+"zh": "只要薪水合理，她並不排斥辛苦的工作。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "away 離開（= ab-）"
+},
+{
+"p": "vers",
+"m": "turn 轉"
+}
+],
+"note": "把臉轉開 → 厭惡的"
+},
+"syn": [
+"opposed",
+"reluctant",
+"unwilling"
+],
+"ant": [
+"eager",
+"willing"
+],
+"mn": "常用片語 be averse to（厭惡、不願意）；別和 adverse（不利的）搞混。"
+},
+{
+"w": "aversion",
+"kk": "[əˋvɝʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a strong dislike",
+"zh": "厭惡；反感"
+}
+],
+"ex": [
+{
+"en": "My cat has a strong aversion to water.",
+"zh": "我的貓非常討厭水。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "away 離開（= ab-）"
+},
+{
+"p": "vers",
+"m": "turn 轉"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "想轉身離開 → 厭惡"
+},
+"syn": [
+"dislike",
+"distaste",
+"antipathy"
+],
+"ant": [
+"liking",
+"affinity"
+]
+},
+{
+"w": "avert",
+"kk": "[əˋvɝt]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to prevent something bad from happening",
+"zh": "避免；防止"
+},
+{
+"pos": "v.",
+"en": "to turn away one's eyes or thoughts",
+"zh": "移開（目光）"
+}
+],
+"ex": [
+{
+"en": "Quick action by the pilot helped avert a disaster.",
+"zh": "機長的迅速反應避免了一場災難。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "away 離開（= ab-）"
+},
+{
+"p": "vert",
+"m": "turn 轉"
+}
+],
+"note": "使轉開 → 避開"
+},
+"syn": [
+"prevent",
+"avoid",
+"ward off"
+],
+"ant": [
+"cause",
+"invite"
+]
+},
+{
+"w": "aviary",
+"kk": "[ˋevɪˏɛrɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a large cage or building for keeping birds",
+"zh": "鳥舍；大型鳥籠"
+}
+],
+"ex": [
+{
+"en": "The zoo's aviary houses parrots from around the world.",
+"zh": "動物園的鳥園飼養了來自世界各地的鸚鵡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "avi",
+"m": "bird 鳥"
+},
+{
+"p": "-ary",
+"m": "名詞字尾（場所）"
+}
+],
+"note": "養鳥的地方 → 鳥舍"
+},
+"syn": [
+"birdhouse",
+"birdcage"
+],
+"ant": []
+},
+{
+"w": "avidity",
+"kk": "[əˋvɪdətɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "extreme eagerness or enthusiasm",
+"zh": "熱切；渴望"
+}
+],
+"ex": [
+{
+"en": "She read mystery novels with an avidity that amazed her friends.",
+"zh": "她看推理小說的熱切程度令朋友們吃驚。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "av",
+"m": "desire, crave 渴望"
+},
+{
+"p": "-id",
+"m": "形容詞字尾"
+},
+{
+"p": "-ity",
+"m": "名詞字尾"
+}
+],
+"note": "渴望的狀態 → 熱切"
+},
+"syn": [
+"eagerness",
+"enthusiasm",
+"keenness"
+],
+"ant": [
+"apathy",
+"indifference"
+]
+},
+{
+"w": "avocation",
+"kk": "[ˏævəˋkeʃən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a hobby or activity done in addition to one's regular job",
+"zh": "副業；嗜好"
+}
+],
+"ex": [
+{
+"en": "She is a lawyer by profession, but her avocation is painting.",
+"zh": "她的職業是律師，但她的嗜好是畫畫。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "away 離開（= ab-）"
+},
+{
+"p": "voc",
+"m": "call 召喚"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "被召喚離開本業的事 → 副業、嗜好"
+},
+"syn": [
+"hobby",
+"pastime",
+"sideline"
+],
+"ant": [
+"vocation",
+"profession"
+],
+"mn": "vocation 是本業，a-vocation 是本業之外的嗜好。"
+},
+{
+"w": "avow",
+"kk": "[əˋvaʊ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to declare openly and firmly",
+"zh": "公開聲明；坦承"
+}
+],
+"ex": [
+{
+"en": "The candidate will avow his support for the new law at tonight's rally.",
+"zh": "這位候選人將在今晚的造勢大會上公開表態支持新法。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "vow",
+"m": "call, vow 召喚、發誓"
+}
+],
+"note": "對眾人發誓 → 公開聲明"
+},
+"syn": [
+"declare",
+"affirm",
+"profess"
+],
+"ant": [
+"deny",
+"disavow"
+]
+},
+{
+"w": "awaken",
+"kk": "[əˋwekən]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to wake up or cause to wake up",
+"zh": "醒來；喚醒"
+},
+{
+"pos": "v.",
+"en": "to make someone aware of or interested in something",
+"zh": "喚起；使覺醒"
+}
+],
+"ex": [
+{
+"en": "A trip to the museum helped awaken her interest in history.",
+"zh": "一趟博物館之旅喚起了她對歷史的興趣。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "加強語氣"
+},
+{
+"p": "wake",
+"m": "醒"
+},
+{
+"p": "-en",
+"m": "動詞字尾"
+}
+],
+"note": "使醒來 → 喚醒"
+},
+"syn": [
+"wake",
+"arouse",
+"stir"
+],
+"ant": [
+"lull",
+"sleep"
+]
+},
+{
+"w": "awry",
+"kk": "[əˋraɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "away from the expected course; wrong",
+"zh": "出錯的；不順利的"
+},
+{
+"pos": "adj.",
+"en": "out of the normal position; crooked",
+"zh": "歪斜的"
+}
+],
+"ex": [
+{
+"en": "Their camping trip went awry when a storm blew away the tent.",
+"zh": "暴風雨把帳篷吹走後，他們的露營之旅就全亂了套。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "on 在"
+},
+{
+"p": "wry",
+"m": "twisted 扭曲"
+}
+],
+"note": "扭曲的 → 歪斜、出錯"
+},
+"syn": [
+"amiss",
+"wrong",
+"crooked"
+],
+"ant": [
+"straight",
+"right"
+],
+"mn": "常用 go awry，意為「出差錯」。"
+},
+{
+"w": "aye",
+"kk": "[aɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "interj.",
+"en": "yes (used in voting or in some dialects)",
+"zh": "是；贊成"
+},
+{
+"pos": "n.",
+"en": "a vote in favor",
+"zh": "贊成票"
+}
+],
+"ex": [
+{
+"en": "When the chair asked for votes, most members answered \"aye.\"",
+"zh": "主席要求表決時，大多數成員都回答「贊成」。"
+}
+],
+"syn": [
+"yes",
+"yea"
+],
+"ant": [
+"nay",
+"no"
+]
+},
+{
+"w": "azalea",
+"kk": "[əˋzeljə]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a flowering shrub with bright pink, red, or white blossoms",
+"zh": "杜鵑花"
+}
+],
+"ex": [
+{
+"en": "Every spring, the azalea in our yard bursts into pink flowers.",
+"zh": "每年春天，我們院子裡的杜鵑花都會盛開粉紅色的花朵。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "azale",
+"m": "dry 乾（希臘文）"
+},
+{
+"p": "-a",
+"m": "名詞字尾"
+}
+],
+"note": "長在乾燥土壤中的花 → 杜鵑花"
+},
+"syn": [
+"rhododendron"
+],
+"ant": []
+},
+{
+"w": "azure",
+"kk": "[ˋæʒɚ]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "bright blue like a clear sky",
+"zh": "天藍色的；蔚藍的"
+},
+{
+"pos": "n.",
+"en": "a bright blue color",
+"zh": "天藍色"
+}
+],
+"ex": [
+{
+"en": "The boat floated on the calm azure sea.",
+"zh": "小船漂浮在平靜蔚藍的海面上。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "azure",
+"m": "lapis lazuli 青金石（波斯文 lazward）"
+}
+],
+"note": "青金石的顏色 → 天藍色"
+},
+"syn": [
+"sky-blue",
+"cerulean"
+],
+"ant": []
+},
+{
+"w": "Baconian",
+"kk": "[beˋkonɪən]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to Francis Bacon or his method of reasoning from observation",
+"zh": "培根（學說）的；經驗歸納法的"
+}
+],
+"ex": [
+{
+"en": "Early scientists followed the Baconian method of gathering facts before forming theories.",
+"zh": "早期科學家遵循培根的方法，先蒐集事實再建立理論。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Bacon",
+"m": "英國哲學家法蘭西斯・培根"
+},
+{
+"p": "-ian",
+"m": "形容詞字尾"
+}
+],
+"note": "培根的"
+},
+"syn": [
+"empirical",
+"inductive"
+],
+"ant": []
+},
+{
+"w": "bacterium",
+"kk": "[bækˋtɪrɪəm]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a single-celled microorganism (plural: bacteria)",
+"zh": "細菌（單數）"
+}
+],
+"ex": [
+{
+"en": "This bacterium can survive in boiling hot springs.",
+"zh": "這種細菌能在滾燙的溫泉中存活。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bacter",
+"m": "rod, staff 小棍（希臘文）"
+},
+{
+"p": "-ium",
+"m": "名詞字尾"
+}
+],
+"note": "最早觀察到的細菌呈小棍狀 → 細菌"
+},
+"syn": [
+"microbe",
+"germ",
+"microorganism"
+],
+"ant": [],
+"mn": "bacterium 是單數，bacteria 是複數。"
+},
+{
+"w": "badger",
+"kk": "[ˋbædʒɚ]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to repeatedly and annoyingly ask someone to do something",
+"zh": "糾纏；煩擾"
+},
+{
+"pos": "n.",
+"en": "a heavily built animal with black and white stripes that lives in burrows",
+"zh": "獾"
+}
+],
+"ex": [
+{
+"en": "The kids continued to badger their parents for a new puppy.",
+"zh": "孩子們不斷纏著爸媽要養新的小狗。"
+}
+],
+"syn": [
+"pester",
+"nag",
+"harass"
+],
+"ant": []
+},
+{
+"w": "baffle",
+"kk": "[ˋbæfḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to totally confuse or puzzle someone",
+"zh": "使困惑；難倒"
+}
+],
+"ex": [
+{
+"en": "The strange symptoms continue to baffle doctors.",
+"zh": "這些奇怪的症狀持續讓醫生們百思不解。"
+}
+],
+"syn": [
+"puzzle",
+"perplex",
+"bewilder"
+],
+"ant": [
+"enlighten",
+"clarify"
+]
+},
+{
+"w": "bailiff",
+"kk": "[ˋbelɪf]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "an officer who keeps order in a courtroom",
+"zh": "法警"
+},
+{
+"pos": "n.",
+"en": "(British) an official who takes property to pay debts",
+"zh": "（英）執達員"
+}
+],
+"ex": [
+{
+"en": "The bailiff asked everyone in the courtroom to rise.",
+"zh": "法警請法庭上所有人起立。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bail",
+"m": "custody 看管"
+},
+{
+"p": "-iff",
+"m": "名詞字尾（人）"
+}
+],
+"note": "負責看管的人 → 法警"
+},
+"syn": [
+"marshal",
+"sheriff",
+"court officer"
+],
+"ant": []
+},
+{
+"w": "baize",
+"kk": "[bez]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a thick green woolen cloth used to cover pool and card tables",
+"zh": "（撞球台、牌桌用的）綠色粗呢"
+}
+],
+"ex": [
+{
+"en": "The billiard table was covered in fresh green baize.",
+"zh": "撞球桌鋪上了嶄新的綠色粗呢。"
+}
+],
+"syn": [
+"felt"
+],
+"ant": []
+},
+{
+"w": "bale",
+"kk": "[bel]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a large bundle of hay, cotton, or other material tied tightly",
+"zh": "（乾草、棉花等的）大捆；大包"
+},
+{
+"pos": "v.",
+"en": "to make into bales",
+"zh": "把…打包成捆"
+}
+],
+"ex": [
+{
+"en": "The farmer lifted a heavy bale of hay onto the truck.",
+"zh": "農夫把一大捆沉重的乾草抬上卡車。"
+}
+],
+"syn": [
+"bundle",
+"pack",
+"package"
+],
+"ant": []
+},
+{
+"w": "baleful",
+"kk": "[ˋbelfəl]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "threatening harm; menacing",
+"zh": "兇惡的；帶有惡意的"
+}
+],
+"ex": [
+{
+"en": "The guard dog gave us a baleful stare from behind the fence.",
+"zh": "看門狗從籬笆後面兇狠地瞪著我們。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bale",
+"m": "evil 邪惡（古英文 bealu）"
+},
+{
+"p": "-ful",
+"m": "形容詞字尾（充滿…的）"
+}
+],
+"note": "充滿惡意的"
+},
+"syn": [
+"menacing",
+"sinister",
+"malevolent"
+],
+"ant": [
+"benign",
+"friendly"
+]
+},
+{
+"w": "ballad",
+"kk": "[ˋbæləd]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a poem or song that tells a story",
+"zh": "敘事歌謠；民謠"
+},
+{
+"pos": "n.",
+"en": "a slow, romantic popular song",
+"zh": "抒情歌"
+}
+],
+"ex": [
+{
+"en": "The singer ended the concert with a quiet love ballad.",
+"zh": "歌手以一首輕柔的抒情情歌為演唱會收尾。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ball",
+"m": "dance 跳舞"
+},
+{
+"p": "-ad",
+"m": "名詞字尾"
+}
+],
+"note": "原指伴舞的歌 → 歌謠"
+},
+"syn": [
+"song",
+"folk song",
+"ditty"
+],
+"ant": []
+},
+{
+"w": "balsam",
+"kk": "[ˋbɔlsəm]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a sweet-smelling oily substance from certain trees, used in medicine",
+"zh": "香脂；香膏"
+},
+{
+"pos": "n.",
+"en": "something that soothes or heals",
+"zh": "撫慰人心之物"
+}
+],
+"ex": [
+{
+"en": "The healer rubbed a soothing balsam on the wound.",
+"zh": "醫者在傷口上抹了一層舒緩的香膏。"
+}
+],
+"syn": [
+"balm",
+"ointment",
+"salve"
+],
+"ant": []
+},
+{
+"w": "banal",
+"kk": "[ˋbenḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "so ordinary or overused as to be boring",
+"zh": "陳腔濫調的；平庸乏味的"
+}
+],
+"ex": [
+{
+"en": "The movie was full of banal dialogue and predictable jokes.",
+"zh": "這部電影充滿陳腔濫調的台詞和老套的笑話。"
+}
+],
+"syn": [
+"trite",
+"hackneyed",
+"clichéd"
+],
+"ant": [
+"original",
+"fresh",
+"novel"
+]
+},
+{
+"w": "barcarole",
+"kk": "[ˋbɑrkəˏrol]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a song traditionally sung by Venetian gondoliers, or music in that style",
+"zh": "船歌（威尼斯船夫之歌）"
+}
+],
+"ex": [
+{
+"en": "The pianist played a gentle barcarole that sounded like rocking waves.",
+"zh": "鋼琴家彈奏了一首輕柔的船歌，聽起來就像搖晃的波浪。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "barca",
+"m": "boat 船（義大利文）"
+},
+{
+"p": "-role",
+"m": "字尾"
+}
+],
+"note": "船夫唱的歌 → 船歌"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "baritone",
+"kk": "[ˋbærəˏton]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a male singing voice between tenor and bass, or a singer with this voice",
+"zh": "男中音；男中音歌手"
+}
+],
+"ex": [
+{
+"en": "He sang the role in a rich, warm baritone.",
+"zh": "他用渾厚溫暖的男中音演唱這個角色。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bary",
+"m": "heavy, deep 重、低沉"
+},
+{
+"p": "tone",
+"m": "聲調"
+}
+],
+"note": "低沉的聲調 → 男中音"
+},
+"syn": [],
+"ant": [
+"tenor"
+]
+},
+{
+"w": "barograph",
+"kk": "[ˋbærəˏgræf]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a barometer that records changes in air pressure on paper",
+"zh": "自記氣壓計"
+}
+],
+"ex": [
+{
+"en": "The barograph showed a sharp drop in pressure before the storm.",
+"zh": "自記氣壓計顯示暴風雨來臨前氣壓急遽下降。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "baro",
+"m": "weight, pressure 重量、壓力"
+},
+{
+"p": "graph",
+"m": "write 寫"
+}
+],
+"note": "把氣壓寫下來的儀器 → 自記氣壓計"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "barometer",
+"kk": "[bəˋrɑmətɚ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "an instrument that measures air pressure",
+"zh": "氣壓計"
+},
+{
+"pos": "n.",
+"en": "something that shows changes in public opinion or conditions",
+"zh": "晴雨表；指標"
+}
+],
+"ex": [
+{
+"en": "Consumer spending is a useful barometer of the economy's health.",
+"zh": "消費支出是衡量經濟是否健康的實用指標。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "baro",
+"m": "weight, pressure 重量、壓力"
+},
+{
+"p": "meter",
+"m": "measure 測量"
+}
+],
+"note": "測量氣壓的儀器"
+},
+"syn": [
+"gauge",
+"indicator",
+"measure"
+],
+"ant": []
+},
+{
+"w": "barring",
+"kk": "[ˋbɑrɪŋ]",
+"tier": 2,
+"senses": [
+{
+"pos": "prep.",
+"en": "except for; if something does not happen",
+"zh": "除了…之外；除非"
+}
+],
+"ex": [
+{
+"en": "Barring any delays, the train will arrive at noon.",
+"zh": "如果沒有延誤，火車將在中午抵達。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bar",
+"m": "阻擋"
+},
+{
+"p": "-ing",
+"m": "字尾"
+}
+],
+"note": "把某事擋在外面 → 除…之外"
+},
+"syn": [
+"except",
+"excluding",
+"unless"
+],
+"ant": [
+"including"
+]
+},
+{
+"w": "bask",
+"kk": "[bæsk]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to lie in warmth and sunlight for pleasure",
+"zh": "曬太陽；取暖"
+},
+{
+"pos": "v.",
+"en": "to enjoy praise or attention",
+"zh": "沉浸於（讚美、關注）"
+}
+],
+"ex": [
+{
+"en": "Lizards bask on warm rocks to raise their body temperature.",
+"zh": "蜥蜴躺在溫暖的石頭上曬太陽，提高體溫。"
+}
+],
+"syn": [
+"sunbathe",
+"wallow",
+"revel"
+],
+"ant": []
+},
+{
+"w": "bass",
+"kk": "[bes]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the lowest male singing voice; the lowest range of musical sound",
+"zh": "男低音；低音"
+},
+{
+"pos": "n.",
+"en": "a bass guitar or double bass",
+"zh": "貝斯；低音提琴"
+},
+{
+"pos": "n.",
+"en": "[bæs] a kind of freshwater or sea fish",
+"zh": "鱸魚"
+}
+],
+"ex": [
+{
+"en": "He plays bass in a jazz band on weekends.",
+"zh": "他週末在一個爵士樂團裡彈貝斯。"
+}
+],
+"syn": [
+"low",
+"deep"
+],
+"ant": [
+"treble",
+"soprano"
+],
+"mn": "當「低音、貝斯」時唸 [bes]（同 base），當「鱸魚」時唸 [bæs]。"
+},
+{
+"w": "baste",
+"kk": "[best]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to pour juices or melted fat over meat while it cooks",
+"zh": "（烤肉時）淋油；澆汁"
+},
+{
+"pos": "v.",
+"en": "to sew with long, loose, temporary stitches",
+"zh": "用長針疏縫"
+}
+],
+"ex": [
+{
+"en": "Remember to baste the turkey every thirty minutes.",
+"zh": "記得每三十分鐘在火雞上淋一次油。"
+}
+],
+"syn": [
+"moisten",
+"tack"
+],
+"ant": []
+},
+{
+"w": "baton",
+"kk": "[bæˋtɑn]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a thin stick used by a conductor to lead an orchestra",
+"zh": "指揮棒"
+},
+{
+"pos": "n.",
+"en": "a short stick passed between runners in a relay race",
+"zh": "接力棒"
+},
+{
+"pos": "n.",
+"en": "a police officer's club",
+"zh": "警棍"
+}
+],
+"ex": [
+{
+"en": "The last runner dropped the baton just before the finish line.",
+"zh": "最後一棒的跑者在終點線前掉了接力棒。"
+}
+],
+"syn": [
+"stick",
+"wand",
+"rod"
+],
+"ant": [],
+"mn": "pass the baton 可比喻「交棒、傳承責任」。"
+},
+{
+"w": "battalion",
+"kk": "[bəˋtæljən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a large military unit made up of several companies",
+"zh": "營（軍隊單位）"
+},
+{
+"pos": "n.",
+"en": "a large group of people",
+"zh": "大批人群"
+}
+],
+"ex": [
+{
+"en": "A battalion of soldiers was sent to help after the flood.",
+"zh": "一個營的士兵被派去協助水災救援。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "batt",
+"m": "beat 打"
+},
+{
+"p": "-alion",
+"m": "名詞字尾"
+}
+],
+"note": "打仗的隊伍 → 營"
+},
+"syn": [
+"unit",
+"troop",
+"army"
+],
+"ant": []
+},
+{
+"w": "batten",
+"kk": "[ˋbætṇ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a long, narrow strip of wood used to hold something in place",
+"zh": "板條；壓條"
+},
+{
+"pos": "v.",
+"en": "to fasten or secure with strips of wood",
+"zh": "用板條釘牢"
+}
+],
+"ex": [
+{
+"en": "Before the typhoon, we had to batten down the windows.",
+"zh": "颱風來之前，我們得先把窗戶釘牢。"
+}
+],
+"syn": [
+"strip",
+"board",
+"secure"
+],
+"ant": [],
+"mn": "batten down the hatches 原指船員封好艙口，比喻「做好迎接困難的準備」。"
+},
+{
+"w": "batter",
+"kk": "[ˋbætɚ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to hit repeatedly and violently",
+"zh": "連續猛擊；重創"
+},
+{
+"pos": "n.",
+"en": "a mixture of flour, eggs, and milk used in cooking",
+"zh": "麵糊"
+},
+{
+"pos": "n.",
+"en": "(baseball) the player trying to hit the ball",
+"zh": "打擊者"
+}
+],
+"ex": [
+{
+"en": "Huge waves continued to batter the coast all night.",
+"zh": "巨浪整晚不停地猛烈拍打著海岸。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "batt",
+"m": "beat 打"
+},
+{
+"p": "-er",
+"m": "動詞字尾（反覆）"
+}
+],
+"note": "反覆地打 → 猛擊"
+},
+"syn": [
+"pound",
+"pummel",
+"beat"
+],
+"ant": []
+},
+{
+"w": "bauble",
+"kk": "[ˋbɔbḷ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a small, cheap decorative object",
+"zh": "小玩意；廉價的飾品"
+}
+],
+"ex": [
+{
+"en": "She hung a shiny bauble on the Christmas tree.",
+"zh": "她在聖誕樹上掛了一顆亮晶晶的小飾品。"
+}
+],
+"syn": [
+"trinket",
+"knickknack",
+"trifle"
+],
+"ant": [
+"treasure"
+]
+},
+{
+"w": "bawl",
+"kk": "[bɔl]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to cry loudly",
+"zh": "大哭；嚎啕"
+},
+{
+"pos": "v.",
+"en": "to shout or call out loudly",
+"zh": "大喊；吼叫"
+}
+],
+"ex": [
+{
+"en": "The baby began to bawl as soon as the plane took off.",
+"zh": "飛機一起飛，嬰兒就開始放聲大哭。"
+}
+],
+"syn": [
+"wail",
+"howl",
+"yell"
+],
+"ant": [
+"whisper"
+],
+"mn": "bawl out someone 是口語，表示「痛罵某人」。"
+},
+{
+"w": "beatify",
+"kk": "[bɪˋætəˏfaɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "(in the Catholic Church) to declare a dead person blessed, a step toward sainthood",
+"zh": "（天主教）宣福；列為真福"
+},
+{
+"pos": "v.",
+"en": "to make extremely happy",
+"zh": "使極為幸福"
+}
+],
+"ex": [
+{
+"en": "The pope will beatify the nun at a ceremony next year.",
+"zh": "教宗將在明年的典禮上為這位修女宣福。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "beat",
+"m": "blessed, happy 有福的"
+},
+{
+"p": "-ify",
+"m": "動詞字尾（使…）"
+}
+],
+"note": "使成為有福的人 → 宣福"
+},
+"syn": [
+"bless",
+"sanctify"
+],
+"ant": []
+},
+{
+"w": "beatitude",
+"kk": "[bɪˋætəˏtjud]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "supreme happiness or blessedness",
+"zh": "至福；天賜之福"
+},
+{
+"pos": "n.",
+"en": "(the Beatitudes) the blessings spoken by Jesus in the Sermon on the Mount",
+"zh": "（聖經）八福"
+}
+],
+"ex": [
+{
+"en": "The saint's face in the painting shows a look of calm beatitude.",
+"zh": "畫中聖人的臉上流露出平靜的至福神情。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "beat",
+"m": "blessed, happy 有福的"
+},
+{
+"p": "-itude",
+"m": "名詞字尾（狀態）"
+}
+],
+"note": "有福的狀態 → 至福"
+},
+"syn": [
+"bliss",
+"blessedness",
+"joy"
+],
+"ant": [
+"misery"
+]
+},
+{
+"w": "beau",
+"kk": "[bo]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a boyfriend or male admirer (old-fashioned)",
+"zh": "（舊）男朋友；追求者"
+}
+],
+"ex": [
+{
+"en": "Grandma still keeps the letters from her first beau.",
+"zh": "奶奶至今還保存著初戀男友寫給她的信。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "beau",
+"m": "beautiful 美的（法文）"
+}
+],
+"note": "俊美的男子 → 男朋友"
+},
+"syn": [
+"boyfriend",
+"suitor",
+"admirer"
+],
+"ant": [
+"belle"
+]
+},
+{
+"w": "becalm",
+"kk": "[bɪˋkɑm]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "(of a sailing ship) to be unable to move because there is no wind",
+"zh": "（帆船）因無風而停航"
+},
+{
+"pos": "v.",
+"en": "to make calm",
+"zh": "使平靜"
+}
+],
+"ex": [
+{
+"en": "A sudden loss of wind could becalm the sailboat for hours.",
+"zh": "風突然停了，帆船可能會停在原地好幾個小時。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "使成為"
+},
+{
+"p": "calm",
+"m": "平靜"
+}
+],
+"note": "使平靜 → 因無風而停航"
+},
+"syn": [
+"still",
+"stall"
+],
+"ant": []
+},
+{
+"w": "beck",
+"kk": "[bɛk]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a gesture calling someone, as in \"at someone's beck and call\"",
+"zh": "招手；示意"
+},
+{
+"pos": "n.",
+"en": "(northern England) a small stream",
+"zh": "（英國北部）小溪"
+}
+],
+"ex": [
+{
+"en": "He expects his assistants to be at his beck and call day and night.",
+"zh": "他要求助理們日夜隨傳隨到。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "beck",
+"m": "beckon 招手（的縮略）"
+}
+],
+"note": "招手示意"
+},
+"syn": [
+"signal",
+"gesture",
+"nod"
+],
+"ant": [],
+"mn": "幾乎只用在片語 at someone's beck and call（隨叫隨到）。"
+},
+{
+"w": "bedaub",
+"kk": "[bɪˋdɔb]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to smear or cover with something sticky or dirty",
+"zh": "塗抹；弄髒"
+}
+],
+"ex": [
+{
+"en": "The toddlers managed to bedaub the walls with finger paint.",
+"zh": "那群幼兒竟然用手指畫顏料把牆壁塗得亂七八糟。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "daub",
+"m": "塗抹"
+}
+],
+"note": "到處塗抹 → 弄髒"
+},
+"syn": [
+"smear",
+"daub",
+"besmear"
+],
+"ant": [
+"clean"
+]
+},
+{
+"w": "bedeck",
+"kk": "[bɪˋdɛk]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to decorate lavishly",
+"zh": "裝飾；點綴"
+}
+],
+"ex": [
+{
+"en": "Volunteers will bedeck the streets with flags for the festival.",
+"zh": "志工們會在街上掛滿旗子，為節慶做裝飾。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "deck",
+"m": "cover, adorn 覆蓋、裝飾"
+}
+],
+"note": "到處裝飾"
+},
+"syn": [
+"adorn",
+"decorate",
+"festoon"
+],
+"ant": [
+"strip"
+]
+},
+{
+"w": "bedlam",
+"kk": "[ˋbɛdləm]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a scene of uproar and confusion",
+"zh": "混亂；喧鬧的場面"
+}
+],
+"ex": [
+{
+"en": "When the fire alarm went off, the cafeteria turned into bedlam.",
+"zh": "火災警報一響，餐廳立刻陷入一片混亂。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Bedlam",
+"m": "Bethlehem 伯利恆（倫敦一家精神病院的俗稱）"
+}
+],
+"note": "舊時倫敦的瘋人院 → 混亂吵鬧的場面"
+},
+"syn": [
+"chaos",
+"pandemonium",
+"uproar"
+],
+"ant": [
+"calm",
+"order"
+]
+},
+{
+"w": "befog",
+"kk": "[bɪˋfɑg]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to confuse or make unclear",
+"zh": "使困惑；使模糊"
+},
+{
+"pos": "v.",
+"en": "to cover with fog",
+"zh": "以霧籠罩"
+}
+],
+"ex": [
+{
+"en": "Too much technical language can befog the main point of an argument.",
+"zh": "太多專業術語會讓論點的重點變得模糊。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "使成為"
+},
+{
+"p": "fog",
+"m": "霧"
+}
+],
+"note": "使籠罩在霧中 → 使模糊"
+},
+"syn": [
+"confuse",
+"obscure",
+"cloud"
+],
+"ant": [
+"clarify"
+]
+},
+{
+"w": "befriend",
+"kk": "[bɪˋfrɛnd]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to become a friend to someone, especially someone who needs help",
+"zh": "與…交朋友；照顧（需要幫助的人）"
+}
+],
+"ex": [
+{
+"en": "She made an effort to befriend the new student from Japan.",
+"zh": "她主動和從日本來的新同學交朋友。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "使成為"
+},
+{
+"p": "friend",
+"m": "朋友"
+}
+],
+"note": "使成為朋友"
+},
+"syn": [
+"make friends with",
+"support"
+],
+"ant": [
+"shun",
+"alienate"
+]
+},
+{
+"w": "beget",
+"kk": "[bɪˋgɛt]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to cause or give rise to",
+"zh": "招致；引起"
+},
+{
+"pos": "v.",
+"en": "(old use) to become the father of",
+"zh": "（古）生（子女）"
+}
+],
+"ex": [
+{
+"en": "Violence tends to beget more violence.",
+"zh": "暴力往往會招致更多暴力。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "get",
+"m": "得到、產生"
+}
+],
+"note": "產生出 → 招致"
+},
+"syn": [
+"cause",
+"produce",
+"generate"
+],
+"ant": [
+"prevent"
+]
+},
+{
+"w": "begrudge",
+"kk": "[bɪˋgrʌdʒ]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to envy someone for something they have",
+"zh": "嫉妒；羨慕"
+},
+{
+"pos": "v.",
+"en": "to give something reluctantly",
+"zh": "不情願地給"
+}
+],
+"ex": [
+{
+"en": "I don't begrudge her the award; she worked hard for it.",
+"zh": "我不嫉妒她得獎，那是她努力換來的。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "grudge",
+"m": "怨恨"
+}
+],
+"note": "心懷怨恨 → 嫉妒"
+},
+"syn": [
+"resent",
+"envy",
+"grudge"
+],
+"ant": [
+"welcome"
+]
+},
+{
+"w": "belate",
+"kk": "[bɪˋlet]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "(old use) to make late; to delay",
+"zh": "（古）使延遲；使耽擱"
+}
+],
+"ex": [
+{
+"en": "The old diary complains that storms would often belate the mail coach.",
+"zh": "那本舊日記抱怨，暴風雨常常讓郵車延誤。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "使成為"
+},
+{
+"p": "late",
+"m": "遲的"
+}
+],
+"note": "使變遲 → 延誤"
+},
+"syn": [
+"delay",
+"detain"
+],
+"ant": [
+"hasten"
+],
+"mn": "現代幾乎只用形容詞 belated（遲來的），例如 a belated birthday gift。"
+},
+{
+"w": "belay",
+"kk": "[bɪˋle]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to secure a climber or rope with a safety line",
+"zh": "（攀岩）確保；用繩子固定"
+},
+{
+"pos": "v.",
+"en": "(nautical, as a command) to stop",
+"zh": "（航海）停止"
+}
+],
+"ex": [
+{
+"en": "Her partner will belay her while she climbs the rock wall.",
+"zh": "她攀爬岩壁時，她的搭檔會幫她確保。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "lay",
+"m": "放、固定"
+}
+],
+"note": "把繩子牢牢固定 → 確保"
+},
+"syn": [
+"secure",
+"fasten"
+],
+"ant": [
+"release"
+]
+},
+{
+"w": "belie",
+"kk": "[bɪˋlaɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to give a false impression of; to hide the true nature of",
+"zh": "掩飾；使人誤解"
+},
+{
+"pos": "v.",
+"en": "to show something to be false",
+"zh": "證明…是假的"
+}
+],
+"ex": [
+{
+"en": "His calm smile could not belie the fear in his eyes.",
+"zh": "他平靜的笑容掩飾不了眼中的恐懼。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "lie",
+"m": "說謊"
+}
+],
+"note": "（外表）說謊 → 給人假象"
+},
+"syn": [
+"contradict",
+"disguise",
+"misrepresent"
+],
+"ant": [
+"confirm",
+"reveal"
+]
+}
+]

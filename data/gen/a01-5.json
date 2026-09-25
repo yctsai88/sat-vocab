@@ -1,0 +1,2872 @@
+[
+{
+"w": "bristle",
+"kk": "[ˋbrɪsḷ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a short, stiff hair on an animal or brush",
+"zh": "（動物、刷子的）硬毛；鬃毛"
+},
+{
+"pos": "v.",
+"en": "to react angrily or defensively",
+"zh": "發怒；被激怒"
+},
+{
+"pos": "v.",
+"en": "(bristle with) to be full of something",
+"zh": "充滿；布滿"
+}
+],
+"ex": [
+{
+"en": "She began to bristle when he criticized her work in front of everyone.",
+"zh": "他當眾批評她的工作時，她立刻火冒三丈。"
+}
+],
+"syn": [
+"bridle",
+"prickle",
+"stiffen"
+],
+"ant": [
+"relax"
+]
+},
+{
+"w": "Britannia",
+"kk": "[brɪˋtænjə]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a female figure with a helmet, shield, and trident that symbolizes Britain; the Latin name for Britain",
+"zh": "不列顛尼亞（英國的擬人化象徵；不列顛的拉丁名）"
+}
+],
+"ex": [
+{
+"en": "Old British coins show Britannia holding a shield and trident.",
+"zh": "英國舊硬幣上印著手持盾牌和三叉戟的不列顛尼亞女神。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Britann",
+"m": "Britain 不列顛"
+},
+{
+"p": "-ia",
+"m": "地名字尾"
+}
+],
+"note": "不列顛的拉丁名"
+},
+"syn": [
+"Britain"
+],
+"ant": []
+},
+{
+"w": "Briticism",
+"kk": "[ˋbrɪtəˏsɪzəm]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a word or phrase typical of British English",
+"zh": "英式用語"
+}
+],
+"ex": [
+{
+"en": "\"Queue\" instead of \"line\" is a common Briticism.",
+"zh": "用 queue 而不是 line，是很常見的英式用語。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "British",
+"m": "英國的"
+},
+{
+"p": "-ism",
+"m": "名詞字尾（特色）"
+}
+],
+"note": "英國特有的用語"
+},
+"syn": [
+"Britishism"
+],
+"ant": [
+"Americanism"
+]
+},
+{
+"w": "brittle",
+"kk": "[ˋbrɪtḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "hard but easily broken",
+"zh": "易碎的；脆的"
+},
+{
+"pos": "adj.",
+"en": "(of a person or situation) fragile or unstable; sharp and tense",
+"zh": "脆弱的；緊繃的"
+}
+],
+"ex": [
+{
+"en": "Old bones become brittle and break easily.",
+"zh": "老化的骨頭會變脆，很容易骨折。"
+}
+],
+"syn": [
+"fragile",
+"breakable",
+"delicate"
+],
+"ant": [
+"flexible",
+"sturdy",
+"tough"
+]
+},
+{
+"w": "broach",
+"kk": "[brotʃ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to raise a difficult subject for discussion",
+"zh": "提出（棘手的話題）"
+},
+{
+"pos": "v.",
+"en": "to pierce or open a container to draw out liquid",
+"zh": "鑽孔開（桶等）"
+}
+],
+"ex": [
+{
+"en": "I wasn't sure how to broach the topic of money with my parents.",
+"zh": "我不知道要怎麼跟爸媽提起錢的事。"
+}
+],
+"syn": [
+"raise",
+"bring up",
+"introduce"
+],
+"ant": [
+"avoid",
+"drop"
+],
+"mn": "broach（提出話題）和 brooch（胸針）同音。"
+},
+{
+"w": "broadcast",
+"kk": "[ˋbrɔdˏkæst]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to send out a program on television or radio",
+"zh": "廣播；播送"
+},
+{
+"pos": "n.",
+"en": "a radio or television program",
+"zh": "廣播節目；電視節目"
+},
+{
+"pos": "v.",
+"en": "to tell something to many people",
+"zh": "散播；宣揚"
+}
+],
+"ex": [
+{
+"en": "The station will broadcast the game live tonight.",
+"zh": "電視台今晚將現場直播這場比賽。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "broad",
+"m": "wide 寬廣"
+},
+{
+"p": "cast",
+"m": "throw 拋、撒"
+}
+],
+"note": "原指大範圍撒種子 → 廣播"
+},
+"syn": [
+"transmit",
+"air",
+"announce"
+],
+"ant": [
+"conceal"
+]
+},
+{
+"w": "brogan",
+"kk": "[ˋbrogən]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a heavy, ankle-high work shoe",
+"zh": "（及踝的）粗重工作鞋"
+}
+],
+"ex": [
+{
+"en": "The farmer laced up each muddy brogan before heading to the barn.",
+"zh": "農夫把沾滿泥巴的粗工作鞋一隻隻繫好，才去穀倉。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "brog",
+"m": "shoe 鞋（愛爾蘭語 bróg）"
+},
+{
+"p": "-an",
+"m": "指小字尾"
+}
+],
+"note": "粗鞋"
+},
+"syn": [
+"work boot"
+],
+"ant": []
+},
+{
+"w": "brogue",
+"kk": "[brog]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a strong regional accent, especially Irish or Scottish",
+"zh": "（愛爾蘭、蘇格蘭等的）鄉音；口音"
+},
+{
+"pos": "n.",
+"en": "a strong leather shoe with decorative holes",
+"zh": "雕花皮鞋"
+}
+],
+"ex": [
+{
+"en": "The old fisherman spoke with a thick Irish brogue.",
+"zh": "那位老漁夫說話帶著濃濃的愛爾蘭口音。"
+}
+],
+"syn": [
+"accent",
+"burr",
+"lilt"
+],
+"ant": []
+},
+{
+"w": "brokerage",
+"kk": "[ˋbrokərɪdʒ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the business of a broker; a company that buys and sells for clients",
+"zh": "經紀業；證券公司"
+},
+{
+"pos": "n.",
+"en": "the fee charged by a broker",
+"zh": "佣金；經紀費"
+}
+],
+"ex": [
+{
+"en": "She opened an account with an online brokerage to buy stocks.",
+"zh": "她在一家網路證券商開戶買股票。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "broker",
+"m": "經紀人"
+},
+{
+"p": "-age",
+"m": "名詞字尾（業務、費用）"
+}
+],
+"note": "經紀人的業務或費用"
+},
+"syn": [
+"commission",
+"agency",
+"firm"
+],
+"ant": []
+},
+{
+"w": "bromine",
+"kk": "[ˋbromin]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a reddish-brown liquid chemical element with a strong smell (Br)",
+"zh": "溴（化學元素）"
+}
+],
+"ex": [
+{
+"en": "Bromine is one of the few elements that is liquid at room temperature.",
+"zh": "溴是少數在室溫下呈液態的元素之一。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "brom",
+"m": "stench 惡臭（希臘文）"
+},
+{
+"p": "-ine",
+"m": "化學元素字尾"
+}
+],
+"note": "氣味難聞的元素 → 溴"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "bronchitis",
+"kk": "[brɑŋˋkaɪtɪs]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "inflammation of the tubes that carry air to the lungs",
+"zh": "支氣管炎"
+}
+],
+"ex": [
+{
+"en": "His cold turned into bronchitis, and he coughed for weeks.",
+"zh": "他的感冒轉成支氣管炎，咳了好幾個星期。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bronch",
+"m": "windpipe 氣管"
+},
+{
+"p": "-itis",
+"m": "inflammation 發炎"
+}
+],
+"note": "支氣管發炎"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "bronchus",
+"kk": "[ˋbrɑŋkəs]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "either of the two main tubes that carry air from the windpipe to the lungs (plural: bronchi)",
+"zh": "支氣管"
+}
+],
+"ex": [
+{
+"en": "The scan showed a small blockage in the left bronchus.",
+"zh": "掃描顯示左側支氣管有輕微阻塞。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bronch",
+"m": "windpipe 氣管"
+},
+{
+"p": "-us",
+"m": "名詞字尾"
+}
+],
+"note": "氣管的分支 → 支氣管"
+},
+"syn": [
+"airway"
+],
+"ant": []
+},
+{
+"w": "brooch",
+"kk": "[brotʃ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a decorative pin worn on clothing",
+"zh": "胸針"
+}
+],
+"ex": [
+{
+"en": "She wore her grandmother's silver brooch on her coat.",
+"zh": "她在外套上別著奶奶的銀胸針。"
+}
+],
+"syn": [
+"pin",
+"clasp"
+],
+"ant": [],
+"mn": "brooch 雖然拼 oo，卻唸 [o]，和 broach 同音。"
+},
+{
+"w": "brotherhood",
+"kk": "[ˋbrʌðɚˏhʊd]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "friendship and loyalty between people",
+"zh": "手足之情；情誼"
+},
+{
+"pos": "n.",
+"en": "an organization or group of people with common interests",
+"zh": "兄弟會；團體"
+}
+],
+"ex": [
+{
+"en": "The soldiers felt a deep sense of brotherhood after the war.",
+"zh": "戰後，士兵們之間有著深厚的袍澤之情。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "brother",
+"m": "兄弟"
+},
+{
+"p": "-hood",
+"m": "名詞字尾（狀態、群體）"
+}
+],
+"note": "兄弟的關係 → 情誼"
+},
+"syn": [
+"fellowship",
+"camaraderie",
+"fraternity"
+],
+"ant": [
+"enmity"
+]
+},
+{
+"w": "browbeat",
+"kk": "[ˋbraʊˏbit]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to frighten someone into doing something with threats or harsh words",
+"zh": "恫嚇；威逼"
+}
+],
+"ex": [
+{
+"en": "The manager tried to browbeat his staff into working late.",
+"zh": "經理試圖威逼員工加班。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "brow",
+"m": "眉毛"
+},
+{
+"p": "beat",
+"m": "打"
+}
+],
+"note": "皺眉瞪人來打壓 → 恫嚇"
+},
+"syn": [
+"bully",
+"intimidate",
+"coerce"
+],
+"ant": [
+"coax",
+"persuade"
+]
+},
+{
+"w": "brusque",
+"kk": "[brʌsk]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "abrupt and short in speech or manner; rudely brief",
+"zh": "唐突的；簡慢的"
+}
+],
+"ex": [
+{
+"en": "The doctor's brusque manner made the patient feel ignored.",
+"zh": "醫生冷淡唐突的態度讓病人覺得被忽視。"
+}
+],
+"syn": [
+"curt",
+"abrupt",
+"blunt"
+],
+"ant": [
+"polite",
+"courteous",
+"gracious"
+]
+},
+{
+"w": "buffoon",
+"kk": "[bʌˋfun]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who acts in a silly way to make people laugh; a fool",
+"zh": "小丑；丑角；傻瓜"
+}
+],
+"ex": [
+{
+"en": "He acted like a buffoon at the party to get attention.",
+"zh": "他在派對上像個小丑一樣耍寶，只為了引人注意。"
+}
+],
+"syn": [
+"clown",
+"fool",
+"jester"
+],
+"ant": [
+"sage"
+]
+},
+{
+"w": "buffoonery",
+"kk": "[bʌˋfunərɪ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "silly or foolish behavior meant to be funny",
+"zh": "滑稽的舉動；耍寶"
+}
+],
+"ex": [
+{
+"en": "The teacher had no patience for buffoonery during the exam.",
+"zh": "考試期間，老師完全無法容忍耍寶的行為。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "buffoon",
+"m": "小丑"
+},
+{
+"p": "-ery",
+"m": "名詞字尾（行為）"
+}
+],
+"note": "小丑的行為"
+},
+"syn": [
+"clowning",
+"foolery",
+"tomfoolery"
+],
+"ant": [
+"seriousness"
+]
+},
+{
+"w": "bulbous",
+"kk": "[ˋbʌlbəs]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "round or bulging in shape",
+"zh": "球狀的；鼓起的"
+},
+{
+"pos": "adj.",
+"en": "(of a plant) growing from a bulb",
+"zh": "球莖的"
+}
+],
+"ex": [
+{
+"en": "The cartoon character had a bulbous red nose.",
+"zh": "那個卡通角色有個圓鼓鼓的紅鼻子。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bulb",
+"m": "球莖"
+},
+{
+"p": "-ous",
+"m": "形容詞字尾"
+}
+],
+"note": "像球莖的 → 圓鼓鼓的"
+},
+"syn": [
+"bulging",
+"rounded",
+"swollen"
+],
+"ant": [
+"flat",
+"slender"
+]
+},
+{
+"w": "bullock",
+"kk": "[ˋbʊlək]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a young castrated bull",
+"zh": "閹牛；小公牛"
+}
+],
+"ex": [
+{
+"en": "The farmer used a bullock to pull the heavy cart.",
+"zh": "農夫用一頭閹牛拉那輛沉重的車。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bull",
+"m": "公牛"
+},
+{
+"p": "-ock",
+"m": "指小字尾"
+}
+],
+"note": "小公牛"
+},
+"syn": [
+"steer",
+"ox"
+],
+"ant": [
+"heifer"
+]
+},
+{
+"w": "bulrush",
+"kk": "[ˋbʊlˏrʌʃ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a tall grasslike plant that grows in or near water",
+"zh": "蘆葦；燈心草"
+}
+],
+"ex": [
+{
+"en": "A heron stood still among the bulrush at the edge of the pond.",
+"zh": "一隻蒼鷺靜靜地站在池塘邊的蘆葦叢中。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bul",
+"m": "large 大（一說同 bull）"
+},
+{
+"p": "rush",
+"m": "燈心草"
+}
+],
+"note": "大型的燈心草"
+},
+"syn": [
+"reed",
+"cattail",
+"rush"
+],
+"ant": []
+},
+{
+"w": "bulwark",
+"kk": "[ˋbʊlwɚk]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a defensive wall",
+"zh": "堡壘；防護牆"
+},
+{
+"pos": "n.",
+"en": "a person or thing that protects or defends",
+"zh": "保障；支柱"
+}
+],
+"ex": [
+{
+"en": "A free press is a bulwark against government corruption.",
+"zh": "新聞自由是對抗政府貪腐的堡壘。"
+}
+],
+"syn": [
+"defense",
+"safeguard",
+"rampart"
+],
+"ant": [
+"weakness",
+"threat"
+]
+},
+{
+"w": "bumper",
+"kk": "[ˋbʌmpɚ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a bar at the front or back of a car that protects it in a crash",
+"zh": "（汽車）保險桿"
+},
+{
+"pos": "adj.",
+"en": "unusually large or plentiful",
+"zh": "特大的；豐盛的"
+}
+],
+"ex": [
+{
+"en": "Farmers expect a bumper crop of apples this year.",
+"zh": "農民預計今年蘋果會大豐收。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bump",
+"m": "碰撞"
+},
+{
+"p": "-er",
+"m": "名詞字尾"
+}
+],
+"note": "承受碰撞的東西 → 保險桿"
+},
+"syn": [
+"fender",
+"abundant",
+"plentiful"
+],
+"ant": [
+"meager",
+"poor"
+]
+},
+{
+"w": "bumptious",
+"kk": "[ˋbʌmpʃəs]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "irritatingly self-important and pushy",
+"zh": "自以為是的；狂妄的"
+}
+],
+"ex": [
+{
+"en": "The bumptious new intern kept telling senior staff how to do their jobs.",
+"zh": "那個自以為是的新實習生一直教資深員工怎麼做事。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bump",
+"m": "碰撞"
+},
+{
+"p": "-tious",
+"m": "形容詞字尾（仿 fractious）"
+}
+],
+"note": "到處碰撞、強出頭 → 自以為是的"
+},
+"syn": [
+"arrogant",
+"presumptuous",
+"cocky"
+],
+"ant": [
+"modest",
+"humble"
+]
+},
+{
+"w": "bungle",
+"kk": "[ˋbʌŋgḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to do a task badly or clumsily",
+"zh": "搞砸；把事情弄糟"
+}
+],
+"ex": [
+{
+"en": "If you rush the job, you might bungle it completely.",
+"zh": "如果你急著完成，可能會把事情全搞砸。"
+}
+],
+"syn": [
+"botch",
+"mess up",
+"mishandle"
+],
+"ant": [
+"succeed",
+"accomplish"
+]
+},
+{
+"w": "buoyancy",
+"kk": "[ˋbɔɪənsɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the ability to float in water or air",
+"zh": "浮力"
+},
+{
+"pos": "n.",
+"en": "cheerfulness; the ability to recover quickly",
+"zh": "樂觀；恢復力"
+},
+{
+"pos": "n.",
+"en": "(of an economy) a high level of activity",
+"zh": "（經濟）景氣；活躍"
+}
+],
+"ex": [
+{
+"en": "Salt water has greater buoyancy than fresh water.",
+"zh": "鹹水的浮力比淡水大。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "buoy",
+"m": "浮標"
+},
+{
+"p": "-ancy",
+"m": "名詞字尾"
+}
+],
+"note": "像浮標一樣浮起的能力 → 浮力"
+},
+"syn": [
+"floatability",
+"cheerfulness",
+"resilience"
+],
+"ant": [
+"heaviness",
+"depression"
+]
+},
+{
+"w": "buoyant",
+"kk": "[ˋbɔɪənt]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "able to float",
+"zh": "能漂浮的；有浮力的"
+},
+{
+"pos": "adj.",
+"en": "cheerful and optimistic",
+"zh": "開朗的；樂觀的"
+},
+{
+"pos": "adj.",
+"en": "(of an economy or market) strong and active",
+"zh": "（經濟）繁榮的；活躍的"
+}
+],
+"ex": [
+{
+"en": "Despite the bad news, she remained buoyant and hopeful.",
+"zh": "儘管聽到壞消息，她依然樂觀並充滿希望。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "buoy",
+"m": "浮標"
+},
+{
+"p": "-ant",
+"m": "形容詞字尾"
+}
+],
+"note": "像浮標一樣浮著的 → 能漂浮的；心情輕快的"
+},
+"syn": [
+"floating",
+"cheerful",
+"upbeat"
+],
+"ant": [
+"depressed",
+"sinking",
+"gloomy"
+]
+},
+{
+"w": "bureau",
+"kk": "[ˋbjʊro]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a government department or an office for a particular type of business",
+"zh": "局；署；辦事處"
+},
+{
+"pos": "n.",
+"en": "a chest of drawers or a writing desk",
+"zh": "五斗櫃；寫字桌"
+}
+],
+"ex": [
+{
+"en": "The weather bureau issued a warning about the coming typhoon.",
+"zh": "氣象局針對即將來襲的颱風發布警報。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bureau",
+"m": "desk, cloth 書桌、桌布（法文）"
+}
+],
+"note": "桌子 → 辦公的地方 → 局"
+},
+"syn": [
+"agency",
+"office",
+"department"
+],
+"ant": []
+},
+{
+"w": "bureaucracy",
+"kk": "[bjʊˋrɑkrəsɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a system of government run by many officials with complicated rules",
+"zh": "官僚體制"
+},
+{
+"pos": "n.",
+"en": "too many complicated rules and procedures",
+"zh": "繁文縟節；官僚作風"
+}
+],
+"ex": [
+{
+"en": "Getting a permit took months because of all the bureaucracy.",
+"zh": "因為層層的官僚程序，申請許可證花了好幾個月。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bureau",
+"m": "office 辦公處"
+},
+{
+"p": "crac",
+"m": "rule, power 統治"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "由辦公室統治 → 官僚體制"
+},
+"syn": [
+"red tape",
+"administration",
+"officialdom"
+],
+"ant": []
+},
+{
+"w": "burgess",
+"kk": "[ˋbɝdʒɪs]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "(historical) a citizen of a town or borough with full rights; an elected representative",
+"zh": "（史）自治市市民；（殖民地）議員"
+}
+],
+"ex": [
+{
+"en": "In colonial Virginia, each county elected a burgess to the assembly.",
+"zh": "在殖民時期的維吉尼亞，每個郡都會選出一名議員進入議會。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "burg",
+"m": "town 城鎮"
+},
+{
+"p": "-ess",
+"m": "名詞字尾"
+}
+],
+"note": "城鎮的居民 → 市民"
+},
+"syn": [
+"citizen",
+"burgher",
+"townsman"
+],
+"ant": []
+},
+{
+"w": "burgher",
+"kk": "[ˋbɝgɚ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "(old use) a citizen of a town, especially a wealthy middle-class one",
+"zh": "（古）市民；（富裕的）中產階級"
+}
+],
+"ex": [
+{
+"en": "The painting shows a proud Dutch burgher in a black coat.",
+"zh": "這幅畫描繪一位身穿黑外套、神情自豪的荷蘭市民。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "burg",
+"m": "town 城鎮"
+},
+{
+"p": "-her",
+"m": "名詞字尾（人）"
+}
+],
+"note": "城鎮裡的人 → 市民"
+},
+"syn": [
+"citizen",
+"townsman",
+"bourgeois"
+],
+"ant": [
+"peasant"
+]
+},
+{
+"w": "burnish",
+"kk": "[ˋbɝnɪʃ]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to polish metal by rubbing",
+"zh": "擦亮；磨光"
+},
+{
+"pos": "v.",
+"en": "to improve someone's image or reputation",
+"zh": "提升（形象、名聲）"
+}
+],
+"ex": [
+{
+"en": "The company hired a PR firm to burnish its image after the scandal.",
+"zh": "醜聞過後，公司聘請公關公司來提升形象。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "burn",
+"m": "brown, shine 棕色、發亮（古法文 brunir）"
+},
+{
+"p": "-ish",
+"m": "動詞字尾"
+}
+],
+"note": "使發亮 → 擦亮"
+},
+"syn": [
+"polish",
+"shine",
+"enhance"
+],
+"ant": [
+"tarnish",
+"dull"
+]
+},
+{
+"w": "bursar",
+"kk": "[ˋbɝsɚ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who manages the money of a school or college",
+"zh": "（學校的）財務主管；會計"
+}
+],
+"ex": [
+{
+"en": "Students must pay their fees at the bursar's office before classes begin.",
+"zh": "學生必須在開學前到會計室繳交學費。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "burs",
+"m": "purse 錢包"
+},
+{
+"p": "-ar",
+"m": "名詞字尾（人）"
+}
+],
+"note": "掌管錢包的人 → 財務主管"
+},
+"syn": [
+"treasurer",
+"accountant"
+],
+"ant": []
+},
+{
+"w": "bustle",
+"kk": "[ˋbʌsḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to move around in a busy, energetic way",
+"zh": "忙碌；奔忙"
+},
+{
+"pos": "n.",
+"en": "excited and noisy activity",
+"zh": "熙熙攘攘；喧鬧"
+}
+],
+"ex": [
+{
+"en": "I love the hustle and bustle of the night market.",
+"zh": "我喜歡夜市熙熙攘攘的熱鬧氣氛。"
+}
+],
+"syn": [
+"hurry",
+"commotion",
+"activity"
+],
+"ant": [
+"calm",
+"quiet"
+],
+"mn": "常見片語 hustle and bustle，意為「熙來攘往、熱鬧忙碌」。"
+},
+{
+"w": "butt",
+"kk": "[bʌt]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to hit with the head or horns",
+"zh": "（用頭或角）頂撞"
+},
+{
+"pos": "n.",
+"en": "a person who is often mocked",
+"zh": "笑柄；嘲弄的對象"
+},
+{
+"pos": "n.",
+"en": "the thick end of a tool or weapon; the end of a cigarette",
+"zh": "粗端；槍托；菸蒂"
+}
+],
+"ex": [
+{
+"en": "He was tired of being the butt of everyone's jokes.",
+"zh": "他受夠了一直當大家的笑柄。"
+}
+],
+"syn": [
+"target",
+"ram",
+"stub"
+],
+"ant": [],
+"mn": "butt in 是口語的「插嘴、干涉」。"
+},
+{
+"w": "butte",
+"kk": "[bjut]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "an isolated hill with steep sides and a flat top",
+"zh": "孤山；平頂山丘"
+}
+],
+"ex": [
+{
+"en": "A red rock butte rose sharply from the desert floor.",
+"zh": "一座紅色岩石的平頂孤山從沙漠地面陡然聳起。"
+}
+],
+"syn": [
+"mesa",
+"hill",
+"knoll"
+],
+"ant": [
+"valley"
+]
+},
+{
+"w": "buttress",
+"kk": "[ˋbʌtrɪs]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a structure built against a wall to support it",
+"zh": "扶壁；支柱"
+},
+{
+"pos": "v.",
+"en": "to support or strengthen an argument or idea",
+"zh": "支持；加強（論點）"
+}
+],
+"ex": [
+{
+"en": "She used data from three studies to buttress her argument.",
+"zh": "她用三項研究的數據來支持她的論點。"
+}
+],
+"syn": [
+"support",
+"reinforce",
+"bolster"
+],
+"ant": [
+"undermine",
+"weaken"
+]
+},
+{
+"w": "by-law",
+"kk": "[ˋbaɪˏlɔ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a rule made by a local authority or an organization for its members",
+"zh": "地方法規；（組織的）章程"
+}
+],
+"ex": [
+{
+"en": "A city by-law bans loud music after ten at night.",
+"zh": "一條市府規章禁止晚上十點後大聲播放音樂。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "by",
+"m": "town 城鎮（古北歐語 býr）"
+},
+{
+"p": "law",
+"m": "法律"
+}
+],
+"note": "城鎮自訂的法律 → 地方法規"
+},
+"syn": [
+"regulation",
+"ordinance",
+"rule"
+],
+"ant": []
+},
+{
+"w": "cabal",
+"kk": "[kəˋbæl]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a small secret group plotting to gain political power",
+"zh": "陰謀集團；小圈子"
+}
+],
+"ex": [
+{
+"en": "A cabal of advisers secretly controlled the king's decisions.",
+"zh": "一群顧問組成的小圈子暗中操控國王的決策。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "cabal",
+"m": "kabbalah 猶太神祕教義（希伯來文）"
+}
+],
+"note": "神祕教義 → 祕密小團體"
+},
+"syn": [
+"clique",
+"faction",
+"conspiracy"
+],
+"ant": []
+},
+{
+"w": "cabalism",
+"kk": "[ˋkæbəˏlɪzəm]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "secret or mystical teachings, especially the Jewish Kabbalah; the use of obscure symbols",
+"zh": "神祕教義；（猶太）卡巴拉學說"
+}
+],
+"ex": [
+{
+"en": "The old manuscript was full of cabalism and strange symbols.",
+"zh": "那份古老手稿充滿了神祕教義和奇怪的符號。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "cabal",
+"m": "kabbalah 猶太神祕教義"
+},
+{
+"p": "-ism",
+"m": "名詞字尾（學說）"
+}
+],
+"note": "神祕教義的學說"
+},
+"syn": [
+"mysticism",
+"occultism",
+"esotericism"
+],
+"ant": []
+},
+{
+"w": "cabinet",
+"kk": "[ˋkæbənɪt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a cupboard with shelves or drawers",
+"zh": "櫥櫃"
+},
+{
+"pos": "n.",
+"en": "the group of senior ministers who advise a head of government",
+"zh": "內閣"
+}
+],
+"ex": [
+{
+"en": "The president met with his cabinet to discuss the crisis.",
+"zh": "總統與內閣開會討論這場危機。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "cabin",
+"m": "小屋"
+},
+{
+"p": "-et",
+"m": "指小字尾"
+}
+],
+"note": "小房間 → 櫥櫃；密室議事 → 內閣"
+},
+"syn": [
+"cupboard",
+"ministry",
+"council"
+],
+"ant": []
+},
+{
+"w": "cadaverous",
+"kk": "[kəˋdævərəs]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "very pale, thin, and bony, like a corpse",
+"zh": "面如死灰的；骨瘦如柴的"
+}
+],
+"ex": [
+{
+"en": "After months of illness, he looked cadaverous.",
+"zh": "病了幾個月後，他看起來形容枯槁。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "cad",
+"m": "fall 倒下"
+},
+{
+"p": "aver",
+"m": "字尾（cadaver 屍體）"
+},
+{
+"p": "-ous",
+"m": "形容詞字尾"
+}
+],
+"note": "像屍體的 → 面如死灰的"
+},
+"syn": [
+"gaunt",
+"haggard",
+"deathly"
+],
+"ant": [
+"healthy",
+"plump",
+"robust"
+]
+},
+{
+"w": "cadence",
+"kk": "[ˋkedṇs]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the rise and fall of the voice in speaking",
+"zh": "（說話的）抑揚頓挫"
+},
+{
+"pos": "n.",
+"en": "a rhythm or beat; (music) the ending of a phrase",
+"zh": "節奏；（音樂）終止式"
+}
+],
+"ex": [
+{
+"en": "The soothing cadence of her voice helped the children fall asleep.",
+"zh": "她聲音溫柔的抑揚頓挫讓孩子們漸漸入睡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "cad",
+"m": "fall 落下"
+},
+{
+"p": "-ence",
+"m": "名詞字尾"
+}
+],
+"note": "聲音的起落 → 抑揚頓挫"
+},
+"syn": [
+"rhythm",
+"intonation",
+"lilt"
+],
+"ant": [
+"monotone"
+]
+},
+{
+"w": "cadenza",
+"kk": "[kəˋdɛnzə]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a showy solo passage in a concerto for a soloist to display skill",
+"zh": "（協奏曲中的）華彩樂段"
+}
+],
+"ex": [
+{
+"en": "The violinist played a dazzling cadenza near the end of the concerto.",
+"zh": "小提琴家在協奏曲接近尾聲時演奏了一段炫目的華彩樂段。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "cad",
+"m": "fall 落下"
+},
+{
+"p": "-enza",
+"m": "名詞字尾（義大利文）"
+}
+],
+"note": "源自 cadence，出現在樂曲收尾之前 → 華彩樂段"
+},
+"syn": [
+"solo",
+"flourish"
+],
+"ant": []
+},
+{
+"w": "caitiff",
+"kk": "[ˋketɪf]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "(old use) a cowardly or despicable person",
+"zh": "（古）懦夫；卑鄙的人"
+},
+{
+"pos": "adj.",
+"en": "cowardly and base",
+"zh": "卑鄙怯懦的"
+}
+],
+"ex": [
+{
+"en": "In the old ballad, the caitiff runs away and leaves his friends to fight alone.",
+"zh": "在那首古老的歌謠裡，那個懦夫逃走了，讓朋友們獨自作戰。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "caitiff",
+"m": "captive 俘虜（拉丁文 captivus）"
+}
+],
+"note": "俘虜 → 可憐人 → 卑鄙的人"
+},
+"syn": [
+"coward",
+"wretch",
+"scoundrel"
+],
+"ant": [
+"hero"
+]
+},
+{
+"w": "cajole",
+"kk": "[kəˋdʒol]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to persuade someone by flattery or gentle urging",
+"zh": "哄騙；甜言蜜語地勸誘"
+}
+],
+"ex": [
+{
+"en": "She tried to cajole her brother into lending her his car.",
+"zh": "她想用好話哄哥哥把車借給她。"
+}
+],
+"syn": [
+"coax",
+"wheedle",
+"persuade"
+],
+"ant": [
+"bully",
+"coerce",
+"force"
+]
+},
+{
+"w": "cajolery",
+"kk": "[kəˋdʒolərɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the use of flattery or coaxing to persuade someone",
+"zh": "哄騙；甜言蜜語"
+}
+],
+"ex": [
+{
+"en": "No amount of cajolery could change the stubborn old man's mind.",
+"zh": "再多的甜言蜜語也改變不了那個固執老人的心意。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "cajole",
+"m": "哄騙"
+},
+{
+"p": "-ery",
+"m": "名詞字尾（行為）"
+}
+],
+"note": "哄騙的行為"
+},
+"syn": [
+"flattery",
+"coaxing",
+"wheedling"
+],
+"ant": [
+"coercion"
+]
+},
+{
+"w": "calculable",
+"kk": "[ˋkælkjələbḷ]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "able to be measured or calculated",
+"zh": "可計算的；可估計的"
+}
+],
+"ex": [
+{
+"en": "The risk is small but calculable.",
+"zh": "風險雖小，但可以估算出來。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "calcul",
+"m": "pebble, reckon 小石子、計算"
+},
+{
+"p": "-able",
+"m": "形容詞字尾（可…的）"
+}
+],
+"note": "可以計算的"
+},
+"syn": [
+"measurable",
+"computable",
+"predictable"
+],
+"ant": [
+"incalculable",
+"immeasurable"
+]
+},
+{
+"w": "calculus",
+"kk": "[ˋkælkjələs]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the branch of mathematics dealing with rates of change and areas",
+"zh": "微積分"
+},
+{
+"pos": "n.",
+"en": "a particular method of reasoning or calculation",
+"zh": "算計；考量方式"
+},
+{
+"pos": "n.",
+"en": "a hard stone formed in the body",
+"zh": "結石"
+}
+],
+"ex": [
+{
+"en": "She is taking calculus in her senior year of high school.",
+"zh": "她高三要修微積分。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "calc",
+"m": "limestone, pebble 石灰石、小石子"
+},
+{
+"p": "-ulus",
+"m": "指小字尾"
+}
+],
+"note": "古羅馬人用小石子計算 → 微積分"
+},
+"syn": [
+"computation",
+"reasoning"
+],
+"ant": []
+},
+{
+"w": "callosity",
+"kk": "[kæˋlɑsətɪ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a hard, thick area of skin; a callus",
+"zh": "老繭；硬皮"
+},
+{
+"pos": "n.",
+"en": "lack of feeling; insensitivity",
+"zh": "冷漠無情"
+}
+],
+"ex": [
+{
+"en": "Years of guitar playing left a callosity on each fingertip.",
+"zh": "多年彈吉他在每根指尖都留下了一層老繭。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "call",
+"m": "hard skin 硬皮"
+},
+{
+"p": "-osity",
+"m": "名詞字尾"
+}
+],
+"note": "皮膚變硬 → 老繭"
+},
+"syn": [
+"callus",
+"hardness",
+"insensitivity"
+],
+"ant": [
+"sensitivity"
+]
+},
+{
+"w": "callow",
+"kk": "[ˋkælo]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "young and inexperienced; immature",
+"zh": "未成熟的；少不更事的"
+}
+],
+"ex": [
+{
+"en": "He was a callow youth when he first arrived in the big city.",
+"zh": "他初到大城市時，還是個少不更事的年輕人。"
+}
+],
+"syn": [
+"naive",
+"inexperienced",
+"green"
+],
+"ant": [
+"mature",
+"experienced",
+"seasoned"
+]
+},
+{
+"w": "calorie",
+"kk": "[ˋkælərɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a unit for measuring the energy value of food",
+"zh": "卡路里；大卡"
+}
+],
+"ex": [
+{
+"en": "A can of soda contains nearly 150 calories, so check the calorie count first.",
+"zh": "一罐汽水大約含一百五十大卡，所以先看看熱量標示。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "calor",
+"m": "heat 熱"
+},
+{
+"p": "-ie",
+"m": "名詞字尾"
+}
+],
+"note": "熱量單位"
+},
+"syn": [
+"energy unit"
+],
+"ant": []
+},
+{
+"w": "calumny",
+"kk": "[ˋkæləmnɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a false statement made to damage someone's reputation",
+"zh": "誹謗；中傷"
+}
+],
+"ex": [
+{
+"en": "The senator dismissed the accusation as pure calumny.",
+"zh": "那位參議員駁斥這項指控純屬誹謗。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "calumn",
+"m": "trick, deceive 欺騙（拉丁文 calvi）"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "欺騙性的言論 → 誹謗"
+},
+"syn": [
+"slander",
+"defamation",
+"libel"
+],
+"ant": [
+"praise",
+"commendation"
+]
+},
+{
+"w": "Calvary",
+"kk": "[ˋkælvərɪ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the hill outside Jerusalem where Jesus was crucified",
+"zh": "各各他（耶穌受難之地）"
+},
+{
+"pos": "n.",
+"en": "(calvary) an experience of great suffering",
+"zh": "苦難；磨難"
+}
+],
+"ex": [
+{
+"en": "The painting shows three crosses on the hill of Calvary.",
+"zh": "這幅畫描繪了各各他山上的三座十字架。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "calvari",
+"m": "skull 頭骨（拉丁文 calvaria）"
+}
+],
+"note": "「髑髏地」之意"
+},
+"syn": [
+"Golgotha",
+"ordeal"
+],
+"ant": [],
+"mn": "Calvary（各各他）和 cavalry（騎兵）字母順序很像，別搞混。"
+},
+{
+"w": "Calvinism",
+"kk": "[ˋkælvɪnˏɪzəm]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the Protestant teachings of John Calvin, stressing God's power and predestination",
+"zh": "喀爾文主義"
+}
+],
+"ex": [
+{
+"en": "Calvinism had a strong influence on the Puritans of New England.",
+"zh": "喀爾文主義對新英格蘭的清教徒影響深遠。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Calvin",
+"m": "宗教改革家喀爾文"
+},
+{
+"p": "-ism",
+"m": "名詞字尾（主義）"
+}
+],
+"note": "喀爾文的學說"
+},
+"syn": [
+"Puritanism",
+"predestinarianism"
+],
+"ant": []
+},
+{
+"w": "Calvinize",
+"kk": "[ˋkælvɪnˏaɪz]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to convert to or make consistent with Calvinism",
+"zh": "使信奉喀爾文主義"
+}
+],
+"ex": [
+{
+"en": "Reformers hoped to Calvinize the churches of Scotland.",
+"zh": "宗教改革者希望讓蘇格蘭的教會改信喀爾文主義。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Calvin",
+"m": "宗教改革家喀爾文"
+},
+{
+"p": "-ize",
+"m": "動詞字尾"
+}
+],
+"note": "使成為喀爾文派"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "came",
+"kk": "[kem]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "past tense of come",
+"zh": "come 的過去式"
+},
+{
+"pos": "n.",
+"en": "a thin grooved strip of lead that holds pieces of glass in a stained-glass window",
+"zh": "（彩繪玻璃窗的）鉛條"
+}
+],
+"ex": [
+{
+"en": "The artist bent each lead came to hold the small pieces of colored glass.",
+"zh": "藝術家把每根鉛條彎好，用來固定一片片的彩色玻璃。"
+}
+],
+"syn": [
+"lead strip"
+],
+"ant": [],
+"mn": "這裡收錄的是名詞「鉛條」的罕用義；平常看到的 came 是 come 的過去式。"
+},
+{
+"w": "cameo",
+"kk": "[ˋkæmɪˏo]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a small part in a film or play played by a famous actor",
+"zh": "（名人）客串演出"
+},
+{
+"pos": "n.",
+"en": "a piece of jewelry with a raised carved design",
+"zh": "浮雕寶石；浮雕飾品"
+}
+],
+"ex": [
+{
+"en": "The author made a cameo appearance in the film version of her book.",
+"zh": "作者在她的小說改編電影中客串演出。"
+}
+],
+"syn": [
+"walk-on",
+"brief appearance"
+],
+"ant": [
+"starring role"
+]
+},
+{
+"w": "campaign",
+"kk": "[kæmˋpen]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "an organized series of actions to achieve a goal",
+"zh": "運動；活動；競選"
+},
+{
+"pos": "n.",
+"en": "a series of military operations",
+"zh": "戰役"
+},
+{
+"pos": "v.",
+"en": "to work in an organized way toward a goal",
+"zh": "從事運動；參加競選"
+}
+],
+"ex": [
+{
+"en": "The students started a campaign to reduce plastic waste at school.",
+"zh": "學生們發起一項減少校園塑膠垃圾的運動。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "camp",
+"m": "field 田野"
+},
+{
+"p": "-aign",
+"m": "名詞字尾"
+}
+],
+"note": "原指在野外作戰 → 戰役 → 活動"
+},
+"syn": [
+"drive",
+"crusade",
+"movement"
+],
+"ant": []
+},
+{
+"w": "Canaanite",
+"kk": "[ˋkenənˏaɪt]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a member of the ancient people living in Canaan before the Israelites",
+"zh": "迦南人"
+},
+{
+"pos": "adj.",
+"en": "relating to Canaan or its people",
+"zh": "迦南的"
+}
+],
+"ex": [
+{
+"en": "Archaeologists found a Canaanite temple buried under the city.",
+"zh": "考古學家在城市底下發現一座迦南神廟。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Canaan",
+"m": "迦南（古地名）"
+},
+{
+"p": "-ite",
+"m": "名詞字尾（…的人）"
+}
+],
+"note": "迦南的人"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "canary",
+"kk": "[kəˋnɛrɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a small yellow songbird often kept as a pet",
+"zh": "金絲雀"
+},
+{
+"pos": "adj.",
+"en": "bright yellow",
+"zh": "鮮黃色的"
+}
+],
+"ex": [
+{
+"en": "Miners once used a canary to detect poisonous gas underground.",
+"zh": "礦工過去會用金絲雀來偵測地底的毒氣。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Canary Islands",
+"m": "加那利群島"
+}
+],
+"note": "原產於加那利群島的鳥 → 金絲雀"
+},
+"syn": [],
+"ant": [],
+"mn": "a canary in a coal mine 比喻「危險的早期警訊」。"
+},
+{
+"w": "candid",
+"kk": "[ˋkændɪd]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "truthful and direct; frank",
+"zh": "坦率的；直言的"
+},
+{
+"pos": "adj.",
+"en": "(of a photo) taken informally, without the subject posing",
+"zh": "（照片）偷拍的；非擺拍的"
+}
+],
+"ex": [
+{
+"en": "Thank you for your candid feedback on my essay.",
+"zh": "謝謝你對我的文章提出坦率的意見。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "cand",
+"m": "white, shining 白、發光"
+},
+{
+"p": "-id",
+"m": "形容詞字尾"
+}
+],
+"note": "純白無瑕的 → 坦率的"
+},
+"syn": [
+"frank",
+"honest",
+"forthright"
+],
+"ant": [
+"evasive",
+"guarded",
+"deceptive"
+]
+},
+{
+"w": "canine",
+"kk": "[ˋkenaɪn]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to dogs",
+"zh": "犬的；狗的"
+},
+{
+"pos": "n.",
+"en": "a dog; a pointed tooth between the incisors and molars",
+"zh": "犬；犬齒"
+}
+],
+"ex": [
+{
+"en": "The airport uses a canine unit to sniff out illegal drugs.",
+"zh": "機場用緝毒犬隊來嗅出非法藥物。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "can",
+"m": "dog 狗"
+},
+{
+"p": "-ine",
+"m": "形容詞字尾（…的）"
+}
+],
+"note": "狗的"
+},
+"syn": [
+"doglike",
+"cuspid"
+],
+"ant": [
+"feline"
+]
+},
+{
+"w": "canon",
+"kk": "[ˋkænən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a general rule or principle by which something is judged",
+"zh": "準則；標準"
+},
+{
+"pos": "n.",
+"en": "a collection of works considered the most important or genuine",
+"zh": "經典作品；（正典）書目"
+},
+{
+"pos": "n.",
+"en": "a church law; a clergyman of a cathedral",
+"zh": "教規；大教堂教士"
+}
+],
+"ex": [
+{
+"en": "Shakespeare's plays are central to the canon of English literature.",
+"zh": "莎士比亞的劇作是英國文學經典的核心。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "canon",
+"m": "rule, measuring rod 規則、量尺（希臘文）"
+}
+],
+"note": "量尺 → 標準 → 公認的經典"
+},
+"syn": [
+"principle",
+"standard",
+"classics"
+],
+"ant": [],
+"mn": "canon（準則、經典）和 cannon（大砲）只差一個 n。"
+},
+{
+"w": "cant",
+"kk": "[kænt]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "insincere talk about moral or religious matters",
+"zh": "偽善的言詞；假道學"
+},
+{
+"pos": "n.",
+"en": "the special language of a particular group; jargon",
+"zh": "行話；黑話"
+},
+{
+"pos": "v.",
+"en": "to tilt or slope",
+"zh": "傾斜"
+}
+],
+"ex": [
+{
+"en": "His speech about honesty was just empty cant.",
+"zh": "他那篇關於誠實的演說只不過是虛偽的空話。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "cant",
+"m": "sing, chant 唱（拉丁文 cantare）"
+}
+],
+"note": "像唸經般重複的話 → 偽善言詞"
+},
+"syn": [
+"hypocrisy",
+"jargon",
+"slang"
+],
+"ant": [
+"sincerity"
+]
+},
+{
+"w": "cantata",
+"kk": "[kənˋtɑtə]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a musical work for voices and instruments, often on a religious subject",
+"zh": "清唱劇；康塔塔"
+}
+],
+"ex": [
+{
+"en": "The choir performed a Bach cantata at the Christmas concert.",
+"zh": "合唱團在聖誕音樂會上演唱了一首巴哈的清唱劇。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "cant",
+"m": "sing 唱"
+},
+{
+"p": "-ata",
+"m": "名詞字尾（義大利文）"
+}
+],
+"note": "唱的作品 → 清唱劇"
+},
+"syn": [
+"oratorio"
+],
+"ant": [
+"sonata"
+]
+},
+{
+"w": "canto",
+"kk": "[ˋkænto]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "one of the main divisions of a long poem",
+"zh": "（長詩的）篇；章"
+}
+],
+"ex": [
+{
+"en": "We read the first canto of Dante's Inferno in class.",
+"zh": "我們在課堂上讀了但丁《地獄篇》的第一章。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "cant",
+"m": "sing 唱"
+},
+{
+"p": "-o",
+"m": "字尾"
+}
+],
+"note": "一段歌 → 長詩的一章"
+},
+"syn": [
+"section",
+"stanza",
+"chapter"
+],
+"ant": []
+},
+{
+"w": "cantonment",
+"kk": "[kænˋtɑnmənt]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a military camp or quarters, especially a permanent one",
+"zh": "營地；兵營"
+}
+],
+"ex": [
+{
+"en": "The soldiers returned to the cantonment after a week of training.",
+"zh": "士兵們在一週訓練後回到營區。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "canton",
+"m": "district 地區"
+},
+{
+"p": "-ment",
+"m": "名詞字尾"
+}
+],
+"note": "劃出來駐紮的區域 → 營地"
+},
+"syn": [
+"camp",
+"barracks",
+"garrison"
+],
+"ant": []
+},
+{
+"w": "capacious",
+"kk": "[kəˋpeʃəs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "having a lot of space inside; roomy",
+"zh": "寬敞的；容量大的"
+}
+],
+"ex": [
+{
+"en": "She carried everything she needed in one capacious bag.",
+"zh": "她把所有需要的東西都裝進一個容量很大的包包裡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "cap",
+"m": "take, hold 拿、容納"
+},
+{
+"p": "-acious",
+"m": "形容詞字尾（傾向…的）"
+}
+],
+"note": "能容納很多的 → 寬敞的"
+},
+"syn": [
+"spacious",
+"roomy",
+"ample"
+],
+"ant": [
+"cramped",
+"small"
+]
+},
+{
+"w": "capillary",
+"kk": "[ˋkæpḷˏɛrɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "any of the tiny blood vessels connecting arteries and veins",
+"zh": "微血管"
+},
+{
+"pos": "adj.",
+"en": "very thin like a hair; relating to capillaries",
+"zh": "毛細的；微血管的"
+}
+],
+"ex": [
+{
+"en": "Oxygen passes from each capillary into the surrounding cells.",
+"zh": "氧氣從每一條微血管進入周圍的細胞。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "capill",
+"m": "hair 頭髮"
+},
+{
+"p": "-ary",
+"m": "形容詞字尾"
+}
+],
+"note": "細如毛髮的 → 微血管"
+},
+"syn": [
+"blood vessel"
+],
+"ant": []
+},
+{
+"w": "capitulate",
+"kk": "[kəˋpɪtʃəˏlet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to stop resisting and give in to an opponent or demand",
+"zh": "投降；屈服"
+}
+],
+"ex": [
+{
+"en": "After a long strike, the company was forced to capitulate to the workers' demands.",
+"zh": "經過長期罷工，公司被迫屈服於工人的要求。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "capit",
+"m": "head, heading 頭、條款"
+},
+{
+"p": "-ul",
+"m": "指小字尾"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "按條款談定（投降條件）→ 投降"
+},
+"syn": [
+"surrender",
+"yield",
+"submit"
+],
+"ant": [
+"resist",
+"hold out"
+]
+},
+{
+"w": "caprice",
+"kk": "[kəˋpris]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a sudden, unexplained change of mind or behavior",
+"zh": "反覆無常；突發奇想"
+}
+],
+"ex": [
+{
+"en": "The schedule changed at the manager's caprice, confusing everyone.",
+"zh": "行程隨著經理一時興起而變動，讓大家無所適從。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "capr",
+"m": "goat 山羊（一說 capo 頭）"
+},
+{
+"p": "-ice",
+"m": "名詞字尾"
+}
+],
+"note": "像山羊亂跳般 → 反覆無常"
+},
+"syn": [
+"whim",
+"impulse",
+"fancy"
+],
+"ant": [
+"consistency",
+"stability"
+]
+},
+{
+"w": "caption",
+"kk": "[ˋkæpʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a title or short explanation under a picture",
+"zh": "（圖片的）說明文字；標題"
+},
+{
+"pos": "n.",
+"en": "words shown on screen during a film or video",
+"zh": "字幕"
+}
+],
+"ex": [
+{
+"en": "She wrote a funny caption for the photo of her dog.",
+"zh": "她為狗狗的照片寫了一段有趣的說明。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "capt",
+"m": "take, seize 拿、抓"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "抓住重點的文字 → 標題"
+},
+"syn": [
+"subtitle",
+"heading",
+"legend"
+],
+"ant": []
+},
+{
+"w": "captious",
+"kk": "[ˋkæpʃəs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "tending to find fault or raise petty objections",
+"zh": "吹毛求疵的；愛挑剔的"
+}
+],
+"ex": [
+{
+"en": "The captious critic complained about every tiny detail of the film.",
+"zh": "那位吹毛求疵的影評人對電影的每個小細節都有意見。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "capt",
+"m": "take, seize 抓"
+},
+{
+"p": "-ious",
+"m": "形容詞字尾"
+}
+],
+"note": "愛抓別人小辮子的 → 吹毛求疵的"
+},
+"syn": [
+"nitpicking",
+"faultfinding",
+"critical"
+],
+"ant": [
+"tolerant",
+"uncritical"
+]
+},
+{
+"w": "captivate",
+"kk": "[ˋkæptəˏvet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to attract and hold the attention or interest of",
+"zh": "迷住；吸引"
+}
+],
+"ex": [
+{
+"en": "The magician's tricks never fail to captivate young audiences.",
+"zh": "魔術師的把戲總能迷住年輕觀眾。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "capt",
+"m": "take, seize 抓"
+},
+{
+"p": "-iv",
+"m": "形容詞字尾"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "使成為俘虜 → 迷住"
+},
+"syn": [
+"fascinate",
+"enchant",
+"charm"
+],
+"ant": [
+"bore",
+"repel"
+]
+},
+{
+"w": "carcass",
+"kk": "[ˋkɑrkəs]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the dead body of an animal",
+"zh": "（動物的）屍體"
+},
+{
+"pos": "n.",
+"en": "the remaining framework of something",
+"zh": "殘骸；骨架"
+}
+],
+"ex": [
+{
+"en": "Vultures circled above the carcass of a zebra.",
+"zh": "禿鷹在一具斑馬屍體上空盤旋。"
+}
+],
+"syn": [
+"corpse",
+"remains",
+"skeleton"
+],
+"ant": []
+}
+]

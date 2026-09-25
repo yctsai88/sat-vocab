@@ -1,0 +1,3708 @@
+[
+{
+"w": "believe",
+"kk": "[bɪˋliv]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to accept that something is true",
+"zh": "相信"
+},
+{
+"pos": "v.",
+"en": "to think or suppose",
+"zh": "認為；以為"
+}
+],
+"ex": [
+{
+"en": "I can't believe how fast this summer went by.",
+"zh": "真不敢相信這個暑假過得這麼快。"
+}
+],
+"syn": [
+"trust",
+"accept",
+"think"
+],
+"ant": [
+"doubt",
+"disbelieve"
+]
+},
+{
+"w": "belittle",
+"kk": "[bɪˋlɪtḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to make someone or something seem unimportant",
+"zh": "貶低；小看"
+}
+],
+"ex": [
+{
+"en": "Good coaches never belittle players for making mistakes.",
+"zh": "好的教練從不因球員犯錯而貶低他們。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "使成為"
+},
+{
+"p": "little",
+"m": "小的"
+}
+],
+"note": "使變小 → 貶低"
+},
+"syn": [
+"disparage",
+"demean",
+"diminish"
+],
+"ant": [
+"praise",
+"exalt"
+]
+},
+{
+"w": "belle",
+"kk": "[bɛl]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a beautiful woman, especially the most beautiful at an event",
+"zh": "美女；（場合中）最美的女子"
+}
+],
+"ex": [
+{
+"en": "In her red gown, she was the belle of the ball.",
+"zh": "穿著紅色禮服的她是舞會上最美的女子。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "belle",
+"m": "beautiful 美的（法文陰性）"
+}
+],
+"note": "美麗的女子"
+},
+"syn": [
+"beauty"
+],
+"ant": [
+"beau"
+]
+},
+{
+"w": "bellicose",
+"kk": "[ˋbɛləˏkos]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "eager to fight or argue; aggressive",
+"zh": "好戰的；好鬥的"
+}
+],
+"ex": [
+{
+"en": "The leader's bellicose speech worried neighboring countries.",
+"zh": "那位領導人好戰的演說讓鄰國感到憂心。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bell",
+"m": "war 戰爭"
+},
+{
+"p": "-icose",
+"m": "形容詞字尾（傾向…的）"
+}
+],
+"note": "傾向戰爭的 → 好戰的"
+},
+"syn": [
+"belligerent",
+"aggressive",
+"hostile"
+],
+"ant": [
+"peaceful",
+"pacific"
+]
+},
+{
+"w": "belligerent",
+"kk": "[bəˋlɪdʒərənt]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "hostile and aggressive",
+"zh": "好鬥的；挑釁的"
+},
+{
+"pos": "adj.",
+"en": "engaged in a war",
+"zh": "交戰中的"
+},
+{
+"pos": "n.",
+"en": "a nation or person engaged in war or conflict",
+"zh": "交戰國；交戰者"
+}
+],
+"ex": [
+{
+"en": "The belligerent customer shouted at the cashier.",
+"zh": "那位充滿敵意的顧客對著收銀員大吼。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bell",
+"m": "war 戰爭"
+},
+{
+"p": "ger",
+"m": "carry, wage 進行"
+},
+{
+"p": "-ent",
+"m": "形容詞字尾"
+}
+],
+"note": "進行戰爭的 → 好鬥的"
+},
+"syn": [
+"hostile",
+"combative",
+"bellicose"
+],
+"ant": [
+"peaceful",
+"friendly"
+]
+},
+{
+"w": "bemoan",
+"kk": "[bɪˋmon]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to express sadness or complaint about something",
+"zh": "抱怨；哀嘆"
+}
+],
+"ex": [
+{
+"en": "Many teachers bemoan the lack of funding for the arts.",
+"zh": "許多老師抱怨藝術教育的經費不足。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "moan",
+"m": "呻吟、抱怨"
+}
+],
+"note": "一直呻吟 → 哀嘆"
+},
+"syn": [
+"lament",
+"deplore",
+"bewail"
+],
+"ant": [
+"celebrate",
+"rejoice"
+]
+},
+{
+"w": "benediction",
+"kk": "[ˏbɛnəˋdɪkʃən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a prayer asking for God's blessing, especially at the end of a service",
+"zh": "祝福；祝禱"
+}
+],
+"ex": [
+{
+"en": "The priest ended the ceremony with a benediction.",
+"zh": "神父以祝禱結束了儀式。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bene-",
+"m": "good 好"
+},
+{
+"p": "dict",
+"m": "say 說"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "說好話 → 祝福"
+},
+"syn": [
+"blessing",
+"prayer",
+"invocation"
+],
+"ant": [
+"curse",
+"malediction"
+]
+},
+{
+"w": "benefice",
+"kk": "[ˋbɛnəfɪs]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a church position that provides a priest with income or property",
+"zh": "聖俸；有俸聖職"
+}
+],
+"ex": [
+{
+"en": "The young priest was given a small benefice in a country parish.",
+"zh": "那位年輕神父獲派到鄉下教區擔任一個小小的有俸聖職。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bene-",
+"m": "good 好"
+},
+{
+"p": "fic",
+"m": "do, make 做"
+},
+{
+"p": "-e",
+"m": "字尾"
+}
+],
+"note": "給予的好處 → 聖俸"
+},
+"syn": [
+"living",
+"parish"
+],
+"ant": []
+},
+{
+"w": "beneficent",
+"kk": "[bəˋnɛfəsənt]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "doing good or causing good to be done; generous",
+"zh": "行善的；慈善的"
+}
+],
+"ex": [
+{
+"en": "A beneficent donor paid for the new library wing.",
+"zh": "一位慈善的捐助者出資興建了圖書館的新側館。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bene-",
+"m": "good 好"
+},
+{
+"p": "fic",
+"m": "do, make 做"
+},
+{
+"p": "-ent",
+"m": "形容詞字尾"
+}
+],
+"note": "做好事的 → 行善的"
+},
+"syn": [
+"charitable",
+"generous",
+"benevolent"
+],
+"ant": [
+"maleficent",
+"harmful"
+],
+"mn": "beneficent（做好事的）重點在行動；benevolent（善意的）重點在心意。"
+},
+{
+"w": "beneficiary",
+"kk": "[ˏbɛnəˋfɪʃərɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who gains or benefits from something",
+"zh": "受益者"
+},
+{
+"pos": "n.",
+"en": "a person who receives money or property from a will or insurance",
+"zh": "（遺囑、保險的）受益人"
+}
+],
+"ex": [
+{
+"en": "She was named the sole beneficiary of her uncle's will.",
+"zh": "她被指定為叔叔遺囑的唯一受益人。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bene-",
+"m": "good 好"
+},
+{
+"p": "fic",
+"m": "do, make 做"
+},
+{
+"p": "-iary",
+"m": "名詞字尾（人）"
+}
+],
+"note": "得到好處的人 → 受益者"
+},
+"syn": [
+"recipient",
+"heir",
+"inheritor"
+],
+"ant": [
+"benefactor",
+"donor"
+]
+},
+{
+"w": "benefit",
+"kk": "[ˋbɛnəfɪt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "an advantage or helpful result",
+"zh": "好處；利益"
+},
+{
+"pos": "v.",
+"en": "to receive help or gain an advantage; to be good for",
+"zh": "受益；對…有益"
+},
+{
+"pos": "n.",
+"en": "money provided by the government or an employer",
+"zh": "津貼；福利"
+}
+],
+"ex": [
+{
+"en": "Regular exercise has many health benefits, and everyone can benefit from it.",
+"zh": "規律運動對健康有許多好處，每個人都能從中受益。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bene-",
+"m": "good 好"
+},
+{
+"p": "fit",
+"m": "do, make 做（= fac）"
+}
+],
+"note": "做得好的事 → 好處"
+},
+"syn": [
+"advantage",
+"profit",
+"gain"
+],
+"ant": [
+"harm",
+"disadvantage"
+]
+},
+{
+"w": "benevolence",
+"kk": "[bəˋnɛvələns]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the quality of being kind and generous",
+"zh": "仁慈；善心"
+}
+],
+"ex": [
+{
+"en": "The old king was known for his wisdom and benevolence.",
+"zh": "那位老國王以智慧和仁慈聞名。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bene-",
+"m": "good 好"
+},
+{
+"p": "vol",
+"m": "wish 意願"
+},
+{
+"p": "-ence",
+"m": "名詞字尾"
+}
+],
+"note": "懷著好的意願 → 仁慈"
+},
+"syn": [
+"kindness",
+"generosity",
+"goodwill"
+],
+"ant": [
+"malevolence",
+"cruelty"
+]
+},
+{
+"w": "benignant",
+"kk": "[bɪˋnɪgnənt]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "kind and gracious, especially toward those of lower rank",
+"zh": "慈祥的；和藹的"
+},
+{
+"pos": "adj.",
+"en": "favorable or beneficial",
+"zh": "有益的"
+}
+],
+"ex": [
+{
+"en": "The queen gave the children a benignant smile.",
+"zh": "女王對孩子們露出慈祥的微笑。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "beni",
+"m": "good 好（= bene）"
+},
+{
+"p": "gn",
+"m": "born 天生（= gen）"
+},
+{
+"p": "-ant",
+"m": "形容詞字尾"
+}
+],
+"note": "天性善良的 → 慈祥的"
+},
+"syn": [
+"benign",
+"kindly",
+"gracious"
+],
+"ant": [
+"malignant",
+"unkind"
+]
+},
+{
+"w": "benignity",
+"kk": "[bɪˋnɪgnətɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "kindness and gentleness",
+"zh": "慈祥；仁慈"
+}
+],
+"ex": [
+{
+"en": "Her grandmother's benignity made every visitor feel welcome.",
+"zh": "她奶奶的慈祥讓每位訪客都覺得備受歡迎。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "beni",
+"m": "good 好（= bene）"
+},
+{
+"p": "gn",
+"m": "born 天生（= gen）"
+},
+{
+"p": "-ity",
+"m": "名詞字尾"
+}
+],
+"note": "天性善良 → 慈祥"
+},
+"syn": [
+"kindness",
+"gentleness",
+"benevolence"
+],
+"ant": [
+"malignity",
+"cruelty"
+]
+},
+{
+"w": "benison",
+"kk": "[ˋbɛnɪzṇ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "(literary) a blessing",
+"zh": "（文）祝福"
+}
+],
+"ex": [
+{
+"en": "The rain after the long drought felt like a benison to the farmers.",
+"zh": "久旱之後的雨，對農民來說就像一份祝福。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ben",
+"m": "good 好（= bene）"
+},
+{
+"p": "-ison",
+"m": "名詞字尾"
+}
+],
+"note": "源自 benediction → 祝福"
+},
+"syn": [
+"blessing",
+"benediction"
+],
+"ant": [
+"curse",
+"malison"
+]
+},
+{
+"w": "bequeath",
+"kk": "[bɪˋkwið]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to leave property to someone in a will",
+"zh": "遺贈"
+},
+{
+"pos": "v.",
+"en": "to pass something on to future generations",
+"zh": "傳給（後代）"
+}
+],
+"ex": [
+{
+"en": "She plans to bequeath her house to her nephew.",
+"zh": "她打算把房子遺贈給她的姪子。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "queath",
+"m": "say 說（古英文 cwethan）"
+}
+],
+"note": "（在遺囑中）說明給誰 → 遺贈"
+},
+"syn": [
+"leave",
+"will",
+"hand down"
+],
+"ant": [
+"inherit"
+]
+},
+{
+"w": "bereave",
+"kk": "[bəˋriv]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to deprive someone of a close relative or friend through death",
+"zh": "（死亡）使喪失親友"
+}
+],
+"ex": [
+{
+"en": "The war would bereave thousands of families of their sons.",
+"zh": "這場戰爭會讓成千上萬的家庭失去兒子。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "reave",
+"m": "rob 搶奪"
+}
+],
+"note": "被奪走 → 喪失親人"
+},
+"syn": [
+"deprive",
+"rob"
+],
+"ant": [],
+"mn": "最常見形容詞 bereaved（喪親的），例如 the bereaved family。"
+},
+{
+"w": "berth",
+"kk": "[bɝθ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a bed on a ship or train",
+"zh": "（船、火車上的）臥鋪"
+},
+{
+"pos": "n.",
+"en": "a place where a ship stays in port",
+"zh": "停泊處；錨位"
+},
+{
+"pos": "v.",
+"en": "to bring a ship into a berth",
+"zh": "使（船）停泊"
+}
+],
+"ex": [
+{
+"en": "I slept in the upper berth on the overnight train.",
+"zh": "我在夜車上睡上鋪。"
+}
+],
+"syn": [
+"bunk",
+"dock",
+"mooring"
+],
+"ant": [],
+"mn": "give someone a wide berth 意為「遠遠避開某人」。"
+},
+{
+"w": "beseech",
+"kk": "[bɪˋsitʃ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to ask someone urgently and emotionally; to beg",
+"zh": "懇求；哀求"
+}
+],
+"ex": [
+{
+"en": "I beseech you to reconsider before it is too late.",
+"zh": "我懇求你在一切太遲之前重新考慮。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "seech",
+"m": "seek 尋求"
+}
+],
+"note": "極力尋求 → 懇求"
+},
+"syn": [
+"implore",
+"beg",
+"entreat"
+],
+"ant": [
+"command",
+"demand"
+]
+},
+{
+"w": "beset",
+"kk": "[bɪˋsɛt]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to trouble or threaten persistently",
+"zh": "困擾；使苦惱"
+},
+{
+"pos": "v.",
+"en": "to surround or attack from all sides",
+"zh": "包圍；圍攻"
+}
+],
+"ex": [
+{
+"en": "Money problems continue to beset the small company.",
+"zh": "財務問題持續困擾著這家小公司。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "around 四周"
+},
+{
+"p": "set",
+"m": "放置"
+}
+],
+"note": "四面都被放了東西 → 包圍、困擾"
+},
+"syn": [
+"plague",
+"trouble",
+"besiege"
+],
+"ant": []
+},
+{
+"w": "besmear",
+"kk": "[bɪˋsmɪr]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to smear with something dirty or sticky",
+"zh": "塗抹；弄髒"
+},
+{
+"pos": "v.",
+"en": "to damage someone's reputation",
+"zh": "玷汙（名聲）"
+}
+],
+"ex": [
+{
+"en": "Rumors could besmear the good name of an honest man.",
+"zh": "謠言可能玷汙一個誠實之人的好名聲。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "smear",
+"m": "塗抹"
+}
+],
+"note": "到處塗抹 → 弄髒"
+},
+"syn": [
+"smear",
+"bedaub",
+"sully"
+],
+"ant": [
+"clean"
+]
+},
+{
+"w": "bestial",
+"kk": "[ˋbɛstʃəl]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "cruel or savage like a wild animal",
+"zh": "野蠻的；獸性的"
+}
+],
+"ex": [
+{
+"en": "The prisoners suffered bestial treatment at the hands of the guards.",
+"zh": "囚犯遭到守衛野蠻的對待。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "best",
+"m": "beast 野獸"
+},
+{
+"p": "-ial",
+"m": "形容詞字尾"
+}
+],
+"note": "像野獸的 → 野蠻的"
+},
+"syn": [
+"brutal",
+"savage",
+"beastly"
+],
+"ant": [
+"humane",
+"civilized"
+]
+},
+{
+"w": "bestrew",
+"kk": "[bɪˋstru]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to scatter things over a surface",
+"zh": "撒滿；散布"
+}
+],
+"ex": [
+{
+"en": "The flower girls will bestrew the aisle with rose petals.",
+"zh": "花童們會在走道上撒滿玫瑰花瓣。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "strew",
+"m": "撒"
+}
+],
+"note": "到處撒 → 撒滿"
+},
+"syn": [
+"scatter",
+"strew",
+"litter"
+],
+"ant": [
+"gather"
+]
+},
+{
+"w": "bestride",
+"kk": "[bɪˋstraɪd]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to sit or stand with one leg on each side of",
+"zh": "跨坐；跨立"
+},
+{
+"pos": "v.",
+"en": "to dominate or tower over",
+"zh": "主宰；凌駕"
+}
+],
+"ex": [
+{
+"en": "The knight had to bestride his horse in heavy armor.",
+"zh": "騎士必須穿著笨重的盔甲跨上馬背。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "stride",
+"m": "跨步"
+}
+],
+"note": "大步跨上 → 跨坐"
+},
+"syn": [
+"straddle",
+"dominate"
+],
+"ant": []
+},
+{
+"w": "bethink",
+"kk": "[bɪˋθɪŋk]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "(old use) to think about or remind oneself of something",
+"zh": "（古）想起；考慮"
+}
+],
+"ex": [
+{
+"en": "Before you act, bethink yourself of the consequences.",
+"zh": "行動之前，先想想後果。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "think",
+"m": "想"
+}
+],
+"note": "仔細想 → 想起"
+},
+"syn": [
+"consider",
+"recall",
+"remember"
+],
+"ant": [
+"forget"
+]
+},
+{
+"w": "betide",
+"kk": "[bɪˋtaɪd]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "(old use) to happen or happen to",
+"zh": "（古）發生；降臨"
+}
+],
+"ex": [
+{
+"en": "Woe betide anyone who arrives late to her class.",
+"zh": "誰上她的課遲到，誰就要倒大楣。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "tide",
+"m": "happen 發生（古英文 tidan）"
+}
+],
+"note": "發生、降臨"
+},
+"syn": [
+"befall",
+"happen",
+"occur"
+],
+"ant": [],
+"mn": "幾乎只用在 woe betide...（…要倒楣了）。"
+},
+{
+"w": "betimes",
+"kk": "[bɪˋtaɪmz]",
+"tier": 3,
+"senses": [
+{
+"pos": "adv.",
+"en": "(old use) early; in good time",
+"zh": "（古）早；及時"
+}
+],
+"ex": [
+{
+"en": "The farmer rose betimes to milk the cows.",
+"zh": "農夫一早就起床擠牛奶。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "by",
+"m": "在"
+},
+{
+"p": "time",
+"m": "時間"
+},
+{
+"p": "-s",
+"m": "副詞字尾"
+}
+],
+"note": "在時間之內 → 及時、早"
+},
+"syn": [
+"early",
+"promptly"
+],
+"ant": [
+"late"
+]
+},
+{
+"w": "betroth",
+"kk": "[bɪˋtrɔθ]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to formally promise someone in marriage",
+"zh": "使訂婚；許配"
+}
+],
+"ex": [
+{
+"en": "In the old story, the king plans to betroth his daughter to a prince.",
+"zh": "在那個古老的故事裡，國王打算把女兒許配給一位王子。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "troth",
+"m": "truth, pledge 誓約"
+}
+],
+"note": "立下誓約 → 訂婚"
+},
+"syn": [
+"engage",
+"promise",
+"pledge"
+],
+"ant": []
+},
+{
+"w": "betrothal",
+"kk": "[bɪˋtrɔθəl]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a formal agreement to marry; an engagement",
+"zh": "訂婚；婚約"
+}
+],
+"ex": [
+{
+"en": "The two families celebrated the betrothal with a large feast.",
+"zh": "兩個家族舉辦盛宴慶祝這樁婚約。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "betroth",
+"m": "訂婚"
+},
+{
+"p": "-al",
+"m": "名詞字尾"
+}
+],
+"note": "訂婚這件事"
+},
+"syn": [
+"engagement",
+"espousal"
+],
+"ant": []
+},
+{
+"w": "bevel",
+"kk": "[ˋbɛvḷ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a sloping edge or surface",
+"zh": "斜面；斜角"
+},
+{
+"pos": "v.",
+"en": "to cut a sloping edge on something",
+"zh": "把…切成斜面"
+}
+],
+"ex": [
+{
+"en": "The carpenter used a plane to bevel the edge of the table.",
+"zh": "木匠用刨刀把桌緣刨成斜角。"
+}
+],
+"syn": [
+"slant",
+"slope",
+"chamfer"
+],
+"ant": []
+},
+{
+"w": "bewilder",
+"kk": "[bɪˋwɪldɚ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to confuse someone completely",
+"zh": "使困惑；使不知所措"
+}
+],
+"ex": [
+{
+"en": "The long list of rules may bewilder new players.",
+"zh": "一長串的規則可能會讓新玩家摸不著頭緒。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "be-",
+"m": "加強語氣"
+},
+{
+"p": "wilder",
+"m": "lead astray 使迷路"
+}
+],
+"note": "使迷路 → 使困惑"
+},
+"syn": [
+"confuse",
+"baffle",
+"perplex"
+],
+"ant": [
+"enlighten",
+"clarify"
+]
+},
+{
+"w": "bibliography",
+"kk": "[ˏbɪblɪˋɑgrəfɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a list of books and sources used or referred to in a piece of writing",
+"zh": "參考書目；文獻目錄"
+}
+],
+"ex": [
+{
+"en": "Remember to include a bibliography at the end of your research paper.",
+"zh": "記得在研究報告最後附上參考書目。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "biblio",
+"m": "book 書"
+},
+{
+"p": "graph",
+"m": "write 寫"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "寫下書的清單 → 參考書目"
+},
+"syn": [
+"reference list",
+"works cited"
+],
+"ant": []
+},
+{
+"w": "bibliomania",
+"kk": "[ˏbɪblɪəˋmenɪə]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "an extreme passion for collecting books",
+"zh": "藏書癖；書籍狂"
+}
+],
+"ex": [
+{
+"en": "His bibliomania filled every room of the house with old books.",
+"zh": "他的藏書癖讓家裡每個房間都堆滿了舊書。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "biblio",
+"m": "book 書"
+},
+{
+"p": "mania",
+"m": "madness 狂熱"
+}
+],
+"note": "對書的狂熱 → 藏書癖"
+},
+"syn": [
+"book collecting"
+],
+"ant": []
+},
+{
+"w": "bibliophile",
+"kk": "[ˋbɪblɪəˏfaɪl]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who loves or collects books",
+"zh": "愛書人；藏書家"
+}
+],
+"ex": [
+{
+"en": "As a true bibliophile, she spends every weekend in used bookstores.",
+"zh": "身為真正的愛書人，她每個週末都泡在二手書店裡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "biblio",
+"m": "book 書"
+},
+{
+"p": "phil",
+"m": "love 愛"
+},
+{
+"p": "-e",
+"m": "字尾"
+}
+],
+"note": "愛書的人"
+},
+"syn": [
+"book lover",
+"bookworm"
+],
+"ant": []
+},
+{
+"w": "bibulous",
+"kk": "[ˋbɪbjələs]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "fond of drinking alcohol",
+"zh": "嗜酒的"
+}
+],
+"ex": [
+{
+"en": "The novel's bibulous uncle is always asking for another glass of wine.",
+"zh": "小說裡那位嗜酒的叔叔總是再要一杯酒。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bib",
+"m": "drink 喝"
+},
+{
+"p": "-ulous",
+"m": "形容詞字尾"
+}
+],
+"note": "愛喝的 → 嗜酒的"
+},
+"syn": [
+"alcoholic",
+"intemperate",
+"boozy"
+],
+"ant": [
+"sober",
+"abstemious"
+]
+},
+{
+"w": "bide",
+"kk": "[baɪd]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "(old use) to remain or wait",
+"zh": "等待；停留"
+}
+],
+"ex": [
+{
+"en": "She decided to bide her time until the right job came along.",
+"zh": "她決定靜待時機，直到合適的工作出現。"
+}
+],
+"syn": [
+"wait",
+"remain",
+"stay"
+],
+"ant": [
+"leave"
+],
+"mn": "常用片語 bide one's time，意為「靜待時機」。"
+},
+{
+"w": "biennial",
+"kk": "[baɪˋɛnɪəl]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "happening every two years",
+"zh": "兩年一次的"
+},
+{
+"pos": "n.",
+"en": "a plant that lives for two years; an event held every two years",
+"zh": "二年生植物；雙年展"
+}
+],
+"ex": [
+{
+"en": "The city hosts a biennial art festival that draws visitors from abroad.",
+"zh": "這座城市每兩年舉辦一次藝術節，吸引國外遊客。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bi-",
+"m": "two 二"
+},
+{
+"p": "enn",
+"m": "year 年（= ann）"
+},
+{
+"p": "-ial",
+"m": "形容詞字尾"
+}
+],
+"note": "兩年的 → 兩年一次的"
+},
+"syn": [
+"two-yearly"
+],
+"ant": [
+"annual"
+],
+"mn": "biennial 是兩年一次；biannual 是一年兩次。"
+},
+{
+"w": "bier",
+"kk": "[bɪr]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a stand on which a coffin or dead body is placed before burial",
+"zh": "棺架；停屍架"
+}
+],
+"ex": [
+{
+"en": "The coffin rested on a bier covered with flowers.",
+"zh": "棺木停放在鋪滿鮮花的棺架上。"
+}
+],
+"syn": [
+"catafalque"
+],
+"ant": []
+},
+{
+"w": "bigamist",
+"kk": "[ˋbɪgəmɪst]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who marries someone while already married to another",
+"zh": "重婚者"
+}
+],
+"ex": [
+{
+"en": "The court discovered that the man was a bigamist with two families.",
+"zh": "法院發現這名男子是重婚者，有兩個家庭。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bi-",
+"m": "two 二"
+},
+{
+"p": "gam",
+"m": "marriage 婚姻"
+},
+{
+"p": "-ist",
+"m": "名詞字尾（人）"
+}
+],
+"note": "有兩段婚姻的人 → 重婚者"
+},
+"syn": [],
+"ant": [
+"monogamist"
+]
+},
+{
+"w": "bigamy",
+"kk": "[ˋbɪgəmɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the crime of marrying someone while already married to another",
+"zh": "重婚（罪）"
+}
+],
+"ex": [
+{
+"en": "Bigamy is illegal in most countries.",
+"zh": "在大多數國家，重婚是違法的。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bi-",
+"m": "two 二"
+},
+{
+"p": "gam",
+"m": "marriage 婚姻"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "兩段婚姻 → 重婚"
+},
+"syn": [],
+"ant": [
+"monogamy"
+]
+},
+{
+"w": "bight",
+"kk": "[baɪt]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a long, gradual curve in a coastline; a wide bay",
+"zh": "海灣；（海岸的）彎曲處"
+},
+{
+"pos": "n.",
+"en": "a loop in a rope",
+"zh": "繩圈"
+}
+],
+"ex": [
+{
+"en": "The fishing village sits on a sheltered bight of the coast.",
+"zh": "這座漁村位於海岸一處避風的海灣。"
+}
+],
+"syn": [
+"bay",
+"inlet",
+"cove"
+],
+"ant": []
+},
+{
+"w": "bilateral",
+"kk": "[baɪˋlætərəl]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "involving two sides or two parties, especially two countries",
+"zh": "雙邊的；雙方的"
+},
+{
+"pos": "adj.",
+"en": "affecting both sides of the body",
+"zh": "（身體）兩側的"
+}
+],
+"ex": [
+{
+"en": "The two countries signed a bilateral trade agreement.",
+"zh": "兩國簽署了雙邊貿易協定。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bi-",
+"m": "two 二"
+},
+{
+"p": "later",
+"m": "side 邊"
+},
+{
+"p": "-al",
+"m": "形容詞字尾"
+}
+],
+"note": "兩邊的 → 雙邊的"
+},
+"syn": [
+"mutual",
+"two-sided",
+"reciprocal"
+],
+"ant": [
+"unilateral",
+"multilateral"
+]
+},
+{
+"w": "bilingual",
+"kk": "[baɪˋlɪŋgwəl]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "able to speak two languages fluently; written in two languages",
+"zh": "雙語的"
+}
+],
+"ex": [
+{
+"en": "Growing up in Montreal, she became bilingual in French and English.",
+"zh": "在蒙特婁長大的她，法語和英語都說得很流利。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bi-",
+"m": "two 二"
+},
+{
+"p": "lingu",
+"m": "tongue, language 舌頭、語言"
+},
+{
+"p": "-al",
+"m": "形容詞字尾"
+}
+],
+"note": "兩種語言的 → 雙語的"
+},
+"syn": [
+"two-language"
+],
+"ant": [
+"monolingual"
+]
+},
+{
+"w": "biograph",
+"kk": "[ˋbaɪəˏgræf]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "an early type of motion-picture projector",
+"zh": "（早期的）電影放映機"
+},
+{
+"pos": "n.",
+"en": "(rare) a short biography",
+"zh": "（罕）傳略"
+}
+],
+"ex": [
+{
+"en": "Crowds in 1900 paid a nickel to watch films on the biograph.",
+"zh": "1900 年的觀眾花五分錢，觀看用早期放映機播放的影片。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bio",
+"m": "life 生命"
+},
+{
+"p": "graph",
+"m": "write, record 記錄"
+}
+],
+"note": "記錄生動的畫面 → 早期電影放映機"
+},
+"syn": [
+"projector"
+],
+"ant": []
+},
+{
+"w": "biography",
+"kk": "[baɪˋɑgrəfɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "an account of someone's life written by another person",
+"zh": "傳記"
+}
+],
+"ex": [
+{
+"en": "I just finished reading a biography of Marie Curie.",
+"zh": "我剛讀完一本居禮夫人的傳記。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bio",
+"m": "life 生命"
+},
+{
+"p": "graph",
+"m": "write 寫"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "寫下一個人的生平 → 傳記"
+},
+"syn": [
+"life story",
+"memoir",
+"profile"
+],
+"ant": [
+"autobiography"
+]
+},
+{
+"w": "biology",
+"kk": "[baɪˋɑlədʒɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the scientific study of living things",
+"zh": "生物學"
+}
+],
+"ex": [
+{
+"en": "In biology class, we looked at plant cells under a microscope.",
+"zh": "在生物課上，我們用顯微鏡觀察植物細胞。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bio",
+"m": "life 生命"
+},
+{
+"p": "log",
+"m": "study 學問"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "研究生命的學問 → 生物學"
+},
+"syn": [
+"life science"
+],
+"ant": []
+},
+{
+"w": "biped",
+"kk": "[ˋbaɪpɛd]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "an animal that walks on two feet",
+"zh": "兩足動物"
+}
+],
+"ex": [
+{
+"en": "Humans are the only biped among the great apes that always walks upright.",
+"zh": "人類是大型猿類中唯一總是直立行走的兩足動物。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bi-",
+"m": "two 二"
+},
+{
+"p": "ped",
+"m": "foot 腳"
+}
+],
+"note": "兩隻腳的動物"
+},
+"syn": [],
+"ant": [
+"quadruped"
+]
+},
+{
+"w": "birthright",
+"kk": "[ˋbɝθˏraɪt]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a right or privilege that a person has from birth",
+"zh": "與生俱來的權利"
+}
+],
+"ex": [
+{
+"en": "Many believe that a good education should be every child's birthright.",
+"zh": "許多人認為良好的教育應該是每個孩子與生俱來的權利。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "birth",
+"m": "出生"
+},
+{
+"p": "right",
+"m": "權利"
+}
+],
+"note": "出生就有的權利"
+},
+"syn": [
+"inheritance",
+"heritage",
+"entitlement"
+],
+"ant": []
+},
+{
+"w": "bitterness",
+"kk": "[ˋbɪtɚnɪs]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "anger and resentment because of unfair treatment",
+"zh": "怨恨；憤懣"
+},
+{
+"pos": "n.",
+"en": "a sharp, unpleasant taste",
+"zh": "苦味"
+}
+],
+"ex": [
+{
+"en": "Years later, she still felt bitterness about losing the job.",
+"zh": "多年後，她對丟掉那份工作仍然心懷怨恨。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bitter",
+"m": "苦的"
+},
+{
+"p": "-ness",
+"m": "名詞字尾"
+}
+],
+"note": "苦的狀態 → 苦味、怨恨"
+},
+"syn": [
+"resentment",
+"rancor",
+"acrimony"
+],
+"ant": [
+"sweetness",
+"goodwill"
+]
+},
+{
+"w": "blaspheme",
+"kk": "[blæsˋfim]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to speak disrespectfully about God or sacred things",
+"zh": "褻瀆（神明）；咒罵"
+}
+],
+"ex": [
+{
+"en": "In the village, it was considered a crime to blaspheme in public.",
+"zh": "在那個村子裡，公開褻瀆神明被視為犯罪。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "blas",
+"m": "evil, harm 惡、傷害"
+},
+{
+"p": "pheme",
+"m": "speak 說（= phon）"
+}
+],
+"note": "說壞話 → 褻瀆"
+},
+"syn": [
+"curse",
+"swear",
+"profane"
+],
+"ant": [
+"praise",
+"worship"
+]
+},
+{
+"w": "blatant",
+"kk": "[ˋbletṇt]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "done openly and obviously, without shame",
+"zh": "公然的；明目張膽的"
+}
+],
+"ex": [
+{
+"en": "Copying the whole essay from the internet was a blatant act of cheating.",
+"zh": "把整篇文章從網路上抄下來，是明目張膽的作弊行為。"
+}
+],
+"syn": [
+"flagrant",
+"obvious",
+"brazen"
+],
+"ant": [
+"subtle",
+"hidden"
+]
+},
+{
+"w": "blaze",
+"kk": "[blez]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a large, strong fire",
+"zh": "大火；火焰"
+},
+{
+"pos": "v.",
+"en": "to burn brightly and strongly",
+"zh": "熊熊燃燒"
+},
+{
+"pos": "n.",
+"en": "a very bright display of light or color",
+"zh": "光輝；耀眼"
+}
+],
+"ex": [
+{
+"en": "Firefighters worked all night to put out the blaze.",
+"zh": "消防員徹夜奮戰撲滅大火。"
+}
+],
+"syn": [
+"fire",
+"flame",
+"inferno"
+],
+"ant": [],
+"mn": "blaze a trail 意為「開路；開創先河」。"
+},
+{
+"w": "blazon",
+"kk": "[ˋblezṇ]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to display or announce something prominently",
+"zh": "宣揚；大肆展示"
+},
+{
+"pos": "n.",
+"en": "a coat of arms or its formal description",
+"zh": "紋章；紋章描述"
+}
+],
+"ex": [
+{
+"en": "The team will blazon its logo across every jersey and banner.",
+"zh": "球隊會把隊徽印在每件球衣和旗幟上大肆展示。"
+}
+],
+"syn": [
+"proclaim",
+"display",
+"emblazon"
+],
+"ant": [
+"conceal"
+]
+},
+{
+"w": "bleak",
+"kk": "[blik]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "(of a place) bare, cold, and unwelcoming",
+"zh": "荒涼的；陰冷的"
+},
+{
+"pos": "adj.",
+"en": "without hope or encouragement",
+"zh": "黯淡的；沒有希望的"
+}
+],
+"ex": [
+{
+"en": "After the factory closed, the town's future looked bleak.",
+"zh": "工廠關閉後，這個小鎮的未來看起來一片黯淡。"
+}
+],
+"syn": [
+"bare",
+"grim",
+"hopeless"
+],
+"ant": [
+"promising",
+"hopeful",
+"cheerful"
+]
+},
+{
+"w": "blemish",
+"kk": "[ˋblɛmɪʃ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a small mark or flaw that spoils appearance",
+"zh": "瑕疵；斑點"
+},
+{
+"pos": "n.",
+"en": "a fault in character or reputation",
+"zh": "汙點；缺點"
+},
+{
+"pos": "v.",
+"en": "to spoil the appearance or quality of",
+"zh": "損害；玷汙"
+}
+],
+"ex": [
+{
+"en": "The scandal left a blemish on his otherwise spotless record.",
+"zh": "那件醜聞在他原本無瑕的紀錄上留下了一個汙點。"
+}
+],
+"syn": [
+"flaw",
+"defect",
+"stain"
+],
+"ant": [
+"perfection"
+]
+},
+{
+"w": "blithe",
+"kk": "[blaɪð]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "showing a casual and careless lack of concern",
+"zh": "漫不經心的；不在乎的"
+},
+{
+"pos": "adj.",
+"en": "(literary) happy and carefree",
+"zh": "（文）快樂的；無憂無慮的"
+}
+],
+"ex": [
+{
+"en": "He showed a blithe disregard for the rules.",
+"zh": "他對規則一副毫不在乎的樣子。"
+}
+],
+"syn": [
+"carefree",
+"nonchalant",
+"cheerful"
+],
+"ant": [
+"concerned",
+"gloomy"
+]
+},
+{
+"w": "blithesome",
+"kk": "[ˋblaɪðsəm]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "(literary) cheerful and lighthearted",
+"zh": "（文）快活的；歡樂的"
+}
+],
+"ex": [
+{
+"en": "The blithesome song of the birds filled the spring morning.",
+"zh": "春天的早晨充滿了鳥兒歡快的歌聲。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "blithe",
+"m": "快樂的"
+},
+{
+"p": "-some",
+"m": "形容詞字尾"
+}
+],
+"note": "快樂的"
+},
+"syn": [
+"merry",
+"cheerful",
+"jolly"
+],
+"ant": [
+"gloomy",
+"sad"
+]
+},
+{
+"w": "blockade",
+"kk": "[blɑˋked]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the act of sealing off a place to stop goods or people from entering or leaving",
+"zh": "封鎖"
+},
+{
+"pos": "v.",
+"en": "to seal off a place in this way",
+"zh": "封鎖"
+}
+],
+"ex": [
+{
+"en": "The navy set up a blockade to stop supplies from reaching the port.",
+"zh": "海軍實施封鎖，阻止補給運進港口。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "block",
+"m": "阻擋"
+},
+{
+"p": "-ade",
+"m": "名詞字尾"
+}
+],
+"note": "阻擋的行動 → 封鎖"
+},
+"syn": [
+"siege",
+"barricade",
+"embargo"
+],
+"ant": []
+},
+{
+"w": "boatswain",
+"kk": "[ˋbosṇ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a ship's officer in charge of equipment and the deck crew",
+"zh": "水手長"
+}
+],
+"ex": [
+{
+"en": "The boatswain shouted orders to the sailors on deck.",
+"zh": "水手長對甲板上的水手們大聲下令。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "boat",
+"m": "船"
+},
+{
+"p": "swain",
+"m": "servant 僕人"
+}
+],
+"note": "船上管事的人 → 水手長"
+},
+"syn": [
+"bosun"
+],
+"ant": [],
+"mn": "拼法很長，唸法卻只有 [ˋbosṇ]，也常拼成 bosun。"
+},
+{
+"w": "bodice",
+"kk": "[ˋbɑdɪs]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the part of a dress above the waist",
+"zh": "（洋裝的）上身；緊身胸衣"
+}
+],
+"ex": [
+{
+"en": "The wedding dress had a lace bodice and a long skirt.",
+"zh": "這件婚紗有蕾絲上身和長裙襬。"
+}
+],
+"syn": [
+"corset",
+"top"
+],
+"ant": []
+},
+{
+"w": "bodily",
+"kk": "[ˋbɑdḷɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to the body",
+"zh": "身體的；肉體的"
+},
+{
+"pos": "adv.",
+"en": "by taking hold of the whole body; physically",
+"zh": "整個身體地；強行地"
+}
+],
+"ex": [
+{
+"en": "The attack caused serious bodily harm to the victim.",
+"zh": "這次攻擊對受害者造成嚴重的身體傷害。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "body",
+"m": "身體"
+},
+{
+"p": "-ly",
+"m": "形容詞／副詞字尾"
+}
+],
+"note": "身體的"
+},
+"syn": [
+"physical",
+"corporeal"
+],
+"ant": [
+"mental",
+"spiritual"
+]
+},
+{
+"w": "boisterous",
+"kk": "[ˋbɔɪstərəs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "noisy, energetic, and cheerful",
+"zh": "喧鬧的；活潑吵鬧的"
+}
+],
+"ex": [
+{
+"en": "The boisterous crowd cheered every time the home team scored.",
+"zh": "主隊每次得分，喧鬧的觀眾就歡聲雷動。"
+}
+],
+"syn": [
+"rowdy",
+"noisy",
+"lively"
+],
+"ant": [
+"quiet",
+"calm",
+"restrained"
+]
+},
+{
+"w": "bole",
+"kk": "[bol]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the trunk of a tree",
+"zh": "樹幹"
+}
+],
+"ex": [
+{
+"en": "The old oak had a bole so wide that four people couldn't reach around it.",
+"zh": "那棵老橡樹的樹幹粗到四個人都環抱不住。"
+}
+],
+"syn": [
+"trunk",
+"stem"
+],
+"ant": []
+},
+{
+"w": "bolero",
+"kk": "[boˋlɛro]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a Spanish dance in triple time, or music for it",
+"zh": "波麗露舞（曲）"
+},
+{
+"pos": "n.",
+"en": "a short, open jacket ending above the waist",
+"zh": "短版開襟外套"
+}
+],
+"ex": [
+{
+"en": "The orchestra played Ravel's famous bolero to close the concert.",
+"zh": "管弦樂團演奏拉威爾著名的波麗露舞曲為音樂會作結。"
+}
+],
+"syn": [],
+"ant": []
+},
+{
+"w": "boll",
+"kk": "[bol]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the round seed pod of cotton or flax",
+"zh": "（棉花、亞麻的）圓莢；棉鈴"
+}
+],
+"ex": [
+{
+"en": "Each cotton boll splits open to reveal soft white fibers.",
+"zh": "每個棉鈴裂開後，就露出柔軟的白色纖維。"
+}
+],
+"syn": [
+"pod",
+"capsule"
+],
+"ant": []
+},
+{
+"w": "bomb",
+"kk": "[bɑm]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a device designed to explode and cause damage",
+"zh": "炸彈"
+},
+{
+"pos": "v.",
+"en": "to attack with bombs",
+"zh": "轟炸"
+},
+{
+"pos": "v.",
+"en": "(informal) to fail badly",
+"zh": "（口）徹底失敗"
+}
+],
+"ex": [
+{
+"en": "Police cleared the building after a bomb threat.",
+"zh": "接到炸彈威脅後，警方疏散了整棟大樓。"
+}
+],
+"syn": [
+"explosive",
+"device",
+"flop"
+],
+"ant": [
+"success"
+]
+},
+{
+"w": "bombard",
+"kk": "[bɑmˋbɑrd]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to attack continuously with bombs or shells",
+"zh": "砲轟；轟炸"
+},
+{
+"pos": "v.",
+"en": "to direct a large number of questions or messages at someone",
+"zh": "（以問題等）連番轟炸"
+}
+],
+"ex": [
+{
+"en": "Reporters began to bombard the actor with questions.",
+"zh": "記者們開始連番向那位演員提問。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bomb",
+"m": "炸彈"
+},
+{
+"p": "-ard",
+"m": "字尾"
+}
+],
+"note": "用炸彈不斷攻擊 → 砲轟"
+},
+"syn": [
+"shell",
+"assail",
+"barrage"
+],
+"ant": []
+},
+{
+"w": "bombardier",
+"kk": "[ˏbɑmbɚˋdɪr]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a member of a bomber crew who aims and releases the bombs",
+"zh": "轟炸手；投彈手"
+}
+],
+"ex": [
+{
+"en": "The bombardier waited for the signal before releasing the bombs.",
+"zh": "投彈手等到信號後才投下炸彈。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bombard",
+"m": "砲轟"
+},
+{
+"p": "-ier",
+"m": "名詞字尾（人）"
+}
+],
+"note": "負責砲轟的人 → 轟炸手"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "bombast",
+"kk": "[ˋbɑmbæst]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "high-sounding language with little meaning, used to impress",
+"zh": "浮誇之詞；大話"
+}
+],
+"ex": [
+{
+"en": "Behind all the bombast, the politician offered no real plan.",
+"zh": "在那些浮誇的言詞背後，這位政客提不出任何實際的計畫。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bombast",
+"m": "cotton padding 棉花填料"
+}
+],
+"note": "原指塞衣服的棉絮 → 塞滿空話的言詞"
+},
+"syn": [
+"pomposity",
+"grandiloquence",
+"hot air"
+],
+"ant": [
+"plain speech"
+]
+},
+{
+"w": "boorish",
+"kk": "[ˋbʊrɪʃ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "rough and bad-mannered",
+"zh": "粗魯的；沒教養的"
+}
+],
+"ex": [
+{
+"en": "His boorish behavior at dinner embarrassed everyone.",
+"zh": "他在晚餐時的粗魯行為讓大家都很尷尬。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "boor",
+"m": "peasant 農夫、粗人"
+},
+{
+"p": "-ish",
+"m": "形容詞字尾"
+}
+],
+"note": "像粗人一樣的 → 粗魯的"
+},
+"syn": [
+"rude",
+"crude",
+"uncouth"
+],
+"ant": [
+"polite",
+"refined",
+"courteous"
+]
+},
+{
+"w": "bore",
+"kk": "[bor]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to make someone feel tired and uninterested",
+"zh": "使厭煩"
+},
+{
+"pos": "n.",
+"en": "a dull or tiresome person or thing",
+"zh": "令人厭煩的人或事"
+},
+{
+"pos": "v.",
+"en": "to make a hole with a drill",
+"zh": "鑽（孔）"
+}
+],
+"ex": [
+{
+"en": "I don't want to bore you with every detail of my trip.",
+"zh": "我不想用旅途中的每個細節讓你聽得厭煩。"
+}
+],
+"syn": [
+"weary",
+"tire",
+"drill"
+],
+"ant": [
+"interest",
+"excite"
+]
+},
+{
+"w": "borough",
+"kk": "[ˋbɝo]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a town or district with its own local government",
+"zh": "自治市；行政區"
+}
+],
+"ex": [
+{
+"en": "Brooklyn is the most populous borough of New York City.",
+"zh": "布魯克林是紐約市人口最多的行政區。"
+}
+],
+"syn": [
+"district",
+"municipality",
+"town"
+],
+"ant": []
+},
+{
+"w": "bosom",
+"kk": "[ˋbʊzəm]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a woman's chest",
+"zh": "胸部；胸懷"
+},
+{
+"pos": "n.",
+"en": "a place of warmth, love, and protection",
+"zh": "懷抱；內心"
+},
+{
+"pos": "adj.",
+"en": "(of a friend) very close",
+"zh": "知心的；親密的"
+}
+],
+"ex": [
+{
+"en": "The two girls have been bosom friends since kindergarten.",
+"zh": "這兩個女孩從幼稚園起就是知心好友。"
+}
+],
+"syn": [
+"chest",
+"heart",
+"intimate"
+],
+"ant": []
+},
+{
+"w": "botanical",
+"kk": "[boˋtænɪkḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to plants or the study of plants",
+"zh": "植物的；植物學的"
+}
+],
+"ex": [
+{
+"en": "We saw rare orchids at the botanical garden.",
+"zh": "我們在植物園看到了稀有的蘭花。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "botan",
+"m": "plant 植物"
+},
+{
+"p": "-ical",
+"m": "形容詞字尾"
+}
+],
+"note": "植物的"
+},
+"syn": [
+"plant",
+"herbal"
+],
+"ant": [
+"zoological"
+]
+},
+{
+"w": "botanize",
+"kk": "[ˋbɑtṇˏaɪz]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to study or collect plants in their natural habitat",
+"zh": "採集植物；研究植物"
+}
+],
+"ex": [
+{
+"en": "The students went to the mountains to botanize for their science project.",
+"zh": "學生們上山採集植物做科學專題。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "botan",
+"m": "plant 植物"
+},
+{
+"p": "-ize",
+"m": "動詞字尾"
+}
+],
+"note": "研究植物"
+},
+"syn": [
+"collect plants"
+],
+"ant": []
+},
+{
+"w": "botany",
+"kk": "[ˋbɑtṇɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the scientific study of plants",
+"zh": "植物學"
+}
+],
+"ex": [
+{
+"en": "She studied botany and now works at a seed bank.",
+"zh": "她學植物學，現在在種子銀行工作。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "botan",
+"m": "plant 植物"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "研究植物的學問"
+},
+"syn": [
+"plant science"
+],
+"ant": [
+"zoology"
+]
+},
+{
+"w": "bountiful",
+"kk": "[ˋbaʊntəfəl]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "large in quantity; abundant",
+"zh": "豐富的；大量的"
+},
+{
+"pos": "adj.",
+"en": "giving generously",
+"zh": "慷慨的"
+}
+],
+"ex": [
+{
+"en": "Good weather led to a bountiful harvest this year.",
+"zh": "好天氣讓今年大豐收。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bounty",
+"m": "慷慨、豐富"
+},
+{
+"p": "-ful",
+"m": "形容詞字尾（充滿…的）"
+}
+],
+"note": "充滿豐盛的 → 豐富的"
+},
+"syn": [
+"abundant",
+"plentiful",
+"generous"
+],
+"ant": [
+"scarce",
+"meager",
+"stingy"
+]
+},
+{
+"w": "Bowdlerize",
+"kk": "[ˋbaʊdləˏraɪz]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to remove parts of a book or play considered improper or offensive",
+"zh": "刪改（書中不雅部分）"
+}
+],
+"ex": [
+{
+"en": "The publisher decided to bowdlerize the novel for younger readers.",
+"zh": "出版社決定為年輕讀者刪改這部小說中不雅的部分。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Bowdler",
+"m": "英國編輯鮑德勒"
+},
+{
+"p": "-ize",
+"m": "動詞字尾"
+}
+],
+"note": "鮑德勒曾刪改莎士比亞劇作中的不雅內容 → 刪改"
+},
+"syn": [
+"censor",
+"expurgate",
+"sanitize"
+],
+"ant": []
+},
+{
+"w": "bowler",
+"kk": "[ˋbolɚ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who bowls, as in bowling or cricket",
+"zh": "打保齡球的人；（板球）投球手"
+},
+{
+"pos": "n.",
+"en": "a hard black felt hat with a round top (bowler hat)",
+"zh": "圓頂禮帽"
+}
+],
+"ex": [
+{
+"en": "The best bowler on our team scored over 250 points.",
+"zh": "我們隊上最厲害的保齡球選手打了超過兩百五十分。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bowl",
+"m": "滾球"
+},
+{
+"p": "-er",
+"m": "名詞字尾（人）"
+}
+],
+"note": "滾球的人"
+},
+"syn": [
+"derby"
+],
+"ant": [
+"batsman"
+]
+},
+{
+"w": "boycott",
+"kk": "[ˋbɔɪˏkɑt]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to refuse to buy, use, or take part in something as a protest",
+"zh": "抵制；杯葛"
+},
+{
+"pos": "n.",
+"en": "an act of boycotting",
+"zh": "抵制行動"
+}
+],
+"ex": [
+{
+"en": "Students decided to boycott the cafeteria until prices dropped.",
+"zh": "學生們決定抵制學生餐廳，直到價格調降為止。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Boycott",
+"m": "愛爾蘭地產經理人名"
+}
+],
+"note": "1880 年愛爾蘭佃農集體孤立一位叫 Boycott 的經理 → 抵制"
+},
+"syn": [
+"ban",
+"shun",
+"embargo"
+],
+"ant": [
+"support",
+"patronize"
+]
+},
+{
+"w": "brae",
+"kk": "[bre]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "(Scottish) a steep hillside or slope",
+"zh": "（蘇格蘭）山坡"
+}
+],
+"ex": [
+{
+"en": "Sheep grazed on the green brae above the river.",
+"zh": "羊群在河邊高處的青翠山坡上吃草。"
+}
+],
+"syn": [
+"hillside",
+"slope",
+"bank"
+],
+"ant": []
+},
+{
+"w": "braggart",
+"kk": "[ˋbrægɚt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who boasts too much",
+"zh": "愛吹牛的人"
+}
+],
+"ex": [
+{
+"en": "Nobody likes a braggart who talks only about his own success.",
+"zh": "沒人喜歡只會談論自己成就的吹牛大王。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "brag",
+"m": "吹噓"
+},
+{
+"p": "-art",
+"m": "名詞字尾（人，帶貶義）"
+}
+],
+"note": "愛吹噓的人"
+},
+"syn": [
+"boaster",
+"show-off",
+"blowhard"
+],
+"ant": []
+},
+{
+"w": "brandish",
+"kk": "[ˋbrændɪʃ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to wave something, especially a weapon, in a threatening or excited way",
+"zh": "揮舞（武器等）"
+}
+],
+"ex": [
+{
+"en": "The robber began to brandish a knife at the cashier.",
+"zh": "搶匪開始對著收銀員揮舞刀子。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "brand",
+"m": "sword 劍（古英文）"
+},
+{
+"p": "-ish",
+"m": "動詞字尾"
+}
+],
+"note": "揮劍 → 揮舞"
+},
+"syn": [
+"wave",
+"flourish",
+"wield"
+],
+"ant": []
+},
+{
+"w": "bravado",
+"kk": "[brəˋvɑdo]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a bold show of confidence meant to impress or hide fear",
+"zh": "虛張聲勢；逞強"
+}
+],
+"ex": [
+{
+"en": "His bravado disappeared the moment the roller coaster started.",
+"zh": "雲霄飛車一開動，他的逞強就消失得無影無蹤。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "brav",
+"m": "brave 勇敢"
+},
+{
+"p": "-ado",
+"m": "名詞字尾（西班牙文）"
+}
+],
+"note": "假裝勇敢 → 虛張聲勢"
+},
+"syn": [
+"swagger",
+"bluster",
+"boldness"
+],
+"ant": [
+"modesty",
+"timidity"
+]
+},
+{
+"w": "bravo",
+"kk": "[ˋbrɑvo]",
+"tier": 2,
+"senses": [
+{
+"pos": "interj.",
+"en": "used to express approval of a performer",
+"zh": "好極了；太棒了（喝采聲）"
+}
+],
+"ex": [
+{
+"en": "The audience stood up and shouted \"Bravo!\" at the end of the opera.",
+"zh": "歌劇結束時，觀眾起立高喊「太棒了！」"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bravo",
+"m": "brave, excellent 勇敢、傑出（義大利文）"
+}
+],
+"note": "喝采聲"
+},
+"syn": [
+"well done",
+"hurrah"
+],
+"ant": [
+"boo"
+]
+},
+{
+"w": "bray",
+"kk": "[bre]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "(of a donkey) to make a loud, harsh cry",
+"zh": "（驢）叫"
+},
+{
+"pos": "v.",
+"en": "to laugh or speak loudly and harshly",
+"zh": "大聲刺耳地笑或說"
+}
+],
+"ex": [
+{
+"en": "We could hear the donkey bray from across the field.",
+"zh": "我們在田野另一邊都聽得到驢子的叫聲。"
+}
+],
+"syn": [
+"heehaw",
+"bellow",
+"blare"
+],
+"ant": [
+"whisper"
+]
+},
+{
+"w": "braze",
+"kk": "[brez]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to join metal pieces using melted brass or another alloy",
+"zh": "銅焊；硬焊"
+}
+],
+"ex": [
+{
+"en": "The mechanic will braze the broken pipe instead of replacing it.",
+"zh": "技師會用銅焊把斷掉的管子接起來，而不是換新的。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "braz",
+"m": "brass 黃銅"
+},
+{
+"p": "-e",
+"m": "字尾"
+}
+],
+"note": "用黃銅接合 → 銅焊"
+},
+"syn": [
+"solder",
+"weld"
+],
+"ant": []
+},
+{
+"w": "brazier",
+"kk": "[ˋbreʒɚ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a metal container holding burning coals for heat or cooking",
+"zh": "火盆；炭爐"
+}
+],
+"ex": [
+{
+"en": "The guards warmed their hands over a glowing brazier.",
+"zh": "守衛們在燒得通紅的火盆上烤手取暖。"
+}
+],
+"syn": [
+"fire pit",
+"grill"
+],
+"ant": []
+},
+{
+"w": "breach",
+"kk": "[britʃ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "an act of breaking a law, rule, or agreement",
+"zh": "違反；違約"
+},
+{
+"pos": "n.",
+"en": "a gap or break in a wall or barrier",
+"zh": "缺口；裂口"
+},
+{
+"pos": "v.",
+"en": "to break through or break a rule",
+"zh": "突破；違反"
+}
+],
+"ex": [
+{
+"en": "Sharing the secret documents was a serious breach of trust.",
+"zh": "洩漏機密文件是嚴重的背信行為。"
+}
+],
+"syn": [
+"violation",
+"infringement",
+"gap"
+],
+"ant": [
+"compliance",
+"observance"
+],
+"mn": "breach（違反、缺口）和 breech（臀部、槍膛）發音相同，別搞混。"
+},
+{
+"w": "breaker",
+"kk": "[ˋbrekɚ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a large wave that breaks into white foam on the shore",
+"zh": "碎浪；拍岸浪"
+},
+{
+"pos": "n.",
+"en": "a person or device that breaks something",
+"zh": "破壞者；斷路器"
+}
+],
+"ex": [
+{
+"en": "Surfers waited for the next big breaker to roll in.",
+"zh": "衝浪客等待下一道大浪打過來。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "break",
+"m": "打破"
+},
+{
+"p": "-er",
+"m": "名詞字尾"
+}
+],
+"note": "打碎在岸上的浪"
+},
+"syn": [
+"wave",
+"roller",
+"circuit breaker"
+],
+"ant": []
+},
+{
+"w": "breech",
+"kk": "[britʃ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the back part of a gun barrel",
+"zh": "槍膛；砲尾"
+},
+{
+"pos": "n.",
+"en": "(old use) the buttocks; a breech birth is a baby born feet or bottom first",
+"zh": "臀部；臀位（生產）"
+}
+],
+"ex": [
+{
+"en": "The soldier loaded a shell into the breech of the cannon.",
+"zh": "士兵把砲彈裝進大砲的砲尾。"
+}
+],
+"syn": [
+"buttocks"
+],
+"ant": [
+"muzzle"
+]
+},
+{
+"w": "brethren",
+"kk": "[ˋbrɛðrɪn]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "(old or formal plural of brother) fellow members of a group or religion",
+"zh": "弟兄們；同道；同胞"
+}
+],
+"ex": [
+{
+"en": "The farmers stood with their brethren in the neighboring towns.",
+"zh": "農民們與鄰近城鎮的同胞站在一起。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "brother",
+"m": "兄弟"
+},
+{
+"p": "-en",
+"m": "古英文複數字尾"
+}
+],
+"note": "brother 的古式複數"
+},
+"syn": [
+"brothers",
+"fellows",
+"comrades"
+],
+"ant": []
+},
+{
+"w": "brevity",
+"kk": "[ˋbrɛvətɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the use of few words; conciseness",
+"zh": "簡潔"
+},
+{
+"pos": "n.",
+"en": "shortness of time",
+"zh": "短暫"
+}
+],
+"ex": [
+{
+"en": "The speech was praised for its brevity and clarity.",
+"zh": "這場演講以簡潔清楚而受到讚賞。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "brev",
+"m": "short 短"
+},
+{
+"p": "-ity",
+"m": "名詞字尾"
+}
+],
+"note": "短的性質 → 簡潔、短暫"
+},
+"syn": [
+"conciseness",
+"succinctness",
+"briefness"
+],
+"ant": [
+"verbosity",
+"wordiness"
+],
+"mn": "莎士比亞名言：Brevity is the soul of wit.（簡潔是智慧的靈魂。）"
+},
+{
+"w": "bric-a-brac",
+"kk": "[ˋbrɪkəˏbræk]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "small decorative objects of little value",
+"zh": "小擺設；小古玩"
+}
+],
+"ex": [
+{
+"en": "Her shelves were crowded with bric-a-brac from her travels.",
+"zh": "她的架子上擺滿了旅行帶回來的小擺設。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "bric-à-brac",
+"m": "at random 隨便（法文）"
+}
+],
+"note": "隨便湊來的小東西 → 小擺設"
+},
+"syn": [
+"knickknacks",
+"trinkets",
+"curios"
+],
+"ant": []
+},
+{
+"w": "bridle",
+"kk": "[ˋbraɪdḷ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the straps on a horse's head used to control it",
+"zh": "馬勒；韁繩"
+},
+{
+"pos": "v.",
+"en": "to show sudden anger or offense",
+"zh": "（因被冒犯而）動怒"
+},
+{
+"pos": "v.",
+"en": "to bring under control",
+"zh": "抑制；約束"
+}
+],
+"ex": [
+{
+"en": "She put the bridle on the horse before the ride.",
+"zh": "騎馬前，她先幫馬套上馬勒。"
+}
+],
+"syn": [
+"harness",
+"restrain",
+"bristle"
+],
+"ant": [
+"unleash"
+]
+},
+{
+"w": "brigade",
+"kk": "[brɪˋged]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a large military unit made up of several battalions",
+"zh": "（軍）旅"
+},
+{
+"pos": "n.",
+"en": "a group of people organized for a purpose",
+"zh": "（特定任務的）隊"
+}
+],
+"ex": [
+{
+"en": "The fire brigade arrived within minutes of the call.",
+"zh": "消防隊接到電話後幾分鐘內就趕到了。"
+}
+],
+"syn": [
+"unit",
+"corps",
+"squad"
+],
+"ant": []
+},
+{
+"w": "brigadier",
+"kk": "[ˏbrɪgəˋdɪr]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a military officer who commands a brigade",
+"zh": "旅長；准將"
+}
+],
+"ex": [
+{
+"en": "The brigadier inspected the troops before the parade.",
+"zh": "准將在閱兵前檢閱部隊。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "brigade",
+"m": "旅"
+},
+{
+"p": "-ier",
+"m": "名詞字尾（人）"
+}
+],
+"note": "指揮一個旅的人 → 旅長"
+},
+"syn": [
+"brigadier general"
+],
+"ant": []
+},
+{
+"w": "brigand",
+"kk": "[ˋbrɪgənd]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a member of a gang that robs travelers in forests or mountains",
+"zh": "土匪；強盜"
+}
+],
+"ex": [
+{
+"en": "Travelers feared being robbed by a brigand on the mountain pass.",
+"zh": "旅人們害怕在山口遭到土匪搶劫。"
+}
+],
+"syn": [
+"bandit",
+"outlaw",
+"robber"
+],
+"ant": []
+},
+{
+"w": "brimstone",
+"kk": "[ˋbrɪmˏston]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "(old use) sulfur",
+"zh": "（古）硫磺"
+}
+],
+"ex": [
+{
+"en": "The preacher warned of fire and brimstone for those who sinned.",
+"zh": "傳道人警告犯罪的人將遭受烈火與硫磺的懲罰。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "brim",
+"m": "burn 燃燒（古英文 brinnen）"
+},
+{
+"p": "stone",
+"m": "石頭"
+}
+],
+"note": "會燃燒的石頭 → 硫磺"
+},
+"syn": [
+"sulfur"
+],
+"ant": [],
+"mn": "fire and brimstone 常用來形容「地獄般的懲罰」或激烈的說教。"
+},
+{
+"w": "brine",
+"kk": "[braɪn]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "water with a lot of salt in it, used for preserving food",
+"zh": "鹽水；滷水"
+},
+{
+"pos": "n.",
+"en": "(literary) the sea",
+"zh": "（文）海"
+}
+],
+"ex": [
+{
+"en": "Soak the cucumbers in brine for a week to make pickles.",
+"zh": "把小黃瓜泡在鹽水裡一週就能做成醃黃瓜。"
+}
+],
+"syn": [
+"salt water",
+"pickle"
+],
+"ant": [
+"fresh water"
+]
+}
+]

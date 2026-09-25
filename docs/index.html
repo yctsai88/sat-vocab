@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1f3a5f">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="SAT 單字">
+<title>SAT 單字</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main id="view" aria-live="polite"><p class="loading">載入中…</p></main>
+<nav id="tabs">
+  <a href="#/home" data-tab="home"><span class="ti">◎</span>今日</a>
+  <a href="#/practice" data-tab="practice"><span class="ti">✎</span>練習</a>
+  <a href="#/words" data-tab="words"><span class="ti">☰</span>單字</a>
+  <a href="#/stats" data-tab="stats"><span class="ti">▥</span>統計</a>
+  <a href="#/settings" data-tab="settings"><span class="ti">⚙</span>設定</a>
+</nav>
+<div id="toast" role="status"></div>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,4074 @@
+[
+{
+"w": "altar",
+"kk": "[ˋɔltɚ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a raised table or structure used in religious ceremonies",
+"zh": "祭壇；聖壇"
+}
+],
+"ex": [
+{
+"en": "The couple exchanged vows in front of the altar as the guests watched.",
+"zh": "這對新人在祭壇前交換誓言，賓客們在一旁觀禮。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alt",
+"m": "high 高"
+},
+{
+"p": "-ar",
+"m": "名詞字尾"
+}
+],
+"note": "高起的台子 → 祭壇"
+},
+"syn": [
+"shrine",
+"sanctuary"
+],
+"ant": [],
+"mn": "altar（祭壇）和 alter（改變）同音，a 結尾的是祭壇。"
+},
+{
+"w": "alter",
+"kk": "[ˋɔltɚ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to change or cause to change",
+"zh": "改變；修改"
+},
+{
+"pos": "v.",
+"en": "to make changes to clothing so it fits better",
+"zh": "修改（衣服）"
+}
+],
+"ex": [
+{
+"en": "The new evidence did not alter the jury's final decision.",
+"zh": "新證據並沒有改變陪審團的最終判決。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alter",
+"m": "other 另一個"
+}
+],
+"note": "變成另一個樣子 → 改變"
+},
+"syn": [
+"change",
+"modify",
+"adjust"
+],
+"ant": [
+"preserve",
+"maintain"
+]
+},
+{
+"w": "alteration",
+"kk": "[ˏɔltəˋreʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a change or modification",
+"zh": "改變；修改"
+}
+],
+"ex": [
+{
+"en": "The tailor made a small alteration so the jacket would fit perfectly.",
+"zh": "裁縫稍微修改了一下，讓外套完全合身。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alter",
+"m": "other 另一個"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "變成另一個樣子的動作 → 修改"
+},
+"syn": [
+"change",
+"modification",
+"revision"
+],
+"ant": []
+},
+{
+"w": "altercate",
+"kk": "[ˋɔltɚˏket]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to argue or quarrel noisily",
+"zh": "爭吵；口角"
+}
+],
+"ex": [
+{
+"en": "The two neighbors began to altercate loudly over the broken fence.",
+"zh": "兩個鄰居為了壞掉的籬笆大聲爭吵起來。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alter",
+"m": "other 另一個"
+},
+{
+"p": "-cate",
+"m": "動詞字尾"
+}
+],
+"note": "你一言、另一個人一語 → 爭吵"
+},
+"syn": [
+"quarrel",
+"argue",
+"wrangle"
+],
+"ant": [
+"agree"
+],
+"mn": "名詞 altercation（爭吵）較常見。"
+},
+{
+"w": "alternate",
+"kk": "[ˋɔltɚˏnet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to occur or do things in turn, one after the other",
+"zh": "交替；輪流"
+},
+{
+"pos": "adj.",
+"en": "[ˋɔltɚnɪt] every other; occurring by turns",
+"zh": "交替的；隔一個的"
+},
+{
+"pos": "n.",
+"en": "[ˋɔltɚnɪt] a substitute",
+"zh": "替補者；候補"
+}
+],
+"ex": [
+{
+"en": "The farmers alternate crops each year to keep the soil healthy.",
+"zh": "農夫每年輪作不同作物，讓土壤保持健康。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alter",
+"m": "other 另一個"
+},
+{
+"p": "-n",
+"m": "字尾"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "一個接著另一個 → 輪流"
+},
+"syn": [
+"rotate",
+"switch",
+"interchange"
+],
+"ant": []
+},
+{
+"w": "alternative",
+"kk": "[ɔlˋtɝnətɪv]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "one of two or more available possibilities",
+"zh": "選擇；替代方案"
+},
+{
+"pos": "adj.",
+"en": "available as another possibility; different from the usual",
+"zh": "替代的；另類的"
+}
+],
+"ex": [
+{
+"en": "Solar power is a cleaner alternative to burning coal.",
+"zh": "太陽能是比燃煤更乾淨的替代方案。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alter",
+"m": "other 另一個"
+},
+{
+"p": "-native",
+"m": "形容詞字尾"
+}
+],
+"note": "另一個可選的 → 替代方案"
+},
+"syn": [
+"option",
+"substitute",
+"choice"
+],
+"ant": []
+},
+{
+"w": "altitude",
+"kk": "[ˋæltəˏtjud]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the height of something above sea level or the ground",
+"zh": "高度；海拔"
+}
+],
+"ex": [
+{
+"en": "Climbers often feel dizzy at such a high altitude.",
+"zh": "登山者在這麼高的海拔常會頭暈。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alt",
+"m": "high 高"
+},
+{
+"p": "-itude",
+"m": "名詞字尾（狀態）"
+}
+],
+"note": "高的程度 → 高度"
+},
+"syn": [
+"height",
+"elevation"
+],
+"ant": [
+"depth"
+]
+},
+{
+"w": "alto",
+"kk": "[ˋælto]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the lowest female singing voice, or a singer with this voice",
+"zh": "女低音；女低音歌手"
+}
+],
+"ex": [
+{
+"en": "She sings alto in the school choir.",
+"zh": "她在學校合唱團唱女低音。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alt",
+"m": "high 高"
+}
+],
+"note": "原指比男聲部「高」的聲部 → 女低音"
+},
+"syn": [
+"contralto"
+],
+"ant": [
+"soprano"
+]
+},
+{
+"w": "altruism",
+"kk": "[ˋæltrʊˏɪzəm]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "unselfish concern for the well-being of others",
+"zh": "利他主義；無私"
+}
+],
+"ex": [
+{
+"en": "Donating a kidney to a stranger is an act of pure altruism.",
+"zh": "把腎臟捐給陌生人是純粹無私的行為。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "altr",
+"m": "other 別人"
+},
+{
+"p": "-ism",
+"m": "名詞字尾（主義）"
+}
+],
+"note": "為別人著想的主義 → 利他主義"
+},
+"syn": [
+"selflessness",
+"generosity",
+"benevolence"
+],
+"ant": [
+"selfishness",
+"egoism"
+]
+},
+{
+"w": "altruist",
+"kk": "[ˋæltrʊɪst]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who unselfishly cares about the welfare of others",
+"zh": "利他主義者；無私的人"
+}
+],
+"ex": [
+{
+"en": "A true altruist helps others without expecting anything in return.",
+"zh": "真正無私的人幫助別人不求回報。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "altr",
+"m": "other 別人"
+},
+{
+"p": "-ist",
+"m": "名詞字尾（人）"
+}
+],
+"note": "為別人著想的人 → 利他主義者"
+},
+"syn": [
+"humanitarian",
+"philanthropist"
+],
+"ant": [
+"egoist",
+"egotist"
+]
+},
+{
+"w": "amalgam",
+"kk": "[əˋmælgəm]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a mixture or blend of different things",
+"zh": "混合物；融合體"
+},
+{
+"pos": "n.",
+"en": "an alloy of mercury with another metal, used in dental fillings",
+"zh": "汞合金"
+}
+],
+"ex": [
+{
+"en": "The city's cuisine is an amalgam of Chinese, Malay, and Indian flavors.",
+"zh": "這座城市的料理融合了中式、馬來和印度風味。"
+}
+],
+"syn": [
+"mixture",
+"blend",
+"fusion"
+],
+"ant": []
+},
+{
+"w": "amalgamate",
+"kk": "[əˋmælgəˏmet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to combine or unite to form one organization or structure",
+"zh": "合併；融合"
+}
+],
+"ex": [
+{
+"en": "The two small schools decided to amalgamate to save money.",
+"zh": "這兩所小學校決定合併以節省經費。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "amalgam",
+"m": "mixture 混合物"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "做成混合物 → 合併"
+},
+"syn": [
+"merge",
+"combine",
+"unite"
+],
+"ant": [
+"separate",
+"divide"
+]
+},
+{
+"w": "amateur",
+"kk": "[ˋæməˏtʃʊr]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who does something for pleasure rather than as a job",
+"zh": "業餘愛好者"
+},
+{
+"pos": "adj.",
+"en": "not professional; sometimes, lacking skill",
+"zh": "業餘的；外行的"
+}
+],
+"ex": [
+{
+"en": "The photo contest is open to any amateur with a camera.",
+"zh": "這場攝影比賽開放給任何有相機的業餘愛好者參加。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "am",
+"m": "love 愛"
+},
+{
+"p": "-ateur",
+"m": "名詞字尾（人）"
+}
+],
+"note": "因為熱愛而做的人 → 業餘愛好者"
+},
+"syn": [
+"hobbyist",
+"nonprofessional",
+"layman"
+],
+"ant": [
+"professional",
+"expert"
+]
+},
+{
+"w": "amatory",
+"kk": "[ˋæməˏtorɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to or expressing romantic or sexual love",
+"zh": "戀愛的；表達愛情的"
+}
+],
+"ex": [
+{
+"en": "The poet wrote amatory verses to the woman he admired.",
+"zh": "詩人為他傾慕的女子寫下情詩。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "am",
+"m": "love 愛"
+},
+{
+"p": "-atory",
+"m": "形容詞字尾"
+}
+],
+"note": "與愛有關的 → 戀愛的"
+},
+"syn": [
+"romantic",
+"amorous",
+"erotic"
+],
+"ant": []
+},
+{
+"w": "ambidextrous",
+"kk": "[ˏæmbəˋdɛkstrəs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "able to use the right and left hands equally well",
+"zh": "左右手都靈巧的"
+}
+],
+"ex": [
+{
+"en": "The ambidextrous pitcher could throw with either arm.",
+"zh": "那位左右開弓的投手用哪隻手都能投球。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ambi-",
+"m": "both 兩邊"
+},
+{
+"p": "dextr",
+"m": "right hand 右手、靈巧"
+},
+{
+"p": "-ous",
+"m": "形容詞字尾"
+}
+],
+"note": "兩隻手都像右手一樣靈巧 → 雙手都靈巧的"
+},
+"syn": [
+"two-handed",
+"versatile"
+],
+"ant": [
+"clumsy"
+]
+},
+{
+"w": "ambitious",
+"kk": "[æmˋbɪʃəs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "having a strong desire for success or achievement",
+"zh": "有抱負的；有野心的"
+},
+{
+"pos": "adj.",
+"en": "(of a plan) difficult and requiring great effort",
+"zh": "（計畫）宏大的；艱鉅的"
+}
+],
+"ex": [
+{
+"en": "The city has an ambitious plan to plant a million trees.",
+"zh": "這座城市有個宏大的計畫，要種一百萬棵樹。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "amb-",
+"m": "around 四周"
+},
+{
+"p": "it",
+"m": "go 走"
+},
+{
+"p": "-ious",
+"m": "形容詞字尾"
+}
+],
+"note": "古羅馬候選人四處走動拉票 → 有野心的"
+},
+"syn": [
+"aspiring",
+"driven",
+"enterprising"
+],
+"ant": [
+"unambitious",
+"lazy"
+]
+},
+{
+"w": "ambrosial",
+"kk": "[æmˋbroʒəl]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "extremely pleasing to taste or smell; divine",
+"zh": "美味的；芳香的；神仙般的"
+}
+],
+"ex": [
+{
+"en": "An ambrosial smell of fresh bread drifted from the bakery.",
+"zh": "麵包店飄出剛出爐麵包的誘人香味。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "not 不"
+},
+{
+"p": "mbros",
+"m": "mortal 會死的"
+},
+{
+"p": "-ial",
+"m": "形容詞字尾"
+}
+],
+"note": "ambrosia 是希臘眾神吃了會長生不老的食物 → 美味如仙饌的"
+},
+"syn": [
+"delicious",
+"fragrant",
+"heavenly"
+],
+"ant": [
+"foul",
+"unpalatable"
+]
+},
+{
+"w": "ambulance",
+"kk": "[ˋæmbjələns]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a vehicle for taking sick or injured people to the hospital",
+"zh": "救護車"
+}
+],
+"ex": [
+{
+"en": "Someone called an ambulance after the cyclist fell.",
+"zh": "那位騎單車的人摔倒後，有人叫了救護車。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ambul",
+"m": "walk 走動"
+},
+{
+"p": "-ance",
+"m": "名詞字尾"
+}
+],
+"note": "原指跟著軍隊移動的野戰醫院 → 救護車"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "ambulate",
+"kk": "[ˋæmbjəˏlet]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to walk or move from place to place",
+"zh": "走動；步行"
+}
+],
+"ex": [
+{
+"en": "After surgery, patients are encouraged to ambulate as soon as possible.",
+"zh": "手術後，醫生鼓勵病人盡早下床走動。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ambul",
+"m": "walk 走動"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "走動"
+},
+"syn": [
+"walk",
+"stroll"
+],
+"ant": []
+},
+{
+"w": "ambush",
+"kk": "[ˋæmbʊʃ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a surprise attack by people hiding and waiting",
+"zh": "埋伏；伏擊"
+},
+{
+"pos": "v.",
+"en": "to attack suddenly from a hidden position",
+"zh": "伏擊"
+}
+],
+"ex": [
+{
+"en": "The soldiers walked straight into an ambush in the narrow valley.",
+"zh": "士兵們在狹窄的山谷中直接中了埋伏。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "am-",
+"m": "in 在裡面（= in-）"
+},
+{
+"p": "bush",
+"m": "bush 灌木叢"
+}
+],
+"note": "躲在灌木叢裡 → 埋伏"
+},
+"syn": [
+"trap",
+"surprise attack"
+],
+"ant": []
+},
+{
+"w": "amenable",
+"kk": "[əˋminəbḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "willing to accept or be persuaded; cooperative",
+"zh": "願意接受的；順從的"
+},
+{
+"pos": "adj.",
+"en": "capable of being treated or dealt with in a certain way",
+"zh": "可用…處理的"
+}
+],
+"ex": [
+{
+"en": "The principal was amenable to the students' idea of a later start time.",
+"zh": "校長願意接受學生延後上學時間的提議。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "men",
+"m": "lead, drive 引導"
+},
+{
+"p": "-able",
+"m": "形容詞字尾（可…的）"
+}
+],
+"note": "可以被引導的 → 順從的"
+},
+"syn": [
+"agreeable",
+"receptive",
+"compliant"
+],
+"ant": [
+"stubborn",
+"resistant"
+]
+},
+{
+"w": "Americanism",
+"kk": "[əˋmɛrəkənˏɪzəm]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a word or phrase typical of American English",
+"zh": "美式用語"
+},
+{
+"pos": "n.",
+"en": "loyalty to the United States or its customs",
+"zh": "親美；美國精神"
+}
+],
+"ex": [
+{
+"en": "The British editor marked \"gotten\" as an Americanism.",
+"zh": "那位英國編輯把 gotten 標註為美式用語。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "American",
+"m": "美國的"
+},
+{
+"p": "-ism",
+"m": "名詞字尾（特色、主義）"
+}
+],
+"note": "美國特有的東西 → 美式用語"
+},
+"syn": [],
+"ant": [
+"Briticism"
+]
+},
+{
+"w": "amicable",
+"kk": "[ˋæmɪkəbḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "friendly and without disagreement",
+"zh": "友好的；和睦的"
+}
+],
+"ex": [
+{
+"en": "The two companies reached an amicable agreement without going to court.",
+"zh": "兩家公司沒有上法院，就達成了友好的協議。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "amic",
+"m": "friend 朋友"
+},
+{
+"p": "-able",
+"m": "形容詞字尾"
+}
+],
+"note": "像朋友一樣的 → 友好的"
+},
+"syn": [
+"friendly",
+"cordial",
+"peaceable"
+],
+"ant": [
+"hostile",
+"acrimonious"
+]
+},
+{
+"w": "amity",
+"kk": "[ˋæmətɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a friendly relationship, especially between countries",
+"zh": "友好；和睦（尤指國與國之間）"
+}
+],
+"ex": [
+{
+"en": "The treaty opened a new era of amity between the former enemies.",
+"zh": "這項條約開啟了兩個昔日敵國之間友好的新時代。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "am",
+"m": "love 愛"
+},
+{
+"p": "-ity",
+"m": "名詞字尾"
+}
+],
+"note": "彼此友愛 → 友好"
+},
+"syn": [
+"friendship",
+"harmony",
+"goodwill"
+],
+"ant": [
+"enmity",
+"hostility"
+],
+"mn": "amity（友好）和 enmity（敵意）是一對反義詞。"
+},
+{
+"w": "amorous",
+"kk": "[ˋæmərəs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "showing or feeling romantic or sexual desire",
+"zh": "多情的；表示愛慕的"
+}
+],
+"ex": [
+{
+"en": "She ignored his amorous glances across the room.",
+"zh": "她不理會他從房間另一頭投來的愛慕眼神。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "amor",
+"m": "love 愛"
+},
+{
+"p": "-ous",
+"m": "形容詞字尾"
+}
+],
+"note": "充滿愛意的 → 多情的"
+},
+"syn": [
+"romantic",
+"passionate",
+"loving"
+],
+"ant": [
+"cold",
+"indifferent"
+]
+},
+{
+"w": "amorphous",
+"kk": "[əˋmɔrfəs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "without a clear shape, form, or structure",
+"zh": "無定形的；模糊不清的"
+}
+],
+"ex": [
+{
+"en": "The committee's plan was still amorphous, with no clear goals or deadlines.",
+"zh": "委員會的計畫仍然很模糊，沒有明確的目標或期限。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "without 沒有"
+},
+{
+"p": "morph",
+"m": "shape 形狀"
+},
+{
+"p": "-ous",
+"m": "形容詞字尾"
+}
+],
+"note": "沒有形狀的 → 無定形的"
+},
+"syn": [
+"shapeless",
+"formless",
+"vague"
+],
+"ant": [
+"definite",
+"structured"
+]
+},
+{
+"w": "amour",
+"kk": "[əˋmʊr]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a love affair, especially a secret one",
+"zh": "（尤指祕密的）戀情；私情"
+}
+],
+"ex": [
+{
+"en": "The novel follows the painter's brief amour with a mysterious dancer.",
+"zh": "這部小說描寫畫家與一名神祕舞者的短暫戀情。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "amour",
+"m": "love 愛（法文）"
+}
+],
+"note": "法文的「愛」→ 戀情"
+},
+"syn": [
+"affair",
+"romance",
+"liaison"
+],
+"ant": []
+},
+{
+"w": "ampere",
+"kk": "[ˋæmpɪr]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the basic unit for measuring electric current",
+"zh": "安培（電流單位）"
+}
+],
+"ex": [
+{
+"en": "The ampere is the standard unit scientists use to measure electric current.",
+"zh": "安培是科學家用來測量電流的標準單位。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Ampère",
+"m": "法國物理學家安培"
+}
+],
+"note": "以物理學家安培命名的單位"
+},
+"syn": [
+"amp"
+],
+"ant": []
+},
+{
+"w": "ampersand",
+"kk": "[ˋæmpɚˏsænd]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the symbol &, meaning \"and\"",
+"zh": "& 符號"
+}
+],
+"ex": [
+{
+"en": "The law firm uses an ampersand between the partners' names.",
+"zh": "這家律師事務所在合夥人的名字之間用 & 符號連接。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "and per se and",
+"m": "「& 本身就代表 and」"
+}
+],
+"note": "舊時背字母時唸的 and per se and 連讀 → ampersand"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "amphibious",
+"kk": "[æmˋfɪbɪəs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "able to live both on land and in water",
+"zh": "水陸兩棲的"
+},
+{
+"pos": "adj.",
+"en": "(of military operations) involving forces landing from the sea",
+"zh": "（軍事）兩棲作戰的"
+}
+],
+"ex": [
+{
+"en": "Frogs are amphibious animals that begin life in water.",
+"zh": "青蛙是兩棲動物，一開始在水中生活。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "amphi-",
+"m": "both 兩種"
+},
+{
+"p": "bi",
+"m": "life 生命"
+},
+{
+"p": "-ous",
+"m": "形容詞字尾"
+}
+],
+"note": "過兩種生活的 → 兩棲的"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "amphitheater",
+"kk": "[ˋæmfəˏθiətɚ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a round or oval open-air building with rising rows of seats around a central space",
+"zh": "圓形劇場；露天競技場"
+}
+],
+"ex": [
+{
+"en": "The band played to thousands in the outdoor amphitheater.",
+"zh": "樂團在戶外圓形劇場為數千人表演。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "amphi-",
+"m": "around 四周"
+},
+{
+"p": "theater",
+"m": "劇場"
+}
+],
+"note": "四周都有座位的劇場 → 圓形劇場"
+},
+"syn": [
+"arena",
+"stadium",
+"coliseum"
+],
+"ant": []
+},
+{
+"w": "amplitude",
+"kk": "[ˋæmpləˏtjud]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the maximum extent of a vibration or wave",
+"zh": "振幅"
+},
+{
+"pos": "n.",
+"en": "great size, range, or abundance",
+"zh": "廣大；充足"
+}
+],
+"ex": [
+{
+"en": "A louder sound has a greater amplitude.",
+"zh": "越大聲的聲音振幅越大。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ampl",
+"m": "large 大"
+},
+{
+"p": "-itude",
+"m": "名詞字尾（狀態）"
+}
+],
+"note": "大的程度 → 廣大、振幅"
+},
+"syn": [
+"magnitude",
+"extent",
+"breadth"
+],
+"ant": []
+},
+{
+"w": "amply",
+"kk": "[ˋæmplɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adv.",
+"en": "more than enough; fully",
+"zh": "充分地；大量地"
+}
+],
+"ex": [
+{
+"en": "Her hard work was amply rewarded with a scholarship.",
+"zh": "她的努力換得一份獎學金，獲得了充分的回報。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ampl",
+"m": "large 大"
+},
+{
+"p": "-y",
+"m": "副詞字尾"
+}
+],
+"note": "大量地 → 充分地"
+},
+"syn": [
+"abundantly",
+"sufficiently",
+"generously"
+],
+"ant": [
+"insufficiently",
+"scarcely"
+]
+},
+{
+"w": "amputate",
+"kk": "[ˋæmpjəˏtet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to cut off a limb or part of the body by surgery",
+"zh": "截肢；切除"
+}
+],
+"ex": [
+{
+"en": "Doctors had to amputate his leg after the infection spread.",
+"zh": "感染擴散後，醫生不得不切除他的腿。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "am-",
+"m": "around 四周（= ambi-）"
+},
+{
+"p": "put",
+"m": "cut, prune 修剪"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "從四周修剪掉 → 切除"
+},
+"syn": [
+"cut off",
+"remove",
+"sever"
+],
+"ant": [
+"attach"
+]
+},
+{
+"w": "amusement",
+"kk": "[əˋmjuzmənt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the feeling of finding something funny or entertaining",
+"zh": "好笑；樂趣"
+},
+{
+"pos": "n.",
+"en": "an activity that provides entertainment",
+"zh": "娛樂活動"
+}
+],
+"ex": [
+{
+"en": "To everyone's amusement, the puppy stole the speaker's microphone.",
+"zh": "小狗把講者的麥克風叼走了，逗得大家哈哈大笑。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "amuse",
+"m": "使開心"
+},
+{
+"p": "-ment",
+"m": "名詞字尾"
+}
+],
+"note": "使人開心的事 → 樂趣"
+},
+"syn": [
+"entertainment",
+"enjoyment",
+"fun"
+],
+"ant": [
+"boredom"
+]
+},
+{
+"w": "anachronism",
+"kk": "[əˋnækrəˏnɪzəm]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "something placed in the wrong time period, or that seems out of date",
+"zh": "時代錯置；過時的人或事物"
+}
+],
+"ex": [
+{
+"en": "A wristwatch on a Roman soldier in the movie is an obvious anachronism.",
+"zh": "電影裡羅馬士兵戴手錶，明顯是時代錯置。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ana-",
+"m": "against, back 違反、向後"
+},
+{
+"p": "chron",
+"m": "time 時間"
+},
+{
+"p": "-ism",
+"m": "名詞字尾"
+}
+],
+"note": "違反時間順序 → 時代錯置"
+},
+"syn": [
+"misplacement",
+"throwback"
+],
+"ant": []
+},
+{
+"w": "anagram",
+"kk": "[ˋænəˏgræm]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a word or phrase formed by rearranging the letters of another",
+"zh": "字母重組詞（易位構詞）"
+}
+],
+"ex": [
+{
+"en": "\"Listen\" is an anagram of \"silent.\"",
+"zh": "listen 是 silent 的字母重組詞。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ana-",
+"m": "back, again 重新"
+},
+{
+"p": "gram",
+"m": "letter 字母"
+}
+],
+"note": "把字母重新排列 → 字母重組詞"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "analogous",
+"kk": "[əˋnæləgəs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "similar in some way, so that a comparison can be made",
+"zh": "類似的；可類比的"
+}
+],
+"ex": [
+{
+"en": "The heart is analogous to a pump that pushes blood through the body.",
+"zh": "心臟類似一個幫浦，把血液推送到全身。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ana-",
+"m": "according to 依照"
+},
+{
+"p": "log",
+"m": "ratio, word 比例、道理"
+},
+{
+"p": "-ous",
+"m": "形容詞字尾"
+}
+],
+"note": "依照相同比例的 → 類似的"
+},
+"syn": [
+"comparable",
+"similar",
+"parallel"
+],
+"ant": [
+"dissimilar",
+"different"
+]
+},
+{
+"w": "analogy",
+"kk": "[əˋnælədʒɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a comparison between two things to explain or clarify something",
+"zh": "類比；比喻"
+}
+],
+"ex": [
+{
+"en": "The teacher used the analogy of a highway to explain how blood vessels work.",
+"zh": "老師用高速公路來比喻血管的運作。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ana-",
+"m": "according to 依照"
+},
+{
+"p": "log",
+"m": "ratio, word 比例、道理"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "依照相同道理來比較 → 類比"
+},
+"syn": [
+"comparison",
+"parallel",
+"metaphor"
+],
+"ant": [
+"contrast"
+]
+},
+{
+"w": "analyst",
+"kk": "[ˋænḷɪst]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who studies information in detail to understand or explain it",
+"zh": "分析師；分析者"
+}
+],
+"ex": [
+{
+"en": "One analyst predicted that housing prices would fall next year.",
+"zh": "一位分析師預測明年房價會下跌。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ana-",
+"m": "up, throughout 徹底"
+},
+{
+"p": "ly",
+"m": "loosen 解開"
+},
+{
+"p": "-st",
+"m": "名詞字尾（人）"
+}
+],
+"note": "把事情徹底拆解的人 → 分析師"
+},
+"syn": [
+"examiner",
+"expert",
+"researcher"
+],
+"ant": []
+},
+{
+"w": "analyze",
+"kk": "[ˋænḷˏaɪz]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to examine something in detail in order to understand it",
+"zh": "分析"
+}
+],
+"ex": [
+{
+"en": "Scientists will analyze the water samples for pollution.",
+"zh": "科學家會分析水樣是否受到汙染。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ana-",
+"m": "up, throughout 徹底"
+},
+{
+"p": "ly",
+"m": "loosen 解開"
+},
+{
+"p": "-ze",
+"m": "動詞字尾"
+}
+],
+"note": "徹底拆解開來 → 分析"
+},
+"syn": [
+"examine",
+"study",
+"evaluate"
+],
+"ant": [
+"synthesize"
+]
+},
+{
+"w": "anarchy",
+"kk": "[ˋænɚkɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a state of disorder because there is no government or control",
+"zh": "無政府狀態；混亂"
+}
+],
+"ex": [
+{
+"en": "When the police went on strike, the city fell into anarchy.",
+"zh": "警察罷工後，整座城市陷入一片混亂。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "an-",
+"m": "without 沒有"
+},
+{
+"p": "arch",
+"m": "ruler 統治者"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "沒有統治者 → 無政府狀態"
+},
+"syn": [
+"chaos",
+"lawlessness",
+"disorder"
+],
+"ant": [
+"order",
+"government"
+]
+},
+{
+"w": "anathema",
+"kk": "[əˋnæθəmə]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "something or someone that one strongly dislikes",
+"zh": "令人極度厭惡的人或事物"
+},
+{
+"pos": "n.",
+"en": "a formal curse by a church",
+"zh": "（教會的）詛咒；逐出教會"
+}
+],
+"ex": [
+{
+"en": "Raising taxes is anathema to the party's voters.",
+"zh": "加稅是這個政黨的選民深惡痛絕的事。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ana-",
+"m": "up 向上"
+},
+{
+"p": "the",
+"m": "put, place 放置"
+},
+{
+"p": "-ma",
+"m": "名詞字尾"
+}
+],
+"note": "原指供奉起來的祭品，後指被詛咒之物 → 極度厭惡的事"
+},
+"syn": [
+"abomination",
+"curse",
+"bane"
+],
+"ant": [
+"blessing"
+]
+},
+{
+"w": "anatomy",
+"kk": "[əˋnætəmɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the scientific study of the structure of bodies",
+"zh": "解剖學"
+},
+{
+"pos": "n.",
+"en": "the physical structure of a living thing; a detailed analysis",
+"zh": "（身體）構造；剖析"
+}
+],
+"ex": [
+{
+"en": "Medical students spend months studying human anatomy.",
+"zh": "醫學生要花好幾個月研讀人體解剖學。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ana-",
+"m": "up 完全"
+},
+{
+"p": "tom",
+"m": "cut 切"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "把身體完全切開研究 → 解剖學"
+},
+"syn": [
+"structure",
+"dissection"
+],
+"ant": []
+},
+{
+"w": "ancestry",
+"kk": "[ˋænsɛstrɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "one's family or ethnic origins; one's ancestors as a group",
+"zh": "祖先；家世；血統"
+}
+],
+"ex": [
+{
+"en": "She traced her ancestry back to farmers in southern Italy.",
+"zh": "她追溯家世，發現祖先是義大利南部的農民。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "an-",
+"m": "before 之前（= ante-）"
+},
+{
+"p": "cest",
+"m": "go 走（= ced）"
+},
+{
+"p": "-ry",
+"m": "名詞字尾"
+}
+],
+"note": "走在前面的人 → 祖先"
+},
+"syn": [
+"lineage",
+"descent",
+"heritage"
+],
+"ant": [
+"descendants"
+]
+},
+{
+"w": "anecdote",
+"kk": "[ˋænɪkˏdot]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a short, interesting story about a real incident or person",
+"zh": "軼事；趣聞"
+}
+],
+"ex": [
+{
+"en": "The speaker opened with a funny anecdote about her first job.",
+"zh": "講者以一則關於她第一份工作的趣事開場。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "an-",
+"m": "not 不"
+},
+{
+"p": "ec-",
+"m": "out 出去"
+},
+{
+"p": "dot",
+"m": "give 給"
+}
+],
+"note": "原指沒有公開發表的小故事 → 軼事"
+},
+"syn": [
+"story",
+"tale",
+"account"
+],
+"ant": []
+},
+{
+"w": "anemia",
+"kk": "[əˋnimɪə]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a condition in which the blood lacks enough healthy red blood cells",
+"zh": "貧血"
+}
+],
+"ex": [
+{
+"en": "A lack of iron in the diet can cause anemia.",
+"zh": "飲食中缺鐵可能造成貧血。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "an-",
+"m": "without 沒有"
+},
+{
+"p": "em",
+"m": "blood 血（= hem）"
+},
+{
+"p": "-ia",
+"m": "名詞字尾（疾病）"
+}
+],
+"note": "沒有（足夠的）血 → 貧血"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "anemic",
+"kk": "[əˋnimɪk]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "suffering from anemia; pale",
+"zh": "貧血的；蒼白的"
+},
+{
+"pos": "adj.",
+"en": "lacking energy, strength, or vitality",
+"zh": "無力的；疲弱的"
+}
+],
+"ex": [
+{
+"en": "The economy showed only anemic growth last quarter.",
+"zh": "上一季經濟成長十分疲弱。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "an-",
+"m": "without 沒有"
+},
+{
+"p": "em",
+"m": "blood 血（= hem）"
+},
+{
+"p": "-ic",
+"m": "形容詞字尾"
+}
+],
+"note": "缺血的 → 貧血的、無力的"
+},
+"syn": [
+"weak",
+"feeble",
+"pale"
+],
+"ant": [
+"robust",
+"vigorous"
+]
+},
+{
+"w": "anemometer",
+"kk": "[ˏænəˋmɑmətɚ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "an instrument for measuring wind speed",
+"zh": "風速計"
+}
+],
+"ex": [
+{
+"en": "The anemometer on the roof recorded gusts of over 100 kilometers per hour.",
+"zh": "屋頂上的風速計測到時速超過一百公里的陣風。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anemo",
+"m": "wind 風"
+},
+{
+"p": "meter",
+"m": "measure 測量"
+}
+],
+"note": "測量風的儀器 → 風速計"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "anesthetic",
+"kk": "[ˏænəsˋθɛtɪk]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a drug that makes a person unable to feel pain",
+"zh": "麻醉劑"
+},
+{
+"pos": "adj.",
+"en": "causing a loss of feeling",
+"zh": "麻醉的"
+}
+],
+"ex": [
+{
+"en": "The dentist gave me a local anesthetic before pulling the tooth.",
+"zh": "牙醫拔牙前幫我打了局部麻醉。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "an-",
+"m": "without 沒有"
+},
+{
+"p": "esthet",
+"m": "feeling 感覺"
+},
+{
+"p": "-ic",
+"m": "形容詞字尾"
+}
+],
+"note": "使人沒有感覺 → 麻醉的"
+},
+"syn": [
+"painkiller",
+"sedative",
+"numbing agent"
+],
+"ant": [
+"stimulant"
+]
+},
+{
+"w": "anew",
+"kk": "[əˋnju]",
+"tier": 2,
+"senses": [
+{
+"pos": "adv.",
+"en": "again, often in a new or different way",
+"zh": "重新；再一次"
+}
+],
+"ex": [
+{
+"en": "After the fire, the family had to start life anew in another town.",
+"zh": "火災後，這家人不得不在另一個小鎮重新開始生活。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "of 從"
+},
+{
+"p": "new",
+"m": "新"
+}
+],
+"note": "從新的開始 → 重新"
+},
+"syn": [
+"again",
+"afresh"
+],
+"ant": []
+},
+{
+"w": "angelic",
+"kk": "[ænˋdʒɛlɪk]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "like an angel; very kind, pure, or beautiful",
+"zh": "天使般的；純潔美好的"
+}
+],
+"ex": [
+{
+"en": "The child had an angelic face but a mischievous personality.",
+"zh": "那個孩子有張天使般的臉，個性卻很頑皮。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "angel",
+"m": "天使"
+},
+{
+"p": "-ic",
+"m": "形容詞字尾"
+}
+],
+"note": "像天使的"
+},
+"syn": [
+"innocent",
+"saintly",
+"virtuous"
+],
+"ant": [
+"devilish",
+"wicked"
+]
+},
+{
+"w": "Anglo-Saxon",
+"kk": "[ˋæŋgloˋsæksṇ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a member of the Germanic peoples who ruled England before 1066; also, Old English",
+"zh": "盎格魯撒克遜人；古英語"
+},
+{
+"pos": "adj.",
+"en": "relating to the Anglo-Saxons or to people of English descent",
+"zh": "盎格魯撒克遜的"
+}
+],
+"ex": [
+{
+"en": "Many everyday English words come from Anglo-Saxon roots.",
+"zh": "許多日常英文字源自盎格魯撒克遜語。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Angle",
+"m": "盎格魯人"
+},
+{
+"p": "Saxon",
+"m": "撒克遜人"
+}
+],
+"note": "兩支日耳曼民族的合稱"
+},
+"syn": [
+"Old English"
+],
+"ant": []
+},
+{
+"w": "Anglophobia",
+"kk": "[ˏæŋgləˋfobɪə]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "intense dislike or fear of England or English people",
+"zh": "恐英症；仇英情緒"
+}
+],
+"ex": [
+{
+"en": "The pamphlet was full of Anglophobia and anger at British rule.",
+"zh": "這本小冊子充滿仇英情緒和對英國統治的憤怒。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Anglo",
+"m": "English 英國的"
+},
+{
+"p": "phob",
+"m": "fear 害怕"
+},
+{
+"p": "-ia",
+"m": "名詞字尾"
+}
+],
+"note": "害怕、厭惡英國 → 仇英情緒"
+},
+"syn": [],
+"ant": [
+"Anglophilia"
+]
+},
+{
+"w": "angular",
+"kk": "[ˋæŋgjəlɚ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "having sharp corners or angles",
+"zh": "有角的；有稜角的"
+},
+{
+"pos": "adj.",
+"en": "(of a person) thin and bony",
+"zh": "骨瘦如柴的"
+}
+],
+"ex": [
+{
+"en": "The modern building has an angular shape made of glass and steel.",
+"zh": "這棟現代建築由玻璃和鋼材構成，外形稜角分明。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "angul",
+"m": "corner, angle 角"
+},
+{
+"p": "-ar",
+"m": "形容詞字尾"
+}
+],
+"note": "有角的"
+},
+"syn": [
+"sharp-cornered",
+"bony",
+"gaunt"
+],
+"ant": [
+"rounded",
+"curved"
+]
+},
+{
+"w": "anhydrous",
+"kk": "[ænˋhaɪdrəs]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "containing no water",
+"zh": "無水的"
+}
+],
+"ex": [
+{
+"en": "The chemist stored the anhydrous salt in a sealed jar to keep out moisture.",
+"zh": "化學家把無水鹽放在密封罐中，防止受潮。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "an-",
+"m": "without 沒有"
+},
+{
+"p": "hydr",
+"m": "water 水"
+},
+{
+"p": "-ous",
+"m": "形容詞字尾"
+}
+],
+"note": "沒有水的"
+},
+"syn": [
+"dry",
+"dehydrated"
+],
+"ant": [
+"hydrous"
+]
+},
+{
+"w": "animadversion",
+"kk": "[ˏænəmædˋvɝʃən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a critical comment or criticism",
+"zh": "批評；責難"
+}
+],
+"ex": [
+{
+"en": "The critic's sharp animadversion on the play upset the director.",
+"zh": "評論家對這齣戲的尖銳批評讓導演很不高興。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anim",
+"m": "mind 心思"
+},
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "vers",
+"m": "turn 轉"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "把心思轉向（缺點）→ 批評"
+},
+"syn": [
+"criticism",
+"censure",
+"reproof"
+],
+"ant": [
+"praise",
+"commendation"
+]
+},
+{
+"w": "animadvert",
+"kk": "[ˏænəmædˋvɝt]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to criticize or comment critically on something",
+"zh": "批評；責難"
+}
+],
+"ex": [
+{
+"en": "The reviewer chose to animadvert on the author's careless research.",
+"zh": "評論者特別批評作者研究粗糙。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anim",
+"m": "mind 心思"
+},
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "vert",
+"m": "turn 轉"
+}
+],
+"note": "把心思轉向（缺點）→ 批評"
+},
+"syn": [
+"criticize",
+"censure",
+"disparage"
+],
+"ant": [
+"praise"
+]
+},
+{
+"w": "animalcule",
+"kk": "[ˏænəˋmælkjul]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a microscopic animal",
+"zh": "微生物；極微小的動物"
+}
+],
+"ex": [
+{
+"en": "Under the lens, each drop of pond water held a moving animalcule or two.",
+"zh": "透過鏡片看，每滴池水裡都有一兩隻在動的微生物。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "animal",
+"m": "動物"
+},
+{
+"p": "-cule",
+"m": "small 小（指小字尾）"
+}
+],
+"note": "很小的動物 → 微生物"
+},
+"syn": [
+"microorganism",
+"microbe"
+],
+"ant": []
+},
+{
+"w": "animate",
+"kk": "[ˋænəˏmet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to bring to life; to make lively",
+"zh": "使有生氣；使活潑"
+},
+{
+"pos": "v.",
+"en": "to make drawings or models appear to move in a film",
+"zh": "把…製作成動畫"
+},
+{
+"pos": "adj.",
+"en": "[ˋænəmɪt] alive; having life",
+"zh": "有生命的"
+}
+],
+"ex": [
+{
+"en": "A good teacher can animate even the dullest topic.",
+"zh": "好老師能讓最枯燥的主題也變得生動。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anim",
+"m": "life, breath 生命、氣息"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "給予生命 → 使有生氣"
+},
+"syn": [
+"enliven",
+"energize",
+"invigorate"
+],
+"ant": [
+"deaden",
+"inanimate"
+]
+},
+{
+"w": "animosity",
+"kk": "[ˏænəˋmɑsətɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "strong dislike or hostility",
+"zh": "敵意；仇恨"
+}
+],
+"ex": [
+{
+"en": "There was clear animosity between the two rival teams.",
+"zh": "兩支敵對隊伍之間明顯有敵意。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anim",
+"m": "spirit 心、氣"
+},
+{
+"p": "-osity",
+"m": "名詞字尾"
+}
+],
+"note": "氣憤滿滿的心 → 敵意"
+},
+"syn": [
+"hostility",
+"antagonism",
+"enmity"
+],
+"ant": [
+"friendship",
+"goodwill"
+]
+},
+{
+"w": "annalist",
+"kk": "[ˋænḷɪst]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a writer of annals; a historian who records events year by year",
+"zh": "編年史作者"
+}
+],
+"ex": [
+{
+"en": "The monastery's annalist recorded every flood and famine.",
+"zh": "修道院的編年史作者記錄了每一次水災和饑荒。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ann",
+"m": "year 年"
+},
+{
+"p": "-al",
+"m": "形容詞字尾"
+},
+{
+"p": "-ist",
+"m": "名詞字尾（人）"
+}
+],
+"note": "逐年記錄的人 → 編年史作者"
+},
+"syn": [
+"chronicler",
+"historian"
+],
+"ant": []
+},
+{
+"w": "annals",
+"kk": "[ˋænḷz]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a record of events year by year; historical records",
+"zh": "編年史；歷史記載"
+}
+],
+"ex": [
+{
+"en": "Her discovery earned her a place in the annals of science.",
+"zh": "她的發現讓她在科學史上留名。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ann",
+"m": "year 年"
+},
+{
+"p": "-al",
+"m": "字尾"
+}
+],
+"note": "逐年的記錄 → 編年史"
+},
+"syn": [
+"chronicles",
+"records",
+"history"
+],
+"ant": []
+},
+{
+"w": "annex",
+"kk": "[əˋnɛks]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to take control of a territory and add it to one's own",
+"zh": "併吞（領土）；附加"
+},
+{
+"pos": "n.",
+"en": "[ˋænɛks] an extra building added to or near a main one",
+"zh": "附屬建築；附件"
+}
+],
+"ex": [
+{
+"en": "The empire tried to annex the small neighboring kingdom.",
+"zh": "那個帝國企圖併吞鄰近的小王國。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "an-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "nex",
+"m": "bind, tie 綁"
+}
+],
+"note": "綁到自己身上 → 併吞"
+},
+"syn": [
+"seize",
+"take over",
+"attach"
+],
+"ant": [
+"cede",
+"detach"
+]
+},
+{
+"w": "annihilate",
+"kk": "[əˋnaɪəˏlet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to destroy completely",
+"zh": "徹底摧毀；殲滅"
+},
+{
+"pos": "v.",
+"en": "to defeat completely",
+"zh": "徹底擊敗"
+}
+],
+"ex": [
+{
+"en": "A single asteroid strike could annihilate an entire city.",
+"zh": "一次小行星撞擊就可能徹底摧毀整座城市。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "an-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "nihil",
+"m": "nothing 無"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "使化為烏有 → 殲滅"
+},
+"syn": [
+"destroy",
+"obliterate",
+"wipe out"
+],
+"ant": [
+"create",
+"preserve"
+]
+},
+{
+"w": "annotate",
+"kk": "[ˋænoˏtet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to add notes or comments to a text or diagram",
+"zh": "註解；加註釋"
+}
+],
+"ex": [
+{
+"en": "Please annotate the poem with your own questions and ideas.",
+"zh": "請在這首詩旁寫下你自己的問題和想法作為註解。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "an-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "not",
+"m": "mark, note 記號"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "在旁邊加上記號 → 註解"
+},
+"syn": [
+"comment on",
+"gloss",
+"mark up"
+],
+"ant": []
+},
+{
+"w": "annual",
+"kk": "[ˋænjʊəl]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "happening once a year; calculated over a year",
+"zh": "每年的；年度的"
+},
+{
+"pos": "n.",
+"en": "a plant that lives for only one year",
+"zh": "一年生植物"
+}
+],
+"ex": [
+{
+"en": "The town holds an annual festival every October.",
+"zh": "這個小鎮每年十月都會舉辦年度慶典。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ann",
+"m": "year 年"
+},
+{
+"p": "-ual",
+"m": "形容詞字尾"
+}
+],
+"note": "每年的"
+},
+"syn": [
+"yearly"
+],
+"ant": [
+"perennial"
+]
+},
+{
+"w": "annuity",
+"kk": "[əˋnjuətɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a fixed sum of money paid to someone every year",
+"zh": "年金"
+}
+],
+"ex": [
+{
+"en": "After retiring, she lived comfortably on a small annuity.",
+"zh": "退休後，她靠一筆不多的年金過著舒適的生活。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ann",
+"m": "year 年"
+},
+{
+"p": "-ity",
+"m": "名詞字尾"
+}
+],
+"note": "每年領取的錢 → 年金"
+},
+"syn": [
+"pension",
+"allowance"
+],
+"ant": []
+},
+{
+"w": "annunciation",
+"kk": "[əˏnʌnsɪˋeʃən]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a formal announcement; (the Annunciation) the angel Gabriel's announcement to Mary that she would bear Jesus",
+"zh": "宣告；（基督教）天使報喜"
+}
+],
+"ex": [
+{
+"en": "The museum owns a famous painting of the Annunciation.",
+"zh": "這間博物館藏有一幅著名的天使報喜畫作。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "an-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "nunci",
+"m": "announce, report 宣告"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "向人宣告 → 宣告"
+},
+"syn": [
+"announcement",
+"proclamation"
+],
+"ant": []
+},
+{
+"w": "anode",
+"kk": "[ˋænod]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the positive electrode of an electrolytic cell; the terminal where current enters",
+"zh": "陽極；正極"
+}
+],
+"ex": [
+{
+"en": "In this battery, electrons flow away from the anode.",
+"zh": "在這個電池裡，電子從陽極流出。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ana-",
+"m": "up 向上"
+},
+{
+"p": "od",
+"m": "way 路"
+}
+],
+"note": "電流往上進入的路 → 陽極"
+},
+"syn": [],
+"ant": [
+"cathode"
+]
+},
+{
+"w": "anonymous",
+"kk": "[əˋnɑnəməs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "with a name that is not known or not revealed",
+"zh": "匿名的；不具名的"
+},
+{
+"pos": "adj.",
+"en": "lacking individual or unusual features",
+"zh": "沒有特色的"
+}
+],
+"ex": [
+{
+"en": "An anonymous donor gave a million dollars to the hospital.",
+"zh": "一位匿名捐贈者捐了一百萬美元給醫院。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "an-",
+"m": "without 沒有"
+},
+{
+"p": "onym",
+"m": "name 名字"
+},
+{
+"p": "-ous",
+"m": "形容詞字尾"
+}
+],
+"note": "沒有名字的 → 匿名的"
+},
+"syn": [
+"unnamed",
+"unidentified",
+"nameless"
+],
+"ant": [
+"named",
+"identified"
+]
+},
+{
+"w": "antagonism",
+"kk": "[ænˋtægəˏnɪzəm]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "active hostility or opposition",
+"zh": "敵對；對抗"
+}
+],
+"ex": [
+{
+"en": "The long antagonism between the two families ended with a marriage.",
+"zh": "兩個家族長久的敵對因為一場婚姻而結束。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ant-",
+"m": "against 對抗"
+},
+{
+"p": "agon",
+"m": "struggle 爭鬥"
+},
+{
+"p": "-ism",
+"m": "名詞字尾"
+}
+],
+"note": "互相爭鬥 → 敵對"
+},
+"syn": [
+"hostility",
+"animosity",
+"opposition"
+],
+"ant": [
+"friendship",
+"cooperation"
+]
+},
+{
+"w": "Antarctic",
+"kk": "[æntˋɑrktɪk]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to the region around the South Pole",
+"zh": "南極的"
+},
+{
+"pos": "n.",
+"en": "(the Antarctic) the region around the South Pole",
+"zh": "南極地區"
+}
+],
+"ex": [
+{
+"en": "Penguins thrive in the freezing Antarctic waters.",
+"zh": "企鵝在冰冷的南極海域中繁衍興盛。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ant-",
+"m": "opposite 相對"
+},
+{
+"p": "arct",
+"m": "north, bear 北方（大熊星座）"
+},
+{
+"p": "-ic",
+"m": "形容詞字尾"
+}
+],
+"note": "北極的對面 → 南極的"
+},
+"syn": [],
+"ant": [
+"Arctic"
+]
+},
+{
+"w": "ante",
+"kk": "[ˋæntɪ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a stake put into the pot before a poker hand; an amount one must pay to take part",
+"zh": "（撲克）賭注；入場代價"
+}
+],
+"ex": [
+{
+"en": "The rival company raised the ante by offering free shipping.",
+"zh": "對手公司提供免運費，把競爭又拉高了一級。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ante",
+"m": "before 之前"
+}
+],
+"note": "發牌之前先下的注 → 賭注"
+},
+"syn": [
+"stake",
+"bet"
+],
+"ant": [],
+"mn": "raise the ante 是常見片語，意思是「提高賭注、加碼」。"
+},
+{
+"w": "antecede",
+"kk": "[ˏæntəˋsid]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to come before in time, order, or rank",
+"zh": "先於；居先"
+}
+],
+"ex": [
+{
+"en": "The early sketches antecede the finished painting by several years.",
+"zh": "這些早期草圖比完成的畫作早了好幾年。"
+},
+{
+"en": "In this story, the dream must antecede the journey.",
+"zh": "在這個故事裡，那場夢必須發生在旅程之前。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ante-",
+"m": "before 之前"
+},
+{
+"p": "ced",
+"m": "go 走"
+}
+],
+"note": "走在前面 → 先於"
+},
+"syn": [
+"precede",
+"predate"
+],
+"ant": [
+"follow",
+"succeed"
+]
+},
+{
+"w": "antecedent",
+"kk": "[ˏæntəˋsidṇt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a thing or event that existed before and led to another",
+"zh": "前例；先行事件"
+},
+{
+"pos": "n.",
+"en": "(grammar) the word a pronoun refers to",
+"zh": "（文法）先行詞"
+},
+{
+"pos": "adj.",
+"en": "preceding in time or order",
+"zh": "先前的"
+}
+],
+"ex": [
+{
+"en": "The telegraph was an important antecedent of the telephone.",
+"zh": "電報是電話的重要前身。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ante-",
+"m": "before 之前"
+},
+{
+"p": "ced",
+"m": "go 走"
+},
+{
+"p": "-ent",
+"m": "名詞／形容詞字尾"
+}
+],
+"note": "走在前面的東西 → 前例"
+},
+"syn": [
+"precursor",
+"forerunner",
+"predecessor"
+],
+"ant": [
+"consequence",
+"successor"
+]
+},
+{
+"w": "antechamber",
+"kk": "[ˋæntɪˏtʃembɚ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a small room leading to a larger one",
+"zh": "前廳；接待室"
+}
+],
+"ex": [
+{
+"en": "Visitors waited in the antechamber before meeting the king.",
+"zh": "訪客們在前廳等候，然後才晉見國王。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ante-",
+"m": "before 之前"
+},
+{
+"p": "chamber",
+"m": "room 房間"
+}
+],
+"note": "大房間前面的房間 → 前廳"
+},
+"syn": [
+"anteroom",
+"lobby",
+"vestibule"
+],
+"ant": []
+},
+{
+"w": "antedate",
+"kk": "[ˋæntɪˏdet]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to come before something in time",
+"zh": "早於；先於"
+},
+{
+"pos": "v.",
+"en": "to write an earlier date on a document than the real one",
+"zh": "把日期填早"
+}
+],
+"ex": [
+{
+"en": "These cave paintings antedate the invention of writing by thousands of years.",
+"zh": "這些洞穴壁畫比文字的發明早了數千年。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ante-",
+"m": "before 之前"
+},
+{
+"p": "date",
+"m": "日期"
+}
+],
+"note": "日期在前 → 早於"
+},
+"syn": [
+"predate",
+"precede"
+],
+"ant": [
+"postdate",
+"follow"
+]
+},
+{
+"w": "antediluvian",
+"kk": "[ˏæntɪdɪˋluvɪən]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "extremely old-fashioned or outdated",
+"zh": "老掉牙的；極過時的"
+},
+{
+"pos": "adj.",
+"en": "belonging to the time before the biblical Flood",
+"zh": "大洪水之前的"
+}
+],
+"ex": [
+{
+"en": "The office still uses an antediluvian computer system from the 1990s.",
+"zh": "這間辦公室還在用 1990 年代的老古董電腦系統。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ante-",
+"m": "before 之前"
+},
+{
+"p": "diluv",
+"m": "flood 洪水"
+},
+{
+"p": "-ian",
+"m": "形容詞字尾"
+}
+],
+"note": "諾亞大洪水之前的 → 老掉牙的"
+},
+"syn": [
+"antiquated",
+"obsolete",
+"archaic"
+],
+"ant": [
+"modern",
+"up-to-date"
+]
+},
+{
+"w": "antemeridian",
+"kk": "[ˏæntɪməˋrɪdɪən]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "happening before noon; in the morning",
+"zh": "上午的；午前的"
+}
+],
+"ex": [
+{
+"en": "The old diary lists an antemeridian walk as part of his daily routine.",
+"zh": "那本舊日記把上午散步列為他每天的例行公事。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ante-",
+"m": "before 之前"
+},
+{
+"p": "meridi",
+"m": "noon 正午"
+},
+{
+"p": "-an",
+"m": "形容詞字尾"
+}
+],
+"note": "正午之前的 → 上午的"
+},
+"syn": [
+"morning"
+],
+"ant": [
+"postmeridian"
+],
+"mn": "縮寫 a.m. 就來自拉丁文 ante meridiem。"
+},
+{
+"w": "antemundane",
+"kk": "[ˏæntɪˋmʌnden]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "existing before the creation of the world",
+"zh": "創世之前的"
+}
+],
+"ex": [
+{
+"en": "The myth describes an antemundane darkness from which the gods arose.",
+"zh": "這則神話描述了天地初開之前的一片黑暗，眾神從中誕生。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ante-",
+"m": "before 之前"
+},
+{
+"p": "mund",
+"m": "world 世界"
+},
+{
+"p": "-ane",
+"m": "形容詞字尾"
+}
+],
+"note": "世界之前的 → 創世之前的"
+},
+"syn": [
+"primordial"
+],
+"ant": []
+},
+{
+"w": "antenatal",
+"kk": "[ˏæntɪˋnetḷ]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to pregnant women or to the period before birth",
+"zh": "產前的"
+}
+],
+"ex": [
+{
+"en": "She attended an antenatal class to prepare for the birth.",
+"zh": "她參加產前課程，為生產做準備。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ante-",
+"m": "before 之前"
+},
+{
+"p": "nat",
+"m": "born 出生"
+},
+{
+"p": "-al",
+"m": "形容詞字尾"
+}
+],
+"note": "出生之前的 → 產前的"
+},
+"syn": [
+"prenatal"
+],
+"ant": [
+"postnatal"
+]
+},
+{
+"w": "anterior",
+"kk": "[ænˋtɪrɪɚ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "situated at or near the front",
+"zh": "前面的；前部的"
+},
+{
+"pos": "adj.",
+"en": "coming earlier in time",
+"zh": "之前的"
+}
+],
+"ex": [
+{
+"en": "The injury damaged the anterior part of the knee.",
+"zh": "這次受傷傷到了膝蓋的前側。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ante-",
+"m": "before 之前"
+},
+{
+"p": "-ior",
+"m": "比較級字尾"
+}
+],
+"note": "更前面的 → 前部的"
+},
+"syn": [
+"front",
+"forward",
+"prior"
+],
+"ant": [
+"posterior",
+"rear"
+]
+},
+{
+"w": "anteroom",
+"kk": "[ˋæntɪˏrum]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a small room leading into a larger, more important one",
+"zh": "前廳；等候室"
+}
+],
+"ex": [
+{
+"en": "We sat in the anteroom until the judge was ready to see us.",
+"zh": "我們坐在前廳，等法官準備好見我們。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ante-",
+"m": "before 之前"
+},
+{
+"p": "room",
+"m": "房間"
+}
+],
+"note": "前面的房間 → 前廳"
+},
+"syn": [
+"antechamber",
+"lobby",
+"waiting room"
+],
+"ant": []
+},
+{
+"w": "anthology",
+"kk": "[ænˋθɑlədʒɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a published collection of poems, stories, or other writings",
+"zh": "選集；文集"
+}
+],
+"ex": [
+{
+"en": "Her short story was chosen for a national anthology of young writers.",
+"zh": "她的短篇小說入選全國青年作家選集。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anth",
+"m": "flower 花"
+},
+{
+"p": "log",
+"m": "gather 收集"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "採集花朵（佳作）→ 選集"
+},
+"syn": [
+"collection",
+"compilation",
+"compendium"
+],
+"ant": []
+},
+{
+"w": "anthracite",
+"kk": "[ˋænθrəˏsaɪt]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a hard type of coal that burns with little smoke",
+"zh": "無煙煤"
+}
+],
+"ex": [
+{
+"en": "Pennsylvania was once famous for its anthracite mines.",
+"zh": "賓州過去以無煙煤礦聞名。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anthrac",
+"m": "coal 煤"
+},
+{
+"p": "-ite",
+"m": "名詞字尾（礦物）"
+}
+],
+"note": "煤的礦物 → 無煙煤"
+},
+"syn": [
+"hard coal"
+],
+"ant": [
+"bituminous coal"
+]
+},
+{
+"w": "anthropology",
+"kk": "[ˏænθrəˋpɑlədʒɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the study of human societies, cultures, and development",
+"zh": "人類學"
+}
+],
+"ex": [
+{
+"en": "She majored in anthropology and spent a year living in a remote village.",
+"zh": "她主修人類學，並在偏遠村落住了一年。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anthrop",
+"m": "human 人類"
+},
+{
+"p": "log",
+"m": "study 學問"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "研究人類的學問 → 人類學"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "anthropomorphous",
+"kk": "[ˏænθrəpəˋmɔrfəs]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "having a human form or human characteristics",
+"zh": "似人形的；擬人的"
+}
+],
+"ex": [
+{
+"en": "The temple walls are carved with anthropomorphous gods.",
+"zh": "神廟牆上刻滿了人形的神祇。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anthrop",
+"m": "human 人類"
+},
+{
+"p": "morph",
+"m": "shape 形狀"
+},
+{
+"p": "-ous",
+"m": "形容詞字尾"
+}
+],
+"note": "人的形狀的 → 似人形的"
+},
+"syn": [
+"humanlike",
+"anthropomorphic"
+],
+"ant": []
+},
+{
+"w": "antic",
+"kk": "[ˋæntɪk]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "(usually antics) foolish, silly, or amusing behavior",
+"zh": "滑稽的舉動；胡鬧"
+},
+{
+"pos": "adj.",
+"en": "grotesque or bizarre; playful",
+"zh": "古怪的；滑稽的"
+}
+],
+"ex": [
+{
+"en": "Each antic the clown performed made the children scream with laughter.",
+"zh": "小丑每做一個滑稽動作，孩子們就笑得尖叫。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "antic",
+"m": "grotesque 古怪（義大利文 antico）"
+}
+],
+"note": "古怪的裝飾 → 滑稽的舉動"
+},
+"syn": [
+"prank",
+"caper",
+"trick"
+],
+"ant": []
+},
+{
+"w": "Antichrist",
+"kk": "[ˋæntɪˏkraɪst]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "in Christian belief, a great enemy of Christ expected before the end of the world",
+"zh": "敵基督"
+}
+],
+"ex": [
+{
+"en": "Medieval preachers warned that the Antichrist would come before the Last Judgment.",
+"zh": "中世紀的傳教士警告說，敵基督會在最後審判前到來。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anti-",
+"m": "against 反對"
+},
+{
+"p": "Christ",
+"m": "基督"
+}
+],
+"note": "反對基督者 → 敵基督"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "anticlimax",
+"kk": "[ˏæntɪˋklaɪmæks]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a disappointing ending after a build-up of excitement",
+"zh": "虎頭蛇尾；令人掃興的結局"
+}
+],
+"ex": [
+{
+"en": "After months of hype, the final episode was a huge anticlimax.",
+"zh": "炒作了好幾個月，最後一集卻令人大失所望。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anti-",
+"m": "against 反"
+},
+{
+"p": "climax",
+"m": "高潮"
+}
+],
+"note": "與高潮相反 → 令人掃興的結局"
+},
+"syn": [
+"letdown",
+"disappointment",
+"comedown"
+],
+"ant": [
+"climax"
+]
+},
+{
+"w": "anticyclone",
+"kk": "[ˏæntɪˋsaɪklon]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a weather system of high pressure, usually bringing calm, clear weather",
+"zh": "反氣旋；高氣壓"
+}
+],
+"ex": [
+{
+"en": "A large anticyclone brought a week of sunny, dry weather.",
+"zh": "一個大型反氣旋帶來了一週晴朗乾燥的天氣。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anti-",
+"m": "opposite 相反"
+},
+{
+"p": "cyclone",
+"m": "氣旋"
+}
+],
+"note": "與氣旋相反 → 反氣旋"
+},
+"syn": [
+"high-pressure system"
+],
+"ant": [
+"cyclone"
+]
+},
+{
+"w": "antidote",
+"kk": "[ˋæntɪˏdot]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a medicine taken to counteract a poison",
+"zh": "解毒劑"
+},
+{
+"pos": "n.",
+"en": "something that counteracts an unpleasant situation",
+"zh": "矯正方法；對策"
+}
+],
+"ex": [
+{
+"en": "Laughter can be the best antidote to stress.",
+"zh": "笑可以是對抗壓力的最佳良方。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anti-",
+"m": "against 對抗"
+},
+{
+"p": "dot",
+"m": "give 給"
+}
+],
+"note": "給予來對抗（毒）的東西 → 解毒劑"
+},
+"syn": [
+"remedy",
+"cure",
+"antitoxin"
+],
+"ant": [
+"poison",
+"toxin"
+]
+},
+{
+"w": "antilogy",
+"kk": "[ænˋtɪlədʒɪ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a contradiction in terms or ideas",
+"zh": "前後矛盾"
+}
+],
+"ex": [
+{
+"en": "Calling the plan both \"risk-free\" and \"daring\" is an antilogy.",
+"zh": "說這個計畫既「零風險」又「大膽」，根本前後矛盾。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anti-",
+"m": "against 相反"
+},
+{
+"p": "log",
+"m": "word, speech 話語"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "話語互相衝突 → 前後矛盾"
+},
+"syn": [
+"contradiction",
+"inconsistency"
+],
+"ant": [
+"consistency"
+]
+},
+{
+"w": "antipathize",
+"kk": "[ænˋtɪpəˏθaɪz]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to feel a strong dislike or aversion",
+"zh": "反感；厭惡"
+}
+],
+"ex": [
+{
+"en": "It is natural to antipathize with those who mock your beliefs.",
+"zh": "對嘲笑你信仰的人感到反感是很自然的。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anti-",
+"m": "against 對抗"
+},
+{
+"p": "path",
+"m": "feeling 感覺"
+},
+{
+"p": "-ize",
+"m": "動詞字尾"
+}
+],
+"note": "有對立的感覺 → 反感"
+},
+"syn": [
+"dislike",
+"detest"
+],
+"ant": [
+"sympathize"
+]
+},
+{
+"w": "antiphon",
+"kk": "[ˋæntəˏfɑn]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a short chant or hymn sung in alternating parts by two groups",
+"zh": "輪唱聖歌；交替頌"
+}
+],
+"ex": [
+{
+"en": "The monks sang an antiphon, one side of the choir answering the other.",
+"zh": "修士們唱起輪唱聖歌，詩班一邊唱、另一邊回應。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anti-",
+"m": "opposite 相對"
+},
+{
+"p": "phon",
+"m": "sound 聲音"
+}
+],
+"note": "相對應的聲音 → 輪唱聖歌"
+},
+"syn": [
+"chant",
+"response"
+],
+"ant": []
+},
+{
+"w": "antiphony",
+"kk": "[ænˋtɪfənɪ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "alternate singing or chanting by two groups; a musical response",
+"zh": "輪唱；應答式吟唱"
+}
+],
+"ex": [
+{
+"en": "The choir's antiphony echoed from both sides of the cathedral.",
+"zh": "詩班的輪唱從大教堂兩側迴盪開來。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anti-",
+"m": "opposite 相對"
+},
+{
+"p": "phon",
+"m": "sound 聲音"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "相對應的歌聲 → 輪唱"
+},
+"syn": [
+"call and response"
+],
+"ant": []
+},
+{
+"w": "antipodes",
+"kk": "[ænˋtɪpəˏdiz]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "places directly opposite each other on the earth; often Australia and New Zealand, from a British view",
+"zh": "地球上相對的兩點；（英國人說法）澳洲和紐西蘭"
+},
+{
+"pos": "n.",
+"en": "the exact opposite of something",
+"zh": "正相反的事物"
+}
+],
+"ex": [
+{
+"en": "After college, he traveled to the antipodes and settled in New Zealand.",
+"zh": "大學畢業後，他遠赴地球另一端，定居紐西蘭。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anti-",
+"m": "opposite 相對"
+},
+{
+"p": "pod",
+"m": "foot 腳"
+},
+{
+"p": "-es",
+"m": "複數字尾"
+}
+],
+"note": "腳底相對的地方 → 地球另一端"
+},
+"syn": [
+"opposite"
+],
+"ant": []
+},
+{
+"w": "antiquary",
+"kk": "[ˋæntɪˏkwɛrɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who studies or collects antiques and ancient objects",
+"zh": "古物研究者；古董收藏家"
+}
+],
+"ex": [
+{
+"en": "The local antiquary could identify every coin found in the field.",
+"zh": "當地那位古物專家能辨認田裡挖到的每一枚錢幣。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "antiqu",
+"m": "old 古老"
+},
+{
+"p": "-ary",
+"m": "名詞字尾（人）"
+}
+],
+"note": "研究古物的人"
+},
+"syn": [
+"antiquarian",
+"collector"
+],
+"ant": []
+},
+{
+"w": "antiquate",
+"kk": "[ˋæntəˏkwet]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to make old-fashioned or obsolete",
+"zh": "使過時；使陳舊"
+}
+],
+"ex": [
+{
+"en": "Smartphones will soon antiquate many of the devices we use today.",
+"zh": "智慧型手機很快就會讓我們現在用的許多裝置過時。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "antiqu",
+"m": "old 古老"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "使變老舊 → 使過時"
+},
+"syn": [
+"outdate",
+"obsolete"
+],
+"ant": [
+"modernize",
+"update"
+],
+"mn": "形容詞 antiquated（過時的）比動詞常見得多。"
+}
+]

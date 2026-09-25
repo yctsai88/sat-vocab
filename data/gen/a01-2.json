@@ -1,0 +1,4115 @@
+[
+{
+"w": "antique",
+"kk": "[ænˋtik]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a valuable old object, such as furniture or jewelry",
+"zh": "古董；古玩"
+},
+{
+"pos": "adj.",
+"en": "old and valuable because of age or quality",
+"zh": "古董的；古老的"
+}
+],
+"ex": [
+{
+"en": "My grandmother keeps her letters in an antique wooden desk.",
+"zh": "我奶奶把信件放在一張古董木桌裡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anti",
+"m": "before 之前（= ante-）"
+},
+{
+"p": "-que",
+"m": "形容詞字尾"
+}
+],
+"note": "屬於從前的 → 古董"
+},
+"syn": [
+"relic",
+"heirloom",
+"vintage"
+],
+"ant": [
+"modern",
+"new"
+]
+},
+{
+"w": "antiseptic",
+"kk": "[ˏæntəˋsɛptɪk]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a substance that kills germs and prevents infection",
+"zh": "消毒劑；抗菌劑"
+},
+{
+"pos": "adj.",
+"en": "preventing infection; extremely clean",
+"zh": "抗菌的；消毒的"
+},
+{
+"pos": "adj.",
+"en": "lacking warmth or character",
+"zh": "缺乏人情味的；乏味的"
+}
+],
+"ex": [
+{
+"en": "The nurse cleaned the cut with an antiseptic before bandaging it.",
+"zh": "護士先用消毒劑清理傷口，再包紮起來。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anti-",
+"m": "against 對抗"
+},
+{
+"p": "sept",
+"m": "rot 腐爛"
+},
+{
+"p": "-ic",
+"m": "形容詞字尾"
+}
+],
+"note": "對抗腐爛的 → 抗菌的"
+},
+"syn": [
+"disinfectant",
+"germicide",
+"sterile"
+],
+"ant": [
+"contaminated",
+"septic"
+]
+},
+{
+"w": "antislavery",
+"kk": "[ˏæntɪˋslevərɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "opposed to slavery",
+"zh": "反奴隸制度的"
+}
+],
+"ex": [
+{
+"en": "Frederick Douglass became a powerful antislavery speaker.",
+"zh": "腓德烈克・道格拉斯成為一位強而有力的反奴隸制度演說家。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anti-",
+"m": "against 反對"
+},
+{
+"p": "slavery",
+"m": "奴隸制度"
+}
+],
+"note": "反對奴隸制度的"
+},
+"syn": [
+"abolitionist"
+],
+"ant": [
+"proslavery"
+]
+},
+{
+"w": "antispasmodic",
+"kk": "[ˏæntɪspæzˋmɑdɪk]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a drug that relieves muscle spasms",
+"zh": "解痙攣藥"
+},
+{
+"pos": "adj.",
+"en": "relieving spasms of the muscles",
+"zh": "解痙攣的"
+}
+],
+"ex": [
+{
+"en": "The doctor prescribed an antispasmodic for her stomach cramps.",
+"zh": "醫生開了解痙攣藥來治她的胃痙攣。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anti-",
+"m": "against 對抗"
+},
+{
+"p": "spasm",
+"m": "痙攣"
+},
+{
+"p": "-odic",
+"m": "形容詞字尾"
+}
+],
+"note": "對抗痙攣的"
+},
+"syn": [
+"muscle relaxant"
+],
+"ant": []
+},
+{
+"w": "antistrophe",
+"kk": "[ænˋtɪstrəfɪ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the second section of a Greek choral ode, answering the first (the strophe)",
+"zh": "（希臘合唱頌歌的）第二節；回舞歌"
+}
+],
+"ex": [
+{
+"en": "The chorus moved back across the stage as they sang the antistrophe.",
+"zh": "合唱隊一邊唱回舞歌，一邊走回舞台另一側。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anti-",
+"m": "opposite 相對"
+},
+{
+"p": "stroph",
+"m": "turn 轉"
+},
+{
+"p": "-e",
+"m": "字尾"
+}
+],
+"note": "反方向轉回來時唱的段落 → 回舞歌"
+},
+"syn": [],
+"ant": [
+"strophe"
+]
+},
+{
+"w": "antitoxin",
+"kk": "[ˏæntɪˋtɑksɪn]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "an antibody that neutralizes a specific toxin",
+"zh": "抗毒素"
+}
+],
+"ex": [
+{
+"en": "The patient received an antitoxin to fight the snake venom.",
+"zh": "病人注射了抗毒素來對抗蛇毒。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anti-",
+"m": "against 對抗"
+},
+{
+"p": "tox",
+"m": "poison 毒"
+},
+{
+"p": "-in",
+"m": "名詞字尾（化學物質）"
+}
+],
+"note": "對抗毒素的物質"
+},
+"syn": [
+"antidote",
+"antivenom"
+],
+"ant": [
+"toxin"
+]
+},
+{
+"w": "antonym",
+"kk": "[ˋæntəˏnɪm]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a word opposite in meaning to another",
+"zh": "反義詞"
+}
+],
+"ex": [
+{
+"en": "\"Cold\" is the antonym of \"hot.\"",
+"zh": "cold 是 hot 的反義詞。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ant-",
+"m": "opposite 相反"
+},
+{
+"p": "onym",
+"m": "name, word 名稱"
+}
+],
+"note": "意思相反的字 → 反義詞"
+},
+"syn": [
+"opposite"
+],
+"ant": [
+"synonym"
+]
+},
+{
+"w": "anxious",
+"kk": "[ˋæŋkʃəs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "worried or nervous about something uncertain",
+"zh": "焦慮的；擔心的"
+},
+{
+"pos": "adj.",
+"en": "eager or strongly wanting to do something",
+"zh": "渴望的"
+}
+],
+"ex": [
+{
+"en": "He felt anxious while waiting for his test results.",
+"zh": "他在等考試成績時感到很焦慮。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "anx",
+"m": "choke, press tight 勒緊"
+},
+{
+"p": "-ious",
+"m": "形容詞字尾"
+}
+],
+"note": "心被勒緊 → 焦慮的"
+},
+"syn": [
+"worried",
+"nervous",
+"uneasy"
+],
+"ant": [
+"calm",
+"relaxed"
+]
+},
+{
+"w": "apathy",
+"kk": "[ˋæpəθɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "lack of interest, enthusiasm, or concern",
+"zh": "冷漠；漠不關心"
+}
+],
+"ex": [
+{
+"en": "Voter apathy led to the lowest turnout in decades.",
+"zh": "選民的冷漠導致數十年來最低的投票率。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "without 沒有"
+},
+{
+"p": "path",
+"m": "feeling 感覺"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "沒有感覺 → 冷漠"
+},
+"syn": [
+"indifference",
+"unconcern",
+"passivity"
+],
+"ant": [
+"enthusiasm",
+"passion"
+]
+},
+{
+"w": "aperture",
+"kk": "[ˋæpɚtʃɚ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "an opening, hole, or gap",
+"zh": "孔；縫隙"
+},
+{
+"pos": "n.",
+"en": "the adjustable opening in a camera that lets in light",
+"zh": "（相機）光圈"
+}
+],
+"ex": [
+{
+"en": "Light entered the dark room through a small aperture in the wall.",
+"zh": "光線從牆上的一個小孔照進暗房。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aper",
+"m": "open 打開"
+},
+{
+"p": "-ture",
+"m": "名詞字尾"
+}
+],
+"note": "打開的地方 → 孔"
+},
+"syn": [
+"opening",
+"hole",
+"gap"
+],
+"ant": [
+"closure"
+]
+},
+{
+"w": "apex",
+"kk": "[ˋepɛks]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the top or highest point of something",
+"zh": "頂點；頂峰"
+}
+],
+"ex": [
+{
+"en": "At the apex of her career, she was the most famous actress in the country.",
+"zh": "在事業巔峰時，她是全國最有名的女演員。"
+}
+],
+"syn": [
+"peak",
+"summit",
+"pinnacle"
+],
+"ant": [
+"bottom",
+"nadir"
+]
+},
+{
+"w": "aphorism",
+"kk": "[ˋæfəˏrɪzəm]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a short, clever saying that expresses a general truth",
+"zh": "格言；警句"
+}
+],
+"ex": [
+{
+"en": "\"Less is more\" is a popular aphorism among designers.",
+"zh": "「少即是多」是設計師之間常說的格言。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "apo-",
+"m": "off, from 分開"
+},
+{
+"p": "hor",
+"m": "boundary 界限"
+},
+{
+"p": "-ism",
+"m": "名詞字尾"
+}
+],
+"note": "劃清界限、下定義的話 → 格言"
+},
+"syn": [
+"maxim",
+"adage",
+"proverb"
+],
+"ant": []
+},
+{
+"w": "apiary",
+"kk": "[ˋepɪˏɛrɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a place where bees are kept",
+"zh": "養蜂場"
+}
+],
+"ex": [
+{
+"en": "The farm has a small apiary that produces honey every summer.",
+"zh": "這座農場有個小型養蜂場，每年夏天都產蜂蜜。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "api",
+"m": "bee 蜜蜂"
+},
+{
+"p": "-ary",
+"m": "名詞字尾（場所）"
+}
+],
+"note": "養蜜蜂的地方 → 養蜂場"
+},
+"syn": [
+"beehive"
+],
+"ant": []
+},
+{
+"w": "apogee",
+"kk": "[ˋæpəˏdʒi]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the highest point or climax of something",
+"zh": "頂點；巔峰"
+},
+{
+"pos": "n.",
+"en": "the point in an orbit farthest from the earth",
+"zh": "遠地點"
+}
+],
+"ex": [
+{
+"en": "The empire reached its apogee under its third emperor.",
+"zh": "這個帝國在第三任皇帝統治下達到巔峰。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "apo-",
+"m": "away from 遠離"
+},
+{
+"p": "ge",
+"m": "earth 地球"
+}
+],
+"note": "離地球最遠的點 → 遠地點、巔峰"
+},
+"syn": [
+"peak",
+"zenith",
+"pinnacle"
+],
+"ant": [
+"perigee",
+"nadir"
+]
+},
+{
+"w": "apology",
+"kk": "[əˋpɑlədʒɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a statement saying that one is sorry",
+"zh": "道歉"
+},
+{
+"pos": "n.",
+"en": "a formal written defense of a belief or action",
+"zh": "辯護；辯解"
+}
+],
+"ex": [
+{
+"en": "The company issued a public apology for the data leak.",
+"zh": "那家公司為資料外洩公開道歉。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "apo-",
+"m": "away, off 離開"
+},
+{
+"p": "log",
+"m": "speech 話語"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "為自己開脫的話 → 辯解、道歉"
+},
+"syn": [
+"regret",
+"excuse",
+"defense"
+],
+"ant": []
+},
+{
+"w": "apostasy",
+"kk": "[əˋpɑstəsɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the abandonment of a religious or political belief",
+"zh": "背叛信仰；叛教；變節"
+}
+],
+"ex": [
+{
+"en": "In some countries, apostasy can lead to severe punishment.",
+"zh": "在某些國家，背棄宗教信仰可能遭受嚴厲懲罰。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "apo-",
+"m": "away 離開"
+},
+{
+"p": "sta",
+"m": "stand 站"
+},
+{
+"p": "-sy",
+"m": "名詞字尾"
+}
+],
+"note": "站到別處去 → 叛教"
+},
+"syn": [
+"defection",
+"desertion",
+"betrayal"
+],
+"ant": [
+"loyalty",
+"faithfulness"
+]
+},
+{
+"w": "apostate",
+"kk": "[əˋpɑstet]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who abandons a religious or political belief",
+"zh": "叛教者；變節者"
+}
+],
+"ex": [
+{
+"en": "The former member was treated as an apostate by the group.",
+"zh": "那位前成員被團體視為叛徒。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "apo-",
+"m": "away 離開"
+},
+{
+"p": "stat",
+"m": "stand 站"
+},
+{
+"p": "-e",
+"m": "字尾"
+}
+],
+"note": "站到別處去的人 → 叛教者"
+},
+"syn": [
+"defector",
+"deserter",
+"renegade"
+],
+"ant": [
+"loyalist",
+"believer"
+]
+},
+{
+"w": "apostle",
+"kk": "[əˋpɑsḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "one of the twelve followers sent by Jesus to spread his teaching",
+"zh": "使徒"
+},
+{
+"pos": "n.",
+"en": "a strong supporter of an idea or cause",
+"zh": "（理念的）倡導者；擁護者"
+}
+],
+"ex": [
+{
+"en": "She became an apostle of healthy eating after her illness.",
+"zh": "生病之後，她成了健康飲食的熱心倡導者。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "apo-",
+"m": "away 離開"
+},
+{
+"p": "stle",
+"m": "send 派遣"
+}
+],
+"note": "被派出去的人 → 使徒"
+},
+"syn": [
+"advocate",
+"champion",
+"missionary"
+],
+"ant": [
+"opponent",
+"critic"
+]
+},
+{
+"w": "apothecary",
+"kk": "[əˋpɑθəˏkɛrɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who prepared and sold medicines in earlier times; a pharmacist",
+"zh": "（舊時）藥劑師；藥房"
+}
+],
+"ex": [
+{
+"en": "In the village, the apothecary mixed herbs for every illness.",
+"zh": "在村子裡，藥劑師會為各種病痛調配草藥。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "apo-",
+"m": "away 離開"
+},
+{
+"p": "thec",
+"m": "put, place 放置"
+},
+{
+"p": "-ary",
+"m": "名詞字尾（人、場所）"
+}
+],
+"note": "原指儲藏室 → 管理藥材的人 → 藥劑師"
+},
+"syn": [
+"pharmacist",
+"chemist",
+"druggist"
+],
+"ant": []
+},
+{
+"w": "apotheosis",
+"kk": "[əˏpɑθɪˋosɪs]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the highest point or perfect example of something",
+"zh": "典範；極致"
+},
+{
+"pos": "n.",
+"en": "the raising of a person to the rank of a god",
+"zh": "神化；尊奉為神"
+}
+],
+"ex": [
+{
+"en": "Critics called the film the apotheosis of the director's style.",
+"zh": "影評人說這部電影是導演風格的極致之作。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "apo-",
+"m": "change 轉變"
+},
+{
+"p": "the",
+"m": "god 神"
+},
+{
+"p": "-osis",
+"m": "名詞字尾（狀態、過程）"
+}
+],
+"note": "轉變成神 → 神化 → 極致"
+},
+"syn": [
+"epitome",
+"pinnacle",
+"deification"
+],
+"ant": [
+"nadir"
+]
+},
+{
+"w": "appall",
+"kk": "[əˋpɔl]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to greatly shock or disgust someone",
+"zh": "使震驚；使驚駭"
+}
+],
+"ex": [
+{
+"en": "The cruel treatment of the animals will appall anyone who sees the video.",
+"zh": "任何看到影片的人，都會對這些動物遭受的殘忍對待感到震驚。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "pall",
+"m": "pale 蒼白"
+}
+],
+"note": "使人臉色發白 → 使驚駭"
+},
+"syn": [
+"horrify",
+"shock",
+"dismay"
+],
+"ant": [
+"delight",
+"please"
+]
+},
+{
+"w": "apparent",
+"kk": "[əˋpærənt]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "clearly visible or understood; obvious",
+"zh": "明顯的"
+},
+{
+"pos": "adj.",
+"en": "seeming real but not necessarily so",
+"zh": "表面上的；看似的"
+}
+],
+"ex": [
+{
+"en": "It soon became apparent that no one had read the instructions.",
+"zh": "很快就很明顯了：根本沒人讀過說明書。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "par",
+"m": "appear 出現"
+},
+{
+"p": "-ent",
+"m": "形容詞字尾"
+}
+],
+"note": "出現在眼前的 → 明顯的"
+},
+"syn": [
+"obvious",
+"evident",
+"seeming"
+],
+"ant": [
+"hidden",
+"unclear"
+]
+},
+{
+"w": "apparition",
+"kk": "[ˏæpəˋrɪʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a ghost or ghostlike image of a person",
+"zh": "鬼魂；幽靈"
+},
+{
+"pos": "n.",
+"en": "the sudden appearance of something remarkable",
+"zh": "（突然的）出現"
+}
+],
+"ex": [
+{
+"en": "The guard swore he saw an apparition in the castle hallway.",
+"zh": "守衛發誓他在城堡走廊看到了幽靈。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "par",
+"m": "appear 出現"
+},
+{
+"p": "-ition",
+"m": "名詞字尾"
+}
+],
+"note": "突然出現的東西 → 幽靈"
+},
+"syn": [
+"ghost",
+"specter",
+"phantom"
+],
+"ant": []
+},
+{
+"w": "appease",
+"kk": "[əˋpiz]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to calm or satisfy someone by giving in to their demands",
+"zh": "安撫；姑息"
+}
+],
+"ex": [
+{
+"en": "The government tried to appease the protesters by lowering fuel prices.",
+"zh": "政府試圖以調降油價來安撫抗議者。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "pease",
+"m": "peace 和平"
+}
+],
+"note": "使回到和平 → 安撫"
+},
+"syn": [
+"placate",
+"pacify",
+"mollify"
+],
+"ant": [
+"provoke",
+"anger"
+]
+},
+{
+"w": "appellate",
+"kk": "[əˋpɛlɪt]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "(of a court) dealing with appeals against earlier decisions",
+"zh": "上訴的；受理上訴的"
+}
+],
+"ex": [
+{
+"en": "The case went to an appellate court after the first verdict.",
+"zh": "第一審判決後，這個案子上訴到了上訴法院。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "pell",
+"m": "call, drive 呼喊"
+},
+{
+"p": "-ate",
+"m": "形容詞字尾"
+}
+],
+"note": "向（上級）呼喊的 → 上訴的"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "appellation",
+"kk": "[ˏæpəˋleʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a name or title",
+"zh": "名稱；稱號"
+}
+],
+"ex": [
+{
+"en": "The town earned the appellation \"City of Bridges\" for its many rivers.",
+"zh": "這座城鎮因為河流眾多，而得到「橋之城」的稱號。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "pell",
+"m": "call 叫"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "用來叫某人的東西 → 名稱"
+},
+"syn": [
+"name",
+"title",
+"designation"
+],
+"ant": []
+},
+{
+"w": "append",
+"kk": "[əˋpɛnd]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to add something to the end of a document or piece of writing",
+"zh": "附加；添加（於末尾）"
+}
+],
+"ex": [
+{
+"en": "Please append a list of sources to your essay.",
+"zh": "請在論文後面附上參考資料清單。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "pend",
+"m": "hang 掛"
+}
+],
+"note": "掛在後面 → 附加"
+},
+"syn": [
+"attach",
+"add",
+"affix"
+],
+"ant": [
+"remove",
+"detach"
+]
+},
+{
+"w": "appertain",
+"kk": "[ˏæpɚˋten]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to relate to or belong to",
+"zh": "屬於；與…有關"
+}
+],
+"ex": [
+{
+"en": "These rules appertain only to students living on campus.",
+"zh": "這些規定只適用於住校的學生。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "per-",
+"m": "加強語氣"
+},
+{
+"p": "tain",
+"m": "hold 握住"
+}
+],
+"note": "被牢牢握在（某範圍）內 → 屬於"
+},
+"syn": [
+"pertain",
+"relate",
+"belong"
+],
+"ant": []
+},
+{
+"w": "apposite",
+"kk": "[ˋæpəzɪt]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "highly appropriate or relevant",
+"zh": "恰當的；貼切的"
+}
+],
+"ex": [
+{
+"en": "Her apposite quotation perfectly summed up the discussion.",
+"zh": "她引用的話非常貼切，完美總結了這場討論。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "pos",
+"m": "put 放"
+},
+{
+"p": "-ite",
+"m": "形容詞字尾"
+}
+],
+"note": "放在正好的地方 → 恰當的"
+},
+"syn": [
+"apt",
+"relevant",
+"pertinent"
+],
+"ant": [
+"irrelevant",
+"inappropriate"
+]
+},
+{
+"w": "apposition",
+"kk": "[ˏæpəˋzɪʃən]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "(grammar) placing a noun phrase next to another that refers to the same thing",
+"zh": "（文法）同位語；同位關係"
+}
+],
+"ex": [
+{
+"en": "In \"my brother, the doctor,\" the second phrase is in apposition to the first.",
+"zh": "在 my brother, the doctor 裡，後面那個片語是前面的同位語。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "pos",
+"m": "put 放"
+},
+{
+"p": "-ition",
+"m": "名詞字尾"
+}
+],
+"note": "放在旁邊 → 同位語"
+},
+"syn": [
+"juxtaposition"
+],
+"ant": []
+},
+{
+"w": "appraise",
+"kk": "[əˋprez]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to judge the value, quality, or nature of something",
+"zh": "評估；估價"
+}
+],
+"ex": [
+{
+"en": "An expert will appraise the painting before the auction.",
+"zh": "拍賣前會有專家為這幅畫估價。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "prais",
+"m": "price, value 價值"
+}
+],
+"note": "給定一個價值 → 估價"
+},
+"syn": [
+"assess",
+"evaluate",
+"estimate"
+],
+"ant": [],
+"mn": "appraise（估價）和 apprise（通知）很像，別搞混。"
+},
+{
+"w": "appreciable",
+"kk": "[əˋpriʃɪəbḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "large or important enough to be noticed",
+"zh": "可觀的；明顯的"
+}
+],
+"ex": [
+{
+"en": "The new medicine made no appreciable difference to her symptoms.",
+"zh": "新藥對她的症狀沒有明顯的改善。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "preci",
+"m": "price 價值"
+},
+{
+"p": "-able",
+"m": "形容詞字尾（可…的）"
+}
+],
+"note": "可以估出價值的 → 可觀的"
+},
+"syn": [
+"considerable",
+"noticeable",
+"significant"
+],
+"ant": [
+"negligible",
+"insignificant"
+]
+},
+{
+"w": "apprehend",
+"kk": "[ˏæprɪˋhɛnd]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to arrest someone for a crime",
+"zh": "逮捕"
+},
+{
+"pos": "v.",
+"en": "to understand or perceive",
+"zh": "理解；領悟"
+}
+],
+"ex": [
+{
+"en": "Police managed to apprehend the thief two blocks away.",
+"zh": "警方在兩條街外成功逮捕了小偷。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "prehend",
+"m": "seize 抓住"
+}
+],
+"note": "抓住（人或意思）→ 逮捕、理解"
+},
+"syn": [
+"arrest",
+"seize",
+"comprehend"
+],
+"ant": [
+"release",
+"misunderstand"
+]
+},
+{
+"w": "apprehensible",
+"kk": "[ˏæprɪˋhɛnsəbḷ]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "capable of being understood or perceived",
+"zh": "可理解的；可察覺的"
+}
+],
+"ex": [
+{
+"en": "The teacher made the difficult theory apprehensible to young students.",
+"zh": "老師讓這個艱深的理論變得連年幼的學生都能理解。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "prehens",
+"m": "seize 抓住"
+},
+{
+"p": "-ible",
+"m": "形容詞字尾（可…的）"
+}
+],
+"note": "可以抓住（意思）的 → 可理解的"
+},
+"syn": [
+"comprehensible",
+"understandable",
+"perceptible"
+],
+"ant": [
+"incomprehensible"
+]
+},
+{
+"w": "approbation",
+"kk": "[ˏæprəˋbeʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "approval or praise",
+"zh": "認可；嘉許"
+}
+],
+"ex": [
+{
+"en": "The plan won the approbation of both parents and teachers.",
+"zh": "這個計畫獲得家長和老師雙方的認可。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "prob",
+"m": "test, prove 證明、認可"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "證明是好的 → 認可"
+},
+"syn": [
+"approval",
+"endorsement",
+"praise"
+],
+"ant": [
+"disapproval",
+"condemnation"
+]
+},
+{
+"w": "appropriate",
+"kk": "[əˋproprɪɪt]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "suitable or proper in the circumstances",
+"zh": "適當的；恰當的"
+},
+{
+"pos": "v.",
+"en": "[əˋproprɪˏet] to take something for one's own use, often without permission",
+"zh": "挪用；占用"
+},
+{
+"pos": "v.",
+"en": "[əˋproprɪˏet] to set aside money for a specific purpose",
+"zh": "撥（款）"
+}
+],
+"ex": [
+{
+"en": "Jeans are not appropriate for a job interview at a bank.",
+"zh": "去銀行面試穿牛仔褲並不恰當。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ap-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "propri",
+"m": "own 自己的"
+},
+{
+"p": "-ate",
+"m": "動詞／形容詞字尾"
+}
+],
+"note": "變成自己的 → 挪用；適合自己的 → 適當的"
+},
+"syn": [
+"suitable",
+"proper",
+"fitting"
+],
+"ant": [
+"inappropriate",
+"unsuitable"
+]
+},
+{
+"w": "aqueduct",
+"kk": "[ˋækwɪˏdʌkt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a bridge or channel built to carry water over long distances",
+"zh": "導水管；渡槽"
+}
+],
+"ex": [
+{
+"en": "The Romans built a stone aqueduct to bring water into the city.",
+"zh": "羅馬人建造了一座石造渡槽，把水引進城裡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aqu",
+"m": "water 水"
+},
+{
+"p": "duct",
+"m": "lead 引導"
+}
+],
+"note": "引導水的建築 → 導水管"
+},
+"syn": [
+"channel",
+"conduit",
+"canal"
+],
+"ant": []
+},
+{
+"w": "aqueous",
+"kk": "[ˋekwɪəs]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "of, like, or containing water",
+"zh": "水的；含水的；水溶性的"
+}
+],
+"ex": [
+{
+"en": "The salt was dissolved to make an aqueous solution.",
+"zh": "這些鹽被溶解製成水溶液。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aqu",
+"m": "water 水"
+},
+{
+"p": "-eous",
+"m": "形容詞字尾"
+}
+],
+"note": "水的"
+},
+"syn": [
+"watery",
+"hydrous"
+],
+"ant": [
+"dry",
+"anhydrous"
+]
+},
+{
+"w": "arbiter",
+"kk": "[ˋɑrbɪtɚ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who settles a dispute or has final authority",
+"zh": "仲裁者；裁決者"
+},
+{
+"pos": "n.",
+"en": "a person whose views on taste or style are respected",
+"zh": "（品味、風格的）權威"
+}
+],
+"ex": [
+{
+"en": "The magazine sees itself as the arbiter of good taste in fashion.",
+"zh": "這本雜誌自認是時尚品味的權威。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arbiter",
+"m": "judge, witness 裁判者（拉丁文）"
+}
+],
+"note": "做裁判的人 → 仲裁者"
+},
+"syn": [
+"judge",
+"referee",
+"authority"
+],
+"ant": []
+},
+{
+"w": "arbitrary",
+"kk": "[ˋɑrbəˏtrɛrɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "based on random choice or personal whim rather than reason",
+"zh": "任意的；武斷的"
+},
+{
+"pos": "adj.",
+"en": "(of power) used without limits or fairness",
+"zh": "專斷的；獨裁的"
+}
+],
+"ex": [
+{
+"en": "The deadline seemed arbitrary, since no one could explain why it was chosen.",
+"zh": "這個期限似乎很隨意，因為沒人能解釋為什麼定在那天。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arbitr",
+"m": "judge 裁判"
+},
+{
+"p": "-ary",
+"m": "形容詞字尾"
+}
+],
+"note": "全憑裁判者一人決定 → 武斷的"
+},
+"syn": [
+"random",
+"capricious",
+"despotic"
+],
+"ant": [
+"reasoned",
+"rational",
+"systematic"
+]
+},
+{
+"w": "arbitrate",
+"kk": "[ˋɑrbəˏtret]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to act as an impartial judge to settle a dispute",
+"zh": "仲裁；公斷"
+}
+],
+"ex": [
+{
+"en": "A neutral expert was hired to arbitrate the contract dispute.",
+"zh": "雙方聘請一位中立專家來仲裁這起合約糾紛。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arbitr",
+"m": "judge 裁判"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "擔任裁判 → 仲裁"
+},
+"syn": [
+"mediate",
+"adjudicate",
+"settle"
+],
+"ant": []
+},
+{
+"w": "arbor",
+"kk": "[ˋɑrbɚ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a shady garden shelter formed by trees or climbing plants on a frame",
+"zh": "涼亭；藤架"
+}
+],
+"ex": [
+{
+"en": "We ate lunch under a grape arbor in the garden.",
+"zh": "我們在花園的葡萄藤架下吃午餐。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arbor",
+"m": "tree 樹"
+}
+],
+"note": "樹木或植物形成的遮蔭 → 藤架"
+},
+"syn": [
+"bower",
+"pergola",
+"trellis"
+],
+"ant": []
+},
+{
+"w": "arboreal",
+"kk": "[ɑrˋborɪəl]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "living in trees; relating to trees",
+"zh": "樹棲的；樹木的"
+}
+],
+"ex": [
+{
+"en": "Koalas are arboreal animals that rarely come down to the ground.",
+"zh": "無尾熊是樹棲動物，很少下到地面。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arbor",
+"m": "tree 樹"
+},
+{
+"p": "-eal",
+"m": "形容詞字尾"
+}
+],
+"note": "樹的 → 樹棲的"
+},
+"syn": [
+"tree-dwelling"
+],
+"ant": [
+"terrestrial"
+]
+},
+{
+"w": "arborescent",
+"kk": "[ˏɑrbəˋrɛsṇt]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "treelike in size, shape, or branching",
+"zh": "樹狀的；像樹的"
+}
+],
+"ex": [
+{
+"en": "Some ferns in the rainforest grow to an arborescent height.",
+"zh": "雨林中有些蕨類能長到像樹一樣高。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arbor",
+"m": "tree 樹"
+},
+{
+"p": "-escent",
+"m": "形容詞字尾（漸成…的）"
+}
+],
+"note": "漸漸長成樹的樣子 → 樹狀的"
+},
+"syn": [
+"treelike",
+"dendritic",
+"branching"
+],
+"ant": []
+},
+{
+"w": "arboretum",
+"kk": "[ˏɑrbəˋritəm]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a garden where many kinds of trees are grown for study and display",
+"zh": "樹木園"
+}
+],
+"ex": [
+{
+"en": "The university arboretum has over two thousand kinds of trees.",
+"zh": "這所大學的樹木園裡有超過兩千種樹。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arbor",
+"m": "tree 樹"
+},
+{
+"p": "-etum",
+"m": "名詞字尾（場所）"
+}
+],
+"note": "種樹的地方 → 樹木園"
+},
+"syn": [
+"botanical garden"
+],
+"ant": []
+},
+{
+"w": "arboriculture",
+"kk": "[ˋɑrbərɪˏkʌltʃɚ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the cultivation and care of trees and shrubs",
+"zh": "樹木栽培"
+}
+],
+"ex": [
+{
+"en": "He studied arboriculture and now cares for the city's street trees.",
+"zh": "他學的是樹木栽培，現在負責照顧市區的行道樹。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arbor",
+"m": "tree 樹"
+},
+{
+"p": "cult",
+"m": "grow, till 耕種"
+},
+{
+"p": "-ure",
+"m": "名詞字尾"
+}
+],
+"note": "種植樹木 → 樹木栽培"
+},
+"syn": [
+"forestry",
+"silviculture"
+],
+"ant": []
+},
+{
+"w": "arcade",
+"kk": "[ɑrˋked]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a covered passage with arches, often lined with shops",
+"zh": "拱廊；有頂的商店街"
+},
+{
+"pos": "n.",
+"en": "a place with coin-operated games",
+"zh": "電玩遊樂場"
+}
+],
+"ex": [
+{
+"en": "We spent the afternoon playing games at the arcade.",
+"zh": "我們整個下午都在電玩遊樂場打電動。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arc",
+"m": "arch, bow 弓形、拱"
+},
+{
+"p": "-ade",
+"m": "名詞字尾"
+}
+],
+"note": "一連串的拱 → 拱廊"
+},
+"syn": [
+"gallery",
+"colonnade",
+"mall"
+],
+"ant": []
+},
+{
+"w": "archaeology",
+"kk": "[ˏɑrkɪˋɑlədʒɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the study of human history through digging up and examining ancient remains",
+"zh": "考古學"
+}
+],
+"ex": [
+{
+"en": "Advances in archaeology have changed how we view ancient Egypt.",
+"zh": "考古學的進展改變了我們對古埃及的看法。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "archae",
+"m": "ancient 古代"
+},
+{
+"p": "log",
+"m": "study 學問"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "研究古代的學問 → 考古學"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "archaic",
+"kk": "[ɑrˋkeɪk]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "very old or old-fashioned; no longer in everyday use",
+"zh": "古老的；過時的"
+}
+],
+"ex": [
+{
+"en": "\"Thou\" is an archaic word for \"you.\"",
+"zh": "thou 是 you 的古老說法。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "archa",
+"m": "ancient 古代"
+},
+{
+"p": "-ic",
+"m": "形容詞字尾"
+}
+],
+"note": "古代的 → 過時的"
+},
+"syn": [
+"antiquated",
+"obsolete",
+"outdated"
+],
+"ant": [
+"modern",
+"current"
+]
+},
+{
+"w": "archaism",
+"kk": "[ˋɑrkɪˏɪzəm]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "an old word or style that is no longer in common use",
+"zh": "古語；古風"
+}
+],
+"ex": [
+{
+"en": "The poet used \"ere\" as a deliberate archaism.",
+"zh": "詩人刻意用 ere 這個古語。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "archa",
+"m": "ancient 古代"
+},
+{
+"p": "-ism",
+"m": "名詞字尾"
+}
+],
+"note": "古代的用語 → 古語"
+},
+"syn": [
+"anachronism"
+],
+"ant": [
+"neologism"
+]
+},
+{
+"w": "archangel",
+"kk": "[ˋɑrkˏendʒəl]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "an angel of high rank",
+"zh": "天使長；大天使"
+}
+],
+"ex": [
+{
+"en": "The painting shows the archangel Michael defeating a dragon.",
+"zh": "這幅畫描繪天使長米迦勒擊敗惡龍。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arch-",
+"m": "chief 首領"
+},
+{
+"p": "angel",
+"m": "天使"
+}
+],
+"note": "天使中的首領 → 天使長"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "archbishop",
+"kk": "[ˋɑrtʃˋbɪʃəp]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a bishop of the highest rank, in charge of a large area",
+"zh": "大主教"
+}
+],
+"ex": [
+{
+"en": "The archbishop led the ceremony in the cathedral.",
+"zh": "大主教在大教堂主持典禮。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arch-",
+"m": "chief 首領"
+},
+{
+"p": "bishop",
+"m": "主教"
+}
+],
+"note": "主教中的首領 → 大主教"
+},
+"syn": [
+"primate",
+"metropolitan"
+],
+"ant": []
+},
+{
+"w": "archdeacon",
+"kk": "[ˋɑrtʃˋdikən]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a senior member of the clergy who assists a bishop",
+"zh": "副主教；會吏長"
+}
+],
+"ex": [
+{
+"en": "The archdeacon visited each parish in the district once a year.",
+"zh": "副主教每年到轄區內的每個教區巡視一次。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arch-",
+"m": "chief 首領"
+},
+{
+"p": "deacon",
+"m": "執事"
+}
+],
+"note": "執事中的首領 → 副主教"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "archetype",
+"kk": "[ˋɑrkəˏtaɪp]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a perfect or typical example of something",
+"zh": "典型；典範"
+},
+{
+"pos": "n.",
+"en": "an original model; a recurring symbol or character in literature",
+"zh": "原型"
+}
+],
+"ex": [
+{
+"en": "The wise old mentor is a common archetype in fantasy stories.",
+"zh": "睿智的老導師是奇幻故事中常見的原型角色。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arche-",
+"m": "first, original 最初"
+},
+{
+"p": "type",
+"m": "model 模型"
+}
+],
+"note": "最初的模型 → 原型"
+},
+"syn": [
+"prototype",
+"model",
+"epitome"
+],
+"ant": [
+"copy"
+]
+},
+{
+"w": "archipelago",
+"kk": "[ˏɑrkəˋpɛləˏgo]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a group of islands",
+"zh": "群島；列島"
+}
+],
+"ex": [
+{
+"en": "The Philippines is an archipelago of more than seven thousand islands.",
+"zh": "菲律賓是由七千多座島嶼組成的群島。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "archi-",
+"m": "chief 主要"
+},
+{
+"p": "pelago",
+"m": "sea 海"
+}
+],
+"note": "原指愛琴海（主要的海），因多島而引申為群島"
+},
+"syn": [
+"island chain"
+],
+"ant": []
+},
+{
+"w": "ardent",
+"kk": "[ˋɑrdṇt]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "very enthusiastic or passionate",
+"zh": "熱烈的；熱情的"
+}
+],
+"ex": [
+{
+"en": "She is an ardent supporter of animal rights.",
+"zh": "她是動物權的熱烈支持者。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ard",
+"m": "burn 燃燒"
+},
+{
+"p": "-ent",
+"m": "形容詞字尾"
+}
+],
+"note": "燃燒般的 → 熱烈的"
+},
+"syn": [
+"passionate",
+"fervent",
+"zealous"
+],
+"ant": [
+"apathetic",
+"indifferent"
+]
+},
+{
+"w": "ardor",
+"kk": "[ˋɑrdɚ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "great enthusiasm or passion",
+"zh": "熱情；熱忱"
+}
+],
+"ex": [
+{
+"en": "Their ardor for the project faded after the funding was cut.",
+"zh": "經費被刪減後，他們對這個計畫的熱情也消退了。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ard",
+"m": "burn 燃燒"
+},
+{
+"p": "-or",
+"m": "名詞字尾"
+}
+],
+"note": "燃燒的感覺 → 熱情"
+},
+"syn": [
+"passion",
+"fervor",
+"zeal"
+],
+"ant": [
+"apathy",
+"indifference"
+]
+},
+{
+"w": "arid",
+"kk": "[ˋærɪd]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "having little or no rain; very dry",
+"zh": "乾旱的；乾燥的"
+},
+{
+"pos": "adj.",
+"en": "lacking interest or imagination",
+"zh": "枯燥的；乏味的"
+}
+],
+"ex": [
+{
+"en": "Few crops can survive in such an arid climate.",
+"zh": "在這麼乾旱的氣候下，很少有作物能存活。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ar",
+"m": "dry 乾"
+},
+{
+"p": "-id",
+"m": "形容詞字尾"
+}
+],
+"note": "乾燥的"
+},
+"syn": [
+"dry",
+"parched",
+"barren"
+],
+"ant": [
+"humid",
+"fertile",
+"wet"
+]
+},
+{
+"w": "aristocracy",
+"kk": "[ˏærəsˋtɑkrəsɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the highest social class, usually with inherited titles and wealth",
+"zh": "貴族階級"
+},
+{
+"pos": "n.",
+"en": "government by a small privileged class",
+"zh": "貴族統治"
+}
+],
+"ex": [
+{
+"en": "The French aristocracy lost much of its power after the revolution.",
+"zh": "法國貴族階級在大革命後失去了大部分權力。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aristo",
+"m": "best 最好的"
+},
+{
+"p": "crac",
+"m": "rule, power 統治"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "由最好的人統治 → 貴族統治"
+},
+"syn": [
+"nobility",
+"elite",
+"gentry"
+],
+"ant": [
+"commoners",
+"democracy"
+]
+},
+{
+"w": "aristocrat",
+"kk": "[əˋrɪstəˏkræt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a member of the aristocracy; a noble",
+"zh": "貴族"
+}
+],
+"ex": [
+{
+"en": "The old castle once belonged to a wealthy aristocrat.",
+"zh": "這座古堡曾經屬於一位富有的貴族。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aristo",
+"m": "best 最好的"
+},
+{
+"p": "crat",
+"m": "ruler 統治者"
+}
+],
+"note": "最好的統治者 → 貴族"
+},
+"syn": [
+"noble",
+"nobleman",
+"peer"
+],
+"ant": [
+"commoner",
+"peasant"
+]
+},
+{
+"w": "armada",
+"kk": "[ɑrˋmɑdə]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a large fleet of warships or other vessels",
+"zh": "艦隊；大批（船隻等）"
+}
+],
+"ex": [
+{
+"en": "An armada of fishing boats sailed out to rescue the stranded sailors.",
+"zh": "一大批漁船出海營救受困的水手。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arm",
+"m": "weapon 武器"
+},
+{
+"p": "-ada",
+"m": "名詞字尾（西班牙文）"
+}
+],
+"note": "武裝起來的一群 → 艦隊"
+},
+"syn": [
+"fleet",
+"flotilla",
+"navy"
+],
+"ant": []
+},
+{
+"w": "armful",
+"kk": "[ˋɑrmˏfʊl]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "as much as one can hold in one or both arms",
+"zh": "一抱之量"
+}
+],
+"ex": [
+{
+"en": "She came home with an armful of library books.",
+"zh": "她抱著一大疊圖書館的書回家。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arm",
+"m": "手臂"
+},
+{
+"p": "-ful",
+"m": "名詞字尾（…的量）"
+}
+],
+"note": "一整個手臂的量 → 一抱"
+},
+"syn": [
+"bundle",
+"load"
+],
+"ant": []
+},
+{
+"w": "armory",
+"kk": "[ˋɑrmərɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a place where weapons are stored",
+"zh": "軍械庫；兵工廠"
+},
+{
+"pos": "n.",
+"en": "a supply of resources available for use",
+"zh": "（可用資源的）寶庫"
+}
+],
+"ex": [
+{
+"en": "The rebels broke into the armory and seized the rifles.",
+"zh": "叛軍闖入軍械庫，奪走了步槍。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arm",
+"m": "weapon 武器"
+},
+{
+"p": "-ory",
+"m": "名詞字尾（場所）"
+}
+],
+"note": "放武器的地方 → 軍械庫"
+},
+"syn": [
+"arsenal",
+"depot",
+"magazine"
+],
+"ant": []
+},
+{
+"w": "aroma",
+"kk": "[əˋromə]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a pleasant, distinctive smell",
+"zh": "香味；芳香"
+}
+],
+"ex": [
+{
+"en": "The aroma of fresh coffee filled the kitchen.",
+"zh": "現煮咖啡的香味瀰漫整個廚房。"
+}
+],
+"syn": [
+"fragrance",
+"scent",
+"smell"
+],
+"ant": [
+"stench",
+"stink"
+]
+},
+{
+"w": "arraign",
+"kk": "[əˋren]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to bring someone before a court to answer a criminal charge",
+"zh": "傳訊；提審"
+},
+{
+"pos": "v.",
+"en": "to criticize harshly",
+"zh": "嚴厲指責"
+}
+],
+"ex": [
+{
+"en": "Prosecutors will arraign the suspect on Monday morning.",
+"zh": "檢察官將在週一上午提審這名嫌犯。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ar-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "raign",
+"m": "reason 說理"
+}
+],
+"note": "叫來說清楚道理 → 傳訊"
+},
+"syn": [
+"indict",
+"charge",
+"accuse"
+],
+"ant": [
+"acquit",
+"exonerate"
+]
+},
+{
+"w": "arrange",
+"kk": "[əˋrendʒ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to put things in a neat or particular order",
+"zh": "排列；整理"
+},
+{
+"pos": "v.",
+"en": "to plan or organize something in advance",
+"zh": "安排；籌劃"
+}
+],
+"ex": [
+{
+"en": "Can you arrange a meeting with the principal for Friday?",
+"zh": "你能幫我安排週五跟校長見面嗎？"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ar-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "range",
+"m": "row, rank 排、列"
+}
+],
+"note": "放進行列中 → 排列"
+},
+"syn": [
+"organize",
+"order",
+"plan"
+],
+"ant": [
+"disarrange",
+"disorder"
+]
+},
+{
+"w": "arrangement",
+"kk": "[əˋrendʒmənt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a plan or preparation for a future event",
+"zh": "安排；準備"
+},
+{
+"pos": "n.",
+"en": "the way things are organized or placed",
+"zh": "排列；布置"
+},
+{
+"pos": "n.",
+"en": "an agreement between people",
+"zh": "協議"
+}
+],
+"ex": [
+{
+"en": "The flower arrangement on the table was beautiful.",
+"zh": "桌上的插花非常漂亮。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arrange",
+"m": "排列"
+},
+{
+"p": "-ment",
+"m": "名詞字尾"
+}
+],
+"note": "排列好的東西 → 安排、布置"
+},
+"syn": [
+"plan",
+"organization",
+"agreement"
+],
+"ant": [
+"disorder"
+]
+},
+{
+"w": "arrant",
+"kk": "[ˋærənt]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "complete; utter (used for something bad)",
+"zh": "十足的；徹頭徹尾的"
+}
+],
+"ex": [
+{
+"en": "That claim is arrant nonsense, and everyone knows it.",
+"zh": "那個說法根本是一派胡言，大家都知道。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "arrant",
+"m": "errant 遊蕩的（變體）"
+}
+],
+"note": "原為 errant（遊蕩的），用於 arrant thief（到處作案的賊）→ 十足的"
+},
+"syn": [
+"utter",
+"complete",
+"downright"
+],
+"ant": [
+"partial"
+]
+},
+{
+"w": "arrear",
+"kk": "[əˋrɪr]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "(usually arrears) money that is owed and should already have been paid",
+"zh": "欠款；逾期未付的款項"
+}
+],
+"ex": [
+{
+"en": "The tenant was three months in arrear with his rent.",
+"zh": "那名房客已經拖欠三個月的房租了。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ar-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "rear",
+"m": "behind 後面"
+}
+],
+"note": "落在後面 → 拖欠"
+},
+"syn": [
+"debt",
+"liability"
+],
+"ant": [],
+"mn": "通常用複數 arrears，片語 in arrears 表示「拖欠」。"
+},
+{
+"w": "arrival",
+"kk": "[əˋraɪvḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the act of reaching a place",
+"zh": "抵達；到達"
+},
+{
+"pos": "n.",
+"en": "a person or thing that has just arrived or appeared",
+"zh": "新來的人；新出現的事物"
+}
+],
+"ex": [
+{
+"en": "The arrival of the train was delayed by heavy snow.",
+"zh": "火車因大雪而延誤抵達。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ar-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "riv",
+"m": "shore, bank 河岸"
+},
+{
+"p": "-al",
+"m": "名詞字尾"
+}
+],
+"note": "靠岸 → 抵達"
+},
+"syn": [
+"coming",
+"appearance",
+"entrance"
+],
+"ant": [
+"departure"
+]
+},
+{
+"w": "arrogant",
+"kk": "[ˋærəgənt]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "having an exaggerated sense of one's own importance",
+"zh": "傲慢的；自大的"
+}
+],
+"ex": [
+{
+"en": "His arrogant attitude made it hard for him to keep friends.",
+"zh": "他傲慢的態度讓他很難維持友誼。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ar-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "rog",
+"m": "ask 要求"
+},
+{
+"p": "-ant",
+"m": "形容詞字尾"
+}
+],
+"note": "要求別人把好處歸給自己 → 傲慢的"
+},
+"syn": [
+"haughty",
+"conceited",
+"proud"
+],
+"ant": [
+"humble",
+"modest"
+]
+},
+{
+"w": "arrogate",
+"kk": "[ˋærəˏget]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to take or claim something without justification",
+"zh": "擅取；霸占；冒稱"
+}
+],
+"ex": [
+{
+"en": "The committee tried to arrogate powers that belonged to the council.",
+"zh": "委員會企圖擅取原本屬於理事會的權力。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ar-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "rog",
+"m": "ask 要求"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "要求歸給自己 → 擅取"
+},
+"syn": [
+"seize",
+"usurp",
+"appropriate"
+],
+"ant": [
+"relinquish",
+"surrender"
+]
+},
+{
+"w": "artesian well",
+"kk": "[ɑrˋtiʒənˋwɛl]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a well in which water rises by natural pressure without pumping",
+"zh": "自流井"
+}
+],
+"ex": [
+{
+"en": "The ranch gets its water from an artesian well that never needs a pump.",
+"zh": "這座牧場的水來自一口自流井，完全不需要抽水機。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Artois",
+"m": "法國阿圖瓦地區"
+},
+{
+"p": "-ian",
+"m": "形容詞字尾"
+}
+],
+"note": "最早在法國阿圖瓦鑽出的井 → 自流井"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "artful",
+"kk": "[ˋɑrtfəl]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "clever in a crafty or cunning way",
+"zh": "狡猾的；詭計多端的"
+},
+{
+"pos": "adj.",
+"en": "showing skill or creative talent",
+"zh": "巧妙的；有技巧的"
+}
+],
+"ex": [
+{
+"en": "The artful salesman convinced her to buy two phones she didn't need.",
+"zh": "那個狡猾的推銷員說服她買了兩支她根本不需要的手機。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "art",
+"m": "skill 技巧"
+},
+{
+"p": "-ful",
+"m": "形容詞字尾（充滿…的）"
+}
+],
+"note": "充滿技巧的 → 巧妙的、狡猾的"
+},
+"syn": [
+"crafty",
+"cunning",
+"skillful"
+],
+"ant": [
+"artless",
+"naive"
+]
+},
+{
+"w": "Arthurian",
+"kk": "[ɑrˋθjʊrɪən]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to the legends of King Arthur and his knights",
+"zh": "亞瑟王（傳說）的"
+}
+],
+"ex": [
+{
+"en": "The novel retells an Arthurian legend from Guinevere's point of view.",
+"zh": "這部小說從桂妮薇兒的角度重述亞瑟王傳說。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "Arthur",
+"m": "亞瑟王"
+},
+{
+"p": "-ian",
+"m": "形容詞字尾"
+}
+],
+"note": "亞瑟王的"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "artifice",
+"kk": "[ˋɑrtəfɪs]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "clever tricks used to deceive others",
+"zh": "詭計；巧計"
+},
+{
+"pos": "n.",
+"en": "skill or ingenuity",
+"zh": "技巧；巧妙"
+}
+],
+"ex": [
+{
+"en": "She won the argument through honesty, not artifice.",
+"zh": "她靠的是誠實而非詭計贏得這場辯論。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "art",
+"m": "skill 技巧"
+},
+{
+"p": "fic",
+"m": "make 做"
+},
+{
+"p": "-e",
+"m": "字尾"
+}
+],
+"note": "用技巧做出來的 → 巧計"
+},
+"syn": [
+"trickery",
+"deception",
+"cunning"
+],
+"ant": [
+"candor",
+"honesty"
+]
+},
+{
+"w": "artless",
+"kk": "[ˋɑrtlɪs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "without deceit; simple and natural",
+"zh": "天真無邪的；純樸的"
+},
+{
+"pos": "adj.",
+"en": "without skill; clumsy",
+"zh": "笨拙的"
+}
+],
+"ex": [
+{
+"en": "The child's artless honesty charmed everyone at the table.",
+"zh": "孩子天真坦率的話讓全桌的人都很喜歡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "art",
+"m": "skill, cunning 技巧、心機"
+},
+{
+"p": "-less",
+"m": "形容詞字尾（沒有）"
+}
+],
+"note": "沒有心機的 → 天真的"
+},
+"syn": [
+"innocent",
+"naive",
+"guileless"
+],
+"ant": [
+"artful",
+"cunning"
+]
+},
+{
+"w": "ascendant",
+"kk": "[əˋsɛndənt]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "rising in power or influence",
+"zh": "上升的；優勢的"
+},
+{
+"pos": "n.",
+"en": "(in the ascendant) a position of growing power",
+"zh": "優勢；支配地位"
+}
+],
+"ex": [
+{
+"en": "The young party is now ascendant after winning several elections.",
+"zh": "這個年輕的政黨連贏數場選舉後，現在正處於上升期。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "scend",
+"m": "climb 爬"
+},
+{
+"p": "-ant",
+"m": "形容詞字尾"
+}
+],
+"note": "向上爬的 → 上升的"
+},
+"syn": [
+"rising",
+"dominant",
+"prevailing"
+],
+"ant": [
+"declining",
+"descendant"
+]
+},
+{
+"w": "ascension",
+"kk": "[əˋsɛnʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the act of rising to a higher position",
+"zh": "上升；登上（王位等）"
+},
+{
+"pos": "n.",
+"en": "(the Ascension) the ascent of Jesus into heaven",
+"zh": "（基督）升天"
+}
+],
+"ex": [
+{
+"en": "Her ascension to the throne was celebrated across the country.",
+"zh": "全國各地都在慶祝她登基。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "scens",
+"m": "climb 爬"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "向上爬 → 上升"
+},
+"syn": [
+"rise",
+"ascent",
+"accession"
+],
+"ant": [
+"descent"
+]
+},
+{
+"w": "ascent",
+"kk": "[əˋsɛnt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a climb or movement upward",
+"zh": "上升；攀登"
+},
+{
+"pos": "n.",
+"en": "an upward slope",
+"zh": "上坡"
+},
+{
+"pos": "n.",
+"en": "a rise to a higher status",
+"zh": "晉升"
+}
+],
+"ex": [
+{
+"en": "The final ascent to the summit took four hours.",
+"zh": "最後攻頂的那段攀登花了四個小時。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "scent",
+"m": "climb 爬"
+}
+],
+"note": "向上爬 → 攀登"
+},
+"syn": [
+"climb",
+"rise",
+"slope"
+],
+"ant": [
+"descent"
+],
+"mn": "ascent（上升）和 assent（同意）同音，別搞混。"
+},
+{
+"w": "ascetic",
+"kk": "[əˋsɛtɪk]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "practicing strict self-discipline and avoiding pleasure",
+"zh": "禁慾的；苦行的"
+},
+{
+"pos": "n.",
+"en": "a person who lives a life of strict self-denial",
+"zh": "苦行者；禁慾者"
+}
+],
+"ex": [
+{
+"en": "The monk lived an ascetic life with no possessions but a bowl and a robe.",
+"zh": "那位僧人過著苦行生活，除了一個缽和一件袍子別無長物。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ascet",
+"m": "exercise, train 修練（希臘文）"
+},
+{
+"p": "-ic",
+"m": "形容詞字尾"
+}
+],
+"note": "嚴格修練的 → 苦行的"
+},
+"syn": [
+"austere",
+"abstemious",
+"self-denying"
+],
+"ant": [
+"hedonistic",
+"indulgent"
+]
+},
+{
+"w": "ascribe",
+"kk": "[əˋskraɪb]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to regard something as caused by or belonging to someone or something",
+"zh": "把…歸因於；認為…屬於"
+}
+],
+"ex": [
+{
+"en": "Doctors ascribe his recovery to the new treatment.",
+"zh": "醫生把他的康復歸功於新療法。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "scribe",
+"m": "write 寫"
+}
+],
+"note": "寫在某人名下 → 歸因於"
+},
+"syn": [
+"attribute",
+"credit",
+"assign"
+],
+"ant": []
+},
+{
+"w": "asexual",
+"kk": "[eˋsɛkʃʊəl]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "(of reproduction) not involving the joining of male and female cells",
+"zh": "無性（生殖）的"
+},
+{
+"pos": "adj.",
+"en": "without sexual feelings or interest",
+"zh": "無性戀的"
+}
+],
+"ex": [
+{
+"en": "Some plants use asexual reproduction to make copies of themselves.",
+"zh": "有些植物用無性生殖來複製自己。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "without 沒有"
+},
+{
+"p": "sexual",
+"m": "性的"
+}
+],
+"note": "不涉及兩性的 → 無性的"
+},
+"syn": [
+"sexless",
+"agamic"
+],
+"ant": [
+"sexual"
+]
+},
+{
+"w": "ashen",
+"kk": "[ˋæʃən]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "very pale because of shock, fear, or illness",
+"zh": "（臉色）蒼白的；灰白的"
+}
+],
+"ex": [
+{
+"en": "His face turned ashen when he heard the news.",
+"zh": "他聽到消息時，臉色一下子變得慘白。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ash",
+"m": "灰燼"
+},
+{
+"p": "-en",
+"m": "形容詞字尾"
+}
+],
+"note": "像灰燼一樣的顏色 → 灰白的"
+},
+"syn": [
+"pale",
+"pallid",
+"wan"
+],
+"ant": [
+"flushed",
+"rosy"
+]
+},
+{
+"w": "askance",
+"kk": "[əˋskæns]",
+"tier": 1,
+"senses": [
+{
+"pos": "adv.",
+"en": "with suspicion or disapproval",
+"zh": "懷疑地；不贊同地"
+},
+{
+"pos": "adv.",
+"en": "with a sideways glance",
+"zh": "斜眼地"
+}
+],
+"ex": [
+{
+"en": "The old farmers looked askance at the city boy's new ideas.",
+"zh": "老農夫們對這個城市男孩的新點子抱持懷疑的眼光。"
+}
+],
+"syn": [
+"suspiciously",
+"skeptically",
+"distrustfully"
+],
+"ant": [
+"approvingly"
+],
+"mn": "常用片語 look askance at，意思是「用懷疑的眼光看待」。"
+},
+{
+"w": "asperity",
+"kk": "[æsˋpɛrətɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "harshness of tone or manner",
+"zh": "（語氣、態度的）粗暴；尖刻"
+},
+{
+"pos": "n.",
+"en": "roughness or harshness of conditions",
+"zh": "（環境的）艱苦；嚴酷"
+}
+],
+"ex": [
+{
+"en": "\"Sit down,\" the coach said with some asperity.",
+"zh": "「坐下。」教練語氣有些嚴厲地說。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "asper",
+"m": "rough 粗糙"
+},
+{
+"p": "-ity",
+"m": "名詞字尾"
+}
+],
+"note": "粗糙 → 粗暴"
+},
+"syn": [
+"harshness",
+"sharpness",
+"severity"
+],
+"ant": [
+"gentleness",
+"mildness"
+]
+},
+{
+"w": "aspirant",
+"kk": "[əˋspaɪrənt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who hopes to achieve a particular position or goal",
+"zh": "有抱負者；候選人"
+}
+],
+"ex": [
+{
+"en": "Each aspirant for the scholarship must write a personal essay.",
+"zh": "每位申請這項獎學金的人都必須寫一篇個人自述。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "spir",
+"m": "breathe 呼吸"
+},
+{
+"p": "-ant",
+"m": "名詞字尾（人）"
+}
+],
+"note": "朝著目標喘氣追逐的人 → 有抱負者"
+},
+"syn": [
+"candidate",
+"hopeful",
+"applicant"
+],
+"ant": []
+},
+{
+"w": "aspiration",
+"kk": "[ˏæspəˋreʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a hope or ambition to achieve something",
+"zh": "抱負；志向"
+}
+],
+"ex": [
+{
+"en": "Her aspiration is to become the first doctor in her family.",
+"zh": "她的志向是成為家族裡第一位醫生。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "spir",
+"m": "breathe 呼吸"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "朝著目標呼吸（渴望）→ 抱負"
+},
+"syn": [
+"ambition",
+"goal",
+"dream"
+],
+"ant": []
+},
+{
+"w": "aspire",
+"kk": "[əˋspaɪr]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to have a strong hope to achieve something",
+"zh": "渴望；立志"
+}
+],
+"ex": [
+{
+"en": "Many young athletes aspire to play in the Olympics.",
+"zh": "許多年輕運動員都渴望參加奧運。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "spire",
+"m": "breathe 呼吸"
+}
+],
+"note": "朝著目標呼吸 → 渴望"
+},
+"syn": [
+"aim",
+"strive",
+"hope"
+],
+"ant": []
+},
+{
+"w": "assailant",
+"kk": "[əˋselənt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who physically attacks another",
+"zh": "攻擊者；行兇者"
+}
+],
+"ex": [
+{
+"en": "The victim could not describe her assailant because it was too dark.",
+"zh": "因為太暗，受害者無法描述攻擊她的人。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "as-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "sail",
+"m": "leap, jump 跳"
+},
+{
+"p": "-ant",
+"m": "名詞字尾（人）"
+}
+],
+"note": "撲向別人的人 → 攻擊者"
+},
+"syn": [
+"attacker",
+"assaulter",
+"mugger"
+],
+"ant": [
+"victim",
+"defender"
+]
+},
+{
+"w": "assassin",
+"kk": "[əˋsæsɪn]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who murders an important person for political or religious reasons",
+"zh": "刺客；暗殺者"
+}
+],
+"ex": [
+{
+"en": "The assassin was caught before he could reach the president.",
+"zh": "刺客在接近總統前就被抓到了。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "assassin",
+"m": "hashish user 吸大麻者（阿拉伯文）"
+}
+],
+"note": "源自中世紀一個據說吸食大麻後行刺的教派 → 刺客"
+},
+"syn": [
+"killer",
+"murderer",
+"hit man"
+],
+"ant": []
+},
+{
+"w": "assassinate",
+"kk": "[əˋsæsɪnˏet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to murder an important person, usually for political reasons",
+"zh": "暗殺；行刺"
+}
+],
+"ex": [
+{
+"en": "The rebels plotted to assassinate the king during the parade.",
+"zh": "叛軍密謀在遊行時暗殺國王。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "assassin",
+"m": "刺客"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "做刺客做的事 → 暗殺"
+},
+"syn": [
+"murder",
+"kill"
+],
+"ant": []
+},
+{
+"w": "assassination",
+"kk": "[əˏsæsɪˋneʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the murder of an important person, usually for political reasons",
+"zh": "暗殺；行刺"
+}
+],
+"ex": [
+{
+"en": "The assassination of the archduke helped start World War I.",
+"zh": "大公遇刺事件促成了第一次世界大戰的爆發。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "assassin",
+"m": "刺客"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "刺客的行為 → 暗殺"
+},
+"syn": [
+"murder",
+"killing"
+],
+"ant": []
+},
+{
+"w": "assay",
+"kk": "[əˋse]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a test of the quality or purity of a metal or substance",
+"zh": "（金屬、物質的）化驗；檢定"
+},
+{
+"pos": "v.",
+"en": "to test the purity or content of something",
+"zh": "化驗；分析"
+},
+{
+"pos": "v.",
+"en": "(old use) to attempt",
+"zh": "（古）嘗試"
+}
+],
+"ex": [
+{
+"en": "The lab ran an assay to measure how much gold the ore contained.",
+"zh": "實驗室做了化驗，測量礦石的含金量。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "as-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "say",
+"m": "try 試（= essay）"
+}
+],
+"note": "試一試 → 化驗"
+},
+"syn": [
+"analysis",
+"test",
+"examination"
+],
+"ant": []
+},
+{
+"w": "assent",
+"kk": "[əˋsɛnt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "official agreement or approval",
+"zh": "同意；贊成"
+},
+{
+"pos": "v.",
+"en": "to agree to or approve of something",
+"zh": "同意；贊成"
+}
+],
+"ex": [
+{
+"en": "The law cannot take effect without the governor's assent.",
+"zh": "沒有州長的同意，這條法律無法生效。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "as-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "sent",
+"m": "feel 感覺"
+}
+],
+"note": "有相同的感覺 → 同意"
+},
+"syn": [
+"agreement",
+"consent",
+"approval"
+],
+"ant": [
+"dissent",
+"refusal"
+],
+"mn": "assent（同意）和 ascent（上升）同音；反義詞是 dissent。"
+},
+{
+"w": "assess",
+"kk": "[əˋsɛs]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to judge the nature, quality, or value of something",
+"zh": "評估；評定"
+},
+{
+"pos": "v.",
+"en": "to calculate the amount of a tax or fine",
+"zh": "核定（稅額、罰款）"
+}
+],
+"ex": [
+{
+"en": "Engineers came to assess the damage after the earthquake.",
+"zh": "地震後，工程師前來評估損害情況。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "as-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "sess",
+"m": "sit 坐"
+}
+],
+"note": "坐在（法官）旁邊協助判斷 → 評估"
+},
+"syn": [
+"evaluate",
+"appraise",
+"judge"
+],
+"ant": []
+},
+{
+"w": "assessor",
+"kk": "[əˋsɛsɚ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who estimates the value of property, often for tax purposes",
+"zh": "估價員；（稅務）評估員"
+},
+{
+"pos": "n.",
+"en": "a person who judges the quality of something, such as exam work",
+"zh": "評審；評鑑者"
+}
+],
+"ex": [
+{
+"en": "The tax assessor visited to estimate the value of our house.",
+"zh": "稅務估價員來估算我們房子的價值。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "as-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "sess",
+"m": "sit 坐"
+},
+{
+"p": "-or",
+"m": "名詞字尾（人）"
+}
+],
+"note": "坐在旁邊判斷的人 → 評估員"
+},
+"syn": [
+"appraiser",
+"evaluator",
+"examiner"
+],
+"ant": []
+},
+{
+"w": "assets",
+"kk": "[ˋæsɛts]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "property owned by a person or company that has value",
+"zh": "資產；財產"
+},
+{
+"pos": "n.",
+"en": "useful or valuable qualities or people",
+"zh": "長處；有用的人才"
+}
+],
+"ex": [
+{
+"en": "The company sold some of its assets to pay off its debts.",
+"zh": "那家公司賣掉部分資產來償還債務。"
+}
+],
+"syn": [
+"property",
+"holdings",
+"resources"
+],
+"ant": [
+"liabilities",
+"debts"
+]
+},
+{
+"w": "assiduous",
+"kk": "[əˋsɪdʒʊəs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "showing great care, attention, and hard work",
+"zh": "勤勉的；刻苦的；一絲不苟的"
+}
+],
+"ex": [
+{
+"en": "Thanks to her assiduous practice, she played the concerto flawlessly.",
+"zh": "多虧她勤奮練習，這首協奏曲她演奏得完美無瑕。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "as-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "sid",
+"m": "sit 坐"
+},
+{
+"p": "-uous",
+"m": "形容詞字尾"
+}
+],
+"note": "一直坐在工作旁 → 勤勉的"
+},
+"syn": [
+"diligent",
+"industrious",
+"meticulous"
+],
+"ant": [
+"lazy",
+"negligent"
+]
+},
+{
+"w": "assignee",
+"kk": "[əˏsaɪˋni]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a person to whom a right, property, or task is legally transferred",
+"zh": "受讓人；受託人"
+}
+],
+"ex": [
+{
+"en": "The patent was transferred to the assignee after the company was sold.",
+"zh": "公司出售後，這項專利轉讓給了受讓人。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "as-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "sign",
+"m": "mark 標記"
+},
+{
+"p": "-ee",
+"m": "名詞字尾（受…的人）"
+}
+],
+"note": "被指派（標記）給的人 → 受讓人"
+},
+"syn": [
+"transferee",
+"beneficiary"
+],
+"ant": [
+"assignor"
+]
+}
+]

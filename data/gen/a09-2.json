@@ -1,0 +1,4013 @@
+[
+{
+"w": "revert",
+"kk": "[rɪˋvɝt]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to return to a previous state, practice, or topic",
+"zh": "恢復；回到（原狀）"
+},
+{
+"pos": "v.",
+"en": "(of property) to return to the original owner",
+"zh": "（財產）歸還"
+}
+],
+"ex": [
+{
+"en": "After the diet ended, he began to revert to his old eating habits.",
+"zh": "節食結束後，他開始恢復以前的飲食習慣。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "re-",
+"m": "back 回"
+},
+{
+"p": "vert",
+"m": "turn 轉"
+}
+],
+"note": "轉回去 → 恢復"
+},
+"syn": [
+"return",
+"regress",
+"go back"
+],
+"ant": [
+"progress",
+"advance"
+],
+"mn": "常用片語 revert to（回到原狀）；注意 revert 不是「回覆（信件）」，回信要用 reply。"
+},
+{
+"w": "revile",
+"kk": "[rɪˋvaɪl]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to criticize in an abusive or angrily insulting way",
+"zh": "辱罵；痛斥"
+}
+],
+"ex": [
+{
+"en": "Some critics revile the film, while others call it a masterpiece.",
+"zh": "有些影評人痛罵這部電影，也有人稱它為傑作。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "re-",
+"m": "加強語氣"
+},
+{
+"p": "vile",
+"m": "cheap, base 卑劣的"
+}
+],
+"note": "把人說得很卑劣 → 辱罵"
+},
+"syn": [
+"denounce",
+"vilify",
+"berate"
+],
+"ant": [
+"praise",
+"extol"
+]
+},
+{
+"w": "revisal",
+"kk": "[rɪˋvaɪzḷ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the act of revising; a revision",
+"zh": "修訂；校訂"
+}
+],
+"ex": [
+{
+"en": "The manuscript went through a careful revisal before printing.",
+"zh": "原稿在付印前經過仔細的校訂。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "re-",
+"m": "again 再"
+},
+{
+"p": "vis",
+"m": "see 看"
+},
+{
+"p": "-al",
+"m": "名詞字尾"
+}
+],
+"note": "再看一次 → 修訂"
+},
+"syn": [
+"revision",
+"amendment",
+"correction"
+],
+"ant": []
+},
+{
+"w": "revise",
+"kk": "[rɪˋvaɪz]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to change something to correct or improve it",
+"zh": "修改；修訂"
+},
+{
+"pos": "v.",
+"en": "to reconsider and change an opinion or estimate",
+"zh": "改變（看法、估計）"
+}
+],
+"ex": [
+{
+"en": "Please revise your essay before you submit it.",
+"zh": "交作文之前請先修改。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "re-",
+"m": "again 再"
+},
+{
+"p": "vis",
+"m": "see 看"
+}
+],
+"note": "再看一次 → 修訂"
+},
+"syn": [
+"amend",
+"edit",
+"modify"
+],
+"ant": [],
+"mn": "英式英文中 revise 也有「複習（考試）」的意思。"
+},
+{
+"w": "revocation",
+"kk": "[ˏrɛvəˋkeʃən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the official cancellation of a decree, decision, or promise",
+"zh": "撤銷；取消；吊銷"
+}
+],
+"ex": [
+{
+"en": "Drunk driving can lead to the revocation of your license.",
+"zh": "酒駕可能導致駕照被吊銷。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "re-",
+"m": "back 回"
+},
+{
+"p": "voc",
+"m": "call 叫"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "叫回來 → 撤銷"
+},
+"syn": [
+"cancellation",
+"repeal",
+"withdrawal"
+],
+"ant": [
+"enactment",
+"validation"
+]
+},
+{
+"w": "revoke",
+"kk": "[rɪˋvok]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to officially cancel a decree, decision, or promise",
+"zh": "撤銷；吊銷；廢除"
+}
+],
+"ex": [
+{
+"en": "The government can revoke a passport under certain conditions.",
+"zh": "在某些情況下，政府可以註銷護照。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "re-",
+"m": "back 回"
+},
+{
+"p": "vok",
+"m": "call 叫（= voc）"
+}
+],
+"note": "叫回來 → 撤銷"
+},
+"syn": [
+"rescind",
+"cancel",
+"annul"
+],
+"ant": [
+"grant",
+"enact"
+]
+},
+{
+"w": "rhapsody",
+"kk": "[ˋræpsədɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "an expression of great enthusiasm or joy",
+"zh": "狂喜；熱情洋溢的言詞"
+},
+{
+"pos": "n.",
+"en": "a free-flowing, emotional piece of music",
+"zh": "狂想曲"
+}
+],
+"ex": [
+{
+"en": "The pianist played a famous rhapsody by Liszt.",
+"zh": "鋼琴家演奏了一首李斯特的著名狂想曲。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rhaps",
+"m": "stitch 縫合（希臘文 rhaptein）"
+},
+{
+"p": "od",
+"m": "song 歌（= ode）"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "把一段段歌縫在一起 → 狂想曲"
+},
+"syn": [
+"ecstasy",
+"rapture",
+"euphoria"
+],
+"ant": []
+},
+{
+"w": "rhetoric",
+"kk": "[ˋrɛtərɪk]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "language designed to persuade, often seen as insincere",
+"zh": "（空洞的）華麗辭藻；說詞"
+},
+{
+"pos": "n.",
+"en": "the art of effective speaking or writing",
+"zh": "修辭學；說話技巧"
+}
+],
+"ex": [
+{
+"en": "Voters are tired of empty rhetoric and want real solutions.",
+"zh": "選民已經厭倦空洞的口號，想要真正的解決辦法。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rhetor",
+"m": "speaker 演說者（希臘文）"
+},
+{
+"p": "-ic",
+"m": "名詞字尾（技藝）"
+}
+],
+"note": "演說者的技藝 → 修辭"
+},
+"syn": [
+"oratory",
+"eloquence",
+"bombast"
+],
+"ant": []
+},
+{
+"w": "rhetorician",
+"kk": "[ˏrɛtəˋrɪʃən]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a skilled public speaker or an expert in rhetoric",
+"zh": "修辭學家；雄辯家"
+}
+],
+"ex": [
+{
+"en": "A skilled rhetorician can make a weak argument sound convincing.",
+"zh": "高明的雄辯家能讓薄弱的論點聽起來很有說服力。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rhetor",
+"m": "speaker 演說者"
+},
+{
+"p": "-ician",
+"m": "專家"
+}
+],
+"note": "精通演說的人"
+},
+"syn": [
+"orator",
+"speaker",
+"speechmaker"
+],
+"ant": []
+},
+{
+"w": "ribald",
+"kk": "[ˋrɪbḷd]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "referring to sex in a rudely humorous way",
+"zh": "粗俗下流的；猥褻的"
+}
+],
+"ex": [
+{
+"en": "The comedian's ribald jokes were not suitable for children.",
+"zh": "那位喜劇演員的黃色笑話不適合小孩聽。"
+}
+],
+"syn": [
+"bawdy",
+"vulgar",
+"racy"
+],
+"ant": [
+"clean",
+"prudish"
+]
+},
+{
+"w": "riddance",
+"kk": "[ˋrɪdṇs]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the action of getting rid of something unwanted",
+"zh": "擺脫；除去"
+}
+],
+"ex": [
+{
+"en": "When the noisy neighbors moved out, we said good riddance.",
+"zh": "吵鬧的鄰居搬走時，我們都說「走了正好」。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rid",
+"m": "清除"
+},
+{
+"p": "-ance",
+"m": "名詞字尾"
+}
+],
+"note": "清除掉 → 擺脫"
+},
+"syn": [
+"removal",
+"elimination",
+"disposal"
+],
+"ant": [],
+"mn": "最常見的用法是 Good riddance!（走了最好！）。"
+},
+{
+"w": "ridicule",
+"kk": "[ˋrɪdɪˏkjul]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "words or actions intended to mock someone",
+"zh": "嘲笑；奚落"
+},
+{
+"pos": "v.",
+"en": "to make fun of",
+"zh": "嘲笑；揶揄"
+}
+],
+"ex": [
+{
+"en": "He was afraid his classmates would ridicule his accent.",
+"zh": "他怕同學會嘲笑他的口音。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rid",
+"m": "laugh 笑（拉丁文 ridere）"
+},
+{
+"p": "-icule",
+"m": "字尾"
+}
+],
+"note": "笑人 → 嘲笑"
+},
+"syn": [
+"mock",
+"deride",
+"taunt"
+],
+"ant": [
+"praise",
+"respect"
+]
+},
+{
+"w": "ridiculous",
+"kk": "[rɪˋdɪkjələs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "deserving to be laughed at; absurd",
+"zh": "荒謬的；可笑的"
+}
+],
+"ex": [
+{
+"en": "It is ridiculous to charge ten dollars for a bottle of water.",
+"zh": "一瓶水賣十美元太荒謬了。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rid",
+"m": "laugh 笑"
+},
+{
+"p": "-iculous",
+"m": "形容詞字尾"
+}
+],
+"note": "讓人發笑的 → 荒謬的"
+},
+"syn": [
+"absurd",
+"ludicrous",
+"preposterous"
+],
+"ant": [
+"sensible",
+"reasonable"
+]
+},
+{
+"w": "rife",
+"kk": "[raɪf]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "(of something bad) widespread",
+"zh": "（壞事）盛行的；普遍的"
+},
+{
+"pos": "adj.",
+"en": "(rife with) full of",
+"zh": "充滿（壞東西）的"
+}
+],
+"ex": [
+{
+"en": "The report was rife with errors.",
+"zh": "這份報告錯誤百出。"
+}
+],
+"syn": [
+"widespread",
+"rampant",
+"prevalent"
+],
+"ant": [
+"rare",
+"scarce"
+]
+},
+{
+"w": "righteousness",
+"kk": "[ˋraɪtʃəsnɪs]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the quality of being morally right",
+"zh": "正義；公正；正直"
+}
+],
+"ex": [
+{
+"en": "She spoke with the calm righteousness of someone sure she was right.",
+"zh": "她說話帶著一種確信自己沒錯的平靜正氣。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "right",
+"m": "正確"
+},
+{
+"p": "-eous",
+"m": "形容詞字尾"
+},
+{
+"p": "-ness",
+"m": "名詞字尾"
+}
+],
+"note": "正直的特質"
+},
+"syn": [
+"virtue",
+"integrity",
+"morality"
+],
+"ant": [
+"wickedness",
+"sinfulness"
+]
+},
+{
+"w": "rightful",
+"kk": "[ˋraɪtfəl]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "having a legitimate right to something",
+"zh": "合法的；正當的"
+}
+],
+"ex": [
+{
+"en": "The stolen painting was finally returned to its rightful owner.",
+"zh": "被偷的畫終於歸還給它的合法主人。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "right",
+"m": "權利"
+},
+{
+"p": "-ful",
+"m": "形容詞字尾"
+}
+],
+"note": "有權利的 → 合法的"
+},
+"syn": [
+"legitimate",
+"lawful",
+"proper"
+],
+"ant": [
+"wrongful",
+"illegitimate"
+]
+},
+{
+"w": "rigmarole",
+"kk": "[ˋrɪgməˏrol]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a long, complicated, and annoying procedure",
+"zh": "繁瑣的程序"
+},
+{
+"pos": "n.",
+"en": "a long, rambling story",
+"zh": "冗長而無聊的話"
+}
+],
+"ex": [
+{
+"en": "Getting a visa involved a lot of rigmarole and paperwork.",
+"zh": "辦簽證要經過一大堆繁瑣的手續和文件。"
+}
+],
+"syn": [
+"hassle",
+"red tape",
+"palaver"
+],
+"ant": []
+},
+{
+"w": "rigor",
+"kk": "[ˋrɪgɚ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the quality of being extremely thorough and careful",
+"zh": "嚴謹；精確"
+},
+{
+"pos": "n.",
+"en": "harshness or severity",
+"zh": "嚴格；嚴酷"
+}
+],
+"ex": [
+{
+"en": "The study was praised for its scientific rigor.",
+"zh": "這項研究因科學上的嚴謹而受到讚揚。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rig",
+"m": "stiff 僵硬（拉丁文 rigere）"
+},
+{
+"p": "-or",
+"m": "名詞字尾"
+}
+],
+"note": "僵硬不變通 → 嚴格、嚴謹"
+},
+"syn": [
+"thoroughness",
+"precision",
+"strictness"
+],
+"ant": [
+"laxity",
+"carelessness"
+]
+},
+{
+"w": "rigorous",
+"kk": "[ˋrɪgərəs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "extremely thorough and careful",
+"zh": "嚴謹的；縝密的"
+},
+{
+"pos": "adj.",
+"en": "demanding or strict",
+"zh": "嚴格的；嚴苛的"
+}
+],
+"ex": [
+{
+"en": "All new drugs must pass rigorous testing before they are sold.",
+"zh": "所有新藥上市前都必須通過嚴格的測試。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rig",
+"m": "stiff 僵硬"
+},
+{
+"p": "-orous",
+"m": "形容詞字尾"
+}
+],
+"note": "一點都不放鬆的 → 嚴格的"
+},
+"syn": [
+"thorough",
+"meticulous",
+"strict"
+],
+"ant": [
+"lax",
+"sloppy"
+]
+},
+{
+"w": "ripplet",
+"kk": "[ˋrɪplɪt]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a small ripple",
+"zh": "小漣漪；細波"
+}
+],
+"ex": [
+{
+"en": "A single ripplet spread across the still pond.",
+"zh": "一道細小的漣漪在平靜的池面上擴散開來。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ripple",
+"m": "漣漪"
+},
+{
+"p": "-let",
+"m": "small 小"
+}
+],
+"note": "小漣漪"
+},
+"syn": [
+"wavelet",
+"ripple"
+],
+"ant": []
+},
+{
+"w": "risible",
+"kk": "[ˋrɪzəbḷ]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "so foolish that it causes laughter; ridiculous",
+"zh": "可笑的；荒唐的"
+}
+],
+"ex": [
+{
+"en": "The company's risible excuse convinced no one.",
+"zh": "公司可笑的藉口根本說服不了任何人。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ris",
+"m": "laugh 笑（= rid）"
+},
+{
+"p": "-ible",
+"m": "可…的"
+}
+],
+"note": "讓人笑的 → 可笑的"
+},
+"syn": [
+"laughable",
+"ridiculous",
+"ludicrous"
+],
+"ant": [
+"serious",
+"sensible"
+]
+},
+{
+"w": "rivulet",
+"kk": "[ˋrɪvjəlɪt]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a very small stream",
+"zh": "小溪；細流"
+}
+],
+"ex": [
+{
+"en": "A rivulet of sweat ran down his forehead.",
+"zh": "一道汗水從他的額頭流下來。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rivul",
+"m": "small stream 小溪（拉丁文 rivus）"
+},
+{
+"p": "-et",
+"m": "small 小"
+}
+],
+"note": "小河流 → 小溪"
+},
+"syn": [
+"brook",
+"creek",
+"trickle"
+],
+"ant": [
+"torrent"
+]
+},
+{
+"w": "robust",
+"kk": "[roˋbʌst]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "strong and healthy; vigorous",
+"zh": "強健的；健壯的"
+},
+{
+"pos": "adj.",
+"en": "(of a system or argument) strong and effective in all conditions",
+"zh": "穩健的；堅固的"
+}
+],
+"ex": [
+{
+"en": "The country's economy remained robust despite the crisis.",
+"zh": "儘管有危機，該國經濟依然穩健。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "robus",
+"m": "oak, strength 橡木、力量（拉丁文 robur）"
+},
+{
+"p": "-t",
+"m": "形容詞字尾"
+}
+],
+"note": "像橡木一樣結實 → 強健的"
+},
+"syn": [
+"strong",
+"sturdy",
+"vigorous"
+],
+"ant": [
+"weak",
+"frail",
+"fragile"
+]
+},
+{
+"w": "rondo",
+"kk": "[ˋrɑndo]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a musical form in which a main theme returns several times",
+"zh": "迴旋曲"
+}
+],
+"ex": [
+{
+"en": "The last movement of the sonata is a lively rondo.",
+"zh": "這首奏鳴曲的最後一個樂章是輕快的迴旋曲。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rond",
+"m": "round 圓（義大利文）"
+},
+{
+"p": "-o",
+"m": "字尾"
+}
+],
+"note": "主題一直繞回來 → 迴旋曲"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "rookery",
+"kk": "[ˋrʊkərɪ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a breeding colony of rooks, seabirds, or seals",
+"zh": "（白嘴鴉、海鳥、海豹的）群棲地"
+}
+],
+"ex": [
+{
+"en": "Thousands of penguins gather at the rookery each spring.",
+"zh": "每年春天都有數千隻企鵝聚集在這片繁殖地。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rook",
+"m": "白嘴鴉"
+},
+{
+"p": "-ery",
+"m": "場所"
+}
+],
+"note": "白嘴鴉聚集的地方 → 群棲地"
+},
+"syn": [
+"colony",
+"breeding ground"
+],
+"ant": []
+},
+{
+"w": "rotary",
+"kk": "[ˋrotərɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "moving in a circle around a center",
+"zh": "旋轉的；轉動的"
+},
+{
+"pos": "n.",
+"en": "a traffic circle; roundabout",
+"zh": "圓環（交通）"
+}
+],
+"ex": [
+{
+"en": "My grandparents still have an old rotary phone.",
+"zh": "我爺爺奶奶家還有一台舊式的轉盤電話。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rot",
+"m": "wheel 輪子"
+},
+{
+"p": "-ary",
+"m": "形容詞字尾"
+}
+],
+"note": "像輪子一樣轉的 → 旋轉的"
+},
+"syn": [
+"rotating",
+"revolving",
+"spinning"
+],
+"ant": []
+},
+{
+"w": "rotate",
+"kk": "[ˋrotet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to turn around a central point",
+"zh": "旋轉；轉動"
+},
+{
+"pos": "v.",
+"en": "to take turns or change in a regular order",
+"zh": "輪流；輪換"
+}
+],
+"ex": [
+{
+"en": "Farmers rotate crops to keep the soil healthy.",
+"zh": "農夫輪作作物，讓土壤保持健康。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rot",
+"m": "wheel 輪子"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "像輪子一樣轉 → 旋轉、輪流"
+},
+"syn": [
+"turn",
+"revolve",
+"alternate"
+],
+"ant": []
+},
+{
+"w": "rote",
+"kk": "[rot]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "mechanical repetition used to memorize something",
+"zh": "死記硬背"
+}
+],
+"ex": [
+{
+"en": "Students often learn multiplication tables by rote.",
+"zh": "學生常常用死背的方式學九九乘法表。"
+}
+],
+"syn": [
+"repetition",
+"memorization"
+],
+"ant": [
+"understanding"
+],
+"mn": "常用片語 learn by rote（死記硬背）、rote learning（背誦式學習）。"
+},
+{
+"w": "rotund",
+"kk": "[roˋtʌnd]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "(of a person) plump and round",
+"zh": "圓胖的；圓滾滾的"
+},
+{
+"pos": "adj.",
+"en": "(of speech) full and deep in sound",
+"zh": "（聲音）洪亮的"
+}
+],
+"ex": [
+{
+"en": "The rotund chef laughed as he tasted the soup.",
+"zh": "圓胖的廚師一邊嚐湯一邊笑。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rot",
+"m": "wheel 輪子"
+},
+{
+"p": "-und",
+"m": "形容詞字尾（拉丁文 rotundus）"
+}
+],
+"note": "像輪子一樣圓 → 圓胖的（round 同源）"
+},
+"syn": [
+"plump",
+"chubby",
+"portly"
+],
+"ant": [
+"thin",
+"slender"
+]
+},
+{
+"w": "rudimentary",
+"kk": "[ˏrudəˋmɛntərɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "involving only basic principles; elementary",
+"zh": "基本的；初步的"
+},
+{
+"pos": "adj.",
+"en": "undeveloped or simple",
+"zh": "簡陋的；未發展完全的"
+}
+],
+"ex": [
+{
+"en": "I have only a rudimentary knowledge of French.",
+"zh": "我對法文只懂一點皮毛。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rud",
+"m": "rough, untrained 粗糙"
+},
+{
+"p": "-iment",
+"m": "名詞字尾"
+},
+{
+"p": "-ary",
+"m": "形容詞字尾"
+}
+],
+"note": "粗略、未加工的 → 基本的"
+},
+"syn": [
+"basic",
+"elementary",
+"primitive"
+],
+"ant": [
+"advanced",
+"sophisticated"
+]
+},
+{
+"w": "rue",
+"kk": "[ru]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to bitterly regret something",
+"zh": "懊悔；後悔"
+},
+{
+"pos": "n.",
+"en": "a bitter-tasting herb",
+"zh": "芸香（植物）"
+}
+],
+"ex": [
+{
+"en": "You will rue the day you ignored my advice.",
+"zh": "你會後悔當初沒聽我的建議。"
+}
+],
+"syn": [
+"regret",
+"lament",
+"deplore"
+],
+"ant": [
+"celebrate"
+],
+"mn": "常見片語 rue the day（後悔當初）；形容詞 rueful 是「懊悔的」。"
+},
+{
+"w": "ruffian",
+"kk": "[ˋrʌfɪən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a violent, lawless person",
+"zh": "惡棍；流氓"
+}
+],
+"ex": [
+{
+"en": "A ruffian grabbed the old man's wallet and ran away.",
+"zh": "一個流氓搶走老人的錢包就跑了。"
+}
+],
+"syn": [
+"thug",
+"hooligan",
+"hoodlum"
+],
+"ant": [
+"gentleman"
+]
+},
+{
+"w": "ruminant",
+"kk": "[ˋrumənənt]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "an animal, such as a cow, that chews the cud",
+"zh": "反芻動物"
+},
+{
+"pos": "adj.",
+"en": "chewing the cud; also, thoughtful",
+"zh": "反芻的；沉思的"
+}
+],
+"ex": [
+{
+"en": "A cow is a ruminant with a stomach divided into four parts.",
+"zh": "牛是一種反芻動物，胃分成四個部分。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rumin",
+"m": "throat, cud 喉嚨、反芻的食物（拉丁文 rumen）"
+},
+{
+"p": "-ant",
+"m": "名詞字尾"
+}
+],
+"note": "會把食物回到喉嚨再嚼的動物 → 反芻動物"
+},
+"syn": [
+"cud-chewer"
+],
+"ant": []
+},
+{
+"w": "ruminate",
+"kk": "[ˋruməˏnet]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to think deeply about something",
+"zh": "沉思；反覆思考"
+},
+{
+"pos": "v.",
+"en": "(of an animal) to chew the cud",
+"zh": "反芻"
+}
+],
+"ex": [
+{
+"en": "She liked to ruminate on the meaning of life during long walks.",
+"zh": "她喜歡在長時間散步時思索人生的意義。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rumin",
+"m": "cud 反芻的食物"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "像牛反芻一樣反覆咀嚼 → 反覆思考"
+},
+"syn": [
+"ponder",
+"contemplate",
+"mull over"
+],
+"ant": [
+"ignore"
+]
+},
+{
+"w": "rupture",
+"kk": "[ˋrʌptʃɚ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a sudden break or burst",
+"zh": "破裂；斷裂"
+},
+{
+"pos": "n.",
+"en": "a breach of a relationship",
+"zh": "（關係）決裂"
+},
+{
+"pos": "v.",
+"en": "to break or burst suddenly",
+"zh": "破裂；使破裂"
+}
+],
+"ex": [
+{
+"en": "A rupture in the pipe flooded the basement.",
+"zh": "水管破裂讓地下室淹水了。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rupt",
+"m": "break 破"
+},
+{
+"p": "-ure",
+"m": "名詞字尾"
+}
+],
+"note": "破裂"
+},
+"syn": [
+"break",
+"burst",
+"split"
+],
+"ant": [
+"repair",
+"mend"
+]
+},
+{
+"w": "rustic",
+"kk": "[ˋrʌstɪk]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to the countryside; simple and charming",
+"zh": "鄉村的；質樸的"
+},
+{
+"pos": "n.",
+"en": "an unsophisticated country person",
+"zh": "鄉下人"
+}
+],
+"ex": [
+{
+"en": "We stayed in a rustic cabin in the mountains.",
+"zh": "我們住在山上一間質樸的小木屋。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rus",
+"m": "countryside 鄉村（拉丁文 rus）"
+},
+{
+"p": "-tic",
+"m": "形容詞字尾"
+}
+],
+"note": "鄉村的 → 質樸的"
+},
+"syn": [
+"rural",
+"pastoral",
+"countrified"
+],
+"ant": [
+"urban",
+"sophisticated"
+]
+},
+{
+"w": "ruth",
+"kk": "[ruθ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "(archaic) a feeling of pity or compassion",
+"zh": "（古）憐憫；同情"
+}
+],
+"ex": [
+{
+"en": "The tyrant showed no ruth toward his enemies.",
+"zh": "那名暴君對敵人毫無憐憫。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "rue",
+"m": "regret, pity 後悔、憐憫"
+},
+{
+"p": "-th",
+"m": "名詞字尾"
+}
+],
+"note": "悲憫之情"
+},
+"syn": [
+"pity",
+"compassion",
+"mercy"
+],
+"ant": [
+"cruelty"
+],
+"mn": "ruth 本身很少用，但 ruthless（無情的）非常常見。"
+},
+{
+"w": "sacrifice",
+"kk": "[ˋsækrəˏfaɪs]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "giving up something valuable for something more important",
+"zh": "犧牲"
+},
+{
+"pos": "v.",
+"en": "to give up something valuable",
+"zh": "犧牲；捨棄"
+},
+{
+"pos": "n.",
+"en": "an offering to a god",
+"zh": "祭品；獻祭"
+}
+],
+"ex": [
+{
+"en": "Her parents made a huge sacrifice so she could study abroad.",
+"zh": "她的父母做了很大的犧牲，讓她能出國念書。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sacr",
+"m": "sacred 神聖"
+},
+{
+"p": "fic",
+"m": "make 做"
+},
+{
+"p": "-e",
+"m": "字尾"
+}
+],
+"note": "使成為神聖的 → 獻祭、犧牲"
+},
+"syn": [
+"surrender",
+"forfeit",
+"offering"
+],
+"ant": []
+},
+{
+"w": "sacrificial",
+"kk": "[ˏsækrəˋfɪʃəl]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to or offered as a sacrifice",
+"zh": "犧牲的；獻祭的"
+}
+],
+"ex": [
+{
+"en": "Ancient priests led a sacrificial lamb to the altar.",
+"zh": "古代祭司把獻祭用的羔羊牽到祭壇上。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sacr",
+"m": "sacred 神聖"
+},
+{
+"p": "fic",
+"m": "make 做"
+},
+{
+"p": "-ial",
+"m": "形容詞字尾"
+}
+],
+"note": "獻祭的"
+},
+"syn": [
+"votive",
+"self-sacrificing"
+],
+"ant": [],
+"mn": "sacrificial lamb 比喻「代罪羔羊、被犧牲的人」。"
+},
+{
+"w": "sacrilege",
+"kk": "[ˋsækrəlɪdʒ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "violation or misuse of something sacred",
+"zh": "褻瀆；冒犯神聖"
+}
+],
+"ex": [
+{
+"en": "To many fans, changing the ending of the classic film is sacrilege.",
+"zh": "對許多影迷來說，改掉這部經典電影的結局簡直是褻瀆。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sacr",
+"m": "sacred 神聖"
+},
+{
+"p": "leg",
+"m": "steal, gather 偷取（拉丁文 legere）"
+}
+],
+"note": "偷取神聖之物 → 褻瀆"
+},
+"syn": [
+"desecration",
+"blasphemy",
+"profanity"
+],
+"ant": [
+"reverence",
+"piety"
+]
+},
+{
+"w": "sacrilegious",
+"kk": "[ˏsækrɪˋlɪdʒəs]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "involving disrespect toward something sacred",
+"zh": "褻瀆神聖的"
+}
+],
+"ex": [
+{
+"en": "Some visitors considered the graffiti on the temple walls sacrilegious.",
+"zh": "有些遊客認為廟牆上的塗鴉是褻瀆神明的行為。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sacr",
+"m": "sacred 神聖"
+},
+{
+"p": "leg",
+"m": "steal 偷取"
+},
+{
+"p": "-ious",
+"m": "形容詞字尾"
+}
+],
+"note": "偷取神聖之物的 → 褻瀆的"
+},
+"syn": [
+"blasphemous",
+"profane",
+"irreverent"
+],
+"ant": [
+"reverent",
+"pious"
+],
+"mn": "拼法容易錯：不是 sacreligious，前面是 sacri-，和 religious 無關。"
+},
+{
+"w": "safeguard",
+"kk": "[ˋsefˏgɑrd]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to protect from harm or damage",
+"zh": "保護；捍衛"
+},
+{
+"pos": "n.",
+"en": "a measure taken to protect something",
+"zh": "保護措施；防護"
+}
+],
+"ex": [
+{
+"en": "New laws were passed to safeguard children's privacy online.",
+"zh": "政府通過新法來保護兒童的網路隱私。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "safe",
+"m": "安全"
+},
+{
+"p": "guard",
+"m": "守衛"
+}
+],
+"note": "保護安全"
+},
+"syn": [
+"protect",
+"shield",
+"preserve"
+],
+"ant": [
+"endanger",
+"threaten"
+]
+},
+{
+"w": "sagacious",
+"kk": "[səˋgeʃəs]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "having good judgment and keen understanding; wise",
+"zh": "睿智的；精明的"
+}
+],
+"ex": [
+{
+"en": "The sagacious investor sold her stocks just before the crash.",
+"zh": "那位精明的投資人在股市崩盤前剛好賣掉了股票。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sag",
+"m": "wise, perceive keenly 敏銳察覺"
+},
+{
+"p": "-acious",
+"m": "多…的"
+}
+],
+"note": "很有洞察力的 → 睿智的"
+},
+"syn": [
+"wise",
+"shrewd",
+"astute"
+],
+"ant": [
+"foolish",
+"obtuse"
+],
+"mn": "sage（聖人、智者）同源。"
+},
+{
+"w": "salacious",
+"kk": "[səˋleʃəs]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "having or showing excessive interest in sexual matters",
+"zh": "淫穢的；色情的；（八卦）腥羶的"
+}
+],
+"ex": [
+{
+"en": "The tabloid was full of salacious gossip about celebrities.",
+"zh": "這份八卦小報充滿名人的腥羶緋聞。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sal",
+"m": "leap 跳（拉丁文 salire）"
+},
+{
+"p": "-acious",
+"m": "多…的"
+}
+],
+"note": "蠢蠢欲動 → 好色的"
+},
+"syn": [
+"lewd",
+"lustful",
+"indecent"
+],
+"ant": [
+"decent",
+"wholesome"
+]
+},
+{
+"w": "salience",
+"kk": "[ˋselɪəns]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the quality of being noticeable or important",
+"zh": "顯著；突出；重要性"
+}
+],
+"ex": [
+{
+"en": "The scandal gave new salience to the debate over campaign finance.",
+"zh": "這起醜聞讓競選經費的爭議再度成為焦點。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sal",
+"m": "leap 跳"
+},
+{
+"p": "-ience",
+"m": "名詞字尾"
+}
+],
+"note": "跳出來的 → 顯著"
+},
+"syn": [
+"prominence",
+"importance",
+"conspicuousness"
+],
+"ant": [
+"obscurity",
+"insignificance"
+]
+},
+{
+"w": "salient",
+"kk": "[ˋselɪənt]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "most noticeable or important",
+"zh": "顯著的；最重要的"
+}
+],
+"ex": [
+{
+"en": "The teacher summarized the salient points of the chapter.",
+"zh": "老師總結了這一章的重點。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sal",
+"m": "leap 跳"
+},
+{
+"p": "-ient",
+"m": "形容詞字尾"
+}
+],
+"note": "跳出來的 → 顯眼的、重要的"
+},
+"syn": [
+"prominent",
+"conspicuous",
+"principal"
+],
+"ant": [
+"minor",
+"insignificant"
+]
+},
+{
+"w": "saline",
+"kk": "[ˋselaɪn]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "containing salt",
+"zh": "含鹽的；鹹的"
+},
+{
+"pos": "n.",
+"en": "a solution of salt in water, used in medicine",
+"zh": "生理食鹽水"
+}
+],
+"ex": [
+{
+"en": "The nurse used a saline solution to clean the wound.",
+"zh": "護理師用生理食鹽水清洗傷口。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sal",
+"m": "salt 鹽"
+},
+{
+"p": "-ine",
+"m": "形容詞字尾"
+}
+],
+"note": "含鹽的"
+},
+"syn": [
+"salty",
+"briny"
+],
+"ant": [
+"fresh"
+]
+},
+{
+"w": "salutary",
+"kk": "[ˋsæljəˏtɛrɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "producing good effects, though often unpleasant",
+"zh": "有益的；（雖然不好受但）有教育意義的"
+}
+],
+"ex": [
+{
+"en": "Failing the first test was a salutary lesson for him.",
+"zh": "第一次考不及格對他來說是個有益的教訓。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "salut",
+"m": "health 健康（拉丁文 salus）"
+},
+{
+"p": "-ary",
+"m": "形容詞字尾"
+}
+],
+"note": "對健康有益的 → 有益的"
+},
+"syn": [
+"beneficial",
+"wholesome",
+"helpful"
+],
+"ant": [
+"harmful",
+"deleterious"
+],
+"mn": "別和 salutatory 搞混；salutary 是「有益的」，salutation 才是「問候」。"
+},
+{
+"w": "salutation",
+"kk": "[ˏsæljəˋteʃən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a greeting",
+"zh": "問候；招呼"
+},
+{
+"pos": "n.",
+"en": "the opening words of a letter, such as \"Dear Sir\"",
+"zh": "（信件的）稱謂"
+}
+],
+"ex": [
+{
+"en": "He raised his hat in salutation as she passed.",
+"zh": "她經過時，他舉起帽子向她致意。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "salut",
+"m": "health, greeting 健康、問候"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "祝人健康 → 問候"
+},
+"syn": [
+"greeting",
+"salute",
+"welcome"
+],
+"ant": [
+"farewell"
+]
+},
+{
+"w": "salutatory",
+"kk": "[səˋljutəˏtorɪ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a welcoming speech, especially at a graduation",
+"zh": "（畢業典禮的）致歡迎詞"
+},
+{
+"pos": "adj.",
+"en": "expressing a greeting",
+"zh": "致意的；歡迎的"
+}
+],
+"ex": [
+{
+"en": "The second-ranked student gave the salutatory at graduation.",
+"zh": "畢業典禮上由第二名的學生致歡迎詞。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "salut",
+"m": "greeting 問候"
+},
+{
+"p": "-atory",
+"m": "形容詞/名詞字尾"
+}
+],
+"note": "問候用的 → 歡迎詞"
+},
+"syn": [
+"welcoming",
+"greeting"
+],
+"ant": [
+"valedictory"
+],
+"mn": "美國畢業典禮：salutatorian（第二名）致歡迎詞，valedictorian（第一名）致告別詞。"
+},
+{
+"w": "salvage",
+"kk": "[ˋsælvɪdʒ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to rescue something from loss or destruction",
+"zh": "搶救；挽救"
+},
+{
+"pos": "n.",
+"en": "the rescue of a ship or property from loss",
+"zh": "打撈；救援；被搶救的財物"
+}
+],
+"ex": [
+{
+"en": "The coach tried to salvage the season after a string of losses.",
+"zh": "連敗之後，教練試著挽救這個球季。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "salv",
+"m": "save 拯救"
+},
+{
+"p": "-age",
+"m": "名詞字尾"
+}
+],
+"note": "拯救 → 搶救"
+},
+"syn": [
+"rescue",
+"save",
+"recover"
+],
+"ant": [
+"abandon",
+"lose"
+]
+},
+{
+"w": "salvo",
+"kk": "[ˋsælvo]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a simultaneous firing of guns or bombs",
+"zh": "齊射；齊發"
+},
+{
+"pos": "n.",
+"en": "a sudden burst of attacks, criticism, or applause",
+"zh": "（批評、掌聲的）一陣"
+}
+],
+"ex": [
+{
+"en": "The senator's speech was the opening salvo in a long political battle.",
+"zh": "那位參議員的演講是一場長期政治戰的第一砲。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "salv",
+"m": "safe, greet 平安、致敬（義大利文 salva）"
+},
+{
+"p": "-o",
+"m": "字尾"
+}
+],
+"note": "原指鳴砲致敬 → 齊射"
+},
+"syn": [
+"volley",
+"barrage",
+"burst"
+],
+"ant": [],
+"mn": "常見片語 opening salvo（開場第一擊）。"
+},
+{
+"w": "sanctimonious",
+"kk": "[ˏsæŋktəˋmonɪəs]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "making a show of being morally superior to others",
+"zh": "假裝神聖的；道貌岸然的"
+}
+],
+"ex": [
+{
+"en": "I'm tired of his sanctimonious lectures about healthy eating.",
+"zh": "我受夠了他那副道貌岸然的健康飲食說教。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sanct",
+"m": "holy 神聖"
+},
+{
+"p": "-imonious",
+"m": "形容詞字尾"
+}
+],
+"note": "表現得很神聖的樣子 → 假裝神聖"
+},
+"syn": [
+"self-righteous",
+"holier-than-thou",
+"preachy"
+],
+"ant": [
+"humble",
+"modest"
+]
+},
+{
+"w": "sanction",
+"kk": "[ˋsæŋkʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a penalty for disobeying a law, especially one placed on a country",
+"zh": "制裁"
+},
+{
+"pos": "n.",
+"en": "official permission or approval",
+"zh": "批准；認可"
+},
+{
+"pos": "v.",
+"en": "to give official permission for; also, to impose a penalty on",
+"zh": "批准；制裁"
+}
+],
+"ex": [
+{
+"en": "The United Nations voted to impose a trade sanction on the country.",
+"zh": "聯合國投票決定對該國實施貿易制裁。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sanct",
+"m": "holy 神聖"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "使成為神聖的法令 → 認可；違反者受制裁"
+},
+"syn": [
+"penalty",
+"approval",
+"authorize"
+],
+"ant": [
+"reward",
+"prohibit"
+],
+"mn": "sanction 有兩個相反的意思：「批准」和「制裁」，要看上下文判斷。"
+},
+{
+"w": "sanctity",
+"kk": "[ˋsæŋktətɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the state of being holy or sacred",
+"zh": "神聖；神聖不可侵犯"
+}
+],
+"ex": [
+{
+"en": "The judge spoke about the sanctity of human life.",
+"zh": "法官談到人命的神聖不可侵犯。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sanct",
+"m": "holy 神聖"
+},
+{
+"p": "-ity",
+"m": "名詞字尾"
+}
+],
+"note": "神聖性"
+},
+"syn": [
+"holiness",
+"sacredness",
+"inviolability"
+],
+"ant": [
+"profanity",
+"impiety"
+]
+},
+{
+"w": "sanguinary",
+"kk": "[ˋsæŋgwɪnˏɛrɪ]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "involving much bloodshed; bloodthirsty",
+"zh": "血腥的；嗜血的"
+}
+],
+"ex": [
+{
+"en": "The sanguinary battle left thousands of soldiers dead.",
+"zh": "這場血腥的戰役造成數千名士兵死亡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sanguin",
+"m": "blood 血"
+},
+{
+"p": "-ary",
+"m": "形容詞字尾"
+}
+],
+"note": "流很多血的 → 血腥的"
+},
+"syn": [
+"bloody",
+"bloodthirsty",
+"murderous"
+],
+"ant": [
+"peaceful",
+"bloodless"
+],
+"mn": "別和 sanguine（樂觀的）搞混；sanguinary 才是「血腥的」。"
+},
+{
+"w": "sanguine",
+"kk": "[ˋsæŋgwɪn]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "optimistic, especially in a difficult situation",
+"zh": "樂觀的；充滿希望的"
+},
+{
+"pos": "adj.",
+"en": "(of the face) ruddy",
+"zh": "（臉色）紅潤的"
+}
+],
+"ex": [
+{
+"en": "The doctors are sanguine about her chances of recovery.",
+"zh": "醫生對她康復的機會很樂觀。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sanguin",
+"m": "blood 血"
+}
+],
+"note": "古代認為血液旺盛的人性格開朗 → 樂觀的"
+},
+"syn": [
+"optimistic",
+"hopeful",
+"confident"
+],
+"ant": [
+"pessimistic",
+"gloomy"
+]
+},
+{
+"w": "sanguineous",
+"kk": "[sæŋˋgwɪnɪəs]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to or containing blood; blood-red",
+"zh": "血的；含血的；血紅色的"
+}
+],
+"ex": [
+{
+"en": "The nurse noted a small amount of sanguineous fluid from the wound.",
+"zh": "護理師記錄傷口流出少量帶血的液體。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sanguin",
+"m": "blood 血"
+},
+{
+"p": "-eous",
+"m": "形容詞字尾"
+}
+],
+"note": "含血的"
+},
+"syn": [
+"bloody",
+"blood-red"
+],
+"ant": []
+},
+{
+"w": "sapid",
+"kk": "[ˋsæpɪd]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "having a strong, pleasant taste; flavorful",
+"zh": "有味道的；美味的"
+},
+{
+"pos": "adj.",
+"en": "(of writing or talk) interesting",
+"zh": "（談話、文章）有趣的"
+}
+],
+"ex": [
+{
+"en": "The chef added herbs to make the plain soup more sapid.",
+"zh": "廚師加了香草，讓清淡的湯更有滋味。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sap",
+"m": "taste 嚐、有智慧（拉丁文 sapere）"
+},
+{
+"p": "-id",
+"m": "形容詞字尾"
+}
+],
+"note": "有味道的"
+},
+"syn": [
+"flavorful",
+"savory",
+"tasty"
+],
+"ant": [
+"insipid",
+"bland"
+],
+"mn": "反義字 insipid（淡而無味的）比較常用。"
+},
+{
+"w": "sapience",
+"kk": "[ˋsepɪəns]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "wisdom; deep understanding",
+"zh": "智慧；睿智"
+}
+],
+"ex": [
+{
+"en": "The old monk was admired for his sapience and kindness.",
+"zh": "那位老僧以睿智和仁慈受人敬重。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sapi",
+"m": "be wise 有智慧（拉丁文 sapere）"
+},
+{
+"p": "-ence",
+"m": "名詞字尾"
+}
+],
+"note": "智慧"
+},
+"syn": [
+"wisdom",
+"sagacity",
+"insight"
+],
+"ant": [
+"foolishness",
+"ignorance"
+]
+},
+{
+"w": "sapient",
+"kk": "[ˋsepɪənt]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "wise, or attempting to appear wise",
+"zh": "有智慧的；（常帶諷刺）自以為聰明的"
+}
+],
+"ex": [
+{
+"en": "Science fiction often imagines contact with sapient alien species.",
+"zh": "科幻小說常想像和有智慧的外星物種接觸。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sapi",
+"m": "be wise 有智慧"
+},
+{
+"p": "-ent",
+"m": "形容詞字尾"
+}
+],
+"note": "有智慧的"
+},
+"syn": [
+"wise",
+"intelligent",
+"sagacious"
+],
+"ant": [
+"foolish"
+],
+"mn": "Homo sapiens（智人）就是「有智慧的人」。"
+},
+{
+"w": "sapiential",
+"kk": "[ˏsepɪˋɛnʃəl]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to or containing wisdom",
+"zh": "智慧的；含有智慧的"
+}
+],
+"ex": [
+{
+"en": "Proverbs is one of the sapiential books of the Bible.",
+"zh": "《箴言》是聖經中的智慧書之一。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sapi",
+"m": "be wise 有智慧"
+},
+{
+"p": "-ential",
+"m": "形容詞字尾"
+}
+],
+"note": "關於智慧的"
+},
+"syn": [
+"wise",
+"didactic"
+],
+"ant": []
+},
+{
+"w": "saponaceous",
+"kk": "[ˏsæpəˋneʃəs]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "of, like, or containing soap; soapy",
+"zh": "肥皂的；似肥皂的"
+}
+],
+"ex": [
+{
+"en": "The water left a saponaceous film on the dishes.",
+"zh": "水在碗盤上留下一層像肥皂的薄膜。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sapon",
+"m": "soap 肥皂（拉丁文 sapo）"
+},
+{
+"p": "-aceous",
+"m": "具…性質的"
+}
+],
+"note": "像肥皂的"
+},
+"syn": [
+"soapy",
+"slippery"
+],
+"ant": []
+},
+{
+"w": "sarcasm",
+"kk": "[ˋsɑrkæzəm]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the use of irony to mock or show contempt",
+"zh": "諷刺；挖苦"
+}
+],
+"ex": [
+{
+"en": "\"Great job,\" he said with obvious sarcasm after I dropped the cake.",
+"zh": "我把蛋糕弄掉之後，他語帶諷刺地說：「幹得好。」"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sarc",
+"m": "flesh 肉（希臘文 sarx）"
+},
+{
+"p": "-asm",
+"m": "名詞字尾"
+}
+],
+"note": "原意「撕肉」→ 說話像咬人的肉一樣尖刻"
+},
+"syn": [
+"irony",
+"mockery",
+"derision"
+],
+"ant": [
+"sincerity"
+]
+},
+{
+"w": "sarcophagus",
+"kk": "[sɑrˋkɑfəgəs]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a stone coffin, often decorated",
+"zh": "石棺"
+}
+],
+"ex": [
+{
+"en": "The pharaoh's sarcophagus was covered in gold and carvings.",
+"zh": "法老的石棺上覆滿黃金和雕刻。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sarc",
+"m": "flesh 肉"
+},
+{
+"p": "phag",
+"m": "eat 吃"
+},
+{
+"p": "-us",
+"m": "名詞字尾"
+}
+],
+"note": "「吃肉的石頭」，古人認為這種石頭會分解屍體 → 石棺"
+},
+"syn": [
+"coffin",
+"tomb"
+],
+"ant": []
+},
+{
+"w": "sardonic",
+"kk": "[sɑrˋdɑnɪk]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "grimly mocking or cynical",
+"zh": "嘲諷的；冷笑的"
+}
+],
+"ex": [
+{
+"en": "He gave a sardonic smile when his rival fell behind.",
+"zh": "對手落後時，他露出一抹冷笑。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sardon",
+"m": "Sardinian 薩丁尼亞的"
+},
+{
+"p": "-ic",
+"m": "形容詞字尾"
+}
+],
+"note": "傳說吃了薩丁尼亞的毒草會臉部抽搐像在冷笑 → 嘲諷的"
+},
+"syn": [
+"mocking",
+"cynical",
+"sarcastic"
+],
+"ant": [
+"sincere",
+"earnest"
+]
+},
+{
+"w": "satiate",
+"kk": "[ˋseʃɪˏet]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to satisfy fully or to excess",
+"zh": "使充分滿足；使飽足"
+}
+],
+"ex": [
+{
+"en": "Nothing seemed to satiate his curiosity about space.",
+"zh": "似乎沒有什麼能滿足他對太空的好奇心。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sat",
+"m": "enough 足夠"
+},
+{
+"p": "-iate",
+"m": "動詞字尾"
+}
+],
+"note": "使足夠 → 使飽足"
+},
+"syn": [
+"satisfy",
+"sate",
+"quench"
+],
+"ant": [
+"starve",
+"deprive"
+]
+},
+{
+"w": "satire",
+"kk": "[ˋsætaɪr]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the use of humor or exaggeration to criticize people or ideas",
+"zh": "諷刺；諷刺作品"
+}
+],
+"ex": [
+{
+"en": "The TV show is a sharp satire of modern politics.",
+"zh": "這部電視節目是對現代政治的尖銳諷刺。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sat",
+"m": "full 滿（拉丁文 satura，雜燴）"
+},
+{
+"p": "-ire",
+"m": "字尾"
+}
+],
+"note": "原指裝滿各種東西的雜燴 → 混雜各種嘲諷的詩文"
+},
+"syn": [
+"parody",
+"lampoon",
+"caricature"
+],
+"ant": [
+"tribute",
+"praise"
+],
+"mn": "別和 satyr（半人半羊的森林之神）搞混。"
+},
+{
+"w": "satiric",
+"kk": "[səˋtɪrɪk]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "containing or using satire",
+"zh": "諷刺的"
+}
+],
+"ex": [
+{
+"en": "The magazine is known for its satiric cartoons.",
+"zh": "這本雜誌以諷刺漫畫聞名。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "satir",
+"m": "satire 諷刺"
+},
+{
+"p": "-ic",
+"m": "形容詞字尾"
+}
+],
+"note": "諷刺的"
+},
+"syn": [
+"satirical",
+"mocking",
+"ironic"
+],
+"ant": [
+"serious",
+"earnest"
+]
+},
+{
+"w": "satirize",
+"kk": "[ˋsætəˏraɪz]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to mock or criticize using satire",
+"zh": "諷刺；挖苦"
+}
+],
+"ex": [
+{
+"en": "The comedy sketch tried to satirize the lives of the very rich.",
+"zh": "那段喜劇短劇試圖諷刺有錢人的生活。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "satir",
+"m": "satire 諷刺"
+},
+{
+"p": "-ize",
+"m": "動詞字尾"
+}
+],
+"note": "諷刺"
+},
+"syn": [
+"mock",
+"parody",
+"lampoon"
+],
+"ant": [
+"praise",
+"flatter"
+]
+},
+{
+"w": "satyr",
+"kk": "[ˋsetɚ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "(Greek myth) a woodland god with some features of a goat",
+"zh": "（希臘神話）森林之神，半人半羊"
+},
+{
+"pos": "n.",
+"en": "a man with strong, uncontrolled sexual desires",
+"zh": "好色之徒"
+}
+],
+"ex": [
+{
+"en": "The ancient vase shows a satyr playing a flute.",
+"zh": "這個古代花瓶上畫著一個吹笛的半羊人。"
+}
+],
+"syn": [
+"faun",
+"lecher"
+],
+"ant": [],
+"mn": "KK 也可唸 [ˋsætɚ]；別和 satire（諷刺）搞混。"
+},
+{
+"w": "savage",
+"kk": "[ˋsævɪdʒ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "fierce, violent, and uncontrolled",
+"zh": "野蠻的；兇猛的"
+},
+{
+"pos": "adj.",
+"en": "(of criticism) very harsh",
+"zh": "猛烈的；嚴厲的"
+},
+{
+"pos": "v.",
+"en": "to attack violently or criticize harshly",
+"zh": "兇猛攻擊；猛烈抨擊"
+}
+],
+"ex": [
+{
+"en": "The film received a savage review in the newspaper.",
+"zh": "這部電影在報上被罵得體無完膚。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "silv",
+"m": "forest 森林（拉丁文 silvaticus，拼法演變成 savage）"
+},
+{
+"p": "-age",
+"m": "字尾"
+}
+],
+"note": "住在森林裡的 → 野蠻的"
+},
+"syn": [
+"ferocious",
+"brutal",
+"vicious"
+],
+"ant": [
+"gentle",
+"civilized",
+"tame"
+]
+},
+{
+"w": "savor",
+"kk": "[ˋsevɚ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to taste or enjoy something slowly and completely",
+"zh": "細細品嚐；盡情享受"
+},
+{
+"pos": "n.",
+"en": "a characteristic taste or smell",
+"zh": "滋味；風味"
+}
+],
+"ex": [
+{
+"en": "Take a moment to savor your success before starting the next project.",
+"zh": "在開始下一個計畫前，先花點時間好好享受成功。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sav",
+"m": "taste 嚐（拉丁文 sapere）"
+},
+{
+"p": "-or",
+"m": "名詞字尾"
+}
+],
+"note": "品嚐滋味"
+},
+"syn": [
+"relish",
+"enjoy",
+"appreciate"
+],
+"ant": [
+"dislike"
+]
+},
+{
+"w": "scabbard",
+"kk": "[ˋskæbɚd]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a sheath for a sword or dagger",
+"zh": "劍鞘；刀鞘"
+}
+],
+"ex": [
+{
+"en": "The knight slid his sword back into its scabbard.",
+"zh": "騎士把劍插回劍鞘。"
+}
+],
+"syn": [
+"sheath"
+],
+"ant": []
+},
+{
+"w": "scarcity",
+"kk": "[ˋskɛrsətɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the state of being in short supply",
+"zh": "缺乏；稀少"
+}
+],
+"ex": [
+{
+"en": "The scarcity of water is a serious problem in the region.",
+"zh": "缺水是這個地區的嚴重問題。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "scarce",
+"m": "稀少"
+},
+{
+"p": "-ity",
+"m": "名詞字尾"
+}
+],
+"note": "稀少的狀態"
+},
+"syn": [
+"shortage",
+"dearth",
+"paucity"
+],
+"ant": [
+"abundance",
+"plenty"
+]
+},
+{
+"w": "scholarly",
+"kk": "[ˋskɑlɚlɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "involving or relating to serious academic study",
+"zh": "學術的；學者風範的"
+}
+],
+"ex": [
+{
+"en": "She has published several scholarly articles on ancient history.",
+"zh": "她發表過幾篇關於古代史的學術文章。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "schol",
+"m": "school 學校（希臘文 skholē，閒暇）"
+},
+{
+"p": "-ar",
+"m": "人"
+},
+{
+"p": "-ly",
+"m": "形容詞字尾"
+}
+],
+"note": "學者的 → 學術的"
+},
+"syn": [
+"academic",
+"learned",
+"erudite"
+],
+"ant": [
+"popular",
+"ignorant"
+]
+},
+{
+"w": "scholastic",
+"kk": "[skəˋlæstɪk]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to schools and education",
+"zh": "學校的；學業的"
+},
+{
+"pos": "adj.",
+"en": "relating to medieval philosophy based on Aristotle and the Church",
+"zh": "經院哲學的"
+}
+],
+"ex": [
+{
+"en": "Her scholastic achievements earned her a full scholarship.",
+"zh": "她的學業成就為她贏得全額獎學金。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "schol",
+"m": "school 學校"
+},
+{
+"p": "-astic",
+"m": "形容詞字尾"
+}
+],
+"note": "學校的"
+},
+"syn": [
+"academic",
+"educational"
+],
+"ant": []
+},
+{
+"w": "scintilla",
+"kk": "[sɪnˋtɪlə]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a tiny trace or amount",
+"zh": "一點點；絲毫"
+}
+],
+"ex": [
+{
+"en": "There is not a scintilla of evidence to support his claim.",
+"zh": "沒有一丁點證據能支持他的說法。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "scintilla",
+"m": "spark 火花（拉丁文）"
+}
+],
+"note": "一點火花 → 一點點"
+},
+"syn": [
+"trace",
+"iota",
+"shred"
+],
+"ant": [
+"abundance"
+],
+"mn": "常用於否定句：not a scintilla of（一點都沒有）。"
+},
+{
+"w": "scintillate",
+"kk": "[ˋsɪntḷˏet]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to give off flashes of light; sparkle",
+"zh": "閃爍；發出火花"
+},
+{
+"pos": "v.",
+"en": "to be brilliantly clever or lively",
+"zh": "（言談）煥發才氣"
+}
+],
+"ex": [
+{
+"en": "Stars seem to scintillate on a clear winter night.",
+"zh": "在晴朗的冬夜，星星好像在閃爍。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "scintill",
+"m": "spark 火花"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "冒出火花 → 閃爍"
+},
+"syn": [
+"sparkle",
+"twinkle",
+"glitter"
+],
+"ant": [],
+"mn": "形容詞 scintillating（妙語如珠的）更常見。"
+},
+{
+"w": "scope",
+"kk": "[skop]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the range of a subject or activity",
+"zh": "範圍；領域"
+},
+{
+"pos": "n.",
+"en": "the opportunity to do something",
+"zh": "機會；餘地"
+}
+],
+"ex": [
+{
+"en": "That question is beyond the scope of this course.",
+"zh": "那個問題超出這門課的範圍。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "scop",
+"m": "look at, target 看、目標（希臘文 skopos）"
+}
+],
+"note": "看得到的範圍"
+},
+"syn": [
+"range",
+"extent",
+"reach"
+],
+"ant": []
+},
+{
+"w": "scoundrel",
+"kk": "[ˋskaʊndrəl]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a dishonest or unscrupulous person",
+"zh": "惡棍；無賴"
+}
+],
+"ex": [
+{
+"en": "The scoundrel stole money from his own grandmother.",
+"zh": "那個惡棍連自己奶奶的錢都偷。"
+}
+],
+"syn": [
+"villain",
+"rogue",
+"rascal"
+],
+"ant": [
+"hero",
+"gentleman"
+]
+},
+{
+"w": "scribble",
+"kk": "[ˋskrɪbḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to write or draw carelessly or hurriedly",
+"zh": "潦草地寫；亂塗"
+},
+{
+"pos": "n.",
+"en": "a piece of careless writing or drawing",
+"zh": "潦草的字跡；塗鴉"
+}
+],
+"ex": [
+{
+"en": "Let me scribble down your phone number before I forget.",
+"zh": "讓我趁忘記之前把你的電話號碼隨手記下來。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "scrib",
+"m": "write 寫"
+},
+{
+"p": "-le",
+"m": "反覆的小動作"
+}
+],
+"note": "匆忙地寫 → 潦草書寫"
+},
+"syn": [
+"scrawl",
+"jot",
+"doodle"
+],
+"ant": []
+},
+{
+"w": "scribe",
+"kk": "[skraɪb]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who copied documents by hand before printing",
+"zh": "抄寫員；書記"
+},
+{
+"pos": "n.",
+"en": "(humorous) a writer or journalist",
+"zh": "作家；記者"
+}
+],
+"ex": [
+{
+"en": "A medieval scribe could spend years copying a single book.",
+"zh": "中世紀的抄寫員可能要花好幾年抄寫一本書。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "scrib",
+"m": "write 寫"
+}
+],
+"note": "寫字的人 → 抄寫員"
+},
+"syn": [
+"copyist",
+"clerk",
+"writer"
+],
+"ant": []
+},
+{
+"w": "script",
+"kk": "[skrɪpt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the written text of a play, film, or broadcast",
+"zh": "劇本；腳本"
+},
+{
+"pos": "n.",
+"en": "handwriting or a system of writing",
+"zh": "筆跡；字體；文字系統"
+},
+{
+"pos": "n.",
+"en": "a list of computer instructions",
+"zh": "（電腦）腳本"
+}
+],
+"ex": [
+{
+"en": "The actor forgot his lines and had to check the script.",
+"zh": "演員忘詞，只好看一下劇本。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "script",
+"m": "write 寫"
+}
+],
+"note": "寫下來的東西 → 劇本"
+},
+"syn": [
+"screenplay",
+"text",
+"handwriting"
+],
+"ant": []
+},
+{
+"w": "Scriptural",
+"kk": "[ˋskrɪptʃərəl]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to the Bible or other sacred writings",
+"zh": "聖經的；經文的"
+}
+],
+"ex": [
+{
+"en": "The pastor supported his argument with a Scriptural passage.",
+"zh": "牧師引用一段經文來支持他的論點。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "script",
+"m": "write 寫"
+},
+{
+"p": "-ure",
+"m": "名詞字尾"
+},
+{
+"p": "-al",
+"m": "形容詞字尾"
+}
+],
+"note": "（神聖）寫下的文字的 → 經文的"
+},
+"syn": [
+"biblical",
+"sacred",
+"canonical"
+],
+"ant": [
+"secular"
+]
+},
+{
+"w": "scruple",
+"kk": "[ˋskrupḷ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a feeling of doubt about whether an action is morally right",
+"zh": "（道德上的）顧慮；良心不安"
+},
+{
+"pos": "v.",
+"en": "to hesitate because of moral doubts",
+"zh": "有顧慮而猶豫"
+}
+],
+"ex": [
+{
+"en": "He had no scruple about lying to get what he wanted.",
+"zh": "他為了得到想要的東西，說謊毫無顧忌。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "scrupul",
+"m": "small sharp stone 小尖石（拉丁文 scrupulus）"
+}
+],
+"note": "鞋裡的小石子讓人不安 → 良心上的顧慮"
+},
+"syn": [
+"qualm",
+"compunction",
+"misgiving"
+],
+"ant": []
+},
+{
+"w": "scrupulous",
+"kk": "[ˋskrupjələs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "very careful and thorough",
+"zh": "一絲不苟的；細心的"
+},
+{
+"pos": "adj.",
+"en": "very concerned to do what is morally right",
+"zh": "有道德原則的；正直的"
+}
+],
+"ex": [
+{
+"en": "The accountant was scrupulous about recording every expense.",
+"zh": "那位會計師對記錄每筆開支都一絲不苟。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "scrupul",
+"m": "small sharp stone 小尖石"
+},
+{
+"p": "-ous",
+"m": "形容詞字尾"
+}
+],
+"note": "連小石子都在意 → 一絲不苟"
+},
+"syn": [
+"meticulous",
+"conscientious",
+"honest"
+],
+"ant": [
+"careless",
+"unscrupulous"
+],
+"mn": "反義字 unscrupulous（不擇手段的）也很常考。"
+},
+{
+"w": "scurrilous",
+"kk": "[ˋskɝɪləs]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "making false and insulting statements to damage someone's reputation",
+"zh": "誹謗的；惡意中傷的"
+}
+],
+"ex": [
+{
+"en": "The blog spread scurrilous rumors about the mayor's family.",
+"zh": "那個部落格散播中傷市長家人的謠言。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "scurr",
+"m": "buffoon 小丑（拉丁文 scurra）"
+},
+{
+"p": "-ilous",
+"m": "形容詞字尾"
+}
+],
+"note": "小丑般粗鄙地嘲弄人 → 惡意中傷的"
+},
+"syn": [
+"defamatory",
+"slanderous",
+"abusive"
+],
+"ant": [
+"complimentary",
+"respectful"
+]
+},
+{
+"w": "scuttle",
+"kk": "[ˋskʌtḷ]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to run with short, quick steps",
+"zh": "急匆匆地跑；疾走"
+},
+{
+"pos": "v.",
+"en": "to deliberately sink a ship; to cause a plan to fail",
+"zh": "鑿沉（船）；破壞（計畫）"
+}
+],
+"ex": [
+{
+"en": "A lack of funding could scuttle the entire project.",
+"zh": "缺乏資金可能讓整個計畫泡湯。"
+}
+],
+"syn": [
+"scurry",
+"sabotage",
+"wreck"
+],
+"ant": [
+"save",
+"support"
+]
+},
+{
+"w": "scythe",
+"kk": "[saɪð]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a tool with a long curved blade used for cutting grass or crops",
+"zh": "長柄大鐮刀"
+},
+{
+"pos": "v.",
+"en": "to cut with a scythe",
+"zh": "用大鐮刀割"
+}
+],
+"ex": [
+{
+"en": "The farmer used a scythe to cut the tall wheat.",
+"zh": "農夫用長柄大鐮刀割高高的小麥。"
+}
+],
+"syn": [
+"sickle"
+],
+"ant": [],
+"mn": "死神的標準配備就是 scythe；注意 c 不發音，th 唸 [ð]。"
+},
+{
+"w": "seance",
+"kk": "[ˋseɑns]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a meeting at which people try to contact the dead",
+"zh": "降神會；通靈會"
+}
+],
+"ex": [
+{
+"en": "The guests held hands during the seance in the dark room.",
+"zh": "在黑暗的房間裡舉行通靈會時，客人們手牽著手。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "se",
+"m": "sit 坐（法文 séance，拉丁文 sedere）"
+},
+{
+"p": "-ance",
+"m": "名詞字尾"
+}
+],
+"note": "坐下來的聚會 → 降神會"
+},
+"syn": [
+"sitting"
+],
+"ant": []
+},
+{
+"w": "sear",
+"kk": "[sɪr]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to burn or scorch the surface of something with sudden heat",
+"zh": "燒灼；（料理）煎封表面"
+},
+{
+"pos": "v.",
+"en": "to cause sudden, sharp pain; to be deeply memorable",
+"zh": "使劇痛；深深烙印"
+}
+],
+"ex": [
+{
+"en": "Sear the steak over high heat for two minutes on each side.",
+"zh": "用大火把牛排每面煎兩分鐘封住表面。"
+}
+],
+"syn": [
+"scorch",
+"singe",
+"char"
+],
+"ant": [
+"freeze"
+]
+},
+{
+"w": "sebaceous",
+"kk": "[sɪˋbeʃəs]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to oil or fat, especially the oily glands of the skin",
+"zh": "皮脂的；分泌皮脂的"
+}
+],
+"ex": [
+{
+"en": "Acne occurs when sebaceous glands become clogged.",
+"zh": "皮脂腺阻塞時就會長青春痘。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "seb",
+"m": "tallow, grease 油脂（拉丁文 sebum）"
+},
+{
+"p": "-aceous",
+"m": "具…性質的"
+}
+],
+"note": "油脂的"
+},
+"syn": [
+"oily",
+"fatty"
+],
+"ant": []
+},
+{
+"w": "secant",
+"kk": "[ˋsikənt]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "(math) a line that cuts a curve at two or more points",
+"zh": "（數學）割線"
+},
+{
+"pos": "n.",
+"en": "(math) the ratio of the hypotenuse to the adjacent side of an angle",
+"zh": "（數學）正割"
+}
+],
+"ex": [
+{
+"en": "Draw a secant that crosses the circle at two points.",
+"zh": "畫一條與圓交於兩點的割線。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "sec",
+"m": "cut 切"
+},
+{
+"p": "-ant",
+"m": "形容詞/名詞字尾"
+}
+],
+"note": "切過去的線 → 割線"
+},
+"syn": [],
+"ant": [
+"tangent"
+]
+},
+{
+"w": "secede",
+"kk": "[sɪˋsid]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to formally withdraw from a political union or organization",
+"zh": "脫離（聯邦、組織）"
+}
+],
+"ex": [
+{
+"en": "Several southern states voted to secede from the Union in 1861.",
+"zh": "1861 年，南方數州投票決定脫離聯邦。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "se-",
+"m": "apart 分開"
+},
+{
+"p": "ced",
+"m": "go 走"
+}
+],
+"note": "分開走 → 脫離"
+},
+"syn": [
+"withdraw",
+"separate",
+"break away"
+],
+"ant": [
+"join",
+"unite"
+]
+},
+{
+"w": "secession",
+"kk": "[sɪˋsɛʃən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the formal withdrawal from a political union",
+"zh": "脫離；分離"
+}
+],
+"ex": [
+{
+"en": "The region's secession led to years of conflict.",
+"zh": "該地區的脫離導致多年的衝突。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "se-",
+"m": "apart 分開"
+},
+{
+"p": "cess",
+"m": "go 走"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "分開走 → 脫離"
+},
+"syn": [
+"withdrawal",
+"separation",
+"breakaway"
+],
+"ant": [
+"union",
+"unification"
+]
+},
+{
+"w": "seclude",
+"kk": "[sɪˋklud]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to keep someone away from other people",
+"zh": "使隔離；使隱居"
+}
+],
+"ex": [
+{
+"en": "The writer chose to seclude herself in a cabin to finish her novel.",
+"zh": "那位作家選擇隱居在小屋裡完成她的小說。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "se-",
+"m": "apart 分開"
+},
+{
+"p": "clud",
+"m": "shut 關閉"
+}
+],
+"note": "關起來與人分開 → 隔離"
+},
+"syn": [
+"isolate",
+"sequester",
+"withdraw"
+],
+"ant": [
+"socialize",
+"mingle"
+]
+},
+{
+"w": "seclusion",
+"kk": "[sɪˋkluʒən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the state of being private and away from other people",
+"zh": "隱居；與世隔絕"
+}
+],
+"ex": [
+{
+"en": "After the scandal, the actor lived in seclusion for years.",
+"zh": "醜聞之後，那位演員隱居了好幾年。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "se-",
+"m": "apart 分開"
+},
+{
+"p": "clus",
+"m": "shut 關閉"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "關起來與人分開 → 隱居"
+},
+"syn": [
+"isolation",
+"solitude",
+"privacy"
+],
+"ant": [
+"company",
+"society"
+]
+},
+{
+"w": "second-rate",
+"kk": "[ˋsɛkəndˋret]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "of mediocre or poor quality",
+"zh": "二流的；次等的"
+}
+],
+"ex": [
+{
+"en": "The hotel was expensive but offered only second-rate service.",
+"zh": "這家飯店很貴，但服務只有二流水準。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "second",
+"m": "第二"
+},
+{
+"p": "rate",
+"m": "等級"
+}
+],
+"note": "第二等級 → 二流的"
+},
+"syn": [
+"inferior",
+"mediocre",
+"substandard"
+],
+"ant": [
+"first-rate",
+"excellent"
+]
+},
+{
+"w": "secondary",
+"kk": "[ˋsɛkənˏdɛrɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "less important than something else",
+"zh": "次要的"
+},
+{
+"pos": "adj.",
+"en": "coming after or derived from something primary",
+"zh": "第二的；衍生的"
+},
+{
+"pos": "adj.",
+"en": "relating to education for students aged about 11 to 18",
+"zh": "中等（教育）的"
+}
+],
+"ex": [
+{
+"en": "For him, money is secondary to job satisfaction.",
+"zh": "對他來說，錢比工作成就感次要。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "second",
+"m": "following 跟隨（拉丁文 sequi）"
+},
+{
+"p": "-ary",
+"m": "形容詞字尾"
+}
+],
+"note": "排在後面的 → 次要的"
+},
+"syn": [
+"subordinate",
+"lesser",
+"minor"
+],
+"ant": [
+"primary",
+"main"
+],
+"mn": "secondary school 是中學；secondary source 是二手資料。"
+}
+]

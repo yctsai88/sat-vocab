@@ -1,0 +1,4112 @@
+[
+{
+"w": "actionable",
+"kk": "[ˋækʃənəbḷ]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "giving someone a legal reason to sue",
+"zh": "可起訴的"
+},
+{
+"pos": "adj.",
+"en": "able to be acted on; practical",
+"zh": "可付諸行動的；可行的"
+}
+],
+"ex": [
+{
+"en": "The consultant gave us actionable advice we could use right away.",
+"zh": "顧問給了我們馬上就能執行的建議。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "action",
+"m": "行動；訴訟"
+},
+{
+"p": "-able",
+"m": "可…的"
+}
+],
+"note": "可以採取行動（或訴訟）的"
+},
+"syn": [
+"practical",
+"usable",
+"litigable"
+],
+"ant": [
+"impractical"
+]
+},
+{
+"w": "actuality",
+"kk": "[ˏæktʃʊˋælətɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "actual existence; reality",
+"zh": "現實；實際情況"
+}
+],
+"ex": [
+{
+"en": "In actuality, the project cost twice as much as planned.",
+"zh": "實際上，這個計畫花的錢是預算的兩倍。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "act",
+"m": "do 做"
+},
+{
+"p": "-ual",
+"m": "形容詞字尾"
+},
+{
+"p": "-ity",
+"m": "名詞字尾"
+}
+],
+"note": "實際存在的狀態"
+},
+"syn": [
+"reality",
+"fact",
+"truth"
+],
+"ant": [
+"fiction",
+"possibility"
+]
+},
+{
+"w": "actuary",
+"kk": "[ˋæktʃʊˏɛrɪ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who calculates insurance risks and premiums",
+"zh": "保險精算師"
+}
+],
+"ex": [
+{
+"en": "An actuary uses statistics to estimate how long people will live.",
+"zh": "精算師用統計數據估算人們的壽命。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "act",
+"m": "record 記錄（拉丁文 acta）"
+},
+{
+"p": "-uary",
+"m": "人"
+}
+],
+"note": "原指記錄員 → 精算師"
+},
+"syn": [
+"statistician"
+],
+"ant": []
+},
+{
+"w": "actuate",
+"kk": "[ˋæktʃʊˏet]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to cause a machine to operate",
+"zh": "啟動（機器）"
+},
+{
+"pos": "v.",
+"en": "to motivate someone to act",
+"zh": "激勵；驅使"
+}
+],
+"ex": [
+{
+"en": "A small lever is used to actuate the brakes.",
+"zh": "用一根小槓桿來啟動煞車。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "act",
+"m": "do 做"
+},
+{
+"p": "-uate",
+"m": "動詞字尾"
+}
+],
+"note": "使動起來 → 啟動、驅使"
+},
+"syn": [
+"activate",
+"trigger",
+"motivate"
+],
+"ant": [
+"stop",
+"deter"
+]
+},
+{
+"w": "acumen",
+"kk": "[əˋkjumən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the ability to make good judgments and quick decisions",
+"zh": "敏銳；精明"
+}
+],
+"ex": [
+{
+"en": "Her business acumen turned a small bakery into a national chain.",
+"zh": "她的商業頭腦把一家小麵包店發展成全國連鎖店。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "acu",
+"m": "sharp 尖銳"
+},
+{
+"p": "-men",
+"m": "名詞字尾"
+}
+],
+"note": "頭腦尖銳 → 敏銳（acute 同源）"
+},
+"syn": [
+"shrewdness",
+"insight",
+"astuteness"
+],
+"ant": [
+"ignorance",
+"stupidity"
+]
+},
+{
+"w": "acute",
+"kk": "[əˋkjut]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "(of a bad situation) severe or serious",
+"zh": "嚴重的；急性的"
+},
+{
+"pos": "adj.",
+"en": "having sharp perception",
+"zh": "敏銳的"
+},
+{
+"pos": "adj.",
+"en": "(of an angle) less than 90 degrees",
+"zh": "（角）銳角的"
+}
+],
+"ex": [
+{
+"en": "Dogs have an acute sense of smell.",
+"zh": "狗的嗅覺非常敏銳。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "acu",
+"m": "sharp 尖銳"
+},
+{
+"p": "-te",
+"m": "形容詞字尾"
+}
+],
+"note": "尖銳的 → 嚴重的、敏銳的"
+},
+"syn": [
+"severe",
+"keen",
+"sharp"
+],
+"ant": [
+"mild",
+"dull",
+"chronic"
+]
+},
+{
+"w": "addendum",
+"kk": "[əˋdɛndəm]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "something added at the end of a book or document",
+"zh": "附錄；補遺"
+}
+],
+"ex": [
+{
+"en": "An addendum to the contract explains the new payment schedule.",
+"zh": "合約的附錄說明了新的付款時程。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "add",
+"m": "add 加上"
+},
+{
+"p": "-endum",
+"m": "應被…的（拉丁文）"
+}
+],
+"note": "應被加上的東西 → 附錄"
+},
+"syn": [
+"appendix",
+"supplement",
+"postscript"
+],
+"ant": []
+},
+{
+"w": "addle",
+"kk": "[ˋædḷ]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to confuse; to make unable to think clearly",
+"zh": "使糊塗；使混亂"
+}
+],
+"ex": [
+{
+"en": "Too much late-night studying can addle your brain.",
+"zh": "熬夜讀太多書會讓腦袋變得糊里糊塗。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "addle",
+"m": "rotten 腐爛的（古英文 adela）"
+}
+],
+"note": "原指蛋壞掉 → 腦袋糊塗"
+},
+"syn": [
+"confuse",
+"muddle",
+"befuddle"
+],
+"ant": [
+"clarify"
+]
+},
+{
+"w": "adduce",
+"kk": "[əˋdjus]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to offer as evidence or proof",
+"zh": "舉出（證據、理由）"
+}
+],
+"ex": [
+{
+"en": "The lawyer was unable to adduce any evidence of fraud.",
+"zh": "律師無法提出任何詐欺的證據。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "duc",
+"m": "lead 引導"
+}
+],
+"note": "把（證據）帶上來 → 舉證"
+},
+"syn": [
+"cite",
+"present",
+"offer"
+],
+"ant": [
+"withhold"
+]
+},
+{
+"w": "adhere",
+"kk": "[ədˋhɪr]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to stick firmly to something",
+"zh": "黏附"
+},
+{
+"pos": "v.",
+"en": "to follow a rule or belief closely",
+"zh": "遵守；堅持"
+}
+],
+"ex": [
+{
+"en": "All players must adhere to the rules of the tournament.",
+"zh": "所有選手都必須遵守比賽規則。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "her",
+"m": "stick 黏"
+}
+],
+"note": "黏在…上 → 黏附、遵守"
+},
+"syn": [
+"stick",
+"follow",
+"comply"
+],
+"ant": [
+"detach",
+"violate"
+]
+},
+{
+"w": "adherence",
+"kk": "[ədˋhɪrəns]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the act of following a rule or belief closely",
+"zh": "遵守；堅持"
+}
+],
+"ex": [
+{
+"en": "Strict adherence to safety rules prevented any injuries.",
+"zh": "嚴格遵守安全規定，避免了任何傷亡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "her",
+"m": "stick 黏"
+},
+{
+"p": "-ence",
+"m": "名詞字尾"
+}
+],
+"note": "adhere 的名詞"
+},
+"syn": [
+"compliance",
+"observance",
+"loyalty"
+],
+"ant": [
+"violation",
+"disregard"
+]
+},
+{
+"w": "adherent",
+"kk": "[ədˋhɪrənt]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a supporter of a person, party, or belief",
+"zh": "擁護者；信徒"
+}
+],
+"ex": [
+{
+"en": "Each adherent of the movement pledged to live simply.",
+"zh": "這個運動的每位擁護者都承諾過簡樸的生活。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "her",
+"m": "stick 黏"
+},
+{
+"p": "-ent",
+"m": "人"
+}
+],
+"note": "黏著（某信念）的人 → 擁護者"
+},
+"syn": [
+"follower",
+"supporter",
+"disciple"
+],
+"ant": [
+"opponent",
+"critic"
+]
+},
+{
+"w": "adhesion",
+"kk": "[ədˋhiʒən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the action or quality of sticking to something",
+"zh": "黏著；附著力"
+}
+],
+"ex": [
+{
+"en": "This tape has strong adhesion even on wet surfaces.",
+"zh": "這種膠帶即使在潮濕的表面上附著力也很強。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "hes",
+"m": "stick 黏"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "黏著"
+},
+"syn": [
+"stickiness",
+"attachment",
+"bond"
+],
+"ant": [
+"separation"
+]
+},
+{
+"w": "adjacency",
+"kk": "[əˋdʒesṇsɪ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the state of being next to something",
+"zh": "鄰近；毗連"
+}
+],
+"ex": [
+{
+"en": "The hotel's adjacency to the beach makes it very popular.",
+"zh": "這家飯店緊鄰海灘，所以非常受歡迎。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "near 靠近"
+},
+{
+"p": "jac",
+"m": "lie 躺"
+},
+{
+"p": "-ency",
+"m": "名詞字尾"
+}
+],
+"note": "躺在旁邊 → 鄰近"
+},
+"syn": [
+"proximity",
+"nearness",
+"closeness"
+],
+"ant": [
+"distance",
+"remoteness"
+]
+},
+{
+"w": "adjacent",
+"kk": "[əˋdʒesṇt]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "next to or very near something",
+"zh": "鄰近的；毗連的"
+}
+],
+"ex": [
+{
+"en": "The school is adjacent to a large public park.",
+"zh": "學校緊鄰著一座大型公園。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "near 靠近"
+},
+{
+"p": "jac",
+"m": "lie 躺"
+},
+{
+"p": "-ent",
+"m": "形容詞字尾"
+}
+],
+"note": "躺在旁邊的 → 鄰近的"
+},
+"syn": [
+"neighboring",
+"adjoining",
+"next"
+],
+"ant": [
+"distant",
+"remote"
+]
+},
+{
+"w": "adjudge",
+"kk": "[əˋdʒʌdʒ]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to declare or decide officially",
+"zh": "判決；裁定"
+}
+],
+"ex": [
+{
+"en": "The panel will adjudge the winner of the essay contest next week.",
+"zh": "評審團將在下週裁定作文比賽的優勝者。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "judge",
+"m": "判斷"
+}
+],
+"note": "做出判斷 → 裁定"
+},
+"syn": [
+"judge",
+"rule",
+"pronounce"
+],
+"ant": []
+},
+{
+"w": "adjunct",
+"kk": "[ˋædʒʌŋkt]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "something added to another thing but not essential to it",
+"zh": "附屬物；輔助"
+},
+{
+"pos": "adj.",
+"en": "connected in a supporting role",
+"zh": "附屬的；兼任的"
+}
+],
+"ex": [
+{
+"en": "She works as an adjunct professor at two universities.",
+"zh": "她在兩所大學擔任兼任教授。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "junct",
+"m": "join 連接"
+}
+],
+"note": "連接上去的 → 附屬"
+},
+"syn": [
+"supplement",
+"addition",
+"auxiliary"
+],
+"ant": [
+"essential",
+"core"
+]
+},
+{
+"w": "adjuration",
+"kk": "[ˏædʒʊˋreʃən]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a solemn and urgent request",
+"zh": "懇求；嚴令"
+}
+],
+"ex": [
+{
+"en": "Despite his mother's adjuration, he went out into the storm.",
+"zh": "不顧母親的苦苦懇求，他還是冒著暴風雨出門了。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "jur",
+"m": "swear 發誓"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "要人發誓 → 懇求"
+},
+"syn": [
+"plea",
+"entreaty",
+"appeal"
+],
+"ant": []
+},
+{
+"w": "adjutant",
+"kk": "[ˋædʒətənt]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a military officer who assists a commanding officer",
+"zh": "副官；助手"
+}
+],
+"ex": [
+{
+"en": "The colonel's adjutant delivered the orders to each unit.",
+"zh": "上校的副官把命令傳達給各個部隊。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "jut",
+"m": "help 幫助"
+},
+{
+"p": "-ant",
+"m": "人"
+}
+],
+"note": "幫忙的人 → 副官"
+},
+"syn": [
+"assistant",
+"aide"
+],
+"ant": []
+},
+{
+"w": "administrator",
+"kk": "[ədˋmɪnəˏstretɚ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who manages an organization or business",
+"zh": "管理人；行政人員"
+}
+],
+"ex": [
+{
+"en": "A hospital administrator oversees budgets and staffing.",
+"zh": "醫院的行政主管負責預算與人力安排。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "minister",
+"m": "serve 服務"
+},
+{
+"p": "-ator",
+"m": "人"
+}
+],
+"note": "負責服務與管理的人"
+},
+"syn": [
+"manager",
+"director",
+"executive"
+],
+"ant": []
+},
+{
+"w": "admissible",
+"kk": "[ədˋmɪsəbḷ]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "acceptable or allowed, especially as evidence in court",
+"zh": "可接受的；（證據）可採納的"
+}
+],
+"ex": [
+{
+"en": "The judge ruled that the recording was admissible in court.",
+"zh": "法官裁定這段錄音可以作為法庭證據。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "miss",
+"m": "send, let go 送、放"
+},
+{
+"p": "-ible",
+"m": "可…的"
+}
+],
+"note": "可以放進來的 → 可接受的"
+},
+"syn": [
+"acceptable",
+"allowable",
+"permissible"
+],
+"ant": [
+"inadmissible"
+]
+},
+{
+"w": "admittance",
+"kk": "[ədˋmɪtṇs]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the right or permission to enter a place",
+"zh": "入場許可；進入"
+}
+],
+"ex": [
+{
+"en": "The sign on the door read: No admittance.",
+"zh": "門上的告示寫著：禁止進入。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "mit",
+"m": "send, let go 送、放"
+},
+{
+"p": "-ance",
+"m": "名詞字尾"
+}
+],
+"note": "放行進入"
+},
+"syn": [
+"entry",
+"admission",
+"access"
+],
+"ant": [
+"exclusion"
+]
+},
+{
+"w": "admonition",
+"kk": "[ˏædməˋnɪʃən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a firm warning or reprimand",
+"zh": "告誡；訓誡"
+}
+],
+"ex": [
+{
+"en": "The coach's admonition to stay focused was ignored.",
+"zh": "教練要大家保持專注的告誡被當成耳邊風。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "mon",
+"m": "warn 警告"
+},
+{
+"p": "-ition",
+"m": "名詞字尾"
+}
+],
+"note": "admonish 的名詞"
+},
+"syn": [
+"warning",
+"reprimand",
+"caution"
+],
+"ant": [
+"praise",
+"commendation"
+]
+},
+{
+"w": "ado",
+"kk": "[əˋdu]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "trouble or fuss about something",
+"zh": "忙亂；麻煩；大驚小怪"
+}
+],
+"ex": [
+{
+"en": "Without further ado, let's begin the ceremony.",
+"zh": "廢話不多說，典禮開始吧。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to"
+},
+{
+"p": "do",
+"m": "做"
+}
+],
+"note": "要做的事 → 忙亂"
+},
+"syn": [
+"fuss",
+"bother",
+"commotion"
+],
+"ant": [
+"calm",
+"peace"
+],
+"mn": "莎士比亞劇名 Much Ado About Nothing（無事生非）。"
+},
+{
+"w": "adoration",
+"kk": "[ˏædəˋreʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "deep love and respect; worship",
+"zh": "崇拜；敬愛"
+}
+],
+"ex": [
+{
+"en": "The puppy looked up at its owner with pure adoration.",
+"zh": "小狗用充滿崇拜的眼神抬頭望著主人。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "or",
+"m": "pray, speak 祈禱"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "向…祈禱 → 崇拜"
+},
+"syn": [
+"love",
+"devotion",
+"worship"
+],
+"ant": [
+"hatred",
+"contempt"
+]
+},
+{
+"w": "adroit",
+"kk": "[əˋdrɔɪt]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "clever or skillful in using the hands or mind",
+"zh": "靈巧的；機敏的"
+}
+],
+"ex": [
+{
+"en": "The adroit negotiator found a deal that satisfied both sides.",
+"zh": "那位機敏的談判者找到了讓雙方都滿意的協議。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "to 朝向"
+},
+{
+"p": "droit",
+"m": "right 右邊、正確（法文）"
+}
+],
+"note": "像右手一樣靈活 → 靈巧的"
+},
+"syn": [
+"skillful",
+"deft",
+"dexterous"
+],
+"ant": [
+"clumsy",
+"awkward",
+"maladroit"
+]
+},
+{
+"w": "adulterant",
+"kk": "[əˋdʌltərənt]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a substance added to make something impure or of lower quality",
+"zh": "混雜物；摻雜物"
+}
+],
+"ex": [
+{
+"en": "Chalk was once used as an adulterant in cheap flour.",
+"zh": "粉筆灰曾被摻進廉價麵粉裡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "alter",
+"m": "other 其他"
+},
+{
+"p": "-ant",
+"m": "物"
+}
+],
+"note": "使（東西）變質的添加物"
+},
+"syn": [
+"contaminant",
+"impurity",
+"additive"
+],
+"ant": []
+},
+{
+"w": "adulterate",
+"kk": "[əˋdʌltəˏret]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to make food or drink impure by adding something inferior",
+"zh": "摻雜；摻假"
+}
+],
+"ex": [
+{
+"en": "Some dishonest sellers adulterate honey with cheap syrup.",
+"zh": "有些不肖商人在蜂蜜裡摻入便宜的糖漿。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "alter",
+"m": "other 其他、改變"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "改變（成分）→ 摻假"
+},
+"syn": [
+"contaminate",
+"dilute",
+"taint"
+],
+"ant": [
+"purify",
+"refine"
+]
+},
+{
+"w": "adumbrate",
+"kk": "[ædˋʌmbret]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to give a partial or faint outline of; to foreshadow",
+"zh": "概略描繪；預示"
+}
+],
+"ex": [
+{
+"en": "The opening scene seems to adumbrate the tragedy to come.",
+"zh": "開場那一幕似乎預示著即將到來的悲劇。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "umbr",
+"m": "shadow 陰影"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "投下影子 → 概略描繪、預示（umbrella 同源）"
+},
+"syn": [
+"outline",
+"foreshadow",
+"suggest"
+],
+"ant": [
+"detail",
+"specify"
+]
+},
+{
+"w": "advent",
+"kk": "[ˋædvɛnt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the arrival of an important person, thing, or event",
+"zh": "到來；出現"
+}
+],
+"ex": [
+{
+"en": "The advent of the internet changed how we communicate.",
+"zh": "網路的出現改變了我們溝通的方式。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "vent",
+"m": "come 來"
+}
+],
+"note": "來到 → 出現（adventure 同源）"
+},
+"syn": [
+"arrival",
+"emergence",
+"dawn"
+],
+"ant": [
+"departure",
+"end"
+]
+},
+{
+"w": "adverse",
+"kk": "[ædˋvɝs]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "harmful or unfavorable",
+"zh": "不利的；有害的"
+}
+],
+"ex": [
+{
+"en": "The medicine has few adverse side effects.",
+"zh": "這種藥幾乎沒有不良副作用。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "vers",
+"m": "turn 轉"
+}
+],
+"note": "轉過來對著你 → 不利的"
+},
+"syn": [
+"harmful",
+"unfavorable",
+"hostile"
+],
+"ant": [
+"favorable",
+"beneficial"
+],
+"mn": "adverse 形容「事情」不利；averse 形容「人」反感（averse to…）。"
+},
+{
+"w": "adversity",
+"kk": "[ədˋvɝsətɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "difficulties or misfortune",
+"zh": "逆境；不幸"
+}
+],
+"ex": [
+{
+"en": "She showed great courage in the face of adversity.",
+"zh": "她在逆境中展現了莫大的勇氣。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "vers",
+"m": "turn 轉"
+},
+{
+"p": "-ity",
+"m": "名詞字尾"
+}
+],
+"note": "情勢轉而對你不利 → 逆境"
+},
+"syn": [
+"hardship",
+"misfortune",
+"difficulty"
+],
+"ant": [
+"prosperity",
+"fortune"
+]
+},
+{
+"w": "advert",
+"kk": "[ədˋvɝt]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to refer to or mention (advert to)",
+"zh": "提及；談到"
+},
+{
+"pos": "n.",
+"en": "(British) an advertisement",
+"zh": "（英）廣告"
+}
+],
+"ex": [
+{
+"en": "In his speech, the mayor did not advert to the scandal.",
+"zh": "市長在演講中沒有提到那樁醜聞。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "vert",
+"m": "turn 轉"
+}
+],
+"note": "把注意力轉向 → 提及"
+},
+"syn": [
+"refer",
+"allude",
+"mention"
+],
+"ant": [
+"ignore"
+]
+},
+{
+"w": "advertiser",
+"kk": "[ˋædvɚˏtaɪzɚ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person or company that pays to promote products",
+"zh": "廣告商；刊登廣告者"
+}
+],
+"ex": [
+{
+"en": "The magazine lost its biggest advertiser last year.",
+"zh": "這本雜誌去年失去了最大的廣告主。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "vert",
+"m": "turn 轉"
+},
+{
+"p": "-iser",
+"m": "人"
+}
+],
+"note": "讓人轉頭注意的人 → 廣告商"
+},
+"syn": [
+"sponsor",
+"promoter"
+],
+"ant": []
+},
+{
+"w": "advisory",
+"kk": "[ədˋvaɪzərɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "having the power only to give advice",
+"zh": "諮詢的；顧問的"
+},
+{
+"pos": "n.",
+"en": "an official warning",
+"zh": "（官方）警告、通報"
+}
+],
+"ex": [
+{
+"en": "She sits on the advisory board of a local charity.",
+"zh": "她是一個地方慈善機構的顧問委員。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "vis",
+"m": "see 看"
+},
+{
+"p": "-ory",
+"m": "形容詞字尾"
+}
+],
+"note": "幫忙看 → 諮詢的"
+},
+"syn": [
+"consultative",
+"counseling",
+"warning"
+],
+"ant": []
+},
+{
+"w": "advocacy",
+"kk": "[ˋædvəkəsɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "public support for a cause or policy",
+"zh": "倡導；擁護"
+}
+],
+"ex": [
+{
+"en": "Her advocacy for clean water brought change to many villages.",
+"zh": "她對乾淨飲水的倡導為許多村莊帶來改變。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "voc",
+"m": "call, voice 聲音"
+},
+{
+"p": "-acy",
+"m": "名詞字尾"
+}
+],
+"note": "為…發聲 → 倡導"
+},
+"syn": [
+"support",
+"promotion",
+"championing"
+],
+"ant": [
+"opposition"
+]
+},
+{
+"w": "advocate",
+"kk": "[ˋædvəkɪt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who publicly supports a cause",
+"zh": "擁護者；提倡者；辯護律師"
+},
+{
+"pos": "v.",
+"en": "[ˋædvəˏket] to publicly support or recommend",
+"zh": "提倡；主張"
+}
+],
+"ex": [
+{
+"en": "She is a strong advocate of equal education for all children.",
+"zh": "她大力提倡所有孩子享有平等的教育。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ad-",
+"m": "to 朝向"
+},
+{
+"p": "voc",
+"m": "call, voice 聲音"
+},
+{
+"p": "-ate",
+"m": "字尾"
+}
+],
+"note": "被叫來為你發聲的人 → 辯護者、擁護者"
+},
+"syn": [
+"supporter",
+"champion",
+"proponent"
+],
+"ant": [
+"opponent",
+"critic"
+]
+},
+{
+"w": "aerial",
+"kk": "[ˋɛrɪəl]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "existing or happening in the air; from above",
+"zh": "空中的；從空中的"
+},
+{
+"pos": "n.",
+"en": "(British) an antenna",
+"zh": "天線"
+}
+],
+"ex": [
+{
+"en": "The aerial photograph showed how far the flood had spread.",
+"zh": "空拍照片顯示出洪水蔓延的範圍。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aer",
+"m": "air 空氣"
+},
+{
+"p": "-ial",
+"m": "形容詞字尾"
+}
+],
+"note": "空中的"
+},
+"syn": [
+"airborne",
+"overhead"
+],
+"ant": [
+"terrestrial",
+"ground"
+]
+},
+{
+"w": "aeronaut",
+"kk": "[ˋɛrəˏnɔt]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a person who flies an aircraft, especially a balloon or airship",
+"zh": "飛行員；（熱氣球、飛艇的）駕駛員"
+}
+],
+"ex": [
+{
+"en": "The daring aeronaut crossed the channel in a hot-air balloon.",
+"zh": "那位大膽的飛行員乘熱氣球飛越了海峽。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aero-",
+"m": "air 空氣"
+},
+{
+"p": "naut",
+"m": "sailor 水手"
+}
+],
+"note": "空中的水手 → 飛行員（astronaut 同構）"
+},
+"syn": [
+"aviator",
+"balloonist",
+"pilot"
+],
+"ant": []
+},
+{
+"w": "aeronautics",
+"kk": "[ˏɛrəˋnɔtɪks]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "the science or practice of flight",
+"zh": "航空學"
+}
+],
+"ex": [
+{
+"en": "He studied aeronautics before becoming a pilot.",
+"zh": "他在成為飛行員之前學的是航空學。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aero-",
+"m": "air 空氣"
+},
+{
+"p": "naut",
+"m": "sailor 航行"
+},
+{
+"p": "-ics",
+"m": "學科"
+}
+],
+"note": "在空中航行的學問"
+},
+"syn": [
+"aviation",
+"flight"
+],
+"ant": []
+},
+{
+"w": "aerostat",
+"kk": "[ˋɛrəˏstæt]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "an aircraft that is lighter than air, such as a balloon",
+"zh": "輕航空器（氣球、飛艇）"
+}
+],
+"ex": [
+{
+"en": "A tethered aerostat hovered above the stadium with cameras.",
+"zh": "一架繫留氣球載著攝影機停在體育場上空。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aero-",
+"m": "air 空氣"
+},
+{
+"p": "stat",
+"m": "stand still 靜止"
+}
+],
+"note": "靜止在空中的東西"
+},
+"syn": [
+"balloon",
+"airship",
+"blimp"
+],
+"ant": []
+},
+{
+"w": "affable",
+"kk": "[ˋæfəbḷ]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "friendly and easy to talk to",
+"zh": "和藹可親的；友善的"
+}
+],
+"ex": [
+{
+"en": "The affable host made every guest feel welcome.",
+"zh": "和藹可親的主人讓每位客人都覺得賓至如歸。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "af-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "fa",
+"m": "speak 說話"
+},
+{
+"p": "-ble",
+"m": "可…的"
+}
+],
+"note": "可以跟他說話的 → 和藹可親"
+},
+"syn": [
+"friendly",
+"amiable",
+"genial"
+],
+"ant": [
+"unfriendly",
+"surly",
+"aloof"
+]
+},
+{
+"w": "affectation",
+"kk": "[ˏæfɪkˋteʃən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "behavior or speech that is unnatural and meant to impress",
+"zh": "做作；矯揉造作"
+}
+],
+"ex": [
+{
+"en": "His British accent was an affectation he picked up after one summer in London.",
+"zh": "他的英國腔是在倫敦待了一個夏天後裝出來的。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "affect",
+"m": "假裝"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "假裝 → 做作"
+},
+"syn": [
+"pretension",
+"artificiality",
+"posturing"
+],
+"ant": [
+"naturalness",
+"sincerity"
+]
+},
+{
+"w": "affiliate",
+"kk": "[əˋfɪlɪˏet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to officially connect with a larger organization",
+"zh": "使隸屬；加入"
+},
+{
+"pos": "n.",
+"en": "[əˋfɪlɪɪt] an organization connected to a larger one",
+"zh": "附屬機構；分會"
+}
+],
+"ex": [
+{
+"en": "The local station is an affiliate of a national network.",
+"zh": "這家地方電台是某個全國性電視網的附屬台。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "af-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "fili",
+"m": "son 兒子"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "收為兒子 → 使隸屬"
+},
+"syn": [
+"associate",
+"partner",
+"branch"
+],
+"ant": [
+"separate"
+]
+},
+{
+"w": "affirmative",
+"kk": "[əˋfɝmətɪv]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "agreeing or saying yes",
+"zh": "肯定的；贊成的"
+}
+],
+"ex": [
+{
+"en": "She gave an affirmative nod when asked if she was ready.",
+"zh": "被問到是否準備好時，她肯定地點了點頭。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "af-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "firm",
+"m": "strong 堅定"
+},
+{
+"p": "-ative",
+"m": "形容詞字尾"
+}
+],
+"note": "使堅定 → 肯定的"
+},
+"syn": [
+"positive",
+"assenting",
+"agreeing"
+],
+"ant": [
+"negative"
+]
+},
+{
+"w": "affix",
+"kk": "[əˋfɪks]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to attach or fasten something",
+"zh": "貼上；附加"
+},
+{
+"pos": "n.",
+"en": "[ˋæfɪks] a prefix or suffix",
+"zh": "詞綴"
+}
+],
+"ex": [
+{
+"en": "Please affix a stamp to the envelope before mailing it.",
+"zh": "寄出前請在信封上貼一張郵票。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "af-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "fix",
+"m": "fasten 固定"
+}
+],
+"note": "固定上去 → 貼上"
+},
+"syn": [
+"attach",
+"stick",
+"fasten"
+],
+"ant": [
+"detach",
+"remove"
+]
+},
+{
+"w": "affluence",
+"kk": "[ˋæflʊəns]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "wealth; having a great deal of money",
+"zh": "富裕"
+}
+],
+"ex": [
+{
+"en": "The town's affluence is obvious from its large houses.",
+"zh": "從那些大房子就看得出這個小鎮很富裕。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "af-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "flu",
+"m": "flow 流"
+},
+{
+"p": "-ence",
+"m": "名詞字尾"
+}
+],
+"note": "（財富）流過來 → 富裕"
+},
+"syn": [
+"wealth",
+"prosperity",
+"riches"
+],
+"ant": [
+"poverty",
+"want"
+]
+},
+{
+"w": "affront",
+"kk": "[əˋfrʌnt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "an action or remark that causes offense",
+"zh": "冒犯；侮辱"
+},
+{
+"pos": "v.",
+"en": "to offend or insult",
+"zh": "冒犯；侮辱"
+}
+],
+"ex": [
+{
+"en": "The rude comment was an affront to everyone in the room.",
+"zh": "那句無禮的話冒犯了房間裡的每一個人。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "af-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "front",
+"m": "forehead, face 臉"
+}
+],
+"note": "當面打臉 → 冒犯"
+},
+"syn": [
+"insult",
+"offense",
+"slight"
+],
+"ant": [
+"compliment",
+"praise"
+]
+},
+{
+"w": "afire",
+"kk": "[əˋfaɪr]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "on fire; burning",
+"zh": "著火的；燃燒的"
+},
+{
+"pos": "adj.",
+"en": "filled with strong emotion",
+"zh": "（情緒）激昂的"
+}
+],
+"ex": [
+{
+"en": "The whole forest seemed afire with autumn colors.",
+"zh": "整片森林在秋色中彷彿燃燒了起來。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "on 在…中"
+},
+{
+"p": "fire",
+"m": "火"
+}
+],
+"note": "在火中的"
+},
+"syn": [
+"ablaze",
+"burning",
+"aflame"
+],
+"ant": [
+"extinguished"
+]
+},
+{
+"w": "afoot",
+"kk": "[əˋfʊt]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "in preparation or happening, often secretly",
+"zh": "進行中的；（祕密）醞釀中的"
+},
+{
+"pos": "adv.",
+"en": "on foot",
+"zh": "徒步"
+}
+],
+"ex": [
+{
+"en": "The detective sensed that something strange was afoot.",
+"zh": "偵探察覺到有什麼奇怪的事正在醞釀。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "on 在…上"
+},
+{
+"p": "foot",
+"m": "腳"
+}
+],
+"note": "已經起步 → 進行中"
+},
+"syn": [
+"underway",
+"brewing",
+"happening"
+],
+"ant": [
+"dormant"
+]
+},
+{
+"w": "aforesaid",
+"kk": "[əˋforˏsɛd]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "mentioned earlier",
+"zh": "前述的；上述的"
+}
+],
+"ex": [
+{
+"en": "The aforesaid property will be sold at auction.",
+"zh": "上述房產將進行拍賣。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "afore",
+"m": "before 之前"
+},
+{
+"p": "said",
+"m": "說過的"
+}
+],
+"note": "之前說過的"
+},
+"syn": [
+"aforementioned",
+"previous",
+"foregoing"
+],
+"ant": [
+"following"
+]
+},
+{
+"w": "afresh",
+"kk": "[əˋfrɛʃ]",
+"tier": 2,
+"senses": [
+{
+"pos": "adv.",
+"en": "in a new or different way; again",
+"zh": "重新；再次"
+}
+],
+"ex": [
+{
+"en": "After the fire, the family had to start their lives afresh.",
+"zh": "火災過後，這家人不得不重新開始生活。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "加強語氣"
+},
+{
+"p": "fresh",
+"m": "新的"
+}
+],
+"note": "重新"
+},
+"syn": [
+"anew",
+"again",
+"over"
+],
+"ant": []
+},
+{
+"w": "afterthought",
+"kk": "[ˋæftɚˏθɔt]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "something added or thought of later, not part of the original plan",
+"zh": "事後的想法；附加物"
+}
+],
+"ex": [
+{
+"en": "The garage was clearly an afterthought, built years after the house.",
+"zh": "車庫顯然是事後才加的，比房子晚好幾年才蓋。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "after",
+"m": "之後"
+},
+{
+"p": "thought",
+"m": "想法"
+}
+],
+"note": "之後才有的想法"
+},
+"syn": [
+"addition",
+"postscript"
+],
+"ant": [
+"plan"
+]
+},
+{
+"w": "agglomerate",
+"kk": "[əˋglɑməˏret]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to collect or form into a mass",
+"zh": "使聚集成團"
+},
+{
+"pos": "n.",
+"en": "[əˋglɑmərɪt] a mass of things collected together",
+"zh": "聚集物；團塊"
+}
+],
+"ex": [
+{
+"en": "Small particles agglomerate into larger clumps over time.",
+"zh": "小顆粒會隨著時間聚集成較大的團塊。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ag-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "glomer",
+"m": "ball 球"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "聚成一個球 → 聚集成團"
+},
+"syn": [
+"cluster",
+"accumulate",
+"gather"
+],
+"ant": [
+"scatter",
+"disperse"
+]
+},
+{
+"w": "aggrandize",
+"kk": "[ˋægrənˏdaɪz]",
+"tier": 2,
+"senses": [
+{
+"pos": "v.",
+"en": "to increase the power, wealth, or status of",
+"zh": "擴大（權力、財富）；誇大"
+}
+],
+"ex": [
+{
+"en": "The dictator used the war to aggrandize himself.",
+"zh": "那個獨裁者利用戰爭擴張自己的權勢。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ag-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "grand",
+"m": "great 大"
+},
+{
+"p": "-ize",
+"m": "動詞字尾"
+}
+],
+"note": "使變大 → 擴大權勢"
+},
+"syn": [
+"enlarge",
+"exalt",
+"magnify"
+],
+"ant": [
+"diminish",
+"belittle"
+]
+},
+{
+"w": "aggravate",
+"kk": "[ˋægrəˏvet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to make a problem or injury worse",
+"zh": "使惡化；加重"
+},
+{
+"pos": "v.",
+"en": "(informal) to annoy",
+"zh": "激怒；惹惱"
+}
+],
+"ex": [
+{
+"en": "Running on a sprained ankle will only aggravate the injury.",
+"zh": "扭傷了腳踝還去跑步，只會讓傷勢更嚴重。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ag-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "grav",
+"m": "heavy 重"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "使更沉重 → 加重（gravity 同源）"
+},
+"syn": [
+"worsen",
+"exacerbate",
+"irritate"
+],
+"ant": [
+"alleviate",
+"ease"
+]
+},
+{
+"w": "aggravation",
+"kk": "[ˏægrəˋveʃən]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "annoyance or trouble; the act of making something worse",
+"zh": "惱怒；惡化"
+}
+],
+"ex": [
+{
+"en": "Fixing the old car caused him more aggravation than it was worth.",
+"zh": "修那輛舊車讓他惱火，根本不值得。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ag-",
+"m": "to 朝向"
+},
+{
+"p": "grav",
+"m": "heavy 重"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "aggravate 的名詞"
+},
+"syn": [
+"annoyance",
+"irritation",
+"exacerbation"
+],
+"ant": [
+"relief",
+"pleasure"
+]
+},
+{
+"w": "aggregate",
+"kk": "[ˋægrɪgɪt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a whole formed by combining several elements",
+"zh": "總計；集合體"
+},
+{
+"pos": "adj.",
+"en": "formed by combining many parts; total",
+"zh": "總計的；合計的"
+},
+{
+"pos": "v.",
+"en": "[ˋægrɪˏget] to combine into a whole",
+"zh": "聚集；合計"
+}
+],
+"ex": [
+{
+"en": "The team won on aggregate after two matches.",
+"zh": "兩場比賽加總後，這支隊伍獲勝。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ag-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "greg",
+"m": "flock 群體"
+},
+{
+"p": "-ate",
+"m": "字尾"
+}
+],
+"note": "聚成一群 → 總計"
+},
+"syn": [
+"total",
+"sum",
+"combined"
+],
+"ant": [
+"individual",
+"separate"
+]
+},
+{
+"w": "aggress",
+"kk": "[əˋgrɛs]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to attack first; to start a quarrel",
+"zh": "挑釁；率先攻擊"
+}
+],
+"ex": [
+{
+"en": "The smaller nation had no reason to aggress against its powerful neighbor.",
+"zh": "這個小國沒有理由去挑釁強大的鄰國。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ag-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "gress",
+"m": "step, go 走"
+}
+],
+"note": "朝人走過去 → 攻擊"
+},
+"syn": [
+"attack",
+"assault",
+"provoke"
+],
+"ant": [
+"retreat",
+"defend"
+]
+},
+{
+"w": "aggression",
+"kk": "[əˋgrɛʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "hostile or violent behavior toward another",
+"zh": "侵略；攻擊性"
+}
+],
+"ex": [
+{
+"en": "The invasion was an act of aggression condemned by many nations.",
+"zh": "那次入侵是受到許多國家譴責的侵略行為。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ag-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "gress",
+"m": "step, go 走"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "主動朝人走去 → 攻擊"
+},
+"syn": [
+"hostility",
+"attack",
+"belligerence"
+],
+"ant": [
+"peace",
+"friendliness"
+]
+},
+{
+"w": "aggrieve",
+"kk": "[əˋgriv]",
+"tier": 3,
+"senses": [
+{
+"pos": "v.",
+"en": "to cause distress or a sense of unfair treatment",
+"zh": "使苦惱；使受委屈"
+}
+],
+"ex": [
+{
+"en": "The unfair decision will aggrieve many loyal workers.",
+"zh": "這個不公平的決定會讓許多忠誠的員工感到委屈。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ag-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "griev",
+"m": "heavy 重（= grav）"
+}
+],
+"note": "使心情沉重 → 使苦惱"
+},
+"syn": [
+"distress",
+"wrong",
+"offend"
+],
+"ant": [
+"please",
+"comfort"
+]
+},
+{
+"w": "aghast",
+"kk": "[əˋgæst]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "filled with horror or shock",
+"zh": "驚駭的；嚇呆的"
+}
+],
+"ex": [
+{
+"en": "We were aghast at the damage the storm had caused.",
+"zh": "看到暴風雨造成的破壞，我們都嚇呆了。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "加強語氣"
+},
+{
+"p": "ghast",
+"m": "frighten 驚嚇（ghost 同源）"
+}
+],
+"note": "像見鬼一樣 → 驚駭"
+},
+"syn": [
+"horrified",
+"appalled",
+"shocked"
+],
+"ant": [
+"calm",
+"unmoved"
+]
+},
+{
+"w": "agile",
+"kk": "[ˋædʒəl]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "able to move quickly and easily; quick-thinking",
+"zh": "敏捷的；靈活的"
+}
+],
+"ex": [
+{
+"en": "The agile goalkeeper blocked every shot.",
+"zh": "那位身手敏捷的守門員擋下了每一次射門。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ag",
+"m": "do, drive 做、動"
+},
+{
+"p": "-ile",
+"m": "能…的"
+}
+],
+"note": "能夠快速動作的 → 敏捷的"
+},
+"syn": [
+"nimble",
+"quick",
+"spry"
+],
+"ant": [
+"clumsy",
+"sluggish"
+]
+},
+{
+"w": "agitate",
+"kk": "[ˋædʒəˏtet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to make someone anxious or nervous",
+"zh": "使不安；煽動"
+},
+{
+"pos": "v.",
+"en": "to campaign publicly for a change",
+"zh": "鼓吹；爭取"
+},
+{
+"pos": "v.",
+"en": "to stir or shake a liquid",
+"zh": "攪動；搖動"
+}
+],
+"ex": [
+{
+"en": "Loud noises tend to agitate the animals at the shelter.",
+"zh": "巨大的噪音往往會讓收容所的動物不安。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ag",
+"m": "drive 驅動"
+},
+{
+"p": "-itate",
+"m": "反覆動作"
+}
+],
+"note": "不停推動 → 攪動、使不安"
+},
+"syn": [
+"disturb",
+"upset",
+"stir"
+],
+"ant": [
+"calm",
+"soothe"
+]
+},
+{
+"w": "agrarian",
+"kk": "[əˋgrɛrɪən]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "relating to farming or farmland",
+"zh": "農業的；土地的"
+}
+],
+"ex": [
+{
+"en": "Before industrialization, most of the country was agrarian.",
+"zh": "工業化之前，這個國家大部分都是農業社會。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "agr",
+"m": "field 田地"
+},
+{
+"p": "-arian",
+"m": "形容詞字尾"
+}
+],
+"note": "田地的 → 農業的（agriculture 同源）"
+},
+"syn": [
+"agricultural",
+"rural",
+"farming"
+],
+"ant": [
+"industrial",
+"urban"
+]
+},
+{
+"w": "aide-de-camp",
+"kk": "[ˏeddəˋkæmp]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a military officer who acts as a personal assistant to a senior officer",
+"zh": "侍從武官；副官"
+}
+],
+"ex": [
+{
+"en": "The general's aide-de-camp handled all his correspondence.",
+"zh": "將軍的侍從官處理他所有的信件。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "aide",
+"m": "helper 助手"
+},
+{
+"p": "de camp",
+"m": "of the field 戰場的（法文）"
+}
+],
+"note": "戰場上的助手"
+},
+"syn": [
+"adjutant",
+"aide",
+"assistant"
+],
+"ant": []
+},
+{
+"w": "ailment",
+"kk": "[ˋelmənt]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "an illness, usually a minor one",
+"zh": "（小）病；不適"
+}
+],
+"ex": [
+{
+"en": "A cold is a common ailment in winter.",
+"zh": "感冒是冬天常見的小毛病。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ail",
+"m": "trouble 使痛苦"
+},
+{
+"p": "-ment",
+"m": "名詞字尾"
+}
+],
+"note": "讓人不舒服的東西"
+},
+"syn": [
+"illness",
+"sickness",
+"malady"
+],
+"ant": [
+"health"
+]
+},
+{
+"w": "airy",
+"kk": "[ˋɛrɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "adj.",
+"en": "spacious and well ventilated",
+"zh": "通風的；寬敞明亮的"
+},
+{
+"pos": "adj.",
+"en": "light and casual; not serious",
+"zh": "輕鬆的；輕率的"
+}
+],
+"ex": [
+{
+"en": "The new apartment is bright and airy, with large windows.",
+"zh": "新公寓有大窗戶，明亮又通風。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "air",
+"m": "空氣"
+},
+{
+"p": "-y",
+"m": "形容詞字尾"
+}
+],
+"note": "充滿空氣的"
+},
+"syn": [
+"spacious",
+"breezy",
+"light"
+],
+"ant": [
+"stuffy",
+"cramped",
+"serious"
+]
+},
+{
+"w": "akin",
+"kk": "[əˋkɪn]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "similar in character; related",
+"zh": "類似的；同類的"
+}
+],
+"ex": [
+{
+"en": "Learning a language is akin to building a house, brick by brick.",
+"zh": "學語言就像一磚一瓦地蓋房子。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "of"
+},
+{
+"p": "kin",
+"m": "family 親族"
+}
+],
+"note": "同一家族的 → 類似的"
+},
+"syn": [
+"similar",
+"related",
+"comparable"
+],
+"ant": [
+"different",
+"unlike"
+]
+},
+{
+"w": "alabaster",
+"kk": "[ˋæləˏbæstɚ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a smooth white stone used for carving",
+"zh": "雪花石膏"
+},
+{
+"pos": "adj.",
+"en": "smooth and white like alabaster",
+"zh": "雪白光滑的"
+}
+],
+"ex": [
+{
+"en": "The statue was carved from a single block of alabaster.",
+"zh": "這座雕像是用一整塊雪花石膏雕成的。"
+}
+],
+"syn": [
+"white",
+"pale",
+"marble"
+],
+"ant": []
+},
+{
+"w": "albeit",
+"kk": "[ɔlˋbiɪt]",
+"tier": 1,
+"senses": [
+{
+"pos": "conj.",
+"en": "although; even though",
+"zh": "雖然；儘管"
+}
+],
+"ex": [
+{
+"en": "He accepted the job, albeit with some hesitation.",
+"zh": "他接下了這份工作，雖然有些猶豫。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "al",
+"m": "all"
+},
+{
+"p": "be",
+"m": "be"
+},
+{
+"p": "it",
+"m": "it"
+}
+],
+"note": "all be it（即使全都是如此）→ 雖然"
+},
+"syn": [
+"although",
+"though",
+"even if"
+],
+"ant": []
+},
+{
+"w": "albino",
+"kk": "[ælˋbaɪno]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a person or animal born without normal skin, hair, or eye color",
+"zh": "白化症患者；白化動物"
+}
+],
+"ex": [
+{
+"en": "The zoo's albino tiger has white fur and pale blue eyes.",
+"zh": "動物園的白化老虎有白色的毛和淡藍色的眼睛。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alb",
+"m": "white 白"
+},
+{
+"p": "-ino",
+"m": "字尾"
+}
+],
+"note": "白色的 → 白化症（album 同源）"
+},
+"syn": [],
+"ant": []
+},
+{
+"w": "album",
+"kk": "[ˋælbəm]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a book for photos or stamps; a collection of recordings",
+"zh": "相簿；專輯"
+}
+],
+"ex": [
+{
+"en": "The band released its first album last spring.",
+"zh": "這個樂團去年春天發行了第一張專輯。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alb",
+"m": "white 白"
+},
+{
+"p": "-um",
+"m": "名詞字尾"
+}
+],
+"note": "原指白色的空白板 → 相簿"
+},
+"syn": [
+"collection",
+"record",
+"scrapbook"
+],
+"ant": []
+},
+{
+"w": "alchemy",
+"kk": "[ˋælkəmɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a medieval science that tried to turn metals into gold",
+"zh": "煉金術"
+},
+{
+"pos": "n.",
+"en": "a seemingly magical process of transformation",
+"zh": "點石成金的魔力"
+}
+],
+"ex": [
+{
+"en": "Medieval alchemy tried to turn lead into gold.",
+"zh": "中世紀的煉金術試圖把鉛變成金子。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "al-",
+"m": "the 定冠詞（阿拉伯文）"
+},
+{
+"p": "chemy",
+"m": "化學"
+}
+],
+"note": "源自阿拉伯文 → 煉金術（chemistry 同源）"
+},
+"syn": [
+"magic",
+"transformation",
+"sorcery"
+],
+"ant": []
+},
+{
+"w": "alcohol",
+"kk": "[ˋælkəˏhɔl]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a colorless liquid in drinks like beer and wine; drinks containing it",
+"zh": "酒精；酒"
+}
+],
+"ex": [
+{
+"en": "Drivers should never drink alcohol before getting behind the wheel.",
+"zh": "開車前絕對不要喝酒。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "al-",
+"m": "the（阿拉伯文）"
+},
+{
+"p": "cohol",
+"m": "fine powder 細粉"
+}
+],
+"note": "源自阿拉伯文，原指精煉的粉末 → 精華 → 酒精"
+},
+"syn": [
+"liquor",
+"spirits"
+],
+"ant": []
+},
+{
+"w": "alcoholism",
+"kk": "[ˋælkəhɔlˏɪzəm]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "addiction to alcoholic drinks",
+"zh": "酗酒；酒精中毒"
+}
+],
+"ex": [
+{
+"en": "He sought treatment for alcoholism and has been sober for five years.",
+"zh": "他接受酗酒治療，已經戒酒五年了。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alcohol",
+"m": "酒精"
+},
+{
+"p": "-ism",
+"m": "狀態；病症"
+}
+],
+"note": "酒精成癮"
+},
+"syn": [
+"dipsomania",
+"drunkenness"
+],
+"ant": [
+"sobriety",
+"temperance"
+]
+},
+{
+"w": "alcove",
+"kk": "[ˋælkov]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a small recessed space set back in a wall",
+"zh": "壁龕；凹室"
+}
+],
+"ex": [
+{
+"en": "She placed a reading chair in the alcove by the window.",
+"zh": "她在窗邊的凹室放了一張閱讀椅。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "al-",
+"m": "the（阿拉伯文）"
+},
+{
+"p": "cove",
+"m": "vault 拱頂"
+}
+],
+"note": "源自阿拉伯文 al-qubba（拱室）"
+},
+"syn": [
+"nook",
+"niche",
+"recess"
+],
+"ant": []
+},
+{
+"w": "alder",
+"kk": "[ˋɔldɚ]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "a tree of the birch family that grows in wet ground",
+"zh": "榿木"
+}
+],
+"ex": [
+{
+"en": "An alder leaned over the stream behind the cottage.",
+"zh": "一棵榿木斜斜地伸到小屋後面的溪流上方。"
+}
+],
+"syn": [],
+"ant": []
+},
+{
+"w": "alderman",
+"kk": "[ˋɔldɚmən]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "an elected member of a city council",
+"zh": "市議員；市府參事"
+}
+],
+"ex": [
+{
+"en": "The alderman promised to fix the potholes in his ward.",
+"zh": "那位市議員承諾修補他選區裡的坑洞。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alder",
+"m": "older 年長的"
+},
+{
+"p": "man",
+"m": "人"
+}
+],
+"note": "年長者 → 地方議員"
+},
+"syn": [
+"councilor",
+"councilman"
+],
+"ant": []
+},
+{
+"w": "aldermanship",
+"kk": "[ˋɔldɚmənˏʃɪp]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "the position or term of office of an alderman",
+"zh": "市議員的職位"
+}
+],
+"ex": [
+{
+"en": "He held the aldermanship of the ward for twelve years.",
+"zh": "他在那個選區擔任市議員長達十二年。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alderman",
+"m": "市議員"
+},
+{
+"p": "-ship",
+"m": "職位"
+}
+],
+"note": "市議員的職位"
+},
+"syn": [
+"councillorship"
+],
+"ant": []
+},
+{
+"w": "alias",
+"kk": "[ˋelɪəs]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a false or assumed name",
+"zh": "化名；別名"
+},
+{
+"pos": "adv.",
+"en": "also known as",
+"zh": "又名"
+}
+],
+"ex": [
+{
+"en": "The spy traveled under an alias to avoid detection.",
+"zh": "那名間諜用化名出行，以免被發現。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alias",
+"m": "otherwise 在別的時候（拉丁文）"
+}
+],
+"note": "另一個（名字）"
+},
+"syn": [
+"pseudonym",
+"nickname",
+"assumed name"
+],
+"ant": [
+"real name"
+]
+},
+{
+"w": "alien",
+"kk": "[ˋelɪən]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "foreign; unfamiliar or strange",
+"zh": "外國的；陌生的；格格不入的"
+},
+{
+"pos": "n.",
+"en": "a foreigner; a creature from another world",
+"zh": "外國人；外星人"
+}
+],
+"ex": [
+{
+"en": "The idea of working from home was alien to my grandfather.",
+"zh": "在家工作這個概念對我祖父來說很陌生。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ali",
+"m": "other 其他"
+},
+{
+"p": "-en",
+"m": "字尾"
+}
+],
+"note": "屬於別處的 → 外來的"
+},
+"syn": [
+"foreign",
+"strange",
+"unfamiliar"
+],
+"ant": [
+"native",
+"familiar"
+]
+},
+{
+"w": "alienable",
+"kk": "[ˋeljənəbḷ]",
+"tier": 3,
+"senses": [
+{
+"pos": "adj.",
+"en": "able to be transferred to another owner",
+"zh": "可轉讓的"
+}
+],
+"ex": [
+{
+"en": "Land was considered alienable property that could be bought and sold.",
+"zh": "土地被視為可以買賣轉讓的財產。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alien",
+"m": "屬於他人"
+},
+{
+"p": "-able",
+"m": "可…的"
+}
+],
+"note": "可轉給別人的"
+},
+"syn": [
+"transferable"
+],
+"ant": [
+"inalienable"
+],
+"mn": "反義字 inalienable 更常見：美國獨立宣言提到的「不可剝奪的權利」。"
+},
+{
+"w": "alienate",
+"kk": "[ˋeljənˏet]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to make someone feel isolated or unfriendly",
+"zh": "使疏遠；使離心"
+}
+],
+"ex": [
+{
+"en": "His rude remarks will only alienate his supporters.",
+"zh": "他粗魯的言論只會讓支持者離他而去。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alien",
+"m": "other 他人的"
+},
+{
+"p": "-ate",
+"m": "動詞字尾"
+}
+],
+"note": "使成為外人 → 使疏遠"
+},
+"syn": [
+"estrange",
+"isolate",
+"antagonize"
+],
+"ant": [
+"unite",
+"endear"
+]
+},
+{
+"w": "alienation",
+"kk": "[ˏeljənˋeʃən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "the feeling of being isolated or estranged",
+"zh": "疏離感；隔閡"
+}
+],
+"ex": [
+{
+"en": "Many new immigrants experience a sense of alienation.",
+"zh": "許多新移民會有疏離感。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alien",
+"m": "other 他人的"
+},
+{
+"p": "-ation",
+"m": "名詞字尾"
+}
+],
+"note": "alienate 的名詞"
+},
+"syn": [
+"estrangement",
+"isolation",
+"detachment"
+],
+"ant": [
+"belonging",
+"closeness"
+]
+},
+{
+"w": "aliment",
+"kk": "[ˋæləmənt]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "food; nourishment",
+"zh": "食物；營養"
+}
+],
+"ex": [
+{
+"en": "Books were the aliment of her lively mind.",
+"zh": "書本是滋養她活躍心靈的養分。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "ali",
+"m": "nourish 滋養"
+},
+{
+"p": "-ment",
+"m": "名詞字尾"
+}
+],
+"note": "滋養的東西（alimony 同源）"
+},
+"syn": [
+"nourishment",
+"food",
+"sustenance"
+],
+"ant": []
+},
+{
+"w": "alkali",
+"kk": "[ˋælkəˏlaɪ]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a chemical substance that neutralizes acids",
+"zh": "鹼"
+}
+],
+"ex": [
+{
+"en": "Baking soda is a mild alkali that neutralizes stomach acid.",
+"zh": "小蘇打是一種溫和的鹼，可以中和胃酸。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "al-",
+"m": "the（阿拉伯文）"
+},
+{
+"p": "kali",
+"m": "ashes 灰燼"
+}
+],
+"note": "源自阿拉伯文，指植物燒成的灰"
+},
+"syn": [
+"base"
+],
+"ant": [
+"acid"
+]
+},
+{
+"w": "allay",
+"kk": "[əˋle]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to reduce or relieve fear, worry, or pain",
+"zh": "減輕；平息（恐懼、疑慮）"
+}
+],
+"ex": [
+{
+"en": "The doctor tried to allay the patient's fears about surgery.",
+"zh": "醫生試著消除病人對手術的恐懼。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "al-",
+"m": "加強語氣"
+},
+{
+"p": "lay",
+"m": "put down 放下"
+}
+],
+"note": "放下 → 平息"
+},
+"syn": [
+"relieve",
+"ease",
+"calm"
+],
+"ant": [
+"intensify",
+"aggravate"
+]
+},
+{
+"w": "allege",
+"kk": "[əˋlɛdʒ]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to claim something is true without proof",
+"zh": "（無證據地）宣稱；指稱"
+}
+],
+"ex": [
+{
+"en": "Several witnesses allege that the driver ran a red light.",
+"zh": "幾名目擊者聲稱那名司機闖了紅燈。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "al-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "leg",
+"m": "law 法律、陳述"
+}
+],
+"note": "在法庭上陳述 → 宣稱"
+},
+"syn": [
+"claim",
+"assert",
+"contend"
+],
+"ant": [
+"deny"
+]
+},
+{
+"w": "allegory",
+"kk": "[ˋæləˏgorɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a story in which characters and events represent deeper moral or political meanings",
+"zh": "寓言；諷喻"
+}
+],
+"ex": [
+{
+"en": "Orwell's Animal Farm is an allegory of the Russian Revolution.",
+"zh": "歐威爾的《動物農莊》是在影射俄國革命的寓言。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "allo",
+"m": "other 其他"
+},
+{
+"p": "gor",
+"m": "speak 說"
+},
+{
+"p": "-y",
+"m": "名詞字尾"
+}
+],
+"note": "說的是其他事 → 寓言"
+},
+"syn": [
+"parable",
+"fable",
+"symbol"
+],
+"ant": []
+},
+{
+"w": "alley",
+"kk": "[ˋælɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a narrow passage between or behind buildings",
+"zh": "小巷；胡同"
+}
+],
+"ex": [
+{
+"en": "The cat disappeared down a dark alley.",
+"zh": "那隻貓消失在一條漆黑的小巷裡。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "alley",
+"m": "walk 走（古法文 aler）"
+}
+],
+"note": "走路的通道"
+},
+"syn": [
+"lane",
+"passage",
+"backstreet"
+],
+"ant": [
+"avenue",
+"boulevard"
+]
+},
+{
+"w": "alliance",
+"kk": "[əˋlaɪəns]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a union or agreement between groups for mutual benefit",
+"zh": "聯盟；同盟"
+}
+],
+"ex": [
+{
+"en": "The two companies formed an alliance to develop electric cars.",
+"zh": "兩家公司結盟開發電動車。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "al-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "li",
+"m": "bind 綁"
+},
+{
+"p": "-ance",
+"m": "名詞字尾"
+}
+],
+"note": "綁在一起 → 聯盟"
+},
+"syn": [
+"coalition",
+"partnership",
+"union"
+],
+"ant": [
+"enmity",
+"division"
+]
+},
+{
+"w": "allot",
+"kk": "[əˋlɑt]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to give or share out a portion of something",
+"zh": "分配；分派"
+}
+],
+"ex": [
+{
+"en": "The teacher will allot ten minutes to each presentation.",
+"zh": "老師會給每份報告分配十分鐘。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "al-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "lot",
+"m": "portion 份"
+}
+],
+"note": "分出一份 → 分配"
+},
+"syn": [
+"allocate",
+"assign",
+"distribute"
+],
+"ant": [
+"withhold"
+]
+},
+{
+"w": "allotment",
+"kk": "[əˋlɑtmənt]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a share or amount given to someone",
+"zh": "分配；份額"
+}
+],
+"ex": [
+{
+"en": "Each family received a small allotment of land to farm.",
+"zh": "每戶人家都分到一小塊地耕種。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "allot",
+"m": "分配"
+},
+{
+"p": "-ment",
+"m": "名詞字尾"
+}
+],
+"note": "allot 的名詞"
+},
+"syn": [
+"share",
+"portion",
+"quota"
+],
+"ant": []
+},
+{
+"w": "allude",
+"kk": "[əˋlud]",
+"tier": 1,
+"senses": [
+{
+"pos": "v.",
+"en": "to mention something indirectly",
+"zh": "暗指；間接提到"
+}
+],
+"ex": [
+{
+"en": "She did not mention his name, but everyone knew who she meant to allude to.",
+"zh": "她沒有說出他的名字，但大家都知道她在暗指誰。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "al-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "lud",
+"m": "play 玩"
+}
+],
+"note": "用玩笑的方式提到 → 暗指"
+},
+"syn": [
+"hint",
+"refer",
+"imply"
+],
+"ant": [
+"state",
+"specify"
+]
+},
+{
+"w": "allusion",
+"kk": "[əˋluʒən]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "an indirect reference to something",
+"zh": "暗示；典故"
+}
+],
+"ex": [
+{
+"en": "The poem contains an allusion to a Greek myth.",
+"zh": "這首詩引用了一個希臘神話的典故。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "al-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "lus",
+"m": "play 玩"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "allude 的名詞"
+},
+"syn": [
+"reference",
+"hint",
+"mention"
+],
+"ant": [],
+"mn": "別和 illusion（錯覺）搞混。"
+},
+{
+"w": "alluvion",
+"kk": "[əˋluvɪən]",
+"tier": 3,
+"senses": [
+{
+"pos": "n.",
+"en": "land gradually added to a shore by flowing water; a flood",
+"zh": "沖積地；洪水"
+}
+],
+"ex": [
+{
+"en": "The alluvion left by the river made the valley very fertile.",
+"zh": "河流留下的沖積土讓山谷非常肥沃。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "al-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "luv",
+"m": "wash 沖刷"
+},
+{
+"p": "-ion",
+"m": "名詞字尾"
+}
+],
+"note": "水沖刷過來堆積的土"
+},
+"syn": [
+"alluvium",
+"sediment",
+"deposit"
+],
+"ant": [
+"erosion"
+]
+},
+{
+"w": "ally",
+"kk": "[ˋælaɪ]",
+"tier": 1,
+"senses": [
+{
+"pos": "n.",
+"en": "a person or country that supports another",
+"zh": "盟友；同盟國"
+},
+{
+"pos": "v.",
+"en": "[əˋlaɪ] to join with others for a common purpose",
+"zh": "結盟"
+}
+],
+"ex": [
+{
+"en": "She found an unexpected ally in the school principal.",
+"zh": "她意外地發現校長站在她這一邊。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "al-",
+"m": "to 朝向（= ad-）"
+},
+{
+"p": "ly",
+"m": "bind 綁"
+}
+],
+"note": "綁在一起的人 → 盟友"
+},
+"syn": [
+"partner",
+"supporter",
+"friend"
+],
+"ant": [
+"enemy",
+"foe",
+"opponent"
+]
+},
+{
+"w": "almanac",
+"kk": "[ˋɔlməˏnæk]",
+"tier": 2,
+"senses": [
+{
+"pos": "n.",
+"en": "a yearly book with a calendar and information such as weather and tides",
+"zh": "年鑑；曆書"
+}
+],
+"ex": [
+{
+"en": "Farmers once relied on an almanac to decide when to plant.",
+"zh": "農夫從前靠曆書決定何時播種。"
+}
+],
+"syn": [
+"yearbook",
+"calendar",
+"annual"
+],
+"ant": []
+},
+{
+"w": "aloof",
+"kk": "[əˋluf]",
+"tier": 1,
+"senses": [
+{
+"pos": "adj.",
+"en": "not friendly or involved; distant",
+"zh": "冷淡的；疏遠的"
+}
+],
+"ex": [
+{
+"en": "The new student seemed aloof, but she was actually just shy.",
+"zh": "那個新同學看起來很冷淡，其實她只是害羞。"
+}
+],
+"root": {
+"parts": [
+{
+"p": "a-",
+"m": "on 在"
+},
+{
+"p": "loof",
+"m": "windward 上風處（航海用語）"
+}
+],
+"note": "船頭保持在上風處、遠離岸邊 → 保持距離"
+},
+"syn": [
+"distant",
+"reserved",
+"detached"
+],
+"ant": [
+"friendly",
+"warm",
+"approachable"
+]
+}
+]
